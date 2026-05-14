@@ -409,13 +409,13 @@ Yaguro lets out a mildly annoyed and defeated sigh and says:
 
 Agiru's gets slightly surprised by Yaguro.
 
-"No way! It has to be the gorllia! Right?"
+"No way! It has to be the gorilla! Right?"
 
-"No? 100 men clearly beats a gorllia."
+"No? 100 men clearly beats a gorilla."
 
 Yaguro takes another sip, he says it like it's the most obvious thing in the world and the debate is stupid, which to him, it is.
 
-"But the gorllia is super strong, tho!"
+"But the gorilla is super strong, tho!"
 
 "So? Have you ever seen 100 men?"
 
