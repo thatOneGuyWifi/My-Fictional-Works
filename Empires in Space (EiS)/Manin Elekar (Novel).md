@@ -1,72 +1,317 @@
-*(NOTE: This story is a part of the larger Empire's in Space (EiS) universe of which I created. This story will mainly focus on Manin Elekar's POV so some information may not be reliable from this as it is from his POV. Although this story occasionally can shift from Manin's POV. This story is very prone to changes as this is still developing. I am not a writer and this is my first time writing a novel)*
+*(NOTE: This story is a part of the larger Empire's in Space (EiS) universe of which I created. This story will mainly focus on Manin Elekar's POV so some information may not be reliable from this as it is from his POV. Although this story shifts from Manin's POV (it switches quite commonly). This story is very prone to changes as this is still developing. I am not a writer and this is my first time writing a novel)*
 
-# Chapter 1: The Birth Of A Prince
+*(NOTE: The Chapter naming follows the format "[chapter number].[minvol number].[volume number]". A volume covers a story-arc, a minvol (comes from "Mini volume") covers a mini-story-arc, but these are larger than mini-arcs. Minvols are inside volumes. Chapters cover mini-arcs, which are most likely scenes. A chapter can contain more than 1 mini-arc. Volumes > Minvols > Chapters. Chapter 1.1.1 is the first chapter of the 1st minvol of the 1st Volume. Chapter 12.8.3 is the 12th chapter of the 8th minvol of the 3rd Volume)*
 
-In Year 420 (The Calendar system is different from the Gregorian calendar, called the "Intergalactic Calendar". It is the most widely used calendar and is the internationally used calendar. The Calendar has 10 months), August 18 in the space nation of "Independent Republic of Magvious" or simply Magvious, in the state of Sakta, in the capital of Sakta, "Fedas", in the planet "Herisdag" was born a baby boy called "Manin Elekar". Manin was born as an "Origin Human" (Origin humans are just like normal humans but they are evolved, having evolved features from a normal human. There are many sub-species of humans and they all originate from Origin Humans, hence the name "Origin Humans". The origin human and its sub-species life expectancy is 300 years) and a Japanese-Saktan (an ethnicity from Sakta, originated from the Indian state of Bengal (having both West Bengal and Bangladesh)).
+# Volume 1: The Early life
 
-Manin was born into the "Royal Elekar Family". A family that onces ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar (origin human) fled to Magvious, became it's leader and liberated Sakta from the Dinic Empire and integrated it into Magvious. The Elekar Family is very influential not only in Sakta, but the most parts of the universe, including Magvious.
+## Minvol 1: Info-dumping
 
-Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), mother is "Merino Elekar" (origin human) (Japanese) and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar"(origin human), born in 413, November-December (name of the last month) 1st, a 7 year age gap. Manin also has an uncle "Mejar Elekar" (origin human), aunt "Gevi Elekar" (origin human). 2 years later (Year 422) Mejar and Gevi would have twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousin's of Manin.
+### Chapter 1.1.1: The Birth Of A Prince
 
-Manin's grandfather, Remdik, was still the leader of Magvious, so Manin's early life was spent pretty well, as he pretty much had all the luxuries he could ask for. Additionally, both of his parents were high ranking generals in the Magvon Territorial Defence (MTD for short), Magvious' army, so Manin's life was pretty much set.
+In Year 420 (The Calendar system is different from the Gregorian calendar, called the "Intergalactic Calendar". It is the most widely used calendar and is the internationally used calendar. The Calendar has 10 months), August 18 in the space nation of "Independent Republic of Magvious" or simply Magvious, in the state of Sakta, in the capital of Sakta, "Fedas", was born a baby boy called "Manin Elekar" in the planet "Herisdag". Manin was born as an "Origin Human" (Origin humans are just like normal humans but they are evolved, having evolved features from a normal human. There are many sub-species of humans and they all originate from Origin Humans, hence the name "Origin Humans". The origin human and its sub-species life expectancy is 300 years) and a Japanese-Saktan (an ethnicity from Sakta, originated from the Indian state of West Bengal [There is also a East Bengal, it was previously Bangladesh but now is a part of India]).
+
+Manin was born into the "Royal Elekar Family". A family that once ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar (origin human) fled to Magvious, became it's leader and liberated Sakta from the Dinic Empire, integrating it into Magvious. The Elekar Family is very influential not only in Sakta, but the most parts of the universe, including Magvious.
+
+Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), his mother is "Merino Elekar" (origin human) (Japanese), and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar"(origin human), born in 413, November-December (name of the last month in English) 1st, a 7 year age gap. Manin also has an uncle "Mejar Elekar" (origin human), aunt "Gevi Elekar" (origin human). 2 years later (Year 422) Mejar and Gevi would have twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousins of Manin.
+
+Manin's grandfather, Remdik, is still the leader of Magvious, so Manin's early life was spent pretty well, as he pretty much had all the luxuries he could ask for. Additionally, both of his parents are high ranking generals in the Magvon Territorial Defence (MTD for short), Magvious' army, so Manin's life was pretty much set.
 
 Manin knew 3 languages, English, the global language, Magvo-Stellarean, The national language and Saktan, the State language and his mother tongue.
 
-Manin's parents taught young Manin the ideology of "do good and good will happen to you", which Manin followed to heart, making Manin a kind kid.
+Manin's parents taught young Manin the ideology of "do good and good will happen to you", which Manin follows to heart, making Manin a kind kid.
 
-Manin's brother, Marlen, is a training Magvon Warrior/Soldier and Manin was amazed by his brother and wanted to be a Magvon Warrior like him. So at the age of 4, Manin would learn some training from his brother. Of course, the training wasn't as intense as someone would go through when they are trying to get in the MTD but it was quite impressive for a 4 year old voluntarily training in combat. Additionally, Manin was also fascinated by technology, science and space.
+Manin usually wears a simple red hoodie, blue shirt and blue sweatpants. He really doesn't have much of a preference in style. He has black spiky hair with the "spikes" pointing down. His eyes are brown. His skin is white (along with all of his relatives if it wasn't obvious).
 
-Manin would usually wears a simple blue hoodie, red shirt and blue pants. He really didn't have much of a preference in style as he didn't know much about design back then and felt the simple style suited him. He has black spiky hair with the "spikes" pointing down. His eyes are brown. His skin is white, along with all of his relatives if it wasn't obvious.
-
-[New Scene]: Manin was laying on the house's backyard, watching the night sky with an amazed look. It was quiet, peaceful. Remdik, who walked into the backyard, noticed Manin.
+Marlen is a training Magvon Warrior/Soldier. Manin, amazed by his brother, wants to be a Magvon Warrior like him. So, at a random afternoon (at the age of 4), Manin approaches the house's backyard, where his brother is, who just finished his training for the day.
 
 (primary language: Saktan).
 
-**Remdik**: "Looking up at the sky, huh?" he approached Manin and then looked up at the night sky. The stars being clearly visible. It gave a sense of peace, to the both of them.
+"{Big Bro}[English]."
 
-**Manin**: "Isn't it beautiful?" The awe in his voice was clearly noticeable. The way he looked at the stars with such awe and wonder made Remdik smile.
+Manin calls for Marlen. His arms are crossed behind his back.
 
-**Remdik**: he nodded his head in agreement. "{Yep}(English), it sure is beautiful." He then sat besides Manin and pointed up at a bright dot in the sky "Can you tell what that is?" the way he said it was quite gentle, as his voice usually is.
+"{Yeah}[English]?"
 
-**Manin**: he quickly sits up in excitement. He finally gets the chance to show his knowledge about the topics he finds interesting to his grandfather. "Oh! It's the {planet}(Magvo-Stellarean) Invar, right? Right next to Herisdag? It's known for its huge markets!" He proclaims. His grin is wide as he looks back at Remdik to confirm his answer.
+Marlen responds, he sets his regdar in non-combat mode and puts his regdar inside his pocket (a regdar is a sword with 2 modes, non-combat mode and combat mode. In non-combat mode, only the base is visible. In combat mode however, a laser like blade called the "attack point" comes out. It's mainly used for combat by militaries and is a common civilian weapon. A Magvon regdar is Magvious's version of a regdar. The base is red with the attack point being red and slightly curved).
 
-**Remdik**: his smile widens ever so slightly, giving Manin the confirmation that he is indeed correct. "Correct! You're very good at this." he playfully punches Manin on the shoulder.
+"I wanna train!"
 
-**Manin**: his grin widens as Remdik confirms Manin's answer as correct, he gives out a small giggle as Remdik playfully punches his shoulder. "Thanks! I knew that from Marlen."
+Manin exclaims with a wide grin on his face. He slightly jumps on his feet.
 
-**Remdik**: his smiles softens as he thinks of someone, someone very important to Saktan and the Royal Elekar Family. He looks back up at Invar with a nostalgic look. "You know? Maithos was actually born in Invar."
+Marlen freezes at Manin's word. Manin wants him to train him?
 
-**Manin**: "Maithos?" he looks at Remdik with a confused and curious stare. "Who's Maithos?" Manin never heard of anyone named Maithos but the way Remdik looks up at the sky suggests he's someone very important.
+"Huh?"
 
-**Remdik**: "You don't know who Maithos is?" he was genuinely caught off guard by Manin, the way he looks at him suggested that Remdik thought Manin knew.
+Marlen says, as he isn't if he heard Manin correctly.
 
-**Manin**: "No... Who is he? He looks very important!" his excitement is back again, although this time, it is the excitement of learning something new and in this case, learning more about his family.
+"I wanna train! Become a Magvon warrior! Just like you!"
 
-**Remdik**: he regains his smile after seeing Manin's excited behaviour about learning more about his family. "Yes indeed! Maithos is very important to our family. He is our ancestor, you can say. He is very influential, very famous. He expanded Sakta into the whole Epilas {galaxy}(Magvo-Stellarean) and went beyond that"
+Marlen stands there for a moment, not saying anything. His gaze drifts around before looking back at Manin.
 
-**Manin**: his eyes widens as he hears Maithos conquest. "He went beyond the Epilas {galaxy}(Magvo-Stellarean) Like outside?" He says with surprise and awe. He knew his family was powerful but he didn't knew his family was this powerful. It made him feel a sense of pride.
+"You want to train, from me?"
 
-**Remdik**: "Yep, he went outside the Epilas {galaxy}(Magvo-Stellarean) and took control over other regions. Those lands aren't in Sakta anymore, but those lands still have Saktan influence in them." There was a hint of pride in his voice, similar to Manin's. He looks back up at the sky with a smile on his face.
+Manin nods his head like how a child nods when their parents ask if they want to eat outside home.
 
-**Manin**: "Wow!" He exclaims. His brown eyes sparkling with awe and wonder, his grin came back more giddy and prideful. "And he's our ancestor?" He wants to confirm that someone like Maithos was actually a part of his family.
+"Yeah! You're so cool! When you swing your regdar like that, its so cool! And I want to be like you! I wanna be cool too!"
 
-**Remdik**: he smiles back at Manin's exclamation. His hand goes to playfully ruffle Manin's spiky hair. "Exactly."
+Marlen smirks slightly at his younger brother's praise. His arms crossed.
 
-**Manin**: he smiles brightly and giggles as Remdik ruffles his hair. "That's so cool! and he's my ancestor? I'm so lucky!"
+"Well thank you, but its really nothing much."
 
-**Remdik**: "Yeah, we are lucky, aren't we?" he then looks back at the sky, thinking of something. After a while, he says, "You know, you actually remind me of him."
+Manin's eyes sparkle even more at Marlen's words.
 
-**Manin**: his eyes widen as he hears Remdik's words. "I do?" There is no way he could resemble someone like Maithos, he thinks to himself, but his grandfather does tell him he reminds him of Maithos, so maybe he does?
+*If that's nothing much, then that means brother can do even more!*
 
-**Remdik**: his smile softens at Manin's disbelief, he chuckles lightly and pats his head again, he can't help himself when Manin looks cute. "Yeah, you look a lot like him. He had those same {spiky}(Magvo-Stellarean) pointing down hair you and your brother have. And you're determination to do things reminds me of him."
+Manin's grin widens at the thought.
 
-**Manin**: he jumps while sitting down in childish joy, his smile as bright as Herisdag's star. "Wow! I'm like Maithos {Junior}(English)!" And to him, and his grandfather, he is Maithos Junior.
+"Then you can do more! Please teach me!"
 
-**Remdik**: he chuckles again at Manin's joy and ruffles Manin's hair again with gentle affection. "I guess you are Maithos {Junior}(English)."
+Marlen scratches his head. His gaze wanders the ground. Should he teach Manin? Does he know enough to teach Manin? What if he ends up disappointing him?
 
-[New Scene]: Manin is with his older brother Marlen, in Marlen's room. They are playing a card game with eachother.
+"I don't know... I'm also training too. Maybe ask dad, he teaches me how to train."
 
-**Marlen**: he flips his chosen card up and it's revealed that his card has the face value of 4 while Manin'e chosen card has the face value of 2. "{Ha, take that, loser}(English)! Now you have to lose 4 of your cards" He proclaims with a mischievous smile as he watches Manin discards his chosen card and the other 3 cards on his pile
+Manin's wide grin turns into a small frown at Marlen's words.
+
+"But dad isn't always around!"
+
+Manin presses his hands together in a prayer, he does the puppy eyes and slightly jumps up and down.
+
+
+"Pleaseee! I wanna train from you, pleaseee!"
+
+Manin pouts his lips, trying to convince his brother in any way he can.
+
+Marlen hesitates, his mouth left open slightly.
+
+*Manin looks so eager to train with me. I don't know what to do? Should I start training him?*
+
+But as he looks more at Manin's expression, the more his idea of training him starts to look, viable. That tiny bastard is doing something to him with that look, and Marlen can't resist. With a sigh, Marlen says:
+
+"Fine. But I have to ask dad and mom about this. I don't wanna get in trouble because of you."
+
+Manin's wide grin and the spark in his eyes returns when he hears Marlen's answer. His eyes shine even brighter and his smile looks wide enough to fit a truck.
+
+"Thank you so much! I promise I'll behave!"
+
+"You better."
+
+Marlen says and then heads back inside, Manin follows suit.
+
+*Ooh, I'm now gonna be a Magvon warrior now! I can't wait to train with Marlen!*
+
+The thought excites Manin even further.
+
+When Hemas and Merino arrives home and settles down, Marlen approaches Hemas, who is sitting on the living room couch.
+
+"Dad."
+
+"Yeah?"
+
+"Manin wants to train becoming a Magvon warrior from me."
+
+Hemas pauses at Marlen's words he look away from his phone, his gaze is now fully on Marlen.
+
+"Your brother wants to train, from you?"
+
+Marlen nods his head.
+
+Hemas' gazes around the room then falls right back at Marlen.
+
+"Are you sure you can take care of your brother?"
+
+Marlen pauses for a few seconds. Can he? But then he remembers Manin's face when he agreed on training him. Maybe he can, probably he can. He's pretty skilled, even if not Magvon soldier skilled.
+
+"Yeah, I can."
+
+Hemas thinks for a few seconds. His hand covering his mouth. He taught Marlen enough for him to start training others. He can trust Marlen with Manin.
+
+"Alright, then, I'm giving you permission to train Manin."
+
+A small smile forms on Marlen's face at Hemas' response. He nods his head.
+
+"What about mom?"
+
+"I can talk with her."
+
+Marlen nods his head and walks away. But gets momentarily interrupted by Hemas.
+
+"Oh, and don't train Manin too hard, alright? Don't want a white dwarf showing up!"
+
+Marlen turns his head towards his father and gives him a weird out look, his eyes squint slightly, his mouth open slightly.
+
+"Right..."
+
+Marlen then heads upstairs, towards Manin's room.
+
+Hemas has a quirk of making absurd or metaphorical jokes only he can understand. The white dwarf supposed to meant tiredness since a white dwarf forms when a star starts running out of fuel, which connects to him not wanting Manin too tired. That went over Marlen's head.
+
+Marlen knocks on Manin's door and Manin opens the door. He was doing research on training he didn't quite understand yet.
+
+"Dad said I can train you."
+
+Then, a wide smile forms on Manin's face. His eyes looks like they could glow.
+
+"Really?"
+
+Marlen nods his head.
+
+Manin lets out a soft giggle, his hands gripping tightly.
+
+"Yes! I can finally get to train and be just like you!"
+
+Marlen smiles softly at Manin's reaction. He then puts Manin inside his room and then head towards his own room.
+
+*I guess its my new job to train Manin now. We'll start with something easy first.*
+
+### Chapter 2.1.1: A Starry Night
+
+Manin is on the ground of his house's backyard, laying there, looking up at the night sky in awe. Tiny little endless dots scattered across the sky. Some are bright, most blinking. Herisdag's moon—Yebes—casts its light over the young prince. It's quiet, peaceful.
+
+Manin's grandfather, Remdik—who looks like he is in his 20s or 30s—enters the backyard. He takes in the air and exhales. He notices Manin laying down on the ground.
+
+"Looking up at the sky, huh?"
+
+He approaches his grandson. He looks up at the night sky, then proceeds to take a seat besides him.
+
+"Isn't it beautiful?"
+
+Manin says with a soft voice.
+
+Remdik nods his head.
+
+"Yeah."
+
+Remdik raises his hand and points at a bright dot in the sky.
+
+"Can you tell what that is?"
+
+Manin quickly sits up. A wide grin forms on his face, his eyes seems to sparkle, his fists grabs the grass tightly.
+
+"Oh! It's the planet Invar, right? Right next to Herisdag! It's known for its huge markets!"
+
+He proclaims.
+
+A smile grows on Remdik's face at Manin's answer.
+
+"Correct! You're very good at this."
+
+He playfully punches Manin on the shoulder.
+
+Manin lets out a giggle at Remdik's punch.
+
+"Thanks! I knew that from Marlen."
+
+Manin then looks back up at the night sky.
+
+Remdik gaze falls back on the planet. His smile softens at the corners.
+
+"You know, Maithos was born in Invar."
+
+Manin stares back at his grandfather, his eyebrows draw together slightly, his lips pressed into a thin line.
+
+"Maithos? Who is he?"
+
+Remdik's eyes widen at Manin's response. He freezes for a split second.
+
+"You don't know who Maithos is?"
+
+Manin shakes his head.
+
+"No... Who is he?"
+
+Remdik looks back up at Invar.
+
+"Maithos is a very important figure in the Elekar Family. He expanded Sakta into the entire Epilas galaxy and went beyond. Its because of him that Sakta now covers the entire Epilas galaxy."
+
+Manin's eyes widens as he hears about this Maithos figure.
+
+"He went beyond? Outside Epilas?"
+
+Seeing Manin's disbelief makes Remdik smile. He nods his head at Manin's question
+
+"Yep. Those regions aren't in a part of Sakta anymore but they have Saktan influence."
+
+Manin takes in Remdik's words. Manin didn't know his family had such an important figure. It makes him feel a sense of pride.
+
+"Wow..."
+
+Things become quiet from there. Manin goes back to laying on the ground and look back at the night sky. Yebes's light shine on Manin's face, making his features more visible.
+
+Remdik's right knee is up while he gazes the stars. The light illuminating him aswell. A thought enters his mind.
+
+"You know, you actually remind me of him."
+
+Manin's body stops moving when he hears his grandfather's words. His eyes widen as he stares at his grandfather.
+
+"I do?"
+
+Remdik nods his head.
+
+"Yeah, you two are surprisingly alike. Maithos was known for his determination and stubbornness. You're pretty stubborn too."
+
+Remdik looks back at Manin with a smile. His hand approaches Manin's spiky hair and he rubs them.
+
+Manin giggles at Remdik rubbing his hair.
+
+"I'm like Maithos {Junior}[English]!"
+
+He proclaims with a wide smile.
+
+Remdik chuckles at Manin's proclamation. He rubs his head harder at the proclamation. "Calling yourself 'Maithos {Junior}[English]'? That's exactly what Maithos would say. You really are him."
+
+Manin giggles further at Remdik's tease.
+
+Silence falls upon them once again. Peaceful silence. They stay for the next 5 minutes.
+
+Remdik stands up and looks back down at his grandson.
+
+"Its getting late. We should go."
+
+Manin frowns at his granddad's words.
+
+"Right now? Can't we stay here for another minute?"
+
+"No, its getting pretty late. You should be asleep by now."
+
+Remdik's voice is firm, but not strict.
+
+Manin crosses his arms and does a pout while laying on the grass.
+
+"But sleeping is boring! I wanna watch the stars!"
+
+"I know Manin, but sleep makes you a healthy boy. And you need to be a healthy boy to be a Magvon warrior."
+
+Manin tightens his crossed hands around his chest and pouts even more.
+
+"Isn't there another way to be healthy without sleep? Sleep is so boring!"
+
+Remdik chuckles at Manin's whining. He kneels down and pats his head.
+
+"I know sleep can be boring, but all the healthy stuff are boring. Like eating veggies, they're boring, they suck, but they make your eyes sharp, your bones strong. And sleep makes your brain refreshed. It gives you energy, energy to train."
+
+Remdik says in a calm and soothing voice, hoping Ma in understands. Which Manin does, even if he doesn't want to sleep. He lets out a sigh and slowly gets up.
+
+"Okay... Lets go."
+
+Remdik gives Manin a smile and leads Manin inside. As Remdik leads Manin towards his room. He says to Manin:
+
+"You know, once you get older, sleep won't be boring anymore."
+
+Manin rolls his eyes and lets out a frustrated sound.
+
+They reach Manin's room and Manin goes inside. Manin reluctantly gets on his bed, pulls up the blanket and closes his eyes shut.
+
+"Night, kiddo."
+
+Remdik says before closing the door and leaving.
+
+Manin opens his eyes when Remdik leaves. He gets up from his bed and looks at the night sky for one last time before actually going to sleep.
+
+### Chapter 3.1.1: Cheating Isn't Great, Manin
+
+Manin is with his older brother Marlen, in Marlen's room. They are playing a card game with eachother.
+
+**Marlen**: he flips his chosen card up and it's revealed that his card has the face value of 4 while Manin's chosen card has the face value of 2. "{Ha, take that, loser}(English)! Now you have to lose 4 of your cards" He proclaims with a mischievous smile as he watches Manin discards his chosen card and the other 3 cards on his pile
 
 **Manin**: he discards his cards on the discard pile with a disappointed look. He for sure thought he had Marlen this time. "I'm confused, how does this game work again?"
 
@@ -324,7 +569,7 @@ After that gets over with, Manin teaches her how to play the card game and Izari
 
 After a while. it comes time for Manin to cut his birthday cake. Tho, not everyone, a lot of people gather in the living room to see Manin cut his cake. Izarith and Marlen being besides him while his cousins, parents grandparents, uncle and aunt are close. Everyone in the room wishes Manin a happy birthday as he cuts the cake. Manin gives the first bite to Izarith, then Marlen, then his parents, grandparents, cousins and uncle and aunt. Izarith got surprised that Manin gave her the first bite and she thought she would get it last or not at all.
 
-After that, its time to give Manin his presents. His parents gives him a box. Manin opens the box and inside it is a brand new Magvon regdar (a regdar is a sword with 2 modes, non-combat mode and combat mode. in non-combat mode, only the base is visible. In combat mode however, a laser like blade called the "attack point" comes out. It's mainly used for combat by militaries and is a common civilian weapon. a Magvon regdar is Magvious's version of a regdar. The base is red with the attack point being red and slightly curved).
+After that, its time to give Manin his presents. His parents gives him a box. Manin opens the box and inside it is a brand new Magvon regdar.
 
 **Manin**: his eyes widen at the present. A regdar? A Magvon regdar? For him? He always wanted a regdar, since Marlen already has one, but now he gets to own a regdar? "A regdar? For me?" There is still disbelief in his voice, is he really getting this regdar or is it just a prank?
 
