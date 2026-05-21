@@ -307,61 +307,162 @@ Remdik says before closing the door and leaving.
 
 Manin opens his eyes when Remdik leaves. He gets up from his bed and looks at the night sky for one last time before actually going to sleep.
 
-### Chapter 3.1.1: Cheating Isn't Great, Manin
+### Chapter 3.1.1: Cheating Is Not Good, Manin
 
-Manin is with his older brother Marlen, in Marlen's room. They are playing a card game with eachother.
+Manin is with his older brother, Marlen, in his room, playing a card game with eachother.
 
-**Marlen**: he flips his chosen card up and it's revealed that his card has the face value of 4 while Manin's chosen card has the face value of 2. "{Ha, take that, loser}(English)! Now you have to lose 4 of your cards" He proclaims with a mischievous smile as he watches Manin discards his chosen card and the other 3 cards on his pile
+Marlen and Manin both flip their chosen card up, Marlen's card's face value is 4, Manin's is 2.
 
-**Manin**: he discards his cards on the discard pile with a disappointed look. He for sure thought he had Marlen this time. "I'm confused, how does this game work again?"
+"{Ha, take that, loser}[English]! Now you have to lose 3 of your cards from your hand and the once you placed"
 
-**Marlen**: he looks back at Manin, slightly caught off guard by his response but quickly composes himself. "You get 10 cards when the game starts, the goal is to have your opponent lose all of their cards, you can choose to either eliminate, which takes away their cards based on the number in the card if your number is bigger than your opponent or draw, which eliminates your opponents chosen card while you taking the amount of cards as the number in you card from the deck."
+Marlen proclaims with a mischievous smile. He watches Manin let out a frustrated sound and reluctantly discard 3 of his cards in the discard pile with glee.
 
-**Manin**: he nods his head in understanding. "{Right.}(English)" Still the disappointed look was there, but one simple loss wasn't going to stop Manin from quitting, he could still win the game.
+"I'm confused, how does this game work again?"
 
-Manin chooses another card and same did Marlen. Manin chooses to eliminate, wanting to take revenge against his brother, Marlen in the other hand picked draw to secure his deck. They put their chosen card infront of their spread cards and turns them over. Manin's face value was 4 while Marlen's was 6.
+Manin says while he looks down at the cards with a small frown, his eyes slightly narrow.
 
-**Marlen**: "{Ha! Take that!}(English) Put your card away and now I'll draw 6 cards from the deck." He says with a smug look on his face as he takes a card from the deck, which annoys Manin even more.
+Marlen pauses for a second before answering:
 
-**Manin**: before Marlen could take the 1st card, he places his hand on Marlen to stops him. "Wait! Actually, the game rule says if your opponent loses the first time, then you have to let them win the next round!" He proclaims. Manin knew he was wrong but he desperately wants to win.
+"You get 10 cards when the game starts. The goal is to have your opponent lose all of their cards. You can either choose to eliminate, which—if your card's number is bigger than your opponent's—then your opponent loses the card they set down and cards from their hand based on your card's number minus one, if their number is bigger, you have to lose cards. Or you can choose draw, which will give you cards from the pile based on your card and the opponent loses their chosen card, if your card's number is bigger of course"
 
-**Marlen**: he looks back at Manin with a confused stare. What on Herisdag is Manin talking about? "What? That's not how the game works, if you lose, you lose, {no buts. And I won fair and square.}(English)" His smug then returns to his face as he tries to take the card from the deck.
+Manin tries to wrap his head around the concept. His eyes narrow as he look at the cards.
 
-**Manin**: he grabs Marlen's hand more tightly and violently shakes his head. "No! It says that in the game rules! It says you have to make your opponent win the next round!" He whines as he tries to make Marlen buy his pathetic attempt at lying.
+"I think I get it."
 
-**Marlen**: he looks back at Manin again with a now annoyed expression. Marlen was not buying Manin's lie "No, it does not. It's nowhere mentioned in the game rule. You can't make up game rules of an existing game, that's like trying to create a kandra force!" He forces Manin's hand away from his and takes the 6 cards from the deck.
+Manin got half of what Marlen said.
 
-**Manin**: he suddenly looks at Marlen with a confused look. "A kandra force? What's that?" Whatever it was, it sounded pretty important.
+Manin picks another card from his side, laid on the bed. Marlen does the same.
 
-**Marlen**: he looks caught off guard by Manin, he wasn't expecting Manin to not know what kandra forces are "Really? You don't know what a kandra force is?" He says to Manin, thinking Manin is joking around.
+"I choose to eliminate."
 
-**Manin**: he shakes his head, he genuinely has no idea what a kandra force is "No... I don't, I think I heard it somewhere, but I don't know what it is..." He looks back at Marlen as if waiting for Marlen to tell him what a kandra force is, which he actually is.
+Manin pushes his chosen card forwards. A smug smile forms on his face.
 
-**Marlen**: he hesitates for a moment, still looking caught off guard but he composes himself "Okay, umm, imagine a thing that made and watches over the {universe}(Magvo-Stellarean). The kandra force is basically like that. {It made and controls our universe}(English)."
+"I choose draw."
 
-**Manin**: he looks at Marlen with an amazed look. It sounds amazing to him, almost like if it's real world magic. "Wow! It made and controls our universe? So, it's like real magic!" He exclaims with a grin, excited to learn more about this kandra force.
+Marlen does the same, just without the smug.
 
-**Marlen**: he chuckles slightly at Manin's excited curiosity, he gently pushes Manin down to the bed as he was on his knees. "No, it's not exactly magic, I guess some parts could be seen as magical, like controlling a kandra force, but it's more science than it is magic." He let's out a single soft chuckle .
+They both flip their cards face up. The face value of Manin's card is 4, and Marlen's is 6. The revelation instantly erases the smug look on his face.
 
-**Manin**: his jaw drops when Marlen mentions kandra forces can be controlled. "You can control them?" He says with disbelief. It's like Marlen told him magic is real and people could use them, which to him, was practically that.
+"{Ha! Take that}[English]! Put your card away and now I'll draw 6 cards from the deck."
 
-**Marlen**: a small amused smile forms on Marlen's face as he watches Manin's disbelief and amazement, he nods his head. "Yeah. And our family has a history with learning them. I can actually control one, the kandra-gravitarional force, not fully, no one has ever done that, but a little." He says with a proud smile.
+Marlen *now* smugs as he takes a cards from the deck.
 
-**Manin**: his disbelief only grows as Marlen, his own brother mentions that he can control a kandra force. "**YOU** CAN CONTROL A KANDRA FORCE?" He couldn't believe Marlen could control a kandra force, for a second, he thought Marlen was surely lying and trying to prank him
+But before he could take his 2nd card, Manin places his hand on Marlen's to stops him.
 
-**Marlen**: his amused smile turns into a smirk at Manin's disbelief. He leans back with a smug look. "Not fully but yes, I'm still learning the kandra-gravitarional force but I can pull some tricks up my sleeve." He the points his hand towards the top right card of his deck. It then suddenly starts to move up and reaches Marlen's hand, he then sets it down as seeing your own card before playing it is against the game rules. It was like Marlen was using telekinesis, and he kinda was, he was using his mind to control gravity.
+"Wait! Actually, the game rule says if your opponent loses the first time, then you have to let them win the next round!"
 
-**Manin**: he is left utterly speechless by the display, he trys to say something but the words won't come out of his mouth. He just kept staring at Marlen for a solid 5 seconds before suddenly jumping up, getting on his knees and bouncing on the bed. "Teach me! Teach me! I wanna know how to use kandra forces! I want to move objects with my mind too! Then I could have anything come to my hand without moving my legs!" He exclaims as he looks at Marlen. An excited smile is present on Manin's face at the thought of learning something like a kandra force.
+Manin proclaims with a look that says he knows how the game works. He doesn't, but Manin hopes his brother takes the bait.
 
-**Marlen**: he laughs at Manin's desperate begging for Marlen to teach him. He puts his hand on his shoulder to calm down Manin's excitment. "Calm down! Learning a kandra force is not like learning a game rule. You're trying to manipulate a part of reality, do you think it would be that easy?" He says while laughing.
+Marlen squints at Manin's words. His mouth left slightly open.
 
-**Manin**: disappointment washed over his excitement as he heard Marlen's disappointing news, but still, Manin is determined and he won't let a thing being hard stop him from learning it entirely. "But I wanna learn it. {Please? Pretty please?}(English) You're already teaching me combat and you know how to use a kandra force, I wanna learn this too." He begs Marlen with puppy eyes, trying to convince Marlen to teach him the kandra-gravitarional force
+"What? That's not how the game works, if you lose, you lose."
 
-**Marlen**: he sighs at Manin's persistence and smiles amusingly at Manin's excitment. "Alright, alright, I'll teach you later. Let's finish this game now." He chooses the top right card, the one who used the kandra-gravitarional force. The truth is, Marlen knows that the top right card is a special and advantageous card as he accidentally saw what the card was.
+Manin vehemently shakes his head. He leans forward towards Marlen, in a dog-like position. A determined look.
 
-**Manin**: he calms down as Marlen says he'll teach Manin and sits back on the bed again. "Okay, let's finish the game. I know I'm going to win anyways." He says with a smug look as he picks a random card.
+"No! It says that in the game rules! It says you have to make your opponent win the next round!"
 
-Marlen wins the game ("Not Fair!" - Manin says after he loses the game).
+Marlen lowers his eyelids, his lips pressed thin and his eyebrows relaxing. He's not buying his little brother's lie.
+
+"Have you read the game rules? It's nowhere mentioned. You can't make up game rules of an existing game, that's like trying to create a kandra force!"
+
+Manin pauses at the last two words Marlen spoke. His eyes narrowing slightly.
+
+"Whats a kandra force?"
+
+Marlen freezes momentarily at little brother's question. His eyes widening just slightly
+
+"You don't know?"
+
+Manin shakes his head. He return back to his sitting position.
+
+"No... I don't. I think I heard it somewhere, but I don't know what it is."
+
+Marlen hesitates. His eyes wander the room, trying to come up with an explanation
+
+"Okay, so, kandra is... Imagine a thing that made and watches over the universe. The kandra force is basically that. It made and controls our universe."
+
+Manin's eyes widen at his older brother's words. His mouth opens slightly.
+
+"It made our universe?"
+
+Marlen nods his head. The card game is forgotten by now.
+
+"Wow... So how did the kandra force make our universe?" he pauses for a moment before adding, "and what is it made of?"
+
+Marlen struggles to find the words to explain the concept to Manin. His mouth opens and closes a few times. He looks down at bed, where the card game is set.
+
+"Kandra made our universe by exploding, basically. And kandra is like a force, like how gravity is a force. That's why it has force in the name. Actually, gravity is a part of the kandra force, everything is, even you, and me, and the air around us."
+
+Manin nods his head as he takes in Marlen's words.
+
+*So everything is a part of kandra, even me?*
+
+He looks down at his eyes with wide eyes.
+
+"You can even control a kandra force. I know how to control the kandra-gravitational force, a little."
+
+Manin's jaw drops, he slowly turns his head towards Marlen.
+
+"What?"
+
+Marlen smiles amusingly at his little brother's disbelief.
+
+*He's cute when he's surprised.*
+
+"You heard me. You can control kandra forces, I know how to use the kandra-gravitational force, but I am just beginning."
+
+Manin raises his left eyebrow at Marlen's word. What Marlen is describing to him sounds like magic.
+
+"Show me."
+
+Marlen pauses at Manin's demand of proof. His left eyebrow rises, an amused smile forms on his face.
+
+He extends his hand towards a card from his side, his palms open. Suddenly, the card slowly floats up to his hand until it reaches his hand. He then sets the card down (Its against game rules to see your own card before dealing them).
+
+Manin stares with wide eyes as Marlen performs the trick. His mouth opens but no words come out. Then suddenly, Manin leans forward again, going into a dog position. He jumps lightly on his knees, slightly rattling the cards.
+
+"Teach me! Teach me!"
+
+Manin's eyes sparkle as he says for the older Elekar to teach him.
+
+Marlen gets caught off guard momentarily at the younger Elekar's excitement. He then lets out an amused laugh and grabs Manin's shoulders.
+
+"Calm down! It isn't that easy to learn a kandra force! Learning a kandra force isn't like learning a game rule. It takes time and focus."
+
+Manin remains undeterred despite his brother's words.
+
+"I'll do whatever it takes! I'll wait! I'll focus. I just wanna learn how to control a kandra force. So please teach me!"
+
+Marlen smiles and lets out a soft chuckle at Manin's determination.
+
+"You are not going to stop until you get what you want, huh? I guess there is no helping it. Fine, I'll teach you."
+
+Manin's eyes shine brighter than a star when he hears his the older Elekar agrees to train him. He jumps again, with more force this time, rattling the cards even more.
+
+"Really! {Thank you so much}[English]! You're the best brother!"
+
+Marlen smirks at Manin's compliment, he closes 
+his eyes and puts thenar space on his chin in a dramatic pose.
+
+"Of course. I'm the best brother out there."
+
+Marlen gets out of that dramatic pose and looks back at the forgotten cards laying on the bed.
+
+"We should finish the game."
+
+Manin sits back down on the bed and looks back at the cards.
+
+"Okay. But I'll win tho"
+
+He adds the last part with a smirk as he looks back at his brother.
+
+Marlen raises his eyebrow and smiles at Manin's words.
+
+"We'll see about that."
+
+Marlen ends up winning the game ("Not Fair!" - Manin says after he loses the game).
+
+### Chapter 4.1.1: 
 
 [New Scene]: Remdik calls Manin to his room to learn the Dinic language. Manin, who has no idea what the Dinic Empire is or its language apart from hearing it once or twice is curious on what it is, so he headed to Remdik's room.
 
