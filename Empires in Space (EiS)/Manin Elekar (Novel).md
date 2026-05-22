@@ -474,7 +474,7 @@ Marlen ends up winning the game ("Not Fair!" - Manin says after he loses the gam
 
 Remdik calls Manin to his room. Manin—who was playing in the living room—walks up the stairs, towards his room. He opens the door and sees his grandfather cleaning his desk.
 
-Remdik turns his head towards Manin as he opens the door. He gives Manin a warm smile ax he enters inside.
+Remdik turns his head towards Manin as he opens the door. He gives Manin a warm smile as he enters inside.
 
 "Why did you call me?"
 
@@ -552,7 +552,7 @@ Remdik nods, his smile turning prideful.
 
 Manin's mouth remains open, his eyes remains wide open aswell.
 
-*My granddad stop the Dinic Empire. I can't believe it. My granddad is so cool!*
+*My granddad stopped the Dinic Empire. I can't believe it. My granddad is so cool!*
 
 The thought puts a wide grin on his face and makes his eyes sparkle.
 
