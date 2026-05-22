@@ -1,6 +1,14 @@
-*(NOTE: This story is a part of the larger Empire's in Space (EiS) universe of which I created. This story will mainly focus on Manin Elekar's POV so some information may not be reliable from this as it is from his POV. Although this story shifts from Manin's POV (it switches quite commonly). This story is very prone to changes as this is still developing. I am not a writer and this is my first time writing a novel)*
+> [!NOTE]
+> This story is a part of the larger Empire's in Space (EiS) universe of which I created.
+> This story will mainly focus on Manin Elekar's POV so some information may not be reliable from this as it is from his POV.
+> Although this story shifts from Manin's POV (it switches quite commonly).
+> This story is very prone to changes as this is still developing. I am not a writer and this is my first time writing a novel)
 
-*(NOTE: The Chapter naming follows the format "[chapter number].[minvol number].[volume number]". A volume covers a story-arc, a minvol (comes from "Mini volume") covers a mini-story-arc, but these are larger than mini-arcs. Minvols are inside volumes. Chapters cover mini-arcs, which are most likely scenes. A chapter can contain more than 1 mini-arc. Volumes > Minvols > Chapters. Chapter 1.1.1 is the first chapter of the 1st minvol of the 1st Volume. Chapter 12.8.3 is the 12th chapter of the 8th minvol of the 3rd Volume)*
+> [!NOTE]
+> The Chapter naming follows the format "[chapter number].[minvol number].[volume number]".
+> A volume covers a story-arc, a minvol (comes from "Mini volume") covers a mini-story-arc, but these are larger than mini-arcs. Minvols are inside volumes. Chapters cover mini-arcs, which are most likely scenes. A chapter can contain more than 1 mini-arc.
+> Volumes > Minvols > Chapters.
+> Chapter 1.1.1 is the first chapter of the 1st minvol of the 1st Volume. Chapter 12.8.3 is the 12th chapter of the 8th minvol of the 3rd Volume
 
 # Volume 1: The Early life
 
@@ -462,37 +470,143 @@ Marlen raises his eyebrow and smiles at Manin's words.
 
 Marlen ends up winning the game ("Not Fair!" - Manin says after he loses the game).
 
-### Chapter 4.1.1: 
+### Chapter 4.1.1: A New Language
 
-[New Scene]: Remdik calls Manin to his room to learn the Dinic language. Manin, who has no idea what the Dinic Empire is or its language apart from hearing it once or twice is curious on what it is, so he headed to Remdik's room.
+Remdik calls Manin to his room. Manin—who was playing in the living room—walks up the stairs, towards his room. He opens the door and sees his grandfather cleaning his desk.
 
-**Remdik**: he was cleaning his desk when Manin comes into his room. He turns his head towards Manin with a smile, coincidentally, Remdik finished clearing the desk as Manin came. "Welcome Manin, today I'm gonna teach you about the Dinic language." He then turns on his computer.
+Remdik turns his head towards Manin as he opens the door. He gives Manin a warm smile ax he enters inside.
 
-**Manin**: he enters in the room and looks around the place. It's kept clean and organized, he could see the Magvious flag on the wall, the striking red background with the a black circle on the middle with two diagonal lines and in the middle of the circle, two black swords, laid diagonally, their bottom ends touching eachother, and alongside the Magvious flag is the Saktan flag, blue background, a white circle in the middle 4 lines coming out of said circle and a yellow bird with 4 wings on the middle. Manin looks back at Remdik and approaches his desk. He wants to know what the Dinic Empire is so the first thing he told Remdik is, "What's the Dinic Empire?"
+"Why did you call me?"
 
-**Remdik**: he looks surprised for a moment, he was expecting for Manin to know, so him not knowing came out as a mild shock. "You don't know who the Dinics are? That they took over Sakta?"
+Manin asks after he fully enters the room and closes the door behind him. Standing a few decimeters apart.
 
-**Manin**: he looks up at Remdik with a confused stare. They took over Sakta? But Manin thought Sakta was always a part of Magvious, was it not? "Took over Sakta? But Sakta is Magvious's, right?" He scratches his hair in confusion.
+"Want me to teach you something cool?"
 
-**Remdik**: he shakes his head with a frown and gestures Manin to sit on the chair. "Why don't we sit before we talk about this?" He says with a soft smile.
+Remdik sits on the chair besides the desk. On the desk is a thin tablet with a stylus. Called a NoteTab, a tablet specialized to function as an advanced notebook.
 
-**Manin**: he gives a small nod and heads towards the chair on his little steps and sits on the kid-sized chair.
+Remdik's words peeks Manin's curiosity. His eyes brighten, a smile forms and he quickly moves towards Remdik's side.
 
-**Remdik**: once Manin sits down, he sits down on his own chair and straightens his posture. "So, The Dinic Empire is another country like Magvious. Sakta was too. The Dinic Empire took Sakta and made it theirs. They did very bad things to Sakta and to the people." He says with a serious tone. He pauses for a moment, to let Manin understand what he said up until now and collect his thoughts. He then continues, "Me and your grandma was in Sakta when the Dinics were in control. We escaped Sakta and came to Magvious. We stayed here and soon, I became Magvious leader and fought with The Dinic Empire so we could have Sakta back!" He says with last sentence with growing excitement to excite Manin himself, he starts to grin and leans more closer towards Manin. "And we won! We took Sakta from the Dinic Empire and made it into Magvon territory."
+"I wanna learn something cool!"
 
-**Manin**: his amazement grows as Remdik tells about The Dinic Empire's history with Sakta, each new sentence adds more to his amazement, his brown eyes sparkling with awe. His grandfather, not his ancestors, not someone in his family he likely won't meet, his own grandpa, took down the Dinics and freed Sakta from them. "Wow..." He says in utter amazement, his attention is fully on this conversation. "My grandpa is so cool!" He says with a wide, amazed smile
+His grandfather chuckles lightly at Manin's reaction. His hands goes towards Manin's head and pats him.
 
-**Remdik**: he smirks in pride at his grandson's acknowledge. "{Yep, I'm pretty cool.}(English)" He says with pride with his eyes closed momentarily. He then remembers he was supposed to teach Manin something else. "Wait what was I supposed to teach you again?" He looks back at the computer screen, with the open document of the grammer section of the Dinic language, specifically the noun part. "Oh, right, teaching you the Dinic language." He pulls a drawer from his desk and gives Manin a tablet-like thing and a digital pen and sets them infront of Manin. The table is called an "Advanced Notebook" which as the name suggests, is a tablet which's only purpose it to act like an advanced notebook.
+"Always so eager to learn new things, I always liked that part about you."
 
-**Manin**: he looks confused at Remdik's words, why would he need to learn the language of their oppressors? "Wait. Why do we need to learn that language if they hurt us?"
+Manin grins wide as a planet at Remdik's praise and jumps softly on his heels.
 
-**Remdik**: he looks back at Manin, slightly caught off guard by his response. But he quickly composes himself and gives Manin a soft smile. "Well, despite them being our captors, the Dinic language is pretty interesting, and I don't think them being our captors stop us from learning and interesting language. Also, it'd be pretty cool if you spoke a language to your friends that they don't understand, wouldn't it? We can talk in secret by speaking Dinic, they wouldn't know what we say!"
+"{Thanks}[Magvo-Stellarean]!"
 
-**Manin**: he thinks about it for a few seconds before nodding his head in agreement. "Yeah, it would be pretty cool! My friends would be so impressed! And jealous!" He says "And jealous" with a mischievous smile on his face. A sudden burst of excitement comes to Manin as he imagines that scenario. The idea of impressing his friends and making them feel jealous was something Manin couldn't pass on.
+Remdik's smiles soften and he turns his gaze towards his NoteTab and he turns it on. Then looks back at Manin.
 
-**Remdik**: he looks at Manin's excitement with an affectionate look before turning his head towards the computer. "Okay now, let's start with something simple, like nouns."
+"So how about I teach you a new language, Dinic?"
 
-The lesson continues with Remdik teaching Manin the grammer and some simple words in Dinic (Author's Note: I'll probably make Dinic a con-lang).
+Remdik says with his left eyebrow raised and a smile.
+
+Manin's eyes widens again, his grin remains but turned into a excited one.
+
+"I wanna learn a new language! I wanna learn Dinic!"
+
+Remdik lets out a light laugh and shifts his gaze towards the NoteTab.
+
+"So why don't you grab a seat—"
+
+He then looks back around Manin's room to see their is only one chair, the one he is sitting on. He chuckles lightly and facepalms.
+
+"Oh, silly me. There is only one chair here. Lets move to the bed."
+
+Remdik grabs his NoteTab and moves towards Manin's bed. He sits and places the tablet on the bed, his legs crossed. Manin follows and sit besides his grandfather, his legs also crossed.
+
+"Before we learn the language, lets learn the nation first. Do you know the Dinic Empire?"
+
+Manin shakes his head with a frown.
+
+"No, what is it?"
+
+He stares at the NoteTab placed on the bed, the content shows something about letters and sounds.
+
+"The Dinic Empire is the empire that invaded Sakta."
+
+Manin's eyes widen at Remdik's words.
+
+"Invade?"
+
+Remdik nods his head.
+
+"Yes. They invaded us. And did bad things to us."
+
+The air around them turns solemn. Remdik pauses for a moment, gathering the words. The atmosphere around them doesn't stay solemn for long after Remdik says:
+
+"But I stopped them. I fled to Magvious, worked my way into becoming its leader and liberated Sakta from them."
+
+Remdik says with a soft smile. His gaze goes towards the NoteTab.
+
+Manin's jaw drops at Remdik's words. His eyes widen comically.
+
+"You stopped them?"
+
+Remdik nods, his smile turning prideful.
+
+"Yep, I did. It was a hard battle, but a battle worth it."
+
+"Wow..."
+
+Manin's mouth remains open, his eyes remains wide open aswell.
+
+*My granddad stop the Dinic Empire. I can't believe it. My granddad is so cool!*
+
+The thought puts a wide grin on his face and makes his eyes sparkle.
+
+"That's so cool! My granddad is so cool!"
+
+Remdik smiles with pride at his grandson's compliment. He playfully rubs his hair.
+
+"I know. I'm the coolest grandfather out there."
+
+He pauses for a moment, his smile softening.
+
+"Right, lets start with us first learning the Dinic alphabet."
+
+"Wait... The Dinic Empire invaded us, right? So why do we have to learn their language."
+
+Manin asks Remdik. His eyebrows drawn.
+
+Remdik pauses at Manin's question.
+
+*He does raise up a good point.*
+
+Remdik gets quiet for a few seconds before speaking:
+
+"Well, despite our captors, I find Dinic to be an interesting language. And truth be told... I only know Dinic as a foreign language, asides English and technically Magvo-Stellarean."
+
+He lets out a small, self-deprecating and awkward laugh. Although he instantly recovers.
+
+"Besides. Wouldn't it be cool to show your friends that you know a different language from them?"
+
+Manin thinks about his grandfathers word for a moment before nodding his head.
+
+"You're right... It would be cool! My friends will be so impressed!"
+
+He says with a wide grin.
+
+"And jealous~"
+
+He adds. His grin turning uneven, his eyes narrowing into a mischievous look. He can't wait to see their faces.
+
+Remdik chuckles at Manin's mischievous. He rubs the younger Elekar's head in a teasing manner.
+
+"Such a mischief."
+
+He stares back down at the screen infront of them.
+
+"Alright, let's start with alphabet."
+
+The lesson continues with Remdik teaching Manin the Dinic alphabet and some simple words in Dinic.
+
+(Author's Note: I'll probably make Dinic a con-lang).
+
+## Minvol 2: 
+
+### Chapter 1.2.1
 
 [New Scene]: Manin (now 5), Marlen and his parents travels to the planet of Saksor (neighboring Herisdag) for the weekend. Manin, surprisingly never went outside Herisdag so this is his first travelling to another planet.
 
