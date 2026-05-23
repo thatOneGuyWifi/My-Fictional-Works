@@ -604,81 +604,465 @@ The lesson continues with Remdik teaching Manin the Dinic alphabet and some simp
 
 (Author's Note: I'll probably make Dinic a con-lang).
 
-## Minvol 2: 
+## Minvol 2: Family Time
 
-### Chapter 1.2.1
+### Chapter 1.2.1: What Kandra Training Looks Like
 
-[New Scene]: Manin (now 5), Marlen and his parents travels to the planet of Saksor (neighboring Herisdag) for the weekend. Manin, surprisingly never went outside Herisdag so this is his first travelling to another planet.
+Today's the day. Marlen calls for his little brother (now 5) in the house's backyard for training. Manin quickly rushes towards the backyard on his little footsteps.
 
-Manin jump-walks towards station with a grin on his face, holding Hemas's hand as they enter inside. It was a fairly short travel, they would come home by tonight, so they just brought a bag with them, and Merino brought her purse with her. The security checks their bag and they enter the platform.
+Manin arrives and rushes towards his older brother's side.
 
-**Manin**: he jump-walks towards the platform with a grin on his face, holding Hemas's hand as they approach the platform. "I've never been in a Xotoiv (basically a commercial spaceship) before! I'm so excited!" His grins widen at the thought.
+"So Manin, can you guess what we will be training today?"
 
-**Hemas**: he let's out an amused chuckle at Manin's excitement and pats his head. "You're a little funny guy, you always seem so excited by everything. You're like the wind, get it? Because the wind is always blowing, and you're blowing with excitement?" He says it like the joke is suppose to be understandable from a first glance. Hemas always make absurd puns like these that he somehow connects with the situation and expects everyone else to understand. When nobody laughs at his joke and looks at him with a deadpan look, he chuckles awkwardly and looks away from them. "Okay, I'll shut up."
+Marlen says with a uneven, playful smile. He bends his knees forward to reach Manin's level, although not fully.
 
-The Xotoiv comes and they enter inside along with the other passengers. Manin sits on the window seat and Marlen sits beside him. Manin chose to sit on the window seat because he wants to see space and how Herisdag looks from space as its his first time being in space.
+"Ooh! Is it the kandra force?"
 
-The Xotoiv takes off and leaves the station. Manin looks outside with awe. Herisdag looks even bigger like this, the way Herisdag slightly curves at the end fascinates him. But with awe, a weird sense of dread also hits Manin, but he quickly brushes it aside.
+Manin responds with a big grin. His forearms curled towards his shoulders.
 
-**Marlen**: he notices Manin practically glued to the window. He let's out a small, amused chuckle and lean towards the window as well. "Dude, it's just Herisdag from space and that has you looking at it with amazement? If a give you a shiny rock will you look at that with amazement too?" A teasing smirk forms on his face.
+Marlen freezes for a second. His eyes narrowing and his mouth left hanging.
 
-**Manin**: he pulls away from the window and look at Marlen with an offended look. How dare he say that? "Hey! It's my first time! You probably seen this hundreds of times! I'm seeing it today!" He looks at Manin with a furious look and hits Marlen childishly, which makes Marlen only more amused. "And I would not be amazed by a shiny rock!" He then goes to sit down and cross his arms with a angry look. The last statement was true, probably, maybe.
+"Uhh... Yeah—umm, you got that first try."
 
-Manin's anger doesn't last long as his attention goes towards the window. Space had a surprising number of buildings and objects despite it literally being space. Eventually, Saksor comes into view. Manin looks back at Saksor with the same amazed look.
+Manin giggles lightly at Marlen's response.
 
-The Xotoiv lands on the station and they walk outside the station.
+"Its because I wanted to learn kandra."
 
-**Hemas**: "Well, where should we all go first?" He says with a thoughtful look as he thinks where they all should go first.
+Marlen rolls his eyes with a smile.
 
-**Merino**: "How about we the {National Saksor Hill Park?}(English) I heard that the mountains there are astounding!" She suggests with a hopeful tone as he looks back at Hemas. (Quick Note: Hill Parks, also known as Mountain Parks here generally refer to parks which are built around mountains or mountains are made on this parks)
+"Of course."
 
-**Manin**: Merino's words catches Manin's attention. "Ooo, that sounds really fun! I wanna see those big mountains!" He says with a excited grin as he looks back at Hemas, jumping slightly in excitement. He wonders how the mountains at the National Saksor Hill Park looks like, are they really big, or just small?
+He straightens his posture and wipes some dust from his shirt, which is currently a black shirt.
 
-**Hemas**: he looks back at Manin with an amused smile. "Alright, National Saksor Hill Park it is."
+"Alright, lets start with something simple." Marlen pauses for half a second before continuing. "Lets start with your weight first. Manin, lay down on the grass."
 
-They book a cab and go to park. They arrive at the National Saksor Hill Park and explore the place. The mountains themselves are 3 million years old mountains and this mountain range is called "Vervesvos" or VVV for short. The mountains are pretty big themselves, only slightly smaller than the Himalayas of Earth.
+Manin nods his head vigorously and lays down on the green ground.
 
-**Manin**: He looks at the big mountains with an amazed look. "Wow... They really are big!" His eyes sparkle with a joy as he looks up at the towering mountains.
+"Now what?"
 
-**Marlen**: he quite impressed by the mountains, tho not as amazed as his younger brother. "Yeah... They're pretty alright." He says with his hands crossed as he looks at the mountains.
+"Try to focus on the gravity pulling you down." Marlen pauses again before adding. "Imagine the planet's core as a ball and uhh, imagine yourself on the ground and the ball is trying pull you... I think that's a good visualization..."
 
-**Merino**: she looks up at the mountains with the same impressed look as Marlen's. "My... They really are quite big. I think I'm gonna take a photo of them." She pulls out her phone from her purse and takes a picture of the mountains.
+Manin nods his head, closes his eyes and imagines the exact thing Marlen described. He imagines a blue ball on the center of Herisdag, trying to pull him.
 
-**Hemas**: he also has the same impressed look. "Yeah, they sure are pretty big. Its like watching a big piece of paper, get it? Because mountains have trees around them and trees are used to make paper?" Nobody, and I mean nobody, laughs at Hemas's attempt of a "joke."
+"Am I just supposed to imagine that?"
 
-**Manin**: he looks up at his dad with a deadpan expression. Was he suppose to laugh from that? "You're not funny, dad." He bluntly says with a slighly annoyed look. Hemas's "dad jokes" shouldn't even be classified as jokes.
+Manin asks his older brother. His eyes still closed.
 
-**Hemas**: "{Ouch...}(English)" He says with an awkward chuckle but he is slightly hurt by Manin's blatant words. The hurt only lingers for a few seconds tho, he's used to people not liking his jokes.
+"Yeah, give it a few minutes and you should feel something."
 
-They continue the walk around the park, see the mountains and greenary around the place. As they explore the place, they come across a lake. Manin looks at the lake with excitement, Manin always wanted to swim in a lake, despite having any swimming skills. He only swims at pools and the shores of beaches, which are fun but swimming in a lake is a new experience to Manin.
+Manin takes in his brother's words and lays there while imaging that scene, and focusing on the feeling of gravity pulling him.
 
-**Manin**: he tugs at Merino's pink sundress and points towards the lake. "Mom, dad. I wanna swim at this lake, can I? Please?" He pleads to them with puppy eyes.
+After one minute, he starts to feel something very faintly, something he can't exactly describe, different from the feeling of gravity pulling him down. Its like a strange hum you can't hear. And it faintly increases and decrease, like a heart beating.
 
-**Merino**: she gives out a small amused chuckle at Manin's pleading, but she has to reject Manin's pleading. "Sweetie, the lake isn't meant for swimming, its meant for show, see how the lake is guarded with those fences?" She points towards the metal fences guarding the lake so no one can get in. "You can't swim here. And even if we could, we didn't bring any towels or anything for swimming." She says softly, hoping Manin would understand.
+"I think I feel something?"
 
-**Manin**: he did not easily understand. "But can't you buy towels, shorts and whatever those tiny clothes you were when we are at the beach?" He says with a genuine confused look.
+"Can you describe it?"
 
-**Merino**: she blushes slightly when Manin says whatever tiny clothes she wears. "That is called a bikini, Manin, and you're not getting the point, the lake is closed, it's surrounded by those metal fences. We can't go. Please understand that." She hopes Manin will listen to her now.
+"I don't know how too but... It feels like humming, but I can't hear it... And it like does heartbeats?"
 
-**Manin**: he does not listen to her. Aren't the royalty? Can't they just say whatever they want and the people will do it because they are royal? "Aren't we from the Royal Elekar Family? Royal? We can say anything to the people who work here and they'll open the lake, even bring us swimming stuff!" He was right, wasn't he? The people would listen anything to what the Royal Elekar Family said, right?
+A smile forms on Marlen's face, a satisfied one.
 
-**Hemas**: he chuckles at Manin's word. He leans down towards Manin's level and pats his head. "Listen, kiddo, just because we're an Elekar and the sons of the current leader of Magvious doesn't mean the staff here is just going to open the fence for us to swim here. That's not how it works." He says calmly.
+"That is called 'kanfelling'."
 
-**Manin**: he got even more annoyed by Hemas's words and starts to whine. "But I want to swim here! I never swimmed (though this is translated from Saktan to English, I'm making the word swam to swimmed for his dialogue to be more childlike) in a lake! And I'm sure the staff people would agree! You haven't even tried yet!" He whines and throws his arm all around the place.
+Manin lets out a confused "hmm?"
 
-**Marlen**: he is particularly enjoying Manin's tantrum and decides to tease him even more. "Can't you swim? And you wanna swim in a lake that's already closed?" He says with a teasing smirk with his arms crossed.
+"Its when you feel a kandra force. And by feeling a kandra force, you gain some stability with that force."
 
-**Manin**: he gets frustrated at Marlen's teasing and whines more. "Shut up! I can swim very well! Better than you!" He says with no truth backing up his claim, but that doesn't matter to him, he wants to swim in this lake **now**.
+Manin opens his eyes and stares back at Marlen with a confused frown.
 
-**Merino**: she sighs at Manin's little tantrum in mild annoyance. She grabs his shoulder firmly and looks at him with a gentle but firm expression. "Look, Manin, we're sorry, but you cannot swim here."
+"stability?"
 
-**Manin**: but he wasn't still going to let it go just yet, he was going to try everything he could, he is Maithos Junior afterall. "Please? Pretty please? I promise to be good if you let me swim here. I'll do all the dishes! I'll keep my room extra clean! I'll study even more! Just please let me swim here." He begs with two of his hands joined together.
+Marlen nods his head, his arms crossed.
 
-**Merino**: she sighs again and looks back at him with a even more firm look. "Manin, you cannot swim here. No pleases. You don't have to do the dishes, clean your room, or study even harder. You cannot swim here regardless. I'm sorry."
+"Lets just say, the more you focus on a kandra force, the stronger the feeling gets, and the stronger the feeling gets, the more you gain that kandra force."
 
-**Manin**: he sighs and finally gives up about swimming in this lake. "Fine, I guess I can't swim here." He says with a disappointed and sad expression. He looks down at the floor with a frown.
+He pauses slightly and looks around with drawn eyebrows.
 
-**Hemas**: he frowns at his son's sad expression and pats his head in an affectionate and comforting manner. "Hey look. Don't be so sad, it ruins the mood." He comes up with something looks down at Manin. "You can swim in a lake tomorrow, okay?"
+"I think that's a good way to explain it? {God, I wish I was a better explainer}[English]." He mummers to himself
+
+Manin doesn't register in his brother's uncertainty and focuses on what he just said.
+
+*I felt that kandra force, does that mean I have that kandra force?*
+
+Manin instantly stands up in a hurry and looks at his brothers with big eyes.
+
+"That means I can use the kandra-gravitational force right? Ooh, I wanna do it now! I wanna lift up something! Something big... Like—"
+
+Marlen stops Manin before he finishes his sentence, placing his hands on his younger brother's shoulders. He chuckles lightly at Manin's enthusiasm.
+
+"Calm down, you just started. You can't lift anything yet!"
+
+Manin's big grin turns into a small frown, his posture relaxing.
+
+"Huh?"
+
+Marlen chuckles lightly.
+
+"You just started, Manin. You don't instantly learn how to control gravity. That takes time, training, kinda what I'm here to do. You can't even do anything basic with 1 minute of kanfelling."
+
+"So, I can't do anything?"
+
+Manin asks. His frown getting bigger. His eyebrows lowering.
+
+Marlen's smile softens. His heterochromatic eyes—left green, right brown—softening at edges. His hand goes towards Manin's hair and rubs it.
+
+"That doesn't mean you can't do anything at all. You just need to train more. Why don't you do what you did for another 10 minutes?"
+
+Manin's eyes widen at the words. Another 10 minutes? Of focusing on the gravity pulling him? That sounds, super boring.
+
+"That would get boring! Isn't there a faster way?"
+
+Marlen shakes his head.
+
+"I know, but you're asking for manipulating a part of reality. It has to be a little boring." He pauses before adding, "But it isn't hard! Or that hard."
+
+Manin sighs and nods at his older brother's words. He lays back down on the ground, closes his eyes and focuses on gravity pulling him and on visualizing Herisdag's core pulling him down.
+
+The 10 minutes for Manin feels like 10 hours. He has no idea when he has to stop focusing.
+
+The feeling grows every minute. It doesn't grow rapidly, it grows slowly, gradually. By the ninth minute, the feeling has grown substantially noticeable.
+
+"Okay, that's about enough."
+
+Marlen's voice cuts through Manin focus. He opens his eyes and turns his head towards his brother, meeting his gaze.
+
+Manin gets up from the grass. He looks at his hands, then back at Marlen.
+
+"Did I do it?"
+
+Marlen nods his head. He stares back at the ground and finds a small white flower. He plucks it, the flower is placed on his hands.
+
+"Try to make this flower float."
+
+Manin eyes squint slightly as he sees the flower on Marlen's hand.
+
+"How?"
+
+"Just try to. Try to push the kandra-gravitational force to make it float. You have do it to know it."
+
+Marlen says, he extends his hand further towards Manin.
+
+Manin positions his hand over the flower, opens his palms and tries to "push" the kandra-gravitational force.
+
+The flower slowly starts to lift up from Marlen's hand. Marlen looks closely, Manin looks at with shock.
+
+The flower slowly goes up to Manin's hand until it reaches his palm. He turns his hand right side up, and the flower is placed on his hand.
+
+When he tried to lift the flower, his brain recognized "something" and tried to "move it", like how you move a muscle, like your hand.
+
+"..."
+
+Nothing comes out from the young Elekar's mouth. He continues to stare at the flower with wide eyes. Then, all of the sudden:
+
+"I did it... I did it! I made the flower move!"
+
+He smiles widely, his eyes brightening.
+
+"It was like moving my arm! But it was invisible."
+
+Marlen smiles and pats Manin's head.
+
+"That 'moving your arm' was you moving the kandra-gravitational force. That focusing gave you something called 'stability'. Stability gives you access to a kandra force, and once you have access, you can use that kandra force like a muscle."
+
+Manin takes in Marlen's words with widened eyes, his lips pressed into a thin line. He nods his head slowly and looks back at the flower.
+
+"So I can now use it now, like a muscle?"
+
+Marlen nods his head with his arms crossed.
+
+"Yep. And like how exercise makes your muscles stronger. Focusing and understanding makes your stability, or access with the kandra force stronger."
+
+Marlen pauses for a second his eyes widening at his own words.
+
+"Wow, that came out neatly."
+
+He says to himself.
+
+Manin continues to stare down at the flower. His head wrapping around his brother's words. Then, he jumps on his little feet with a big smile.
+
+"I'm so excited! Now I can control gravity! First I'm going to make myself have lower gravity so I can bounce! Then, I'll use my powers to bring stuff towards me without even moving! And then—!"
+
+Manin is once again stopped by Marlen. He puts his right hand on Manin's left shoulder.
+
+"Slow down there. Your kandra force is like a muscle, and muscles get tired from overwork." Marlen pauses before continuing, "Every time you use your kandra force, you lose stability, the access. And if you use it too much, all of your stability is lost and you no longer have access. You have to gain it again by focusing."
+
+Manin nods slowly as he processes his older sibling's words.
+
+"I'm not saying do use it, I'm saying not to exhaust it okay? The more you train, the more impressive stuff you can do. But you're just starting, so stick with small objects, okay?"
+
+Manin nods his head.
+
+"I understand..."
+
+Marlen gives Manin a smile at his word and pats his back.
+
+"I think that's enough training for the day. Lets head back."
+
+Manin nods his head. The flower falls from Manin's hand onto the ground. He walks inside with his brother.
+
+Once he is in room, he brings out his NoteTab's stylus and tries to "push" the kandra-gravitational force. He lets go of the stylus but instead of falling, it floats in the air.
+
+Manin smiles widely and flicks the stylus around the room. Watching with fascination and pride.
+
+"I can't wait to get better at this!"
+
+He says while he plays with the zero gravity stylus.
+
+After playing with the stylus, he eventually stops the manipulation and sets the stylus's gravity to normal, and sets the stylus with its NoteTab back.
+
+But now, Manin can use the kandra-gravitational force. And he will get better at it
+
+### Chapter 2.2.1: A Trip To Saksor
+
+Manin, Marlen and his parents are going to a neighboring planet—Saksor—to travel and have fun there. Manin has never went to an outside planet. So this will be the young Elekar's first time at interplanetary travel.
+
+Manin jump-walks towards the station, a grin present on his face. It is going to be a fairly short travel, they should be at home by 9 or 10 PM.
+
+The security checks their belongings, then they enter with their tickets.
+
+Manin approaches the station platform, holding his father's hand.
+
+"I've never been in a Xotoiv before!" (a Xotoiv is basically a commercial spaceship).
+
+"Well you'll be in one today."
+
+Hemas says while looking at Manin, with a soft smile.
+
+"I'm gonna take the window seat! I wanna watch Herisdag from space!"
+
+"Hey! I was gonna take the window seat!"
+
+Marlen protests at Manin's word.
+
+Manin shakes his head.
+
+"No! I wanna be in the window seat! This is my first time!"
+
+"But I—"
+
+Marlen gets interrupted by Merino placing her hand on his shoulder.
+
+"Dear, its his first time, let him take the window seat"
+
+Her voice is soft, gentle, sweet, like honey.
+
+Manin vehemently nods his head with a smile.
+
+"Yeah! What mom said!"
+
+Marlen lets out a frustrated sound, crosses his arms and turns his head to the side.
+
+"Ugh, you're so biased towards him."
+
+Merino sighs and pats his head gently with a soft smile.
+
+"I'm not biased towards anyone, sweetie, It just wouldn't be fair to him."
+
+Marlen rolls his eyes.
+
+"Whatever."
+
+Hemas can't help but laugh lightly at the commotion.
+
+*I hope things stay like this*
+
+The Xotoiv comes after like 3 minutes. Manin and the other enter. Manin takes his seat, which is on the window seat, obviously. Marlen sits besides Manin. The Xotoiv takes off.
+
+Manin's body is pressed against the side, his face pressed against the window.
+
+Manin can see Herisdag, the oceans surrounding the continents, the way Herisdag seems to curve slightly at the edges.
+
+It makes him feel a sense of amazement.
+
+Marlen leans towards Manin with his eyelids lowered.
+
+"{What the hell is this}[Magvo-Stellarean]?"
+
+Manin's head turns towards Marlen, his head still glued to the window.
+
+"Herisdag? Our planet."
+
+Marlen's eyelids seem to lower further.
+
+"I meant you. What are you doing?"
+
+"Looking outside?"
+
+"While being practically glued to the window? I can't see anything other than your fat head! Move!"
+
+Manin lets out a gasp, his eyebrows furrowing while his eyes widening, then turning into a angered look.
+
+"First of all! My head is not fat! Second of all! You have been into a Xotoiv, I haven't! So I can be glued to the window!"
+
+He says with a smug and turns his head towards the window.
+
+Marlen's eyes widen at Manin's words, his teeth grits, his eyebrows furrowing. His hand goes towards his shoulder.
+
+"You little shi—"
+
+"Manin, please move to your seat. I know this is your first time but you can't block the view. Your brother wants to see the view too."
+
+The voice interrupts Marlen. Her voice soft and gentle. It's Merino, who is seating just infront of them with Hemas.
+
+Manin looks at her mother like she just betrayed him.
+
+"Mom! But I—"
+
+"No Manin, let your brother see the view too. You won't see less if you let your brother see."
+
+Manin's mouth open to say something but realizes he has no defence. He forces himself to sit down on the seat to let Marlen see better. He crosses his arms, does and annoyed huff and pouts.
+
+Marlen smirks as he looks at Manin.
+
+"Ha! Everything doesn't go the way you want!"
+
+Merino turns her gaze towards Marlen.
+
+"See? I defended you, so I'm not biased."
+
+"Right."
+
+Marlen dismisses her words with a mild annoyed eye roll. His head turns towards the now unblocked window.
+
+Manin turns his head towards the window aswell. His anger doesn't last long as he takes in the view of the objects in space. Space has a surprising number of buildings and objects despite it literally being space.
+
+Eventually Saksor comes into view. It took the Xotoiv only 10 minutes to get their, impressive speed.
+
+The Xotoiv lands on the Saksorian station. Manin's family and the other passengers exits the Xotoiv. Manin's family exit the station
+
+"Where should we all go first?"
+
+Hemas says. His gaze wanders around the street.
+
+"How about we go to the {National Saksor Hill Park}[English]? I heard that the mountains there are astounding!"
+
+Merino suggests with a hopeful look.
+
+(Quick Note: Hill Parks, also known as Mountain Parks here generally refer to parks which are built around mountains or mountains are made on this parks).
+
+Hemas looks back at Manin and Marlen.
+
+"What do you both think?"
+
+"Yeah, I think we should go there. It sounds kinda cool!"
+
+Manin answers with a grin.
+
+"Yeah, sure."
+
+Marlen answers with a more neutral expression
+
+"Alright then, to the {national park}[English]."
+
+Hemas books a cab and it drives them to the park. After about 3 to 4 minutes They arrive at the National Saksor Hill Park.
+
+They enter inside the park and explore the place. The mountains themselves are 3 million years old. This mountain range is called "Vervesvos" or VVV for short. The mountains are pretty big themselves, only slightly smaller than the Himalayas of Earth.
+
+"Wow... They are pretty big."
+
+Manin says as he look at the towering with wide eyes.
+
+"Yeah, they're alright."
+
+Marlen says with a neutral expression.
+
+Merino looks at the mountains with wide eyes and a wide smile.
+
+"They look beautiful... I think I'm gonna take a picture"
+
+Merino pulls out her phone from her purse and takes a picture of them. They photo comes out surprisingly good too, due to being a photographer before joining the MTD.
+
+"You know, this reminds me of a big piece of paper. Get it? Because mountains have trees nearby them, and you get paper from trees?"
+
+Hemas says, with a laugh, only he laughs at the joke.
+
+"You're not funny, dad."
+
+Manin says bluntly with a his eyelids lowered.
+
+"{Ouch}[English]..."
+
+Hemas gives off an awkward laugh and brushes his upper arm. He felt a bit hurt by Manin's bluntness but its nothing he can't handle.
+
+They continue the walk around the park, see the mountains and greenery around the park.
+
+As they explore the park, they come across a lake.
+
+Manin's looks at the lake with excitement. The corners of his mouth crinkling into a smile. He tugs Merino's pink sundress and points towards the lake.
+
+"Mom, dad. I wanna swim at that lake, can I? Please?"
+
+He pleads with puppy eyes.
+
+Merino freezes for a second as she looks back at the fenced lake. She frowns.
+
+"But sweetheart, that lake is fenced. You can't swim there. Besides, we didn't come to swim."
+
+Manin's brows lowers and he frowns at his mother's answer.
+
+"But I wanna swim there!"
+
+Merino sighs. She kneels down towards Manin's level. A soft smile present on her face.
+
+"Look, sweetie, that lake is fenced. We can't swim there, nobody can. And we don't have any swimming equipment."
+
+"Then why do they have a lake here?"
+
+"Its for show, dear, We're just meant to view the lake."
+
+Merino says with a gentle voice, hoping for Manin to listen.
+
+Manin doesn't listen.
+
+"But aren't we The Royal Elekar? I'm pretty sure they'll listen if we ask!"
+
+Hemas chuckles at the situation. He bends down slightly, placing his hands on his knees.
+
+"Listen kiddo, just because we're an Elekar and the sons of the current leader of Magvious doesn't mean the staff here is just going to open the fence for us to swim here. That's not how it works."
+
+Manin starts to get more and more frustrated. His frown widening.
+
+"But I want to swim here! I never swimmed in a lake! And I'm sure the staff people would agree! You haven't even tried yet!"
+
+(Note: although this is translated from Saktan to English, I made the word swam to swimmed for his dialogue to be more childlike)
+
+Marlen lets out a sigh and rolls his eyes. His arms crossed.
+
+"You can't even swim, and you wanna swim in a closed lake?"
+
+Marlen shakes his head.
+
+Manin's gets angrier at his brother's words.
+
+"I can swim! I can swim better than you!"
+
+Manin whines. He has no proof to back his claim up, but that doesn't matter as of now.
+
+Merino closes her eyes and sighs. She grabs Manin's shoulder in a firm manner.
+
+"Look, Manin, we're sorry, but you cannot swim here."
+
+"Please? Pretty please? I promise to be good if you let me swim here. I'll do all the dishes! I'll keep my room extra clean! I'll study even more! Just please let me swim here."
+
+Manin joins both of his hands in a prayer as he speaks.
+
+Merino shakes her. She gives Manin a firm look.
+
+"Manin, you cannot swim here. No pleases. You don't have to do the dishes, clean your room, or study even harder. You cannot swim here regardless. I'm sorry."
+
+Manin sighs. A frown forms on his face.
+
+"Fine, I give up.."
+
+His gaze shifts towards the ground, his eyes half-lidded.
+
+Merino stands up and look at back at Manin with a sad smile.
+
+"I'm sorry Manin, please don't let this ruin your entire day."
+
+Hemas frowns at his son's expression. [WIP]
+
+**Hemas: he frowns at his son's sad expression and pats his head in an affectionate and comforting manner. "Hey look. Don't be so sad, it ruins the mood." He comes up with something looks down at Manin. "You can swim in a lake tomorrow, okay?"
 
 **Manin**: he looks back up at his dad, surprised, his previous disappointment and sadness gone, replaced with an excitement at the thought of swimming at a lake. "Wait, really?" He says with disbelief.
 
