@@ -1060,29 +1060,59 @@ Merino stands up and look at back at Manin with a sad smile.
 
 "I'm sorry Manin, please don't let this ruin your entire day."
 
-Hemas frowns at his son's expression. [WIP]
+Hemas frowns at his son's expression. His hand goes towards Manin's head to pat it.
 
-**Hemas: he frowns at his son's sad expression and pats his head in an affectionate and comforting manner. "Hey look. Don't be so sad, it ruins the mood." He comes up with something looks down at Manin. "You can swim in a lake tomorrow, okay?"
+"There is a lake nearby our house, you can swim there tomorrow, okay?"
 
-**Manin**: he looks back up at his dad, surprised, his previous disappointment and sadness gone, replaced with an excitement at the thought of swimming at a lake. "Wait, really?" He says with disbelief.
+Manin stares at his father with wide eyes, then, a smile forms on his face.
 
-**Hemas**: he nods his head and smiles softly at Manin's smile. "Yes, really. There is a lake near our house, you can go swim there."
+"Thank you so much dad!"
 
-**Manin**: he jumps on his feet and claps his hands with excitement. "Yes! Thank you so much dad!" His signature excited wide grin appears on his face again.
+Manin jumps slightly on his little feet.
 
-They explore the place a little more and leave as its time for their dinner. They went to a fancy looking resturant (with a 5-star review) nearby.
+Hemas gives Manin a smiles before straightening his knees.
 
-**Manin**: he looks at restaurant with an impressed look as he takes in the view. "Wow, this place is pretty fancy." The two noticable colors of this restaurant is blue and green, the windows are large are crystal clear, giving a view of the busy road of Saksor. They took the window seat.
+After that commotion, they continue to explore the park. Around like 2 PM, lunch time arrives for them.
 
-**Hemas**: He takes the menu (in a tablet-like device) and scrolls through the options. "Hmm, a tone of items here. What should we order?" He questions the group and looks back at them.
+They leave the park and head to a fancy looking restaurant (with a 5-star review) nearby.
 
-**Merino**: "How about Saksorian reglem rice? (Saksorian reglem rice is made out of steam fried reglem rice (reglem is a plant found in Sakta), mixed with seasonings, chicken and it's curry and some vegetables) That tastes so good." She suggests with a hopeful smile, she looks really eager to try that dish.
+"Wow, this place is pretty fancy."
 
-**Manin**: he gets curious at Merino's suggestion, he never tried it before but the way she says it, it sounds pretty delicious. "I wanna try Saksorian reglem rice too!"
+Manin says as he looks around the restaurant.
 
-**Marlen**: he nods his head, agreeing with both Manin's and Merino's suggestion. "Yeah, I want that too." He has also never tried a Saksorian reglem rice, so he's also curious on how it would taste. He takes a sip of water from his glass.
+The two noticeable colors of this restaurant are blue and green. The windows are large and crystal clear, giving a view of the busy road of Saksor. They take the window seat.
 
-**Hemas**: "Alright then, Saksorian reglem rice it is." He calls the waiter from his tablet. When the waiter comes, he orders, "4 dishes of Saksorian reglem rice, please." The waiter takes his order and goes towards kitchen.
+Hemas takes the menu (which is a tablet like device) from the table
+
+"What should we order? There's a ton of options here."
+
+He scrolls through the menu.
+
+"How about Saksorian reglem rice? They taste so good."
+
+Merino suggests with a hopeful smile.
+
+(Saksorian reglem rice is made out of steam fried reglem rice (reglem is a plant found in Saksor), mixed with seasonings, chicken curry and some vegetables)
+
+"Ooh! I wanna try reglem rice too!"
+
+Manin ques in with a curious look.
+
+"Yeah sure, I never had that before."
+
+Marlen says. He takes a sip of water from the glass placed on the table.
+
+"Oh, then you should really try them! My mom used to make them when I was little. They tasted so good."
+
+Merino says with a smile.
+
+Hemas orders the Saksorian reglem rice from the menu alongside dry frento (frento is the meat from an alien animal called by the same name), krolum (bread filled with—usually—chicken curry) and soda.
+
+"Alright, so I ordered Saksorian reglem rice, dry frento, krolum and pepsi, sound good?"
+
+The others nod their heads.
+
+**WIP**
 
 After like, 3 to 4 minutes, the waiter comes with their food, and it looks really delicious. The chicken curry is white and the rice are small red balls rather than looking like actually rice. Manin grabs his spoon and takes a bite of the rice, his eyes widen as the dish assaults his taste buds. It is definitely spicy, but his favourite foods are spicy foods.
 
