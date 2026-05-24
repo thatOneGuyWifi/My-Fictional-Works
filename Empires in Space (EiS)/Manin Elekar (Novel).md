@@ -1182,7 +1182,29 @@ Manin's piblings invited Manin's family to their house for a casual family visit
 
 (piblings mean aunt and uncle together. I am not kidding, this is an actual word to describe aunt and uncle together. Its even in the [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/pibling) 😭🙏. The name was funny so I had to use it).
 
+"Hey sweetie, wake up, today we're going to your aunt and uncle's house."
 
+The sweet voice wakes up Manin from his sleep. His groggy eyes slowly open. He sees his mother on his right side.
+
+"Oh, right..."
+
+He slowly sits up and rubs his eyes.
+
+"Come on brush your teeth and take a bath. We'll have to get ready."
+
+Manin stares back at her with a raised eyebrow.
+
+"Take a bath now?" (Manin usually takes baths before lunch, around 1 PM, its very common in Magvious and is the standard).
+
+Merino nods her head.
+
+"Taking a bath before going is best. It'll make you feel more refreshed."
+
+Manin's nods slowly. He gets out of bed and move towards upstairs bathroom.
+
+He pulls out his brush and lazily brushes his teeth. He washes his mouth and face after brushing. He takes of his clothes and heads towards the shower.
+
+He turns on the shower, warm water hitting his skin. [I'll finish this tomorrow twin 🥹]
 
 
 
