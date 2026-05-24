@@ -70,6 +70,8 @@ Manin's eyes sparkle even more at Marlen's words.
 
 *If that's nothing much, then that means brother can do even more!*
 
+(Manin's thoughts are primarily in English).
+
 Manin's grin widens at the thought.
 
 "Then you can do more! Please teach me!"
@@ -904,7 +906,7 @@ Marlen's eyes widen at Manin's words, his teeth grits, his eyebrows furrowing. H
 
 The voice interrupts Marlen. Her voice soft and gentle. It's Merino, who is seating just infront of them with Hemas.
 
-Manin looks at her mother like she just betrayed him.
+Manin looks at his mother like she just betrayed him.
 
 "Mom! But I—"
 
@@ -928,7 +930,7 @@ Manin turns his head towards the window aswell. His anger doesn't last long as h
 
 Eventually Saksor comes into view. It took the Xotoiv only 10 minutes to get their, impressive speed.
 
-The Xotoiv lands on the Saksorian station. Manin's family and the other passengers exits the Xotoiv. Manin's family exit the station
+The Xotoiv lands on the Saksorian station. Manin's family and the other passengers exit the Xotoiv. Manin's family exit the station
 
 "Where should we all go first?"
 
@@ -1032,7 +1034,7 @@ Marlen lets out a sigh and rolls his eyes. His arms crossed.
 
 Marlen shakes his head.
 
-Manin's gets angrier at his brother's words.
+Manin gets angrier at his brother's words.
 
 "I can swim! I can swim better than you!"
 
@@ -1070,7 +1072,7 @@ Manin stares at his father with wide eyes, then, a smile forms on his face.
 
 Manin jumps slightly on his little feet.
 
-Hemas gives Manin a smiles before straightening his knees.
+Hemas gives Manin a smile before straightening his knees.
 
 After that commotion, they continue to explore the park. Around like 2 PM, lunch time arrives for them.
 
@@ -1096,7 +1098,7 @@ Merino suggests with a hopeful smile.
 
 "Ooh! I wanna try reglem rice too!"
 
-Manin ques in with a curious look.
+Manin chimes in with a curious look.
 
 "Yeah sure, I never had that before."
 
@@ -1106,29 +1108,118 @@ Marlen says. He takes a sip of water from the glass placed on the table.
 
 Merino says with a smile.
 
-Hemas orders the Saksorian reglem rice from the menu alongside dry frento (frento is the meat from an alien animal called by the same name), krolum (bread filled with—usually—chicken curry) and soda.
+Hemas takes in their orders with some side dishes.
 
 "Alright, so I ordered Saksorian reglem rice, dry frento, krolum and pepsi, sound good?"
 
 The others nod their heads.
 
-**WIP**
+(frento is the meat from an alien animal called by the same name, krolum is bread filled with—usually—chicken curry).
 
-After like, 3 to 4 minutes, the waiter comes with their food, and it looks really delicious. The chicken curry is white and the rice are small red balls rather than looking like actually rice. Manin grabs his spoon and takes a bite of the rice, his eyes widen as the dish assaults his taste buds. It is definitely spicy, but his favourite foods are spicy foods.
+After five to seven minutes, the waiter comes with their food. The Saksorian reglem rice is covered with the white chicken curry. The dry frento's meat is green. The krolum is in a almond-shape.
 
-**Manin**: "Mmm... This is really tasty! Mom has really good taste, apart from those times she forces us to eat those bitter veggies and act like they taste like eggs (eggs is his favorite food)!" He says playful and mischievous smirk as he looks at his mom.
+The waiter serves the rice on their plates, alongside with the frento.
 
-**Merino**: she playfully rolls her eyes at Manin's second sentence and playfully punches his shoulder. "Those bitter veggies are good for you, you know? They're going to make you the warrior you're going to be!"
+Manin takes out the spoon besides his plate and pulls the rice up. The rice looks like red tiny balls, like salmon caviar.
 
-**Hemas**: He takes a bite of the reglem rice and closes his eyes momentarily. "Oh yeah, this is the stuff. It reminds me of the color red, get it? Because it's red and spicy is often associated with red?" Crickets. "Okay, I'm just going to eat."
+Manin takes a bite of the rice. His eyes widen momentarily at the flavor. Its spicy but very tasty. And Manin is a fan of spicy foods.
 
-They also order soda aswell to refreshen themselves. After they eat, they go and walk in the city. They all take in the scenario. Advanced cars moving the streets (no flying cars, as that would be an absolute disaster), tall buildings that seems to touch the sky (some actually do touch the clouds), the streets are lively themselves.
+"So, how is it?"
 
-**Manin**: as he walks, ne notices a building that says "Fetish & Kink Equipments". As Manin is a 5 year old, he has no idea what a "fetish" or "kink" is. He tugs his dad's sleeve and points towards the building. "That store says {'Fetish & Kink Equipment'}(English)? Is that like something to do with feet and glasses?" His reasoning is that fetish sounds like feet and glasses make a "kink" sound when two glasses do a toast.
+Merino says to her younger son.
 
-**Hemas**: a blush forms on his cheeks and he has a momentary panicked expression, before hearing Manin's explanation. "Yes... You could say that, it's actually a foot massage store. Not really our thing... Let's go..." There is a slight panickness to his voice as he leads Manin away from the store. Marlen gives out a small laugh at the little situation.
+"It tastes good. I didn't know you had good taste, because you always veggies taste good."
 
-They explore the city more and leave by the time it turns 7 pm (on Sakaor). It was quite a fun and exciting day for Manin.
+Manin says with a small smirk.
+
+Merino gasps in mock offence. She places her hand on her heart.
+
+"Manin, how could you say that? I have amazing taste! And veggies do taste good, and they have all the things for you to be a strong warrior."
+
+An uneven, playful smile forms on Merino's face.
+
+Manin rolls his eyes and continues eating.
+
+Hemas closes his eyes as he takes the bite of the rice.
+
+"Oh yeah, this is the stuff. It reminds me of the stars on the sky, get it? Because they are tiny little dots?"
+
+Crickets.
+
+"Okay, I'm just going to eat..."
+
+After having their lunch, they exit the restaurant and walk in the city. Advanced cars driving on the roads (no flying cars, as that would be an absolute disaster), tall buildings that seems to touch the sky (some actually do touch the clouds), the streets themselves are lively.
+
+Manin notices a store as they walk. The top says "Fetish & Kink Equipment Store." Manin looks at store with a small frown, his eyes squinting slightly.
+
+*What's a Fetish & Kink Equipment Store?*
+
+Manin tugs the sleeve of his father.
+
+"Hmm?"
+
+Manin points at the store he just noticed
+
+"What's a '{Fetish & Kink}[English]'? Is it like something to do with feet and glass?"
+
+Manin's reasoning is that "fetish" sounds like "feet" and when two glasses do a toast, it does a "klink" sound.
+
+Hemas' eyes widen as he looks at the store. Blood rushes towards his cheeks. His mouth opens slightly.
+
+"Uhh.. Yeah! Its actually a foot massage store! Not really our thing... Let's go..."
+
+Hemas' voice wavers and pulls Manin away.
+
+Marlen can't help but let out a small laugh at Manin's innocence.
+
+They explore the city more and leave by the time it turns 9 PM (on Saksor).
+
+The day for Manin was quite fun.
+
+### Chapter 3.2.1: 
+
+Manin's piblings invited Manin's family to their house for a casual family visit.
+
+(piblings mean aunt and uncle together. I am not kidding, this is an actual word to describe aunt and uncle together. Its even in the [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/pibling) 😭🙏. The name was funny so I had to use it).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Minvol 3:
+
+# Chapter 1.3.1
 
 [New Scene]: Manin is at his elementary school's backyard. It is recess and Manin is playing with the kids. As he goes towards the drinking fountain to drink some water, he hears the sound of a girl crying amongst the chaotic sound of the backyard. Manin who gets confused and curious about this goes to the direction of the the crying. He ends up in a quiet part of the big backyard, there he sees a girl, who looks as the same age as him with long white hair and a white grayish blouse, crying, while holding a paper.
 
