@@ -20,7 +20,7 @@ In Year 420 (The Calendar system is different from the Gregorian calendar, calle
 
 Manin was born into the "Royal Elekar Family". A family that once ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar (origin human) fled to Magvious, became it's leader and liberated Sakta from the Dinic Empire, integrating it into Magvious. The Elekar Family is very influential not only in Sakta, but the most parts of the universe, including Magvious.
 
-Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), his mother is "Merino Elekar" (origin human) (Japanese), and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar"(origin human), born in 413, November-December (name of the last month in English) 1st, a 7 year age gap. Manin also has an uncle "Mejar Elekar" (origin human), aunt "Gevi Elekar" (origin human). 2 years later (Year 422) Mejar and Gevi would have twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousins of Manin.
+Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), his mother is "Merino Elekar" (origin human) (Japanese), and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar" (origin human), born in 413, November-December (name of the last month in English) 1st, a 7 year age gap. Manin also has an aunt called "Gevi Elekar" (origin human). 2 years later (Year 422) Gevi had twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousins of Manin. Gevi had her kids with her boyfriend—"Derme Xoli"—But he broke up with her and left her when she announced to him she was pregnant.
 
 Manin's grandfather, Remdik, is still the leader of Magvious, so Manin's early life was spent pretty well, as he pretty much had all the luxuries he could ask for. Additionally, both of his parents are high ranking generals in the Magvon Territorial Defence (MTD for short), Magvious' army, so Manin's life was pretty much set.
 
@@ -1178,11 +1178,9 @@ The day for Manin was quite fun.
 
 ### Chapter 3.2.1: 
 
-Manin's piblings invited Manin's family to their house for a casual family visit.
+Manin's aunt invited Manin's family to their house for a casual family visit.
 
-(piblings mean aunt and uncle together. I am not kidding, this is an actual word to describe aunt and uncle together. Its even in the [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/pibling) 😭🙏. The name was funny so I had to use it).
-
-"Hey sweetie, wake up, today we're going to your aunt and uncle's house."
+"Hey sweetie, wake up, today we're going to your aunt's house."
 
 The sweet voice wakes up Manin from his sleep. His groggy eyes slowly open. He sees his mother on his right side.
 
@@ -1200,13 +1198,49 @@ Merino nods her head.
 
 "Taking a bath before going is best. It'll make you feel more refreshed."
 
-Manin's nods slowly. He gets out of bed and move towards upstairs bathroom.
+Manin's nods slowly. He gets out of bed and move towards upstairs bathroom. Merino moves downstairs.
 
 He pulls out his brush and lazily brushes his teeth. He washes his mouth and face after brushing. He takes of his clothes and heads towards the shower.
 
-He turns on the shower, warm water hitting his skin. [I'll finish this tomorrow twin 🥹]
+He turns on the shower, warm water hitting his skin. The shower lasts about 5 minutes.
 
+He dresses up in his usual attire after the shower and heads outside.
 
+He walks down the stairs. He approaches the kitchen to see Marlen and his parents already started eating breakfast.
+
+He moves towards the dining table and sits in the empty seat. The breakfast is simple, 4 slices of toast and a sunny-side up egg.
+
+"You couldn't have come more earlier."
+
+Marlen says as he takes a bite of his toast.
+
+Manin's eyelids lower.
+
+"Shut up."
+
+He takes a bite of the toast, it has butter spreading.
+
+"Not like you woke up any earlier."
+
+"Oh? So how am I already half-way done while you just started?"
+
+Marlen speaks with a small smirk and leans forward slightly.
+
+Manin rolls his eyes at his brother's teasing.
+
+"Probably because mom woke you up earlier."
+
+His voice muffled slightly by his chewing. Hr doesn't make eye contact with Marlen as he speaks.
+
+"Mom woke you up right after she woke me up. It doesn't take 10 minutes to go to your room from mine."
+
+"Okay you two, let's not fight and eat, we have to go to aunt Gevi's house, remember?"
+
+Hemas interrupts their argument. The two brothers go quiet after that.
+
+The rest of the breakfast goes fairly normally. After breakfast, Manin's family get into their car and drives of to Gevi's house.
+
+[I know I said I'll finish this todsy but I'll finish this tomorrow, trust]
 
 
 
