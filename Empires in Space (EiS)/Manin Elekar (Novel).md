@@ -1264,7 +1264,7 @@ Gevi greets them with a smile and lets them enter inside. They sit on the living
 
 Gevi has short green hair, green eyes. She is currently a green crop-top—revealing her toned stomach—and blue ripped jeans. Her usual outfit.
 
-Manin's heart beat slightly faster when she looks at her.
+Manin's heart beats slightly faster when she looks at her.
 
 "I really appreciate you coming to see me."
 
@@ -1296,7 +1296,7 @@ Gevi lets out a chuckle and pat both of the brother's heads, intensifying their 
 
 "Don't need be so shy with your aunt, we're family!"
 
-Manin's heart beat even faster at the contact.
+Manin's heart beats even faster at the contact.
 
 "Right..."
 
@@ -1820,7 +1820,7 @@ Manin and Marlen opened the lid of their respective breakfast. It was a cheese s
 
 **Marlen**: he takes a bite of his sandwitch "Well, let's hope so."
 
-After it's been a while since they eaten breakfast, Manin starts to worry a bit, then, he thought it would be a great idea to go to the battlefield his parents are in and help them. He also justified this by stating that he was also a training magvon warrior so he has some combat experience, maybe to even fight in war. So, Manin got grabbed his regdar, some money, put it in his pocket and rushed towards the exit
+After it's been a while since they eaten breakfast, Manin starts to worry a bit, then, he thought it would be a great idea to go to the battlefield his parents are in and help them. He also justified this by stating that he was also a training magvon warrior so he has some combat experience, maybe to even fight in war. So, Manin got grabbed his regdar, some money, put it in his pocket and rushes towards the exit
 
 **Marlen**: he notices Manin leaving "where are you going?"
 
