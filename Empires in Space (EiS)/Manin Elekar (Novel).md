@@ -20,7 +20,7 @@ In Year 420 (The Calendar system is different from the Gregorian calendar, calle
 
 Manin was born into the "Royal Elekar Family". A family that once ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar (origin human) fled to Magvious, became it's leader and liberated Sakta from the Dinic Empire, integrating it into Magvious. The Elekar Family is very influential not only in Sakta, but the most parts of the universe, including Magvious.
 
-Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), his mother is "Merino Elekar" (origin human) (Japanese), and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar" (origin human), born in 413, November-December (name of the last month in English) 1st, a 7 year age gap. Manin also has an aunt called "Gevi Elekar" (origin human). 2 years later (Year 422) Gevi had twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousins of Manin. Gevi had her kids with her boyfriend—"Derme Xoli"—But he broke up with her and left her when she announced to him she was pregnant.
+Manin's father is "Hemas Elekar" (origin human) (son of Remdik Elekar), his mother is "Merino Elekar" (origin human) (Japanese), and grandmother is "Feelio Elekar" (origin human). Manin has an older brother called "Marlen Elekar" (origin human), born in 413, November-December (name of the last month in English) 1st, a 7 year age gap. Manin also has an aunt called "Gevi Elekar" (origin human). 2 years later (Year 422) Gevi had twins, "Trovik Elekar" (origin human) (male) and "Iopono Elekar" (origin human) (female), cousins of Manin. Gevi had her kids with her boyfriend—"Mejar Xoli"—But he broke up with her and left her when she announced to him she was pregnant.
 
 Manin's grandfather, Remdik, is still the leader of Magvious, so Manin's early life was spent pretty well, as he pretty much had all the luxuries he could ask for. Additionally, both of his parents are high ranking generals in the Magvon Territorial Defence (MTD for short), Magvious' army, so Manin's life was pretty much set.
 
@@ -29,6 +29,8 @@ Manin knew 3 languages, English, the global language, Magvo-Stellarean, The nati
 Manin's parents taught young Manin the ideology of "do good and good will happen to you", which Manin follows to heart, making Manin a kind kid.
 
 Manin usually wears a simple red hoodie, blue shirt and blue sweatpants. He really doesn't have much of a preference in style. He has black spiky hair with the "spikes" pointing down. His eyes are brown. His skin is white (along with all of his relatives if it wasn't obvious).
+
+*(Note on the clothing: if a character is not given a description of their current attire, assume its their usual attire(s) until stated otherwise.)*
 
 Marlen is a training Magvon Warrior/Soldier. Manin, amazed by his brother, wants to be a Magvon Warrior like him. So, at a random afternoon (at the age of 4), Manin approaches the house's backyard, where his brother is, who just finished his training for the day.
 
@@ -41,6 +43,8 @@ Manin calls for Marlen. His arms are crossed behind his back.
 "{Yeah}[English]?"
 
 Marlen responds, he sets his regdar in non-combat mode and puts his regdar inside his pocket (a regdar is a sword with 2 modes, non-combat mode and combat mode. In non-combat mode, only the base is visible. In combat mode however, a laser like blade called the "attack point" comes out. It's mainly used for combat by militaries and is a common civilian weapon. A Magvon regdar is Magvious's version of a regdar. The base is red with the attack point being red and slightly curved).
+
+Marlen has the same spiky hair like his younger brother, heterochromatic eyes, left green and right brown. He is currently wearing a black T-shirt and red shorts.
 
 "I wanna train!"
 
@@ -121,6 +125,8 @@ When Hemas and Merino arrives home and settles down, Marlen approaches Hemas, wh
 
 Hemas pauses at Marlen's words he look away from his phone, his gaze is now fully on Marlen.
 
+Hemas has short hair with it covering his middle forehead and the sides with a noticeable gap between the middle and sides, brown eyes. He is currently wearing a simple yellow T-shirt and black shorts with the pockets being a white-grayish color.
+
 "Your brother wants to train, from you?"
 
 Marlen nods his head.
@@ -178,6 +184,8 @@ Marlen smiles softly at Manin's reaction. He then puts Manin inside his room and
 Manin is on the ground of his house's backyard, laying there, looking up at the night sky in awe. Tiny little endless dots scattered across the sky. Some are bright, most blinking. Herisdag's moon—Yebes—casts its light over the young prince. It's quiet, peaceful.
 
 Manin's grandfather, Remdik—who looks like he is in his 20s or 30s—enters the backyard. He takes in the air and exhales. He notices Manin laying down on the ground.
+
+His hair is short and his eyes are brown. He is currently wearing a red shirt with a open black blazer and white sweatpants, his usual attire.
 
 "Looking up at the sky, huh?"
 
@@ -320,6 +328,8 @@ Manin opens his eyes when Remdik leaves. He gets up from his bed and looks at th
 ### Chapter 3.1.1: Cheating Is Not Good, Manin
 
 Manin is with his older brother, Marlen, in his room, playing a card game with eachother.
+
+Marlen is currently wearing a black open hoodie with the pockets being red, a red T-shirt and black sweatpants, his usual attire.
 
 Marlen and Manin both flip their chosen card up, Marlen's card's face value is 4, Manin's is 2.
 
@@ -830,11 +840,13 @@ Manin approaches the station platform, holding his father's hand.
 
 Hemas says while looking at Manin, with a soft smile.
 
+Hemas is currently wearing a brown open jacket, black shirt and navy blue jeans, an usual attire for going outside.
+
 "I'm gonna take the window seat! I wanna watch Herisdag from space!"
 
 "Hey! I was gonna take the window seat!"
 
-Marlen protests at Manin's word.
+Marlen protests at Manin's word. He is currently wearing the attire from the previous chapter.
 
 Manin shakes his head.
 
@@ -847,6 +859,10 @@ Marlen gets interrupted by Merino placing her hand on his shoulder.
 "Dear, its his first time, let him take the window seat"
 
 Her voice is soft, gentle, sweet, like honey.
+
+Her hair is black, long straight—slightly wavy—hair that reaches her waist, her eyes are green.
+
+She is currently wearing a pink sundress.
 
 Manin vehemently nods his head with a smile.
 
@@ -1176,13 +1192,13 @@ They explore the city more and leave by the time it turns 9 PM (on Saksor).
 
 The day for Manin was quite fun.
 
-### Chapter 3.2.1: 
+### Chapter 3.2.1: A Visit To Gevi
 
 Manin's aunt invited Manin's family to their house for a casual family visit.
 
 "Hey sweetie, wake up, today we're going to your aunt's house."
 
-The sweet voice wakes up Manin from his sleep. His groggy eyes slowly open. He sees his mother on his right side.
+The sweet voice wakes up Manin from his sleep. His groggy eyes slowly open. He sees his mother on his right side. She is wearing a white shirt and a medium-length red skirt.
 
 "Oh, right..."
 
@@ -1236,46 +1252,323 @@ His voice muffled slightly by his chewing. Hr doesn't make eye contact with Marl
 
 "Okay you two, let's not fight and eat, we have to go to aunt Gevi's house, remember?"
 
-Hemas interrupts their argument. The two brothers go quiet after that.
+Hemas interrupts their argument. The two brothers go quiet after that. He is wearing a navy blue shirt with blue horizontal stripes and black pants. 
 
-The rest of the breakfast goes fairly normally. After breakfast, Manin's family get into their car and drives of to Gevi's house.
+The rest of the breakfast goes fairly normal. After breakfast, Manin's family get into their car and drives of to Gevi's house.
 
-[I know I said I'll finish this todsy but I'll finish this tomorrow, trust]
+After like half an hour, they arrive to Gevi's house. Gevi opens the door.
 
+"Oh! Come in!"
 
+Gevi greets them with a smile and lets them enter inside. They sit on the living room couch with Gevi.
 
+Gevi has short green hair, green eyes. She is currently a green crop-top—revealing her toned stomach—and blue ripped jeans. Her usual outfit.
 
+Manin's heart beat slightly faster when she looks at her.
 
+"I really appreciate you coming to see me."
 
+Gevi says with a smile, she leans forward slightly.
 
+Merino nods her head with a friendly smile.
 
+"Don't mention it. It must be hard for you take care of those two alone."
 
+Gevi shakes her head.
 
+"Oh, not really, my kids are surprisingly easy to deal with. They can be a pain here and there but generally easy to manage. It would've been more easy if that bastard didn't leave."
 
+She says the last line with her teeth gritting. Her gaze shifts towards the two brothers, her earlier anger disappearing and a playful smile forms.
 
+"And how are you two doing? Everything alright?"
 
+Both Marlen's and Manin's eyes widen slightly, blood rushes towards their cheeks, Manin's cheek is more red than his older brother's.
 
+"We're.. Fine."
 
+Marlen tries to speak with a neutral tone but his voice slightly wavers.
 
+"Y—Yeah!... We're, fine..."
 
+Manin's voice softens at the last word.
 
+Gevi lets out a chuckle and pat both of the brother's heads, intensifying their blush.
 
+"Don't need be so shy with your aunt, we're family!"
 
+Manin's heart beat even faster at the contact.
 
+"Right..."
 
+Suddenly, two three year old comes into the room, Iopono and Trovik, Manin and Marlen's cousin.
 
+Iopono's has short green hair and green eyes. She is currently wearing a pink shirt with the words "You Rock!" and blue skirt.
 
+Trovik has short navy blue hair, being parted in the middle and red eyes. He is currently wearing a orange shirt with a green, cartoonish snake in the front and gray shorts.
 
+Gevi turns her head towards her children momentarily then turning back.
 
+"And this is Iopono and Trovik." She looks back at her children. "Come on, say hi to your uncle and aunt."
 
+Iopono waves her hand at Manin's family with a wide smile.
 
+"{Hi}[English]!"
 
+Trovik also waves his hand with a smile, he is less energetic than her sister.
 
+"{Hi}[English]."
 
+Merino smiles playfully and leans forward towards the twins.
 
-## Minvol 3:
+"Aww, look at you two! So cute!"
 
-# Chapter 1.3.1
+Iopono's smile widen at Merino's words while Trovik blush slightly.
+
+"So what are they studying in?'
+
+Hemas asks her sister, his arms crossed.
+
+"They're studying in EL-1, what about Marlen and Manin?"
+
+"Manin's in EL-3 and Marlen's in MD-5."
+
+Gevi nods her head slightly as she takes in her brother's words. Her gaze then shifts towards Manin and Marlen.
+
+"Why don't you both play with your cousins?"
+
+"Yeah, go play with Iopono and Trovik."
+
+Merino says, she leans back again into a straight posture.
+
+Both Manin and Marlen stand up from the couch and follow the two to their room.
+
+*(Quick Note: The Grade System of Magvious is: EL-1 to EL-4, EL means elementary, MD-1 to MD-6, MD means middle school, HG-1 to HG-5, HG means high school).*
+
+As Manin and Marlen follow the little twins towards their room, their face still remains flushed slightly because of their encounter with Gevi. Marlen leans closer towards Manin slightly.
+
+"{Dude}[English], our aunt is so hot."
+
+Marlen whispers to Manin.
+
+Manin nods his head.
+
+"Yeah..."
+
+They arrive at Iopono's and Trovik's room. The room's walls are white and green, there is a bed on the left and right side of the room. The floor is scattered with toys.
+
+Manin stares at the ground, he bends down and pick up a toy gun. The body of the gun is round and yellow, a metal-looking rod extend from the body with the end having a red ball, three red rings—that seems to float—surround the rod.
+
+He tilts the gun around his hand, he points the gun at right bed and pulls the trigger; a red beam of light shoots out from the ball, causing Manin to take a step back. The beam lands on the mattress, forming a perfect red circle before it slowly disappears.
+
+Trovik approaches Manin with an angry look.
+
+"Hey! That's mine!"
+
+Manin freezes momentarily at Trovik's words before he gives the toy gun back to him.
+
+"Sorry."
+
+"So, what should we do now?"
+
+Marlen asks as he looks down at Iopono and Trovik.
+
+"How about a tea party?!"
+
+Iopono suggests with a wide smile.
+
+Manin and Marlen hesitates at her suggestion.
+
+"A tea party?"
+
+Manin says with an awkward smile.
+
+"No! No tea party! We're going to play hide and seek!"
+
+Trovik exclaims.
+
+"Hide and seek works."
+
+Manin says.
+
+"Yeah, hide and seek."
+
+Marlen then says.
+
+An exaggerated frown forms on Iopono's face, her eyebrows drawing.
+
+"Hmm! I wanna play tea party! If you don't! I'll tell mommy that you punched me in the face!"
+
+Trovik looks back at her sister with an annoyed look.
+
+"I'll tell mom you lied."
+
+"Well, I'll punch my face and say you did it!"
+
+Before anything escalates, Marlen comes to intervenes their argument.
+
+"Okay, how about we play tea party now, and after tea party, we play hide and seek?"
+
+Iopono looks back at Marlen with a wide smile, her eyes sparkling.
+
+"Yea! Lets do that!"
+
+Trovik lets out an annoyed huff and turns his head towards his side.
+
+"Fine..."
+
+Iopono looks back at her brother with a mischievous smile, making Trovik even more annoyed.
+
+"Great!"
+
+Manin speaks with a smile.
+
+The group plays tea party along with other games. Marlen as the oldest one in the room tries to keep everything from going out of hand, Manin tries to play along with his cousins and makes sure any arguments doesn't happen.
+
+Meanwhile with Gevi and Manin's parents:
+
+"So how is it in the MND (Magvon Navy Defence)?"
+
+Hemas asks, his arms crossed, leaning against the couch.
+
+"Well you know, the usual. Monitor the oceans and other bullshit. A few days ago a PODS Divergent failed to launch in orbit and fell in the Armical ocean. We had to go get. Can't believe we had go get a stupid divergent."
+
+Gevi lets out a chuckle.
+
+*(PODS Divergent: Planetary Orbital Defence System. Meant to protect planets. A PODS Divergent destroys incoming asteroids or diverging their path.)*
+*(Armical Ocean: One of the 10 oceans in Herisdag.)*
+
+"It would've been easier to take care of the kids if *Mejar* didn't leave me when he heard I was pregnant."
+
+Gevi's teeth grit slightly as she mentions her ex-boyfriend's name.
+
+"I have take multiple days off just to take care of them. Thank god our dad leads this nation and the navy being understanding."
+
+Gevi chuckles lightly.
+
+"I told you he wasn't the right one, Gevi, you should've listened. He is a walking red flag."
+
+Hemas says with a firm voice.
+
+Gevi rolls her eyes and lets out a sigh, her arms causally sitting on the couch's armrest and top, her left leg comfortably laying on the sofa.
+
+"I know, I know. It was just—I was in love with at that time. He showed me he cared, I thought he was the one..."
+
+Merino leans forward, a gentle smile present on her face.
+
+"If you ever have to go do something important or you're just tired, you can send your kids to us, we'll take care of them."
+
+A small smile forms on Gevi's face, she nods her head.
+
+"Thanks. At least I still have you guys."
+
+After a while passes with Manin and Marlen playing with Iopono and Trovik, the room's door open and Gevi can be seen in the door frame. She leans against the door frame with her arms up.
+
+Manin's heart beats faster when she comes in, his cheeks being tainted with a light shade of pink.
+
+"Its time for lunch, kiddos. Me and your cousin's mom and dad made something *devastatingly* good, so you all better come fast."
+
+She says with a playful smirk and walks away.
+
+"Yes..."
+
+Manin says with a soft voice after she already leaves. They all approach the kitchen. The dining table is already set. Manin moves to take his sit.
+
+"Magvon Paratha with reglem chicken curry. Trust me, this tastes amazing."
+
+Gevi says with a smirk.
+
+*(Magvon Paratha: fluffy Paratha but not fluffier than luchi. Mixed with flour and Orkum, a powdered version of the Orkum plant. It looks like a light green and gives Magvon Paratha's the fluffiness, also making it look a bit green.)*
+*(reglem chicken curry: reglem rice can be turned into curry. It looks like a saturated red curry. Its spicy but tasty.)*
+
+Manin rips a piece of the Paratha and eat it with the curry.
+
+"It tastes really good!"
+
+Manin says. He take a bite of the curry covered chicken. His eyes slightly widening at the taste.
+
+"This tastes good too!"
+
+Gevi smirk widens at Manin's response. Her arms crossed under her breasts.
+
+"Told you so."
+
+"Are you sure you want your kids to eat this too? Its pretty spicy."
+
+Hemas says with his eyebrows lowered slightly, his lips pressed into a thin line.
+
+"Oh relax, they handled worse. Yesterday, Iopono accidentally ate a chili pepper slice and didn't cry once, isn't that right?"
+
+Iopono nods her head with a proud smile.
+
+"Okay, if you say so..."
+
+Everyone else sets down at the dining table and starts to eat.
+
+While everyone eats, Hemas turns his head towards Merino, a small smile forming on his face.
+
+"Remember our first date together? This was the thing I ordered because I thought you liked spicy food. You almost beat me to death because you hated spicy foods back then."
+
+Merino's face flushes at her husband's words, her mouth hang open momentarily.
+
+"I didn't almost beat you to death! I only hurt you a little!"
+
+Manin's left eyebrow raises as he hears his father's words.
+
+"Mom beat you?"
+
+Hemas turns his head towards Manin.
+
+"Well it was one time, a couple of more actually. Your mom back then was, very scary... She was super strict and easily angered. Everyone in our team feared her, I did too. I don't even know how I got her!"
+
+Hemas laughs after he says those words.
+
+Merino's cheeks turn a deeper shade of red.
+
+"That was me in the past. I changed, you changed me."
+
+Manin gaze shifts towards his mother.
+
+"Dad changed you?"
+
+"Yeah. We first met when we were in a 1-on-1 running completion the MTD held. We both got to the end. I was so determined to beat him but somehow, he won. And after winning, he asked if we could be friends, *after winning*. I think that's when I started to fall for your father. I started to become more softer, because of him."
+
+She says with a small smile.
+
+"Wow... So you were really scary but dad turned you really nice!"
+
+Manin says with a grin.
+
+Merino laughs softly at his words and nods her head.
+
+"Pretty much."
+
+The rest of the lunch continues as normal.
+
+After lunch, Manin and Marlen played with Iopono and Trovik while Gevi, Hemas and Merino hang out with eachother.
+
+Manin's family leaves when it turns 5 PM.
+
+"Come again sometimes else!"
+
+Gevi says to Manin's family as they head towards the car.
+
+Hemas turns his head towards his sister and nods his heads.
+
+"Yeah! We'll come again!"
+
+"We definitely will."
+
+Marlen says with a confident look, despite the small blush on his face.
+
+"Yeah..."
+
+Manin has the same blushing face, his voice is soft as a whisper.
+
+They get into their car and drive off towards their home.
+
+## Minvol 3: The Girl At The School Corner
+
+# Chapter 1.3.1 The First Meeting
 
 [New Scene]: Manin is at his elementary school's backyard. It is recess and Manin is playing with the kids. As he goes towards the drinking fountain to drink some water, he hears the sound of a girl crying amongst the chaotic sound of the backyard. Manin who gets confused and curious about this goes to the direction of the the crying. He ends up in a quiet part of the big backyard, there he sees a girl, who looks as the same age as him with long white hair and a white grayish blouse, crying, while holding a paper.
 
