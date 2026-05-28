@@ -462,7 +462,7 @@ Manin's eyes shine brighter than a star when he hears his the older Elekar agree
 "Really! {Thank you so much}[English]! You're the best brother!"
 
 Marlen smirks at Manin's compliment, he closes 
-his eyes and puts thenar space on his chin in a dramatic pose.
+his eyes and puts thenar web space (space between the thumb and index finger) on his chin in a dramatic pose.
 
 "Of course. I'm the best brother out there."
 
@@ -1545,6 +1545,108 @@ Merino laughs softly at his words and nods her head.
 The rest of the lunch continues as normal.
 
 After lunch, Manin and Marlen played with Iopono and Trovik while Gevi, Hemas and Merino hang out with eachother.
+
+"How about we play hide and seek tag?"
+
+Manin suggests with a small smile as he looks down at his younger cousins. His knees slightly bent to meet their level.
+
+"What's that?"
+
+Trovik says with a raised eyebrow.
+
+Manin freezes for a second.
+
+"Oh its just hide and seek but the seeker also has to tag the hider to catch them."
+
+"I don't feel like I belong here."
+
+Marlen quietly mummers to himself as he stares at the younger children.
+
+"Sure."
+
+Trovik says with a neutral tone.
+
+"So who will be the seeker?"
+
+Manin puts his thenar web space on his chin and looks down at floor. After like 3 seconds, Manin stares back at his cousins.
+
+"I'll be the seeker. You guys hide."
+
+The three get out of the room as Manin counts from 10.
+
+"3...2...1... Ready or not hear I come!"
+
+Manin exits the room. He looks around, the first thing that gets his attention is the empty couch of the room, he walks towards it and looks over, nothing.
+
+His gaze then shift towards the bathroom, he goes over, nothing.
+
+His attention next goes to the door leading towards the house's backyard. He approaches the door and opens it. Nothing. That's until he steps outside and suddenly, footsteps running out can be heard.
+
+He turns his head to see Iopono running out.
+
+"I saw you!"
+
+Manin starts running after her. They pass the living room, where the adults are talking. Manin catches her at the kitchen room, it was a short chase.
+
+"Got you!"
+
+He says, his grip on her shirt. A smirk on his face.
+
+"Hmph!"
+
+Iopono crosses her arms and pouts, her eyes closed tightly and her eyebrows furrowed.
+
+Manin then walks upstairs. His eyes wander around the place. He enters the right room, no one seems to be here. There are 3 doors in the room, Manin chooses the 2nd door at the left wall (2 doors at the left wall, 1 door at the front wall).
+
+Manin opens the door, its another bedroom. He enters the room and looks around the place. His gaze moves towards the closet. He approaches the closet and pull it open, only for Marlen to scream "Boo!" at him.
+
+Manin jumps back with a high pitched scream and Marlen immediately leaves the room.
+
+*That bastard!*
+
+He rushes out of the room and tries to chase him. Manin tries to catch him but every turn makes Marlen faster.
+
+Marlen goes downstairs a d Manin rushes to catch him.
+
+"Stop! You're too fast!"
+
+"Isn't that the point?"
+
+Marlen says with a smirk as he reaches downstairs. Manin reaches downstairs, his eyes turn towards the kitchen.
+
+Iopono is holding Marlen from moving.
+
+"Let me go!"
+
+"Manin catch him now!"
+
+Manin doesn't hesitate. He runs towards Marlen and grabs his wrist.
+
+Marlen's eyebrows lower at an angle, a displeased look on his face.
+
+"You won by cheating!"
+
+Manin's smirks at his older brother's words, he looms towards his.
+
+"A win is a win."
+
+The last one is Trovik. Manin tries to look for him around the house, he can't find him. He checks the closet of each room, he checks every bathroom. He checks the corner of each room, he can't find him.
+
+"I give up, Trovik! You can come out!"
+
+Suddenly, the door of Iopono's and Trovik's room opens, revealing Trovik.
+
+Manin, Marlen and Iopono looks back at Trovik with widen eyes, their mouths left hanging.
+
+"You were hiding there?"
+
+Trovik nods his head with a pride smirk. His hands in a grip, positioned on his hips
+
+"While Marlen and Iopono left, I sneakily hid under my bed."
+
+Manin's lips press into a thin line, his eyes staying widened.
+
+"I'm kinda impressed."
 
 Manin's family leaves when it turns 5 PM.
 

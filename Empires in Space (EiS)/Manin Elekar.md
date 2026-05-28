@@ -2,7 +2,7 @@
 
 # Manin Elekar
 
-In 2422, August 18 in the space nation of "Independent Republic of Magvious" or Magvious, in the state of Sakta, in the capital of Sakta, Fedas, in the planet "Herisdag" was born a baby called "Manin Elekar". Manin was born as a "Origin Human"(an origin human are just like normal humans but they are evolved, having evolved features from a normal human. There are many sub-species of humans and origin human are the orginal humans. The origin human and its sub-species life expectancy is 300 years) and a Saktan (an ethnicity from Sakta, originated from the Indian state of Bengal (having both West Bengal and Bangladesh)). Manin was born into the "Royal Elekar" family. A family that onces ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar(origin human) fled to Magvious, became it's leader and saved Sakta from the Dinic Empire and integrated it into Magvious. Manin's father is "Hemas Elekar"(origin human)(his father is Remdik Elekar), mother is "Merino Elekar"(origin human) and grandmother is "Feelio Elekar"(origin human). Manin also has an older brother called "Marlen Elekar"(origin human), born in 2415, November 1st, a 7 year age gap. Manin also has aunt called "Gevi Elekar"(origin human) and 2 cousin "Trovik Elekar"(origin human)(male) and "Iopono Elekar"(origin human)(female) (Gevi had Trovik and Iopono with her 3 year long boyfriwnd, Derme Xoli, but he broke up with her and left her affter she annouched she was pregnant). Manin was older than both of his cousins
+In 2422, August 18 in the space nation of "Independent Republic of Magvious" or Magvious, in the state of Sakta, in the capital of Sakta, Fedas, in the planet "Herisdag" was born a baby called "Manin Elekar". Manin was born as a "Origin Human"(an origin human are just like normal humans but they are evolved, having evolved features from a normal human. There are many sub-species of humans and origin human are the original humans. The origin human and its sub-species life expectancy is 300 years) and a Saktan (an ethnicity from Sakta, originated from the Indian state of Bengal (having both West Bengal and Bangladesh)). Manin was born into the "Royal Elekar" family. A family that onces ruled over the space-nation of Sakta until the Dinic Empire came and invaded them. Manin's grandfather, Remdik Elekar(origin human) fled to Magvious, became it's leader and saved Sakta from the Dinic Empire and integrated it into Magvious. Manin's father is "Hemas Elekar"(origin human)(his father is Remdik Elekar), mother is "Merino Elekar"(origin human) and grandmother is "Feelio Elekar"(origin human). Manin also has an older brother called "Marlen Elekar"(origin human), born in 2415, November 1st, a 7 year age gap. Manin also has aunt called "Gevi Elekar"(origin human) and 2 cousin "Trovik Elekar"(origin human)(male) and "Iopono Elekar"(origin human)(female) (Gevi had Trovik and Iopono with her 3 year long boyfriwnd, Mejar Xoli, but he broke up with her and left her affter she annouched she was pregnant). Manin was older than both of his cousins
 
 Manin's grandfather is the leader of Magvious and his parents are high officials in the Magvon Territorial Defence (MTD), aka Magvious's army. His older brother Marlen was also trained in combat and fighting
 
@@ -496,7 +496,17 @@ Penimi has a energetic personality, she's extroverted. She acts childish but she
 
 Penimi has long blue hair. Pink eyes. C-cup size breast. 5'4. She wears a dark blue sleeveless shirt with a red ribbon on top. Her shirt's armhole has white frills on the edges. She also wears a long red skirt
 
-Soon, the 4th Stellar Republic finds out the multiverse and renames the 4th Stellar Republic to the "Multidimensional Fairist Government of The 4th Stellar Republic" and conquers some parts of different universes, including his own, of course, others nations soon followed, including Magvious. He even made his female version, Femin Elekar (6'0, black long straight ponytail, G-cup breast size, same athletic build, tomboyish, right side of her face is red and right eye green. blue skirt instead of pants. Has TRT and has all of Manin's trauma. But Femin didn't have her version of Manin's lovers, which may be even worse. This version is after moving to the 3rd Stellar Republic, before the 1st Galactic War of her universe) into his girlfriend. She is CM-17 and his secretary and effectively the 3rd leader (after Edo) of the 4th Stellar Republic. This makes his total lover count 17 (11 wives, 1 husband, 4 girlfriend, 1 boyfriend)
+Merino started to have romantic feelings for Manin aswell and soon became Manin's girlfriend while being Hemas's wife. Hemas knows about this and supports it. Merino loves both Manin and Hemas romantically.
+
+Manin hired her into the SDF, she is CM-17
+
+Merino has green eyes, long, silky black hair, slightly wavy, reaching her waist. 5'8, DD-cup breast size. She usually wears a white shirt and red skirt at home.
+
+She has a motherly personality but is also teasing, playful and mischievous too. She passionately talks about stuff that interest her.
+
+She used to be very serious, easily irritate and scary, up until Hemas came in and softened her.
+
+Soon, the 4th Stellar Republic finds out the multiverse and renames the 4th Stellar Republic to the "Multidimensional Fairist Government of The 4th Stellar Republic" and conquers some parts of different universes, including his own, of course, others nations soon followed, including Magvious. He even made his female version, Femin Elekar (6'0, black long straight ponytail, G-cup breast size, same athletic build, tomboyish, right side of her face is red and right eye green. blue skirt instead of pants. Has TRT and has all of Manin's trauma. But Femin didn't have her version of Manin's lovers, which may be even worse. This version is after moving to the 3rd Stellar Republic, before the 1st Galactic War of her universe) into his girlfriend. She is CM-18 and his secretary and effectively the 3rd leader (after Edo) of the 4th Stellar Republic. This makes his total lover count 18 (11 wives, 1 husband, 5 girlfriends, 1 boyfriend)
 
 # Some Other Facts About Manin or the Others
 
@@ -710,7 +720,9 @@ Emilo's affinity is over the kandra-magnetic force
 Valio's affinity is over the kandra-cold force
 Iopono's affinity is over the kandra-biology force
 Penimi's affinity is over the kandra-oxygen force
-Marlen's affinity is over the kandra-temperature force
+Marlen's affinity is over the kandra-temperature
+force
+Merino's affinity is over the kandra-temperature force and kandra-space force
 Femin's is same as Manin's
 
 Islam and practicing Islam is banned in the 4th Stellar Republic. Muslims are allowed in the 4th Stellar Republic and wearing hijabs and other stuff are also allowed (tho you'll get looks), but Islam as the religion and practicing it is banned. Islam is seen as a cult ideology in the 4th Stellar Republic
