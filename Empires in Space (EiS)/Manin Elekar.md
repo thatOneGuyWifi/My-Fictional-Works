@@ -494,7 +494,13 @@ Penimi has a energetic personality, she's extroverted. She acts childish but she
 
 Penimi has long blue hair. Pink eyes. C-cup size breast. 5'4. She wears a dark blue sleeveless shirt with a red ribbon on top. Her shirt's armhole has white frills on the edges. She also wears a long red skirt
 
-Soon, the 4th Stellar Republic finds out the multiverse and renames the 4th Stellar Republic to the "Multidimensional Fairist Government of The 4th Stellar Republic" and conquers some parts of different universes, including his own, of course, others nations soon followed, including Magvious. He even made his female version, Femin Elekar (6'0, black long straight ponytail, G-cup breast size, same athletic build, tomboyish, right side of her face is red and right eye green. blue skirt instead of pants. Has TRT and has all of Manin's trauma. But Femin didn't have her version of Manin's lovers, which may be even worse. This version is after moving to the 3rd Stellar Republic, before the 1st Galactic War of her universe) into his girlfriend. She is CM-17 and his secretary and effectively the 3rd leader (after Edo) of the 4th Stellar Republic. This makes his total lover count 17 (11 wives, 1 husband, 4 girlfriend, 1 boyfriend)
+Merino would also romantically fall in love with Manin and would become Manin's girlfriend. Manin was surprised but let her become his girlfriend. Merino is still Hemas's wife while being Manin's girlfriend. Hemas knows about this and has consented this relationship. Merino loves both Hemas and Ma in romantically
+
+Merino has green eyes, long straight—slightly wavy—hair. 5'10, F-cups. She usually wears a white shirt and red pants at home.
+
+Merino has a motherly personality with a more mischievous and playful personality. Merino—before she met Hemas—was very strict and easily irritable. She had a reputation and a lot of members in her team and MTD feared her. Hemas softened her. 
+
+Soon, the 4th Stellar Republic finds out the multiverse and renames the 4th Stellar Republic to the "Multidimensional Fairist Government of The 4th Stellar Republic" and conquers some parts of different universes, including his own, of course, others nations soon followed, including Magvious. He even made his female version, Femin Elekar (6'0, black long straight ponytail, G-cup breast size, same athletic build, tomboyish, right side of her face is red and right eye green. blue skirt instead of pants. Has TRT and has all of Manin's trauma. But Femin didn't have her version of Manin's lovers, which may be even worse. This version is after moving to the 3rd Stellar Republic, before the 1st Galactic War of her universe) into his girlfriend. She is CM-17 and his secretary and effectively the 3rd leader (after Edo) of the 4th Stellar Republic. This makes his total lover count 18 (11 wives, 1 husband, 5 girlfriend, 1 boyfriend)
 
 # Some Other Facts About Manin or the Others
 
@@ -709,6 +715,7 @@ Valio's affinity is over the kandra-cold force
 Iopono's affinity is over the kandra-biology force
 Penimi's affinity is over the kandra-oxygen force
 Marlen's affinity is over the kandra-temperature force
+Merino's affinity is over the kandra-temperature force and kandra-space force
 Femin's is same as Manin's
 
 Islam and practicing Islam is banned in the 4th Stellar Republic. Muslims are allowed in the 4th Stellar Republic and wearing hijabs and other stuff are also allowed (tho you'll get looks), but Islam as the religion and practicing it is banned. Islam is seen as a cult ideology in the 4th Stellar Republic
@@ -716,7 +723,5 @@ Islam and practicing Islam is banned in the 4th Stellar Republic. Muslims are al
 Dappy's voice is Manin's voice
 
 White Death likes to change his voice depending on the person he's talking to for an advantage. So like in a fight, he might use a girl's voice to tease his male fighter and use his surprise as an advantage. Tho he mainly switches voices for fun. He oftenly switch his voice.
-
-Manin and even in his White Death stage has entomophobia
 
 Manin, after he became White Death mainly uses the Stellarean regdar instead of the Magvon regdar. The Stellarean regdar's base is white with a blue straight line coming out (pretty much like a lightsaber). He mainly uses both the Stellarean and Magvon regdar together
