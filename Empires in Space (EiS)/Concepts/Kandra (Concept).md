@@ -161,3 +161,8 @@ Outside the EiS universe are different universes, and between those universe, th
 When a thing from the EiS universe leaves the EiS universe and enters into this lawless space, called the **"Outside Space"**, they will carry the EiS universe's laws with them, in like a small bubble. The size of this small bubble will be the size of the object itself, or it's mass, so when a human enters Outside Space, their EiS bubble will be the size of them
 
 There is a way to increase this bubble or add the laws of the EiS universe in Outside Space. That's by using any kandra force. You can use any force to create a copy of the EiS reality in any point in Outside Space with the forces's specific properties.
+
+---
+IIP is divided into "touch IIP", tIIP, "audio IIP", aIIP and "visual IIP", vIIP.
+
+Every level higher = higher IIP. And every IIP = second. So 30 tIIP = 30 seconds of being able to touch before going on cooldown. Cooldown lasts for 240 hours or 10 days. Reaching 100 tIIP, aIIP or vIIP means the cooldown is gone and you can fully touch, speak and be seen.
