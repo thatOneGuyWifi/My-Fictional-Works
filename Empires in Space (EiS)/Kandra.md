@@ -131,7 +131,7 @@ To achieve an appearance change, you need to have enough wp, usually 12 kwp is e
 
 If an organism dies in an injured way (which is a lot of times), then kandra takes the job to fix the injuries before being sent to the afterlife.
 
-Detached souls from the afterlife can teleport in inlife. Unlike ghosts or souls portrayed in other media, detached souls cannot fly, they have to follow gravity and cannot go through walls.
+Detached souls from the afterlife can teleport in inlife. When they do, they don't follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for inlife, not afterlife).
 
 When a detached soul teleports in inlife, it teleports to the place in inlife that was adjacent to the afterlife place's counterpart the detached soul was in. For example, if a detached soul is in the afterlife's Kolkata, India and decides to teleport to inlife, the soul will get teleported to inlife's Kolkata, India.
 
@@ -140,5 +140,3 @@ For a detached soul to teleport to inlife (or if a detached soul in inlife wants
 A detached soul cannot interact with inlife **right away**, it needs something called the **"Inlife Interaction Power" (IIP)**.
 
 IIP, as the name states, is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
-
-IIP reaches up to 100. 100 IIP is the theoretical limit the IIP can reach. With 100 IIP, the soul is fully visible.
