@@ -140,3 +140,5 @@ For a detached soul to teleport to inlife (or if a detached soul in inlife wants
 A detached soul cannot interact with inlife **right away**, it needs something called the **"Inlife Interaction Power" (IIP)**.
 
 IIP, as the name states, is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
+
+IIP reaches up to 100. 100 IIP is the theoretical limit the IIP can reach. With 100 IIP, the soul is fully visible.
