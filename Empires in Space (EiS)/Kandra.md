@@ -10,6 +10,11 @@
 [Origins And Discovery](#origins-and-discovery)
 
 [The Afterlife And Souls](#the-afterlife-and-souls)
+├── [The Afterlife](#the-afterlife)
+├── [The Soul And Soulspace](#the-soul-and-soulspace)
+├── [Willpower (wp)](#willpower-wp)
+└── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)
+    └── [How To Train Your IIP](#how-to-train-your-iip)
 
 # Introduction
 
@@ -76,11 +81,15 @@ The Combine named kandra, kandra, and all the rules of kandra.
 
 # The Afterlife And Souls
 
+## The Afterlife
+
 In EiS, the afterlife exists, although its much more different from something like heaven or hell.
 
 When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called "inlife" and "afterlife". Inlife is the semi-world where the living live and afterlife is the semi-world where the "dead" live. The two semi-worlds were created at the same time.
 
 The afterlife and inlife worlds are "replica" of eachother. But to be accurate, they are replica's of when the EiS universe got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother, but not identical. Afterlife or inlife doesn't "update" itself to match eachother.
+
+## The Soul And Soulspace
 
 Every life in EiS has something called a **"Kandra Soul"** or simply **"Soul"**. The soul is a **physical** substance that resides in the entire body (as in it occupies the entire body).
 
@@ -112,6 +121,8 @@ There are two types of souls, **attached souls** and **detached souls**. Attache
 
 Detached souls are souls which are not attached to any body or organism. They are the ones who live in afterlife. They are the "dead" ones.
 
+## Willpower (wp)
+
 Detached souls can change their appearance and physiology using something called **"willpower" (wp).**
 Willpower here means the desire to do something, and willpower is measured in wp. That means the higher wp you have, the higher the desire you have to do that thing.
 
@@ -129,14 +140,111 @@ These are the only things you can change with willpower.
 
 To achieve an appearance change, you need to have enough wp, usually 12 kwp is enough for a full body change. Then, you just need to want it, and your appearance should automatically change.
 
+---
+
 If an organism dies in an injured way (which is a lot of times), then kandra takes the job to fix the injuries before being sent to the afterlife.
 
-Detached souls from the afterlife can teleport in inlife. When they do, they don't follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for inlife, not afterlife).
+Detached souls from the afterlife can teleport in inlife. When they do, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for inlife, not afterlife).
 
 When a detached soul teleports in inlife, it teleports to the place in inlife that was adjacent to the afterlife place's counterpart the detached soul was in. For example, if a detached soul is in the afterlife's Kolkata, India and decides to teleport to inlife, the soul will get teleported to inlife's Kolkata, India.
 
 For a detached soul to teleport to inlife (or if a detached soul in inlife wants to go to the afterlife), the soul just have to simply want it.
 
-A detached soul cannot interact with inlife **right away**, it needs something called the **"Inlife Interaction Power" (IIP)**.
+## Inlife Interaction Power (IIP)
 
-IIP, as the name states, is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
+A detached soul cannot interact with the inlife **right away**, they need something called the **"Inlife Interaction Power" (IIP)**.
+
+IIP—as the name states—is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
+
+The IIP is divided into 3 types:
+- **"touchability Inlife Interaction Power" (tIIP)**. This type refers to being able to touch inlife objects (without it phasing through them) and get touched by inlife objects/organisms (Author's Note: I did not intend for "get touched" to mean anything sexual, but that also technically applies in this case).
+- **"audible Inlife Interaction Power" (aIIP)**. This type refers to being able to make sound waves in the inlife, thus being heard by other inlife organisms.
+- **"visual Inlife Interaction Power" (vIIP)**. This type refers to the inlife light reflecting against them, making them visible to other inlife organisms.
+
+The values of tIIP, aIIP and vIIP are all in seconds, meaning 10 tIIP = 10 seconds of being able to touch inlife objects before going on cooldown. This cooldown lasts for 240 hours or 10 days. This applies for aIIP and vIIP aswell.
+
+Let's say you have 25 aIIP, and let's say you use 10 of your aIIP; you now have 15 aIIP. You don't use your remaining aIIP and wait for 10 days to get 25 aIIP, which will give you a total of 40 aIIP. **BUT**, the cooldown doesn't work like that, if you have 15 aIIP, you will still receive 25 aIIP after 10 days. IIP knows your actual gained IIP from training and after the cooldown, it measures the right amount of IIP to give you, which is exactly the amount you gained from training. The same applies for tIIP and vIIP.
+
+When tIIP, aIIP or vIIP reach 493, the cooldown will no longer be in effect and you will be able to use the type you got 493 on fully, without any cooldown.
+
+The IIP value follows this structure:
+
+> [your tIIP value]t[your aIIP value]a[your vIIP value]v IIP
+
+So, something like 49t8a12v IIP means you have 49 tIIP, 8 aIIP and 12 vIIP.
+
+### How To Train Your IIP
+
+Detached souls can feel a "feeling" related to tIIP, aIIP and vIIP; these feelings are called the "tIIP Expander", "aIIP Expander" and "vIIP Expander" respectively (collectively called the IIP Expander).
+
+This feeling cannot be described with words, it must be felt/experienced. It's like trying to describe a feeling you never felt. You can't never truly know how it feels until you feel it yourself. Infact, that is literally what this is, you can't know how it feels unless you feel it for yourself, which isn't exactly possible since this is a fictional work.
+
+What is the IIP Expander exactly? As previously stated, the IIP Expander is a feeling detached souls can feel. They are the things which lets a detached soul get IIP.
+
+A detached soul can focus on the feeling of the IIP Expander. They don't usually feel the IIP Expander, they only do when focusing on it, and detached souls have the ability to focus on each IIP Expander.
+
+Each feeling differs based on what IIP type they focus on, so tIIP, aIIP and vIIP all feel different from eachother.
+
+I'll use tIIP for most of the examples.
+
+When a detached soul feels the tIIP Expander, they can "push" or expand this feeling; this is how they train their IIP (tIIP in this case). They focus on an IIP Expander and try to expand it. Again, this is not fully describable. It's like trying to explain how to move your arm to an armless person, they can't fully know how it feels like to move an arm until they get one.
+
+I like to imagine it as an orb, and when you expand it, the orb gets bigger, expanding.
+
+When you push the tIIP Expander, you get something called "tIIP Expansion" or tIIPE (aIIPE and vIIPE for aIIP and vIIP respectively and IIPE to express all the three types of IIP Expansion). IIPE is what lets you gain IIP. 208 ktIIPE (kilo tIIPE) = 1 tIIP, same for the other aIIP and vIIP.
+
+The amount of IIPE you get depends on something called "Selective IIP Concentration" or SIIPC.
+
+When detached souls try to expand IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single (or multiple) body part
+
+SIIPC says: the less mass you concentrate on, the more IIPE you gain in an shorter amount of time for that mass. What this means is if you concentrate your IIP Expander into a smaller body part, like your finger, you gain IIPE much faster than if you were to concentrate it into a larger body part like your arm (or your entire body, which IIPE gain is very slow).
+
+Let's do an example:
+
+There are two detached souls, I'll name named DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into both of his knees. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than two knees.
+
+There is another way to get IIPE faster, that is by doing the thing of your IIP type that is stated in the name in the inlife. What that means is:
+- if you want to get faster tIIPE, you need to touch more inlife objects (it has touchability in its name).
+- if you want to get aIIPE faster, you need to speak more or make sounds more in the inlife (it has audible in its name).
+- if you want to get vIIPE faster, you need to be in more bright places (it has visual in its name).
+
+Here is a much more detailed explanation:
+
+**For tIIPE**:
+
+Teleport to the inlife and touch an object, any object. Your hands will phase through it of course but that gives you more tIIPE. Keep your hand in an inlife object and your tIIPE increases. The more your cover yourself in inlife objects, the more tIIPE.
+
+However, don't touch the same object for too long (around 4 minutes) because then the object will give you much less tIIPE until it stops giving you any. So you can't just cheese it.
+
+You also need to be expanding your tIIPE Expander while touching inlife objects, otherwise you'll get 0 tIIPE. Same goes for aIIPE and vIIPE
+
+Distance plays a key role for tIIPE (and aIIPE and vIIPE).
+
+- Distance playing a role in entire body tIIPE: When you touch an inlife object, the body part which is closest to the object gets more tIIPE, body parts farther get less tIIPE and so on.
+- Distance playing a role in SIIPC: For this example, lets say you are concentrating your tIIP Expander to your foot and you touch a inlife object with your hand. Distance plays a similar role here; the closer the SIIPC is to the inlife object, the more tIIPE your get. And for this example, the SIIPC is in the foot while the inlife object is in your hand, tIIPE from the object is negligible.
+
+***
+
+**For aIIPE**:
+
+Teleport to the inlife and try to make sounds. Speaking, trying to make sounds with your body by hitting inlife objects. It won't make sound but increase your aIIPE. The more sound you make, the more aIIPE.
+
+A similar problem arrives when you try to make sound by hitting the same inlife object for too long (around 4 minutes). It will give you less and less aIIPE until it gives no aIIPE.
+
+Distance again plays a key role, but you already know that (hopefully).
+
+- Distance playing a role in entire body aIIPE: When you speak or make sound with a part of your body, the body part closest to the sound gets more aIIPE, farther body parts gets less aIIPE and so on.
+- Distance playing a role in SIIPC: For this example, you set your SIIPC to your forehead and you speak. Since the forehead is close to the mouth (which is doing the speaking), the more aIIPE from speaking will be more noticeable.
+
+***
+
+**For vIIPE**:
+
+Teleport to the inlife and go to a bright place/room, like outside during the day or a room with like hundreds of light bulb. They won't make you visible but you'll get more vIIPE. The brighter the place, the more vIIPE.
+
+A similar problem arrives when you stay in the same bright place for too long (around 4 minutes). The place will give you less and less vIIPE until it stops giving you any.
+
+Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable. For both of the cases, I'll use the same example: A flashlight is being pointed behind you.
+
+- Distance playing a role in entire body vIIPE: The body parts closest to the source of light get more vIIPE while the body parts farther get less vIIPE and so on.
+- Distance playing a role in SIIPC: For this example, the SIIPC is the back of your neck. Since the flashlight is hitting your back, the more vIIPE from they flashlight is noticeable.
