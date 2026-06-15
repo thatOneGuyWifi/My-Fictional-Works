@@ -9,7 +9,8 @@
 
 [Origins And Discovery](#origins-and-discovery)
 
-[The Afterlife And Souls](#the-afterlife-and-souls)  
+[The Afterlife And Souls](#the-afterlife-and-souls)
+
 &nbsp;&nbsp;&nbsp;[The Afterlife](#the-afterlife)
 
 &nbsp;&nbsp;&nbsp;[The Soul And Soulspace](#the-soul-and-soulspace) 
