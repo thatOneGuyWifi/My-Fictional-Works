@@ -11,15 +11,15 @@
 
 [The Afterlife And Souls](#the-afterlife-and-souls)
 
-├── [The Afterlife](#the-afterlife)
+├── [The Afterlife](#the-afterlife)│
 
-├── [The Soul And Soulspace](#the-soul-and-soulspace)
+    ├── [The Soul And Soulspace](#the-soul-and-soulspace)│
 
-├── [Willpower (wp)](#willpower-wp)
+    ├── [Willpower (wp)](#willpower-wp)│
 
-└── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)
+    ├── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)│
 
-└── [How To Train Your IIP](#how-to-train-your-iip)
+    │    └── [How To Train Your IIP](#how-to-train-your-iip)
 
 # Introduction
 
