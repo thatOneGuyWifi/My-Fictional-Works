@@ -9,17 +9,12 @@
 
 [Origins And Discovery](#origins-and-discovery)
 
-[The Afterlife And Souls](#the-afterlife-and-souls)
-
-&nbsp;&nbsp;&nbsp;[The Afterlife](#the-afterlife)
-
-&nbsp;&nbsp;&nbsp;[The Soul And Soulspace](#the-soul-and-soulspace) 
-
-&nbsp;&nbsp;&nbsp;[Willpower (wp)](#willpower-wp)
-
-&nbsp;&nbsp;&nbsp;[Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How To Train Your IIP](#how-to-train-your-iip)
+[The Afterlife And Souls](#the-afterlife-and-souls)  
+├── [The Afterlife](#the-afterlife)  
+├── [The Soul And Soulspace](#the-soul-and-soulspace)  
+├── [Willpower (wp)](#willpower-wp)  
+└── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)  
+&nbsp;&nbsp;&nbsp;└── [How To Train Your IIP](#how-to-train-your-iip)
 
 # Introduction
 
