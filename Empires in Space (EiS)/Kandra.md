@@ -10,7 +10,7 @@
 [Origins And Discovery](#origins-and-discovery)
 
 [The Afterlife And Souls](#the-afterlife-and-souls)  
-├── [The Afterlife](#the-afterlife)  
+├── [The Afterlife And Inlife](#the-afterlife-and-inlife)  
 ├── [The Soul And Soulspace](#the-soul-and-soulspace)  
 ├── [Willpower (wp)](#willpower-wp)  
 └── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)  
@@ -81,39 +81,47 @@ The Combine named kandra, kandra, and all the rules of kandra.
 
 # The Afterlife And Souls
 
-## The Afterlife
+## The Afterlife And Inlife
 
 In EiS, the afterlife exists, although its much more different from something like heaven or hell.
 
-When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called "inlife" and "afterlife". Inlife is the semi-world where the living live and afterlife is the semi-world where the "dead" live. The two semi-worlds were created at the same time.
+When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called the "inlife" and the "afterlife". Inlife is the semi-world where the living live and afterlife is the semi-world where the "dead" live. The two semi-worlds were created at the same time.
 
-The afterlife and inlife worlds are "replica" of eachother. But to be accurate, they are replica's of when the EiS universe got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother, but not identical. Afterlife or inlife doesn't "update" itself to match eachother.
+The afterlife and inlife worlds are "replica" of eachother. But to be accurate, they are replicas of when the EiS universe got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother, but not identical. The Afterlife or inlife doesn't "update" itself to match eachother.
 
 ## The Soul And Soulspace
 
 Every life in EiS has something called a **"Kandra Soul"** or simply **"Soul"**. The soul is a **physical** substance that resides in the entire body (as in it occupies the entire body).
 
-You might be asking, if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you need to first know that souls reside in **soulspace**, soulspace is a special branch of the afterlife which exists inside inlife.
+You might be asking, if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you need to first know that souls reside in **soulspace**. Soulspace is a special branch of the afterlife which exists inside the inlife.
 
-Soulspace isn't exactly a single thing like inlife or afterlife, its multiple. When a life is birthed (in inlife), it automatically creates a soul (we'll get to that later) and soulspace for that soul to reside in. 
+Soulspace isn't exactly a single thing like inlife or afterlife, it's multiple. When a life is birthed (in the inlife), kandra automatically creates a soul and a soulspace for that soul to reside in for that organism.
 
-The soulspace takes the shape of the soul, which takes the shape of the organism. Every "alive" soul in inlife gets their own soulspace, so that the soul can live inside it. So each soulspace is unique.
+If someone gives birth in the afterlife, only the soul is created (we'll get to this later).
+
+The soulspace takes the shape of the soul, which takes the shape of the organism. Every "alive" soul in the inlife gets their own soulspace, so that the soul can live inside it. So each soulspace is unique.
 
 The soulspace is anchored with its organism, which means when the organism moves, the soulspace moves. Basically it mirrors every movement the organism makes.
 
-The soul's job is simply to carry the organism to the afterlife, that is the soul's primary job. The soul can also act as the organism's identity (however, that is not the soul's primary job).
+The soul's primary job is simply to carry the organism to the afterlife, but the soul have other jobs than simply transporting the organism to the afterlife.
 
-The soulspace's job is to let the soul stay with its organism, so it doesn't like wander around.
+The soulspace's job is to let the soul stay with its organism, otherwise the soul will go to the afterlife.
 
 Think of the soul as an organ and the soulspace as the skeleton. Without the skeleton, the organs will move around and touch eachother, which will cause complications. With the skeleton, everything stays stable. The same logic applies here, without the soulspace, the soul goes to afterlife and the organism dies; with the soulspace, it keeps the soul inside the organism to keep it alive.
 
-For a soul to go to the afterlife, aka "die", it needs its soulspace to be destroyed, and for a soulspace to be destroyed, it has to meet the **"Death Qualifying Factor"** (DQF). Its different for other species, but for humans, to meet the DQF, the brain, heart AND lungs need to stop working.
+For a soul to go to the afterlife, aka "die", it needs its soulspace to be destroyed; and for a soulspace to be destroyed, it has to meet the **"Death Qualifying Factor"** (DQF). It's different for other species, but for humans; to meet the DQF, the brain, heart **AND** lungs need to stop working.
 
-If somehow the soulspace gets destroyed without DQF. Then the organism enters a "soul dead" state where their bodies are technically functional, but their bodies doesn't move or do anything. This happens because the soul initiates action; and without a soul, no action takes place, entering a "dead" or coma state.
+If somehow the soulspace gets destroyed without DQF, then the organism enters a "soul dead" state, where their bodies are technically functional but their bodies don't move or do anything.
 
-The Soulspace takes the shape of its organism. It only takes the outline of the organism. Think of it like your shadow, it only displays your shape, no details or anything.
+This happens because a soul of an organism is like its consciousness. The (human and for most to all species) brain is connected to the soul with a metaphysical (or physical, it just exists in the soulspace) organ called the "Syovos"; the soul acts as the initiator or the consciousness of the organism. When an organism goes unconsciousness, the neurons connected to the Syovos temporarily stops, separating the soul from the brain temporarily (When someone comes back to consciousness, the neurons connected to the Syovos starts working properly).
 
-The soul on the other hand takes the full appearance (anatomy and a modified physiology) of the organism. So the appearance of a human's soul will look exactly like that human and even contain its own version of the human's organs and other biological matter. But the physiology is slightly changed so that it doesn't need any materials for living, as souls cannot die (the soul can theoretically not do that but that would cause unnecessary pain, which the human soul and souls of most species avoided) and so the soul protect itself from other souls trying to enter inside it or its living organism (we'll get to that later).
+So if you take away the soulspace: the Syovos gets destroyed with the soulspace and the soul goes to the afterlife; so there is no initiator or consciousness, resulting in the organism to enter a "dead" or coma state
+
+The neurons connecting the brain and soul lie in the claustrum.
+
+The Soulspace takes the shape of its organism; as in it only takes the outline of the organism. Think of it like your shadow, it only displays your shape; no details or anything. The color of the soulspace is a bright yellow or #f7e013 exactly.
+
+The soul on the other hand takes the full appearance (anatomy and a modified physiology) of the organism. So the appearance of a human's soul will look exactly like that human and even contain its own version of the human's organs and other biological matter. The physiology is slightly changed so that it doesn't need any materials for living, as souls cannot die (the soul can theoretically not do that but that would cause unnecessary pain, which the human soul and souls of most species avoided).
 
 Both the soul and soulspace's appearance change as the appearance of the organism change.
 
@@ -131,24 +139,26 @@ Willpower can only be used to change the appearance of your soul IF you are a de
 wp uses the metric system. Almost every measurement system here uses the metric system (except for IIP and PPI).
 
 These are the things willpower can change:
-- Change the color of your outer appearance, you can even do designs.
+- Change the color of your outer appearance. You can even do designs.
 - Change the style and length of your hair.
 - Change yourself into being something more youthful or something older (if you want to).
 - Reduce the amount of fat inside your body (you can't get back the reduced fat from wp, and reduction is only limited until essential fat is reached).
 
 These are the only things you can change with willpower.
 
-To achieve an appearance change, you need to have enough wp, usually 12 kwp is enough for a full body change. Then, you just need to want it, and your appearance should automatically change.
+To achieve an appearance change, you need to have enough wp, usually 12 kwp is enough for a full body change. Then you just need to want it, and your appearance should automatically change.
 
 ---
 
 If an organism dies in an injured way (which is a lot of times), then kandra takes the job to fix the injuries before being sent to the afterlife.
 
-Detached souls from the afterlife can teleport in inlife. When they do, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for inlife, not afterlife).
+Detached souls from the afterlife can teleport to the inlife and vise versa. When they do travel to the inlife, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
 
-When a detached soul teleports in inlife, it teleports to the place in inlife that was adjacent to the afterlife place's counterpart the detached soul was in. For example, if a detached soul is in the afterlife's Kolkata, India and decides to teleport to inlife, the soul will get teleported to inlife's Kolkata, India.
+When a detached soul teleports in the inlife, they teleport to the place in the inlife that is adjacent to the afterlife place's counterpart the detached soul was in. For example: if a detached soul is in the afterlife's Kolkata, India and decides to teleport to the inlife, the soul will get teleported to inlife's Kolkata, India.
 
-For a detached soul to teleport to inlife (or if a detached soul in inlife wants to go to the afterlife), the soul just have to simply want it.
+For a detached soul to teleport to the inlife (or if a detached soul in the inlife wants to go to the afterlife), the soul just have to simply want it.
+
+Detached souls can also view the soulspace of an organism by again, simply wanting it.
 
 ## Inlife Interaction Power (IIP)
 
