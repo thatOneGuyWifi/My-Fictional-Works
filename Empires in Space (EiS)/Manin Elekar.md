@@ -2475,7 +2475,7 @@ The girl's eyes widen momentarily again.
 
 The other two girls behind her nod and approach Manin.
 
-They move to grabs his arm but before they do, Manin kicks the knee of the girl on his left, shock ran through the girl's body, her hands move to her knees in reflex.
+They move to grabs his arm but before they do, Manin kicks the knee of the girl on his left, shock runs through the girl's body, her hands moves to her knees in reflex.
 
 "Oww..."
 
@@ -2535,128 +2535,186 @@ But before should could say anything, A teacher comes into the scene, a decent c
 
 ***
 
-"So you four were fighting?"
+"So, you two were fighting eachother?"
 
-The principal says, his hand placed on the table with his fingers loosely interlocked.
+The principal's fingers are interlocked; placed on the desk. His left eyebrow raised slightly.
 
-"They started it first! I was just trying to play with my friend!"
+"They started it!"
 
-"We just wanted to have a little chat with your *friend*, you didn't have to fight us."
+Manin speaks up. Getting out of his chair and slamming his hands on the desk.
 
-The pink haired girl speaks with a annoyed quality in her voice.
+"Oh please, we just wanted to talk with your friend, you were the one who started the fight."
 
-"No! They came up to us first and then started to pull me away from her! I was protecting her and myself! They bully her!"
+The pink haired girl rolls says as she rolls her eyes. Her arms and legs crossed.
 
-Manin proclaims, his eyebrows angled.
+Manin turns his head back at the girl sharply; his body follows next. His eyes widen with his pupils constricting.
 
-The principal's eyes widen momentarily, he stares back at the pink haired girl and her friends.
+"You ordered your henchmen to take me away from her and tried to pull me away! I had to defend myself!"
 
-"Is this true?"
+A smirk forms on the girl's face at Manin's words.
 
-"No way! We just like to tease her that's all."
+"So you are saying you *did* start it?"
 
-One of the pink haired girl's henchmen speaks.
+Manin's body freezes at her words; his mouth left open.
 
-"No, you three bully her—!"
+"No! I... You...! They—!"
 
-Manin gets interrupted the principal.
+"Manin, sit down."
 
-"Okay, I'll take it from here."
+Manin looks back at the principal. He hesitates for a moment before pulling the chair back and sitting on it.
 
-He stares back at Manin.
+After that, the principal lets out a sigh with his eyes closed before reopening them.
 
-"You're a good kid, Manin. So I'll let you off with a warning, don't try to fight anyone, if you see any of the students hurting your friends, report it to the teachers or me."
+"Manin, you're a good kid, and I know you tried to protect your friend, but you know fighting is against the school rules."
 
-Manin nods his head.
+Manin's head lowers at the principal's words; a frown being visible even after pulling his head down. He nods slightly.
 
-"{Thank you, sir}[English]."
+"So, I need you to promise me you won't fight again, and if someone tries to hurt you or your friends, report it to the teachers or me, okay?"
 
-He then looks back at the pink haired girls and her henchmen.
+"...I promise..."
 
-"I'll let you three of with a warning too, don't start any fight."
+The principal then looks back at the three girls behind Manin.
 
-The three nod their heads.
+"You three too, promise me you three won't start any fights."
 
-Manin and three gets out of the principal's office. Before Manin leaves the principal says:
+The pink haired girl's lip twitches into a sneer while the corners of her mouth curl downwards. Her upper eyelids slightly lowered.
 
-"And go to the nurses office to get your injuries treated."
+"But we didn't start the fight! He did!"
 
-Manin and the three girls nod before leaving.   
+The principal's eyes draw together at her words. His lips pressed thin.
 
-Izarith—who is standing outside the principal's door rushes to hug Manin.
+"Yimo, promise me you won't start a fight or you're getting detention for the rest of recess with your two friends."
 
-"You're gonna pay for what you did."
+Yimo's eyes momentarily widen while her eyebrows stays lowered.
 
-The pink haired girl says with a snare and leaves with her henchmen.
+"Ugh! Fine! I promise I won't start any fights!"
 
-"I'm so sorry! If it wasn't for me, you wouldn't have got in trouble. Please forgive me!"
+The principal shakes his head in disappointment.
 
-Manin's eyes widen for a split second.
+"No, say it like you mean it."
 
-"Izarith, this isn't your fault! Its there's! They should be sorry! Not you!"
+Yimo stares back at her principal with her eyebrows and eyelids lowered in annoyance.
 
-Izarith shakes her head, tears flowing freely from her eyes.
+"But I did promise it! Isn't that enough?"
 
-"No! Its because of me you got hurt! They were just targeting me! And now they'll target you too! You should've never become friends with me! I'll only bring you down!"
+"You didn't meant it. Say it like you mean it or detention"
 
-She sobs as she says those words.
+Yimo lets out a frustrated "ugh" at the principal's persistence. She uncrosses her legs and stares at the wall.
+
+"I promise..."
+
+"You two too."
+
+"We promise......"
+
+Both of Yimo's henchmen says with a defeated look.
+
+The lips of the principal curls upward into a satisfied smile.
+
+"Good. Now go to the nurse's office to get your injuries checked"
+
+Manin and the three girls exit the principal's office. Izarith—Who is standing outside the principal's office with a look of dread—rushes towards Manin, wrapping her arms around him tightly. Her body violently shaking.
+
+Yimo sees the display and her lips curl upwards into a sneer.
+
+"Pathetic."
+
+Manin is however unfazed by the insult. His upper eyelid pulls down slightly in annoyance.
+
+"Just leave already."
+
+Yimo rolls her eyes and starts to walk away, but before she does, she says:
+
+"Oh, but remember, you're already our problem."
+
+With a smirk and leaves with the other two.
+
+Manin is again, unfazed by that comment. He looks back at Izarith; tears seems to be forming on the bottoms of her eye. Her arms tighten around Manin again.
+
+"I'm so sorry! You got in trouble because of me! I'm so sorry! I'm the worst friend!"
+
+Manin's mouth open at Izarith's words but no words comes out. His eyebrows furrowing slightly; His arms wrapping around her weakly.
+
+"Don't cry.. It's not your fault. They are the ones who started it, not you."
+
+Izarith shakes her head. Tears are now freely flowing down her eyes. She's convinced it's her fault, because everything is her fault.
+
+"But you still got hurt! Because you were trying to protect me! You should've just let them bully me! You should've never made me your friend!"
 
 "Stop crying."
 
-Izarith's eyes open wide, her body freezing for just a second.
+Izarith's eyes widen at Manin's abrupt words. Her body freezing, even the tears stop.
 
-"And don't be sorry. I promised you to be your friend and protect you, I won't break that. If they come for me, so be it. I'll show them not to mess with me."
+"Huh?"
 
-Izarith stares at Manin with a look of shock. Then, she tightens her hug and buries her face on his chest. Her tears staining it.
+"And stop apologizing. It's not your fault, it never was. It's them. And do you think I'll just end our friendship because of me getting hurt? I'm a training Magvon warrior, of course I'm going to get hurt. And I made a promise to protect you, and I don't break promises."
 
-"You're the best friend I could ask for!"
-
-Manin smiles at pats her head.
-
-"Lets play now, okay?"
-
-Izarith brings out her head from his chest and nods her head and pulls away from the hug, wiping her tears.
-
-"Okay..."
-
-The rest of recess goes fairly normal after that. Manin and Izarith play with eachother. The rest of the subject periods go normally too.
-
-School ends. Manin walks home with his older brother.
-
-"Today I met Izarith's bullies."
-
-Marlen's eyes widen and eyebrows lower in an alarmed expression.
-
-"You did?"
-
-Manin nods his head.
-
-"And I beat them up!"
-
-"You what?"
-
-"Yeah, I beat them up because they were gonna bully Izarith!"
-
-"You beat them up?"
-
-"Yeah! Me and them had to go to the principal's office, but the principal let me, *and them*, go with a warning!"
+Izarith's eyes widen even further as Manin speaks. Her tight hold loosening. She looks up at him with disbelief; like the very notion of it is revolutionary to her.
 
 "Manin..."
 
-"What?"
+Manin's hand goes up towards her face, a micro-flinch comes out of her before Manin wipes the tears from her face. His expression softening.
 
-"I told you to not do anything stupid and what did you do? You beat them?"
+"So stop crying. I'll always be here for you."
 
-"They deserved it! Otherwise they'd bully my friend!"
+Manin gives her a small, soft smile.
 
-Marlen lets out a sigh.
+Izarith's hold of Manin suddenly tightens again. Tears start to flow freely again, but this time not from sadness. She buries her face against Manin, her tears staining his shirt.
 
-"Whatever, just don't fight them, tell it to your teacher or principal."
+"You're the best friend I could ask for!"
 
-"Fine... Don't tell this to mom or dad about this."
+Manin smiles at her words. His hands gently strokes her hair. His other arm now fully wrapping around her, although not as tightly as her.
 
-"I won't."
+"We wasted enough time, let's play now."
 
-"{Thanks}[English]."
+Izarith pulls her face from his chest and nods. A smile, an actual smile is on her face.
+
+Manin and Izarith play together for the rest of recess. The periods after school go pretty normally aswell. Manin also went to the nurse to get his injuries treated after recess.
+
+After school is over, Manin and Marlen together head home.
+
+Marlen notices Manin's nose is red and swollen. Marlen raises a single eyebrow at the sight. He lightly taps Manin's shoulder.
+
+"Why is your nose swollen?"
+
+Manin doesn't immediately say anything. He hesitates for a few seconds before finally letting out:
+
+"I...got into a fight in school."
+
+Marlen stops in his tracks. His eyes widening and his pupil constricting.
+
+"You what?"
+
+"I was trying to protect Izarith! They were trying to pull me away from her so I had to do something!"
+
+Marlen's hand goes up to the bridge of his nose and he pinches it; his eyes closes aswell.
+
+"Manin... I told you to not do anything stupid and what did you do?"
+
+Manin fully turns towards his older brother.
+
+"But I had to! Otherwise she would get bullied!"
+
+"You could've told it to the teacher, or principal! You didn't had to fight them!"
+
+"But I—"
+
+"Let's forget about that for a second, how are you going to explain your swollen nose to mom and dad?"
+
+"I'll just tell them I fell down the stairs."
+
+Marlen lets out a sigh and shakes his head.
+
+"Of course you will."
+
+"Don't tell mom or dad what actually happened."
+
+"I won't but don't get into any fights again."
+
+"Yeah, I promised it to the principal."
+
+Marlen lets out another sigh; his eyelids pulling down.
+
+"Of course you got sent to the principal's office."
 
 ### Chapter 3.3.1
