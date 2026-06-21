@@ -182,7 +182,7 @@ A detached soul cannot interact with the inlife **right away**, they need someth
 IIP—as the name states—is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
 
 The IIP is divided into 3 types:
-- **"touchability Inlife Interaction Power" (tIIP)**. This type refers to being able to touch inlife objects (without it phasing through them) and get touched by inlife objects/organisms (Author's Note: I did not intend for "get touched" to mean anything sexual, but that also technically applies in this case).
+- **"touchability Inlife Interaction Power" (tIIP)**. This type refers to being able to touch inlife objects (without it phasing through them) and get touched by inlife objects/organisms.
 - **"audible Inlife Interaction Power" (aIIP)**. This type refers to being able to make sound waves in the inlife, thus being heard by other inlife organisms.
 - **"visual Inlife Interaction Power" (vIIP)**. This type refers to the inlife light reflecting against detached souls, making them visible to other inlife organisms.
 
@@ -226,13 +226,15 @@ When you push the tIIP Expander, you get something called "tIIP Expansion" or tI
 
 The amount of IIPE you get depends on something called the "Selective Inlife Interaction Power Concentration" or SIIPC.
 
-When detached souls try to expand an IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), the IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single (or multiple) body part(s).
+When detached souls try to expand an IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), the IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single body part.
 
 SIIPC says: the less mass you concentrate on, the more IIPE you gain in an shorter amount of time for that mass. What this means is if you concentrate your IIP Expander into a smaller body part, like your finger, you gain IIPE much faster than if you were to concentrate it into a larger body part like your arm (or your entire body, which IIPE gain is very slow).
 
 Let's do an example:
 
-There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into both of his knees. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than two knees.
+There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into his arm. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than one entire arm.
+
+You can only concentrate in one region (it can be big or small); you cannot do it in multiple regions.
 
 There is another way to get IIPE faster, that is by doing the thing of your IIP type that is stated in the name in the inlife. What that means is:
 - if you want to get faster tIIPE, you need to touch more inlife objects (it has touchability in its name).
@@ -251,12 +253,12 @@ However, don't touch the same object for too long (around 4 minutes) because the
 
 You also need to be expanding your tIIPE Expander while touching inlife objects, otherwise you'll get 0 tIIPE. Same goes for aIIPE and vIIPE.
 
+The amount of coverage an inlife object is covering a body part is called the **point** and the area where you are concentrating your tIIP Expander is called the **destination**. This goes same for aIIPE and vIIPE
+
 Distance plays a key role for tIIPE (and aIIPE and vIIPE).
 
-- Distance playing a role in entire body tIIPE: When you touch an inlife object, the body part which is closest to the object gets more tIIPE; body parts farther get less tIIPE and so on.
+- Distance playing a role in entire body tIIPE: When you touch an inlife object, the body part which is closest to the object gets more tIIPE; body parts farther get less tIIPE and so on. Every 1 cm farther from the point is -1 tIIPE, this applies for SIIPC and for aIIPE and vIIPE.
 - Distance playing a role in SIIPC: For this example, lets say you are concentrating your tIIP Expander to your foot and you touch a inlife object with your hand. Distance plays a similar role here: the closer the SIIPC is to the inlife object, the more tIIPE your get. And for this example, the SIIPC is in the foot while the inlife object is in your hand, so tIIPE from the object is negligible.
-
-The area where you are touching the object is called the **point** and the area where you are concentrating your tIIP Expander is called the **destination**. This goes same for aIIPE and vIIPE
 
 ***
 
@@ -266,12 +268,12 @@ Teleport to the inlife and try to make sounds by speaking or trying to make soun
 
 A similar problem arrives when you try to make sound by hitting the same inlife object for too long (around 4 minutes). It will give you less and less aIIPE until it gives no aIIPE. Again, this resets after an hour.
 
+The area where you are speaking or making sounds with a body part is called the **point** and the area where you are concentrating your aIIP Expander is called the **destination**.
+
 Distance again plays a key role, but you already know that (hopefully).
 
 - Distance playing a role in entire body aIIPE: When you speak or make sound with a part of your body, the body part closest to the sound gets more aIIPE; farther body parts gets less aIIPE and so on.
 - Distance playing a role in SIIPC: For this example, you set your SIIPC to your forehead and you speak. Since the forehead is close to the mouth (which is doing the speaking), the more aIIPE from speaking will be more noticeable.
-
-The area where you are speaking or making sounds with a body part is called the **point** and the area where you are concentrating your aIIP Expander is called the **destination**.
 
 ***
 
@@ -281,39 +283,19 @@ Teleport to the inlife and go to a bright place/room, like outside during the da
 
 A similar problem arrives when you stay in the same bright place for too long (around 4 minutes). The place will give you less and less vIIPE until it stops giving you any. Again, this resets after an hour.
 
+The area where you the light hits you is called the **point** and the area where you are concentrating your vIIP Expander is called the **destination**.
+
 Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable. For both cases, I'll use the same example: A flashlight is being pointed behind you.
 
 - Distance playing a role in entire body vIIPE: The body parts closest to the source of light get more vIIPE while the body parts farther get less vIIPE and so on.
 - Distance playing a role in SIIPC: For this example, the SIIPC is the back of your neck. Since the flashlight is hitting your back, the more vIIPE from they flashlight is noticeable.
 
-The area where you the light hits you is called the **point** and the area where you are concentrating your vIIP Expander is called the **destination**.
-
 ***
 
 Detached souls can turn IIP off and on at will.
 
-Now, there is a formula to calculate how much IIPE you will get from training with SIIPC and entire body, the formula for SIIPC is (I will be using something called "Pseudo Code Language" [PCL]. It is a pseudo programming language I just made to explain this easier [and because I am not the best at math], so it isn't purely "mathematical"):
+Now, there is a formula to calculate how much IIPE you will get from training with SIIPC and entire body. The formula for SIIPC is:
 
-$E = \frac{X}{((\Sigma PCL(D_{n})) \times (\Sigma M_{n}))}$
+$E = \frac{X}{M} + max(0, P - (D \times 100))$
 
-PCL:
-
-if D = 0 then  
-&nbsp;&nbsp;&nbsp;&nbsp;D = 1  
-else  
-&nbsp;&nbsp;&nbsp;&nbsp;D = D
-
-if n > 1 and list.1(D ≠ 0) then  
-&nbsp;&nbsp;&nbsp;&nbsp;element(D = 0) = 0  
-elseif n > 1 and D = 0 then  
-&nbsp;&nbsp;&nbsp;&nbsp;n = 1  
-
-end_PCL
-
-Here, E (Expansion) means how much IIPE gained, measured in IIPE, tIIPE, aIIPE or vIIPE. X (eXpander) means how much your IIP Expander is expanded, measured in ex, tex, aex or vex. D (Distance) means the distance between your point and destination in ICE, measured in meters. M (Mass) is the mass of your concentrated destination, measured in grams.
-
-Now, you might see the n below M and D, what do the n means? The n is useful for multiple SIIPC (more than one destination). If n = 3, that means there are 3 D and M. If it is single, n = 1.
-
-What the PCL means is if D is 0, then D automatically becomes 1; if D isn't 0, D stays the value it was. If a D is 0 But n is more than 1, D stays 0, but if n is more than 1 but all the Ds are 0, D automatically becomes one.
-
-The sigma signs means, if there is multiple D and M, add all the Ds together, the same with the Ms. 
+Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE. X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex. M means the mass of the concentrated point, measured in grams. P (Point) means the how much an inlife object is covering a body part, aka the point in ICE, measured in grams. D means the distance between the point and destination AND the [WIP]
