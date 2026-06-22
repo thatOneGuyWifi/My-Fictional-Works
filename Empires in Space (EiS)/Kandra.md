@@ -247,18 +247,21 @@ Here is a much more detailed explanation:
 
 **For tIIPE**:
 
-Teleport to the inlife and touch an object, any object. Your hands will phase through it of course but that gives you more tIIPE. Keep your hand in an inlife object and your tIIPE increases. The more your cover yourself in inlife objects, the more tIIPE.
+Teleport to the inlife and touch an object, any object. Your hands will phase through it of course but that gives you more tIIPE. Keep your hand in an inlife object and your tIIPE increases. The more your cover yourself in an inlife objects, the more tIIPE.
 
 However, don't touch the same object for too long (around 4 minutes) because then the object will give you much less tIIPE until it stops giving you any. So you can't just cheese it. After an hour, this resets, so if you touch an object for too long and one hour passes, the object will again give you the same amount of tIIP as it did before.
 
 You also need to be expanding your tIIPE Expander while touching inlife objects, otherwise you'll get 0 tIIPE. Same goes for aIIPE and vIIPE.
 
-The amount of coverage an inlife object is covering a body part is called the **point** and the area where you are concentrating your tIIP Expander is called the **destination**. This goes same for aIIPE and vIIPE
+The amount of coverage an inlife object is covering the concentrated area (or entire body) is called the **point** and the concentrated area itself is called the **"concentrated area"** for SIIPC or **"entire area"** for entire body. This goes same for aIIPE and vIIPE.
+
+The point here gives you tIIPE. It exactly gives it by the mass of the point (how much the inlife object is covered by the concentrated/entire area). Measured in centigram (cg), so if the point is 8 cg, it will give 8 tIIPE.
+
+If it wasn't clear, your point needs to be touching the area. If it touches outside the area, the area won't get any tIIPE from ICE. Same thing for aIIPE and vIIPE
 
 Distance plays a key role for tIIPE (and aIIPE and vIIPE).
 
-- Distance playing a role in entire body tIIPE: When you touch an inlife object, the body part which is closest to the object gets more tIIPE; body parts farther get less tIIPE and so on. Every 1 cm farther from the point is -1 tIIPE, this applies for SIIPC and for aIIPE and vIIPE.
-- Distance playing a role in SIIPC: For this example, lets say you are concentrating your tIIP Expander to your foot and you touch a inlife object with your hand. Distance plays a similar role here: the closer the SIIPC is to the inlife object, the more tIIPE your get. And for this example, the SIIPC is in the foot while the inlife object is in your hand, so tIIPE from the object is negligible.
+Let's say, the concentrated area is your arm and the point is in the tip of your upper arm. The area closer to the point gets more tIIPE while areas farther from it get less. The same goes for entire body. Every 1 cm farther from the point is -1 tIIPE lost. This framework applies for aIIPE and vIIPE aswell.
 
 ***
 
@@ -268,12 +271,15 @@ Teleport to the inlife and try to make sounds by speaking or trying to make soun
 
 A similar problem arrives when you try to make sound by hitting the same inlife object for too long (around 4 minutes). It will give you less and less aIIPE until it gives no aIIPE. Again, this resets after an hour.
 
-The area where you are speaking or making sounds with a body part is called the **point** and the area where you are concentrating your aIIP Expander is called the **destination**.
+The area where you hit the your concentrated area with an inlife object is the **point** here. The concentrated area (and entire area)'s name is the same as tIIPE's, and applies to vIIPE.
+
+The point here gives you aIIPE. It exactly gives it by the amount of sound it would make if an inlife organism hit the object with the same force or if it spoke with that level of loudness/quietness. Measured in centi-Pascal (cPa), so if the point is 8 cPa, it will give 8 aIIPE.
+
+You must hit an inlife object with the concentrated area (or entire area), or make include the mouth in the concentrated area when speaking. Otherwise you won't get aIIPE.
 
 Distance again plays a key role, but you already know that (hopefully).
 
-- Distance playing a role in entire body aIIPE: When you speak or make sound with a part of your body, the body part closest to the sound gets more aIIPE; farther body parts gets less aIIPE and so on.
-- Distance playing a role in SIIPC: For this example, you set your SIIPC to your forehead and you speak. Since the forehead is close to the mouth (which is doing the speaking), the more aIIPE from speaking will be more noticeable.
+Let's say, the concentrated area is your face and the point is you speaking. The areas closer to the mouth gets more aIIPE than areas farther away. Again, following the 1 cm = -1 aIIPE rule. And also applying to entire body.
 
 ***
 
@@ -283,12 +289,15 @@ Teleport to the inlife and go to a bright place/room, like outside during the da
 
 A similar problem arrives when you stay in the same bright place for too long (around 4 minutes). The place will give you less and less vIIPE until it stops giving you any. Again, this resets after an hour.
 
-The area where you the light hits you is called the **point** and the area where you are concentrating your vIIP Expander is called the **destination**.
+The light hitting your concentrated area (or entire area) is the **point** here.
 
-Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable. For both cases, I'll use the same example: A flashlight is being pointed behind you.
+The point here gives you vIIPE. It exactly gives it by the amount of area the light covers the concentrated/entire mass. Measured in cm², so if the point is 8 cm², it will give 8 vIIPE.
 
-- Distance playing a role in entire body vIIPE: The body parts closest to the source of light get more vIIPE while the body parts farther get less vIIPE and so on.
-- Distance playing a role in SIIPC: For this example, the SIIPC is the back of your neck. Since the flashlight is hitting your back, the more vIIPE from they flashlight is noticeable.
+If light hits outside your concentrated area, vIIPE won't be gained.
+
+Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable.
+
+Let's say, you turn on a flashlight and place it behind you and your concentrated area is the neck. The point is the light hitting the back of your neck. The front of your neck gets less vIIPE because of distance. vIIPE also follows the 1 cm = -1 vIIPE rule. This all applies to entire body too.
 
 ***
 
@@ -296,6 +305,11 @@ Detached souls can turn IIP off and on at will.
 
 Now, there is a formula to calculate how much IIPE you will get from training with SIIPC and entire body. The formula for SIIPC is:
 
-$E = \frac{X}{M} + max(0, P - (D \times 100))$
+$E = \frac{X}{M} + max \left(0, \frac{P \times (P + 1)}{2} \right)$
 
-Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE. X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex. M means the mass of the concentrated point, measured in grams. P (Point) means the how much an inlife object is covering a body part, aka the point in ICE, measured in grams. D means the distance between the point and destination AND the [WIP]
+Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE. X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex. M means the mass of the concentrated point, measured in grams. P (Point) means how much IIPE you gained from the point, measured in cg, cPa or cm².
+
+You might be wondering, what does $max \left(0, \frac{P \times (P + 1)}{2} \right)$ do? What it does is it prevents it from making it a negative number, since that is the ICE part and ICE shouldn't negatively impact your IIPE gain.
+$\frac{P \times (P + 1)}{2}$ is the ICE part. You can see it is separate from the main formula $\frac{X}{M}$. What this does is calculate the total amount of IIPE gained from ICE.
+
+P gives you how much IIPE it will give, then do P - 0, P - 1, P - 3 ... P - P then add all their values, which will give you the total amount of IIPE gained from ICE. $\frac{P \times (P + 1)}{2}$ just do that much faster.
