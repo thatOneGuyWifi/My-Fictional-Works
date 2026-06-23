@@ -357,6 +357,7 @@ First, PCL checks if P is lesser than or equal to A OR if P is greater than A (t
 Once it checks which is true, it runs the code inside that statement.
 
 If statement #1 is true:
+
 Then it executes and outputs the $P + \frac{P \times (P + 1)}{2}$ formula
 
 What the formula does is do P - 0 (point), P - 0 (>1 cm region), P - 1, P - 2, P - 3 ... P - P then add all solutions together, but the formula does this in a much faster way.
