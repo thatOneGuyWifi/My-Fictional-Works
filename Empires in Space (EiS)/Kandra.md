@@ -226,15 +226,15 @@ When you push the tIIP Expander, you get something called "tIIP Expansion" or tI
 
 The amount of IIPE you get depends on something called the "Selective Inlife Interaction Power Concentration" or SIIPC.
 
-When detached souls try to expand an IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), the IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single body part.
+When detached souls try to expand an IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), the IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single (or multiple) body part(s).
 
 SIIPC says: the less mass you concentrate on, the more IIPE you gain in an shorter amount of time for that mass. What this means is if you concentrate your IIP Expander into a smaller body part, like your finger, you gain IIPE much faster than if you were to concentrate it into a larger body part like your arm (or your entire body, which IIPE gain is very slow).
 
 Let's do an example:
 
-There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into his arm. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than one entire arm.
+There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into both of his knees. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than two knees.
 
-You can only concentrate in one region (it can be big or small); you cannot do it in multiple regions.
+They'll get the exact tIIPE by dividing how much tIIP Expander you are using (tex) with the mass (grams).
 
 There is another way to get IIPE faster, that is by doing the thing of your IIP type that is stated in the name in the inlife. What that means is:
 - if you want to get faster tIIPE, you need to touch more inlife objects (it has touchability in its name).
@@ -256,6 +256,8 @@ You also need to be expanding your tIIPE Expander while touching inlife objects,
 The amount of coverage an inlife object is covering the concentrated area (or entire body) is called the **point** and the concentrated area itself is called the **"concentrated area"** for SIIPC or **"entire area"** for entire body. This goes same for aIIPE and vIIPE.
 
 The point here gives you tIIPE. It exactly gives it by the mass of the point (how much the inlife object is covered by the concentrated/entire area). Measured in centigram (cg), so if the point is 8 cg, it will give 8 tIIPE.
+
+The concentrated/entire area covered by the point gets tIIPE equal to the amount it is covering. So the area covered by the point and the area which is >1 cm away gets 8 tIIPE.
 
 If it wasn't clear, your point needs to be touching the area. If it touches outside the area, the area won't get any tIIPE from ICE. Same thing for aIIPE and vIIPE
 
@@ -293,6 +295,8 @@ The light hitting your concentrated area (or entire area) is the **point** here.
 
 The point here gives you vIIPE. It exactly gives it by the amount of area the light covers the concentrated/entire mass. Measured in cm², so if the point is 8 cm², it will give 8 vIIPE.
 
+The concentrated/entire area covered by the point gets vIIPE equal to the amount it is covering. So the area covered by the point and the area which is >1 cm away gets 8 vIIPE.
+
 If light hits outside your concentrated area, vIIPE won't be gained.
 
 Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable.
@@ -303,13 +307,186 @@ Let's say, you turn on a flashlight and place it behind you and your concentrate
 
 Detached souls can turn IIP off and on at will.
 
-Now, there is a formula to calculate how much IIPE you will get from training with SIIPC and entire body. The formula for SIIPC is:
+I written a formula that calculates how much IIPE you will gain (if point and concentrated area is single. As doing multiple is kinda hard for me). The formula is (I will be using something called "Pseudo Code Language", something I made up. It's a pseudo programming language meant to make formulas a bit more readable [and also because I am not the best at math, and I am a programmer. I know, kinda conflicting] so it will be less mathematical. This formula also works with entire body):
 
-$E = \frac{X}{M} + max \left(0, \frac{P \times (P + 1)}{2} \right)$
+$E = \frac{X}{M} + max(0, PCL:ICE(P, A))$
 
-Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE. X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex. M means the mass of the concentrated point, measured in grams. P (Point) means how much IIPE you gained from the point, measured in cg, cPa or cm².
+PCL:
 
-You might be wondering, what does $max \left(0, \frac{P \times (P + 1)}{2} \right)$ do? What it does is it prevents it from making it a negative number, since that is the ICE part and ICE shouldn't negatively impact your IIPE gain.
-$\frac{P \times (P + 1)}{2}$ is the ICE part. You can see it is separate from the main formula $\frac{X}{M}$. What this does is calculate the total amount of IIPE gained from ICE.
+comment_symbol(//)
 
-P gives you how much IIPE it will give, then do P - 0, P - 1, P - 3 ... P - P then add all their values, which will give you the total amount of IIPE gained from ICE. $\frac{P \times (P + 1)}{2}$ just do that much faster.
+// comments are ignored by PCL. Used for documentation.
+
+function ICE(P, A):  
+    &nbsp;&nbsp;&nbsp;&nbsp;if P <= A then  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + P × (P + 1) ÷ 2  
+    &nbsp;&nbsp;&nbsp;&nbsp;else then // if P > A. Only useful in aIIPE, where cPa might be greater than concentrated/entire area  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + (P + (P - A)) × (A + 1) ÷ 2  
+    &nbsp;&nbsp;&nbsp;&nbsp;end of if
+end of function
+
+end of PCL
+
+The formula is split into two sections, the main (Expander) formula $\frac{X}{M}$ and the ICE (Bonus) formula $max(0, PCL:ICE(P, A))$.
+Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE.
+
+*Main Formula (Expander Formula):*
+
+Both X and M belong to the IIP Expander. The variables just hold different values of the IIP Expander
+
+X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex.
+
+M (Mass) means where you are using the IIP Expander/mass of the concentrated/entire area, measured in grams. Used for both SIIPC and entire body.
+
+*ICE Formula (Bonus Formula):*
+
+The formula is separated from the main formula with a "+" as ICE is a bonus, not something exactly fundamental to IIP training.
+
+P (Point) means how much IIPE the point will give you, measured in cg, cPa or cm².
+
+A (Area) means the area of your concentrated area (or height if using entire body), measured in cm² or cm.
+
+The max() function prevents the formula reaching a negative number by picking 0 if PCL:ICE(P, A) outputs a negative number. This is because ICE is a bonus, it should only positively impact the formula or not impact it at all. Not negatively impact it.
+
+The PCL:ICE(P, A) is a function inside the written PCL code. PCL says to trigger the PCL code and :ICE() says trigger the function named "ICE" inside the PCL code. ICE takes the variables P and A.
+
+*What PCL says*:
+
+First, PCL checks if P is lesser than or equal to A OR if P is greater than A (technically it just runs the else statement if the if statement is false).
+
+Once it checks which is true, it runs the code inside that statement.
+
+If statement #1 is true:
+Then it executes and outputs the $P + \frac{P \times (P + 1)}{2}$ formula
+
+What the formula does is do P - 0 (point), P - 0 (>1 cm region), P - 1, P - 2, P - 3 ... P - P then add all solutions together, but the formula does this in a much faster way.
+
+Let's explain why:
+
+Let's take P as 8.
+
+What we need to do is do is add 1 to 8 and another 8 because the 8 is the IIPE from the point. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - P). Let me write a table for you to understand it better:
+
+
+| Distance | Value |
+|----------|-------|
+| Point | 8 IIPE |
+| >1 cm/0 cm | 8 IIPE |
+| 1 cm | 7 IIPE |
+| 2 cm | 6 IIPE |
+| 3 cm | 5 IIPE |
+| 4 cm | 4 IIPE |
+| 5 cm | 3 IIPE |
+| 6 cm | 2 IIPE |
+| 7 cm | 1 IIPE |
+| 8 cm | 0 IIPE (ignored) |
+
+
+
+Which would be 8+8+7+6+5+4+3+2+1 = 44. Now you can do it like this but it takes time.
+
+Another way to do this is by pairing the numbers from opposite ends.
+
+| Pair No.| Pair | Sum |
+|---------|------|-----|
+| 1 | 8 + 1 = | 9 |
+| 2 | 7 + 2 = | 9 |
+| 3 | 6 + 3 = | 9 |
+| 4 | 5 + 4 = | 9 |
+
+
+So there are four pairs. We can multiply the number of pairs with the sum and add P. Which would be 4 × 9 + 8 = 36 + 8 = 44.
+
+The formula uses the pair method and does this much faster.
+
+$\frac{P}{2}$  gets the number of pairs and $P + 1$ gets the sum. Combine them and you get:
+
+$\frac{P}{2} \times (P + 1)$ simplified to $\frac{P \times (P + 1)}{2}$
+
+This does the pair method MUCH faster. But wait! This would just give us 36, which is not the answer. We need to add P again to finish to formula, which makes the final formula:
+
+$P + \frac{P \times (P + 1)}{2}$
+***
+
+If statement #2 is true:
+
+Then it executes and outputs the $P + \frac{(P + (P - A)) × (A + 1)}{2}$ formula
+
+P + (P + (P - A)) × (A + 1) ÷ 2
+
+This statement can only activate for aIIPE because the point cannot take up more space than the concentrated/entire area in tIIPE and vIIPE. But aIIPE's point is different because cPa can be more than the concentrated/entire area.
+
+What the formula does is do P - 0 (point), P - 0 (>1 cm region), P - 1, P - 2, P - 3 ... P - [area of concentrated/entire area] then add all solutions together, but the formula does this in a much faster way.
+
+Let's explain why:
+
+Let's take P as 800 and A as 25.
+
+What we need to do is do is add all the values between 800 and 25 . Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - 25). Let me write a table for you to understand it better:
+
+What we need to do is do is add 1 to 8 and another 8 because the 8 is the IIPE from the point. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - P). Let me write a table for you to understand it better:
+
+
+| Distance | Value |
+|----------|-------|
+| Point | 800 aIIPE |
+| >1 cm/0 cm | 800 aIIPE |
+| 1 cm | 799 aIIPE|
+| 2 cm | 798 aIIPE|
+| 3 cm | 797 aIIPE |
+| 4 cm | 796 aIIPE |
+| 5 cm | 795 aIIPE |
+| 6 cm | 794 aIIPE|
+| 7 cm | 793 aIIPE |
+| 8 cm | 792 aIIPE |
+| 9 cm | 791 aIIPE|
+| 10 cm | 790 aIIPE |
+| 11 cm | 789 aIIPE|
+| 12 cm | 788 aIIPE|
+| 13 cm | 787 aIIPE|
+| 14 cm | 786 aIIPE |
+| 15 cm | 785 aIIPE|
+| 16 cm | 784 aIIPE|
+| 17 cm | 783 aIIPE |
+| 18 cm | 782 aIIPE |
+| 19 cm | 781 aIIPE |
+| 20 cm | 780 aIIPE|
+| 21 cm | 779 aIIPE |
+| 22 cm| 778 aIIPE|
+| 23 cm | 777 aIIPE|
+| 24 cm | 776 aIIPE |
+| 25 cm | 775 aIIPE|
+
+
+Which is 800+800+799+798+797+796+795+794+793+792+791+790+789+788+787+786+785+784+783+782+781+780+779+778+777+776+775 = 21,275. Now you can do it like this, but this takes a **considerable** amount of time. Something the formula solves by a great margin.
+
+We can again use the pair method. You can find the end number with P - A (800 - 25 = 775) for the opposite.
+
+
+| Pair No.| Pair | Sum |
+|---------|------|-----|
+| 1 | 800 + 775 = | 1,575 |
+| 2 | 799 + 776 = | 1,575 |
+| 3 | 798 + 777 = | 1,575 |
+| 4 | 797 + 778 = | 1,575 |
+| 5 | 796 + 779 = | 1,575 |
+| 6 | 795 + 780 = | 1,575 |
+| 7 | 794 + 781 = | 1,575 |
+| 8 | 793 + 782 = | 1,575 |
+| 9 | 792 + 783 = | 1,575 |
+|10 | 791 + 784 = | 1,575 |
+|11 | 790 + 785 = | 1,575 |
+|12 | 789 + 786 = | 1,575 |
+|13 | 788 + 787 = | 1575 |
+
+
+So number of pairs × sum + P. 13 × 1,575 = 20,475 + 800 = 21,275. As you can see, this also takes a considerable amount of time, which again, the formula solves by a huge margin.
+
+$\frac{A + 1}{2}$ gets the number of pairs and $P + (P − A)$ gets the sum. Combine them and you get:
+
+$\frac{A + 1}{2} \times P + (P - A)$ simplified to $\frac{(A + 1) \times (P + (P - A))}{2}$ or $\frac{(P + (P - A)) \times (A + 1)}{2}$
+
+This does the pair method MUCH faster. But wait! This would just give us 20,475, which is not the answer. We need to add P again to finish the formula, which makes the final formula:
+
+$P + \frac{(P + (P - A)) × (A + 1)}{2}$
+***
