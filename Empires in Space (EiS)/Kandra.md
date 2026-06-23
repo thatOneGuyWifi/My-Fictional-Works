@@ -322,7 +322,7 @@ function ICE(P, A):
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + P × (P + 1) ÷ 2  
     &nbsp;&nbsp;&nbsp;&nbsp;else then // if P > A. Only useful in aIIPE, where cPa might be greater than concentrated/entire area  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + (P + (P - A)) × (A + 1) ÷ 2  
-    &nbsp;&nbsp;&nbsp;&nbsp;end of if
+    &nbsp;&nbsp;&nbsp;&nbsp;end of if  
 end of function
 
 end of PCL
