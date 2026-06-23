@@ -413,8 +413,6 @@ If statement #2 is true:
 
 Then it executes and outputs the $P + \frac{(P + (P - A)) × (A + 1)}{2}$ formula
 
-P + (P + (P - A)) × (A + 1) ÷ 2
-
 This statement can only activate for aIIPE because the point cannot take up more space than the concentrated/entire area in tIIPE and vIIPE. But aIIPE's point is different because cPa can be more than the concentrated/entire area.
 
 What the formula does is do P - 0 (point), P - 0 (>1 cm region), P - 1, P - 2, P - 3 ... P - [area of concentrated/entire area] then add all solutions together, but the formula does this in a much faster way.
