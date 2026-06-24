@@ -497,7 +497,7 @@ Let's do some examples:
 Plug in X as 1 ktex (kilo tex), M as 50 g, P as 0 cg, and A as 30 cm.
 
 > Convert to required unit for variable: 1 ktex = 1000 tex.  
-> $\frac{1000}{00} = 20$  
+> $\frac{1000}{50} = 20$  
 > ICE outputs undefined (since the formula becomes $0 + \frac{0 \times (0+1)}{2}$ and 0 can't be divided).  
 > max outputs 0 (undefined = 0).  
 > 20 + 0 = 20.  
