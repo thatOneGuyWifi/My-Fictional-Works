@@ -496,11 +496,11 @@ Let's do some examples:
 
 Plug in X as 1 ktex (kilo tex), M as 50 g, P as 0 cg, and A as 30 cm.
 
-> Convert to required unit for variable: 1 ktex = 1000 tex.
-> $\frac{1000}{00} = 20$
-> ICE outputs undefined (since the formula becomes $0 + \frac{0 \times (0+1)}{2}$ and 0 can't be divided).
-> max outputs 0 (undefined = 0).
-> 20 + 0 = 20.
+> Convert to required unit for variable: 1 ktex = 1000 tex.  
+> $\frac{1000}{00} = 20$  
+> ICE outputs undefined (since the formula becomes $0 + \frac{0 \times (0+1)}{2}$ and 0 can't be divided).  
+> max outputs 0 (undefined = 0).  
+> 20 + 0 = 20.  
 
 **Answer:** 20 tIIPE.
 
@@ -508,11 +508,11 @@ Plug in X as 1 ktex (kilo tex), M as 50 g, P as 0 cg, and A as 30 cm.
 
 Plug in X as 800 vex, M as 80 g, P as 16 cm² and A as 30 cm².
 
-> $\frac{800}{80} = 10$
-> ICE executes if statement #1. $16 + \frac{16 \times (16 + 1)}{2} = 152$.
-> ICE outputs 152.
-> max outputs 152.
-> 10 + 152 = 162.
+> $\frac{800}{80} = 10$  
+> ICE executes if statement #1. $16 + \frac{16 \times (16 + 1)}{2} = 152$.  
+> ICE outputs 152.  
+> max outputs 152.  
+> 10 + 152 = 162.  
 
 **Answer**: 162 vIIPE.
 
@@ -520,11 +520,11 @@ Plug in X as 800 vex, M as 80 g, P as 16 cm² and A as 30 cm².
 
 Plug in X as 450 aex, M as 30 g. P as 90 cPa and A as 20 cm².
 
-> $\frac{450}{30} = 15$
-> ICE executes if statement #2 (else statement). $90 + \frac{(90 + (90 - 20)) \times (20 + 1)}{2} = 1,770$
-> ICE outputs 1,770.
-> max outputs 1,770.
-> 15 + 1,770 = 1,785.
+> $\frac{450}{30} = 15$  
+> ICE executes if statement #2 (else statement). $90 + \frac{(90 + (90 - 20)) \times (20 + 1)}{2} = 1,770$.  
+> ICE outputs 1,770.  
+> max outputs 1,770.  
+> 15 + 1,770 = 1,785.  
 
 **Answer**: 1,785 aIIPE or 1.785 kaIIPE.
 
