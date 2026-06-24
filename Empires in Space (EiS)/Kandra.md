@@ -165,6 +165,8 @@ These are the only things you can change with willpower.
 
 To achieve an appearance change, you need to have enough wp, usually 12 kwp is enough for a full body change. Then you just need to want it, and your appearance should automatically change.
 
+To increase your wp, you need to increase your desire over changing your appearance. This is much easier said than done. There are **LEVELS** to this. You need to ACTUALLY want it.
+
 ---
 
 Detached souls from the afterlife can teleport to the inlife and vise versa. When they do travel to the inlife, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
@@ -216,9 +218,23 @@ I'll use tIIP for most of the examples.
 
 When a detached soul feels the tIIP Expander, they can "push" or expand this feeling; this is how they train their IIP (tIIP in this case). They focus on an IIP Expander and try to expand it. Again, this is not fully describable. It's like trying to explain how to move your arm to an armless person, they can't fully know how it feels like to move an arm until they get one.
 
-The more time they expand their IIP Expander, the easier it gets to expand it and even further. Think of it like exercising: when you first try to exercise, you start small, but overtime your muscles adapt to the exercises and build.
-
 Your IIP Expander is measured in ex (**ex**pander), and it uses the metric system. For tIIP Expander, it is tex (**t**IIP **ex**pander); for aIIP Expander, it is aex (**a**IIP **ex**pander); and for vIIP Expander, it is vex (**v**IIP **ex**pander).
+
+Now, To actually increase your IIP Expander (tex/aex/vex), you need to keep expanding your IIP Expander. Every 3 and a half minute you expand your IIP Expander, your ex increases by one (corresponding to what type of IIP Expander you are using).
+
+You can however increase your IIP by using something called **"Interaction willpower" (Iwp)"**. Similar to willpower, Iwp measures your willpower over interacting with the inlife semi-world. It also use the metric system. The more Iwp you have, the more ex increases. You can increase your Iwp similarly to how you increase your wp.
+
+There is another factor in ex training that determines how much (or how less) ex you get, that is **Body Relaxation**, measured in brl (Body Relaxation Level). Simply, if your body is relaxed, you get more ex, if your body is under stress, you get less ex.
+
+0 brl means your body is in a neutral state, not under any stress but neither relaxed. 0 brl doesn't effect your ex at all. However, your body is never truly "neutral" so 0 brl actually means the "baseline state" of your body.
+
+[positive] brl means your body is in a relaxed state. The higher [positive] brl, the more relaxed. [positive] brl does effect your ex and it effects it **positively**. The more [positive] brl, the more ex you get. The theoretical limit of [positive] brl is 100 brl. Anything above 100 brl means your literally body stops working, and souls cannot die.
+
+[negative] brl is the exact opposite of [positive] brl. [negative] brl means your body is under stress. And as you guessed it, the more [negative] brl, the less ex you get. The theoretical limit of [negative] brl is -200 brl. Anything below -200 and your body enters cardiac arrest or stroke.
+
+So, time, Iwp and bod relaxation/stress all effect your tex/aex/vex gain.
+
+The more ex, the more intense that type of IIP Expander feels.
 
 I like to imagine it as an orb, and when you expand it, the orb gets bigger, expanding.
 
@@ -529,3 +545,48 @@ Plug in X as 450 aex, M as 30 g. P as 90 cPa and A as 20 cm².
 **Answer**: 1,785 aIIPE or 1.785 kaIIPE.
 
 ***
+
+There is also a formula to calculate how much ex you can get from training. But this one is much simpler than the formula for IIPE. The formula is
+
+$X = max \left(1, \frac{T}{3.5} + W + B \right)$
+
+Yep, it's that simple. Here, X means the total ex gained, measured in tex, aex or vex. T means the time you much time you spent expanding your ex, measured in minutes. W means the amount of Iwp you have. B means the amount of brl you have.
+
+T is being divided by 3.5 because Every 3 and a half minute, you get 1 ex.
+
+max(1,) prevent X being from being a negative number, since you can't get negative ex.
+
+Let's do some examples:
+
+*Example #1*:
+
+Plug in T as 9.5 m, W as 9 Iwp and B as 25 brl.
+
+> $\frac{9.5}{3.5} = 2.714$ (rounded).  
+> 9 + 25 = 34.  
+> 2.714 + 34 = 36.714.  
+> max outputs 36.714.
+
+**Answer**: 36.714 ex.
+
+*Example #2*:
+
+Plug in T as 2 m, W as 300 Iwp and B as 30 brl.
+
+> $\frac{2}{3.5} = 0.571$ (rounded).  
+> 300 + 30 = 330.  
+> 0.571 + 330 = 330.571.  
+> max outputs 330.571.
+
+**Answer**: 330.571 ex.
+
+*Example #3*:
+
+Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
+
+> $\frac{35}{3.5} = 10$  
+> 12 + (-25) = -13.  
+> 10 + (-13) = -3.  
+> max outputs 1.
+
+**Answer**: 1 ex.
