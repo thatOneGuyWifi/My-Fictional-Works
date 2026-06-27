@@ -13,8 +13,12 @@
 ├── [The Afterlife And Inlife](#the-afterlife-and-inlife)  
 ├── [The Soul And Soulspace](#the-soul-and-soulspace)  
 ├── [Willpower (wp)](#willpower-wp)  
-└── [Inlife Interaction Power (IIP)](#inlife-interaction-power-iip)  
-&nbsp;&nbsp;&nbsp;└── [How To Train Your IIP](#how-to-train-your-iip)
+├── [Interacting With The Inlife](#interacting-with-the-inlife)  
+│&nbsp;&nbsp;&nbsp; └── [How To Train Your IIP](#how-to-train-your-iip)  
+└── [Possession](#possession)  
+   &nbsp;&nbsp;&nbsp;&nbsp;├── [E-SSPCAS](#e-sspcas)  
+   &nbsp;&nbsp;&nbsp;&nbsp;└── [I-SSPCAS](#i-sspcas)
+
 
 # Introduction
 
@@ -97,8 +101,6 @@ You might be asking, if souls are physical and occupies the entire body, where d
 
 Soulspace isn't exactly a single thing like inlife or afterlife, it's multiple. When a life is birthed (in the inlife), kandra automatically creates a soul and a soulspace for that soul to reside in for that organism.
 
-If someone gives birth in the afterlife, only the soul is created (we'll get to this later).
-
 The soulspace takes the shape of the soul, which takes the shape of the organism. Every "alive" soul in the inlife gets their own soulspace, so that the soul can live inside it. So each soulspace is unique.
 
 The soulspace is anchored with its organism, which means when the organism moves, the soulspace moves. Basically it mirrors every movement the organism makes.
@@ -140,11 +142,13 @@ The Soulspace takes the shape of its organism; as in it only takes the outline o
 
 The soulspace's appearance change as the appearance of the organism change (like the soul).
 
-There are two types of souls, **attached souls** and **detached souls**. Attached souls are souls which are attached to a body or organism. They are the ones who live in inlife and has a soulspace. Any alive person has an attached soul.
+There are two types of souls, **attached souls** and **detached souls**. Attached souls are souls which exists inside a soulspace. Attached souls never had their soulspace destroyed. Any alive person has an attached soul.
 
-Detached souls are souls which are not attached to any body or organism. They are the ones who live in afterlife. They are the "dead" ones.
+Detached souls are souls which are not attached to any soulspace. They are the ones who live in afterlife. They are the "dead" ones.
 
-Both souls however *exist in the afterlife, detached souls live in the afterlife and attached souls exist in the soulspace.
+Both souls however *exist in the afterlife. Detached souls live in the afterlife and attached souls exist in the soulspace, a branch of the afterlife.
+
+When a life is born in the inlife semi-world, kandra makes a new soul and soulspace for that organism (as discussed). However, when someone gives birth in the afterlife semi-world (they can do that), only a soul is created. This is because in the afterlife, the soul IS the organism and they don't need a soulspace because the soul is already in the afterlife.
 
 ## Willpower (wp)
 
@@ -153,7 +157,7 @@ Willpower here means the desire to do something, and willpower is measured in wp
 
 Willpower can only be used to change the appearance of your soul IF you are a detached soul and even that is limited, so wp only measures your willpower over your desire to change your appearance; wp doesn't measure your willpower of other things.
 
-wp uses the metric system. Almost every measurement system here uses the metric system (except for IIP and PPI).
+wp uses the metric system. Almost every measurement system here uses the metric system (except for IIP).
 
 These are the things willpower can change:
 - Change the color of your outer appearance. You can even do designs.
@@ -167,17 +171,13 @@ To achieve an appearance change, you need to have enough wp, usually 12 kwp is e
 
 To increase your wp, you need to increase your desire over changing your appearance. This is much easier said than done. There are **LEVELS** to this. You need to ACTUALLY want it.
 
----
+## Interacting With The Inlife
 
 Detached souls from the afterlife can teleport to the inlife and vise versa. When they do travel to the inlife, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
 
 When a detached soul teleports in the inlife, they teleport to the place in the inlife that is adjacent to the afterlife place's counterpart the detached soul was in. For example: if a detached soul is in the afterlife's Kolkata, India and decides to teleport to the inlife, the soul will get teleported to inlife's Kolkata, India.
 
 For a detached soul to teleport to the inlife (or if a detached soul in the inlife wants to go to the afterlife), the soul just have to simply want it.
-
-Detached souls can also view the soulspace of an organism by again, simply wanting it.
-
-## Inlife Interaction Power (IIP)
 
 A detached soul cannot interact with the inlife **right away**, they need something called the **"Inlife Interaction Power" (IIP)**.
 
@@ -492,7 +492,7 @@ We can again use the pair method. You can find the end number with P - A (800 - 
 |10 | 791 + 784 = | 1,575 |
 |11 | 790 + 785 = | 1,575 |
 |12 | 789 + 786 = | 1,575 |
-|13 | 788 + 787 = | 1575 |
+|13 | 788 + 787 = | 1,575 |
 
 
 So number of pairs × sum + P. 13 × 1,575 = 20,475 + 800 = 21,275. As you can see, this also takes a considerable amount of time, which again, the formula solves by a huge margin.
@@ -590,3 +590,47 @@ Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
 > max outputs 1.
 
 **Answer**: 1 ex.
+
+***
+
+Since souls don't automatically interact with inlife light, souls emit light that is only visible to them and other souls (the same goes for sounds). The soulspace does this too.
+
+## Possession
+
+Detached souls can possess living organism, but to be more precise, Detached souls can possess anything that has a soulspace.
+
+Detached souls can see a soulspace when ever they want too. Resulting in them seeing their yellow outline.
+
+What possession really means here is to get into the soulspace and take control over the Syovos. However, this is much easier said than done.
+
+You need something called the **"Possession Power Index" (PPI)"**. Although, that is technically the only thing you need, practically however, you need some training in combat (you'll find out why).
+
+The soulspace won't just let a foreign soul enter inside. The soulspace has a defense mechanism against foreign souls entering inside; the defense mechanism being called **"SoulSpace Possession Counter Action System" (SSPCAS)** or by its informal name **"Cassidy"**.
+
+SSPCAS can be further divided into two parts, **"Internal SoulSpace Possession Counter Action System" (I-SSPCAS)** or **"I-Cassidy"** and **"External SoulSpace Possession Counter Action System" (E-SSPCAS)** or **"E-Cassidy"**
+
+### E-SSPCAS
+
+Whenever a detached soul tries to enter inside a soulspace, they get pushed back and a copy of the soulspace (with eyes and a mouth) comes out from the soulspace. This is E-SSPCAS or E-Cassidy.
+
+E-Cassidy is a copy of the soulspace with the organism's organs and biological matter. Its purpose is to fight the foreign soul away (since souls aren't killable). E-Cassidy is stripped of most of its emotions to be as efficient as possible when dealing with a invading soul (except for surprise and anger). E-Cassidy can talk and strategies on how to push back the foreign soul.
+
+E-Cassidy is essentially the most efficient version of that organism at combat/defense (as of the organism's current state, not possible state). E-Cassidy can even use kandra forces if that organism can use them (We'll get more into kandra manipulation later).
+
+E-Cassidy is only limited by the organism's current limitations (physical and knowledge). So the E-Cassidy of a martial artist is going to be way better than the average person.
+
+This is why you need to know combat, to deal with E-Cassidy.
+
+E-Cassidy adapts to any invading soul's fighting technique (to the best of its abilities) as E-Cassidy is hyper-observant (limited to the organism's mental capacity). So when the same invading soul comes back, E-Cassidy can use its previous knowledge of how the soul fights.
+
+When the invading souls surrenders to E-Cassidy. E-Cassidy merges back to the soulspace, ready to come out again if called for.
+
+Since E-Cassidy doesn't interact with the inlife semi-world like a detached soul (without IIP at least), the fight is completely invisible to any inlife organism while still technically being in the inlife semi-world.
+
+To actually possess the soulspace, you need to have some PPI to even enter it AND you need to go inside before E-Cassidy stops you/brings you out mid-entering. After you enter inside the soulspace, E-Cassidy can't do anything.
+
+### I-SSPCAS
+
+But the fight isn't over, it never is when you're trying to possess someone. Enter I-SSPCAS or I-Cassidy.
+
+[WIP]
