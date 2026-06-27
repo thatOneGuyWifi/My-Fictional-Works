@@ -10,14 +10,14 @@
 [Origins And Discovery](#origins-and-discovery)
 
 [The Afterlife And Souls](#the-afterlife-and-souls)  
-├── [The Afterlife And Inlife](#the-afterlife-and-inlife)  
-├── [The Soul And Soulspace](#the-soul-and-soulspace)  
-├── [Willpower (wp)](#willpower-wp)  
-├── [Interacting With The Inlife](#interacting-with-the-inlife)  
-│&nbsp;&nbsp;&nbsp; └── [How To Train Your IIP](#how-to-train-your-iip)  
-└── [Possession](#possession)  
-   &nbsp;&nbsp;&nbsp;&nbsp;├── [E-SSPCAS](#e-sspcas)  
-   &nbsp;&nbsp;&nbsp;&nbsp;└── [I-SSPCAS](#i-sspcas)
+├─ [The Afterlife And Inlife](#the-afterlife-and-inlife)  
+├─ [The Soul And Soulspace](#the-soul-and-soulspace)  
+├─ [Willpower (wp)](#willpower-wp)  
+├─ [Interacting With The Inlife](#interacting-with-the-inlife)  
+│&nbsp;&nbsp;&nbsp; └─ [How To Train Your IIP](#how-to-train-your-iip)  
+└─ [Possession](#possession)  
+   &nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
+   &nbsp;&nbsp;&nbsp;&nbsp;└─ [I-SSPCAS](#i-sspcas)
 
 
 # Introduction
