@@ -807,7 +807,7 @@ I-Cassidy is technically the soulspace trying to get any invading souls out.
 
 I-Cassidy however isn't perfect, the attached soul themselves can get in the crossfire by PCA Cells. For example, a B-O-PCA Cell might accidentally hit the attached soul which would push them out of the soulspace slightly.
 
-I-Cassidy however tries to resolve this quickly by using B-O-PCA cells to push the attached soul inside the soulspace again.
+I-Cassidy however tries to resolve this quickly by using B-O-PCA cells to push the attached soul inside the soulspace again. The host won't feel any pain as pain from the attached soul doesn't get felt because it the inlife brain doesn't process it. The host being completely unaware.
 
 If a part of the attached soul exits the soulspace, E-Cassidy pushes the part back into the soulspace (E-Cassidy knows its host soul from invading souls).
 
