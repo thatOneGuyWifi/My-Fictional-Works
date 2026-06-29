@@ -325,13 +325,19 @@ Detached souls can turn IIP off and on at will.
 
 I written a formula that calculates how much IIPE you will gain (if point and concentrated area is single. As doing multiple is kinda hard for me). The formula is (I will be using something called "Pseudo Code Language", something I made up. It's a pseudo programming language meant to make formulas a bit more readable [and also because I am not the best at math, and I am a programmer. I know, kinda conflicting] so it will be less mathematical. This formula also works with entire body):
 
-$E = \frac{X}{M} + max(0, PCL:ICE(P, A))$
+$E = \frac{PCL:EXIT(X)}{M} + max(0, PCL:ICE(P, A))$
 
 PCL:
 
 comment_symbol(//)
 
 // comments are ignored by PCL. Used for documentation.
+
+function EXIT(X)  
+    &nbsp;&nbsp;&nbsp;&nbsp;if X = 0 then  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit of formula  
+    &nbsp;&nbsp;&nbsp;&nbsp;end of if
+end of function
 
 function ICE(P, A):  
     &nbsp;&nbsp;&nbsp;&nbsp;if P <= A then  
@@ -368,7 +374,11 @@ The PCL:ICE(P, A) is a function inside the written PCL code. PCL says to trigger
 
 *What PCL says*:
 
-First, PCL checks if P is lesser than or equal to A OR if P is greater than A (technically it just runs the else statement if the if statement is false).
+PCL First checks the EXIT function. If X is 0, the entire formula stops, because you need ex to even get IIPE (and you can't divide by 0)
+
+PCL then checks ICE.
+
+ICE checks if P is lesser than or equal to A OR if P is greater than A (technically it just runs the else statement if the if statement is false).
 
 Once it checks which is true, it runs the code inside that statement.
 
@@ -753,7 +763,7 @@ Unlike B-O-PCA cells who just die after attacking, they continuously attack with
 
 - **Superior Internal Base Offense PCA Cells** or **SIB-O-PCA Cells**: (Rare, only found in the human species)
 
-SIB-O-PCA Cells are basically SB-O-PCS cells for inside the invading soul. A combination of SB-O-PCA cells and IB-O-PCA cells.
+SIB-O-PCA Cells are basically SB-O-PCS cells for inside the invading soul. A combination of SB-O-PCA cells and IB-O-PCA cells. They are a dark green in color.
 
 They enter inside an invading soul and does what IB-O-PCA cells but instead of dying right after attacking, they continuously attack and push the invading soul.
 
@@ -761,4 +771,44 @@ They deal more damage and push harder.
 
 The immune system of that invading soul does attack SIB-O-PCA cells as they don't die right after attacking.
 
-[WIP]
+---
+
+PCA cells cannot survive outside the soulspace (except for I-D-PCA cells).
+
+Now, I-Cassidy can produce these cells but each cells take up energy, some more than others. PCS cells which take less energy gets produced more than ones who take more energy. Energy is taken from the stored energy of the soulspace it gains from tuvlums.
+
+Here is a table on each cells:
+
+
+| Energy Cons. | PCA Cell |Avg. Production Per Minute|
+|--------------|---------|---------------------------|
+| Least | B-D-PCA Cells | 25 |
+| Tenth | B-O-PCA Cells | 30 |
+| Ninth | S-D-PCS Cells | 10 |
+| Eighth| S-O-PCA Cells | 8  |
+|Seventh| O-O-PCA Cells | 8  |
+| Sixth | IB-O-PCA Cells| 15 |
+| Fifth | I-D-PCA Cells | 7  |
+| Fourth| T-D-PCA Cells | 9  |
+| Third | R-O-PCA Cells | 6  |
+| Second| SB-O-PCA Cells| 5  |
+| Most  |SIB-O-PCA Cells| 5  |
+
+
+Each PCA Cells are about 1 mm in size.
+
+PCS Cells get produced at the inner borders of the soulspace
+
+As you might have guessed, I-Cassidy also adapts like E-Cassidy. This isn't only limited to making new PCA Cell types.
+
+I-Cassidy learns how the invading soul attacks and defends with PPI and adapts to exploit any weak points. For example, if an invading soul uses PPI to make a shield at its front to protect themselves, then I-Cassidy will produce cells behind the invading soul to push it out from the front. And I-Cassidy remembers it even after the soul leaves.
+
+I-Cassidy is technically the soulspace trying to get any invading souls out.
+
+I-Cassidy however isn't perfect, the attached soul themselves can get in the crossfire by PCA Cells. For example, a B-O-PCA Cell might accidentally hit the attached soul which would push them out of the soulspace slightly.
+
+I-Cassidy however tries to resolve this quickly by using B-O-PCA cells to push the attached soul inside the soulspace again.
+
+If a part of the attached soul exits the soulspace, E-Cassidy pushes the part back into the soulspace (E-Cassidy knows its host soul from invading souls).
+
+E-Cassidy does not go away even after the invading soul enters inside the soulspace. It will wait until I-Cassidy pushes a part of the invading soul out of the soulspace so E-Cassidy can pull them out of the soulspace and fight them again. E-Cassidy does not return as long as an invading soul is inside the soulspace.
