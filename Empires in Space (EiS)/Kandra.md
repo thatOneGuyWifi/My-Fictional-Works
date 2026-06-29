@@ -336,7 +336,7 @@ comment_symbol(//)
 function EXIT(X)  
     &nbsp;&nbsp;&nbsp;&nbsp;if X = 0 then  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit of formula  
-    &nbsp;&nbsp;&nbsp;&nbsp;end of if
+    &nbsp;&nbsp;&nbsp;&nbsp;end of if  
 end of function
 
 function ICE(P, A):  
