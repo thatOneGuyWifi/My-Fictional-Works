@@ -558,13 +558,13 @@ Plug in X as 450 aex, M as 30 g. P as 90 cPa and A as 20 cm².
 
 There is also a formula to calculate how much ex you can get from training. But this one is much simpler than the formula for IIPE. The formula is
 
-$X = max \left(1, \frac{T}{3.5} + W + B \right)$
+$X = max \left(0, \frac{T}{3.5} + W + B \right)$
 
 Yep, it's that simple. Here, X means the total ex gained, measured in tex, aex or vex. T means the time you much time you spent expanding your ex, measured in minutes. W means the amount of Iwp you have. B means the amount of brl you have.
 
 T is being divided by 3.5 because Every 3 and a half minute, you get 1 ex.
 
-max(1,) prevent X being from being a negative number, since you can't get negative ex.
+max(0,) prevent X being from being a negative number, since you can't get negative ex.
 
 Let's do some examples:
 
@@ -597,9 +597,9 @@ Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
 > $\frac{35}{3.5} = 10$  
 > 12 + (-25) = -13.  
 > 10 + (-13) = -3.  
-> max outputs 1.
+> max outputs 0.
 
-**Answer**: 1 ex.
+**Answer**: 0 ex.
 
 ***
 
@@ -679,7 +679,7 @@ They all get blocked and unlocked quickly based in what the organism is currentl
 
 Also, when the organism gets more tired and rests, I-Cassidy becomes more active in pushing out the invading soul, so being tired is actually **worse** for the invading soul.
 
-When a B-D-PCA Soul enters a layer, it expands into a sheet of layer that blocks the invading soul but allows the host soul and other B-D-PCA Cells. It takes an average of 10 B-D-PCA Cells to securely block a layer.
+When a B-D-PCA Soul enters a layer, it expands into a sheet of layer that blocks the invading soul but allows the host soul and other B-D-PCA Cells and hardens. It takes an average of 10 B-D-PCA Cells to securely block a layer.
 
 - **Supporting Defence PCA Cells** or **S-D-PCA Cells**:
 
@@ -812,3 +812,57 @@ I-Cassidy however tries to resolve this quickly by using B-O-PCA cells to push t
 If a part of the attached soul exits the soulspace, E-Cassidy pushes the part back into the soulspace (E-Cassidy knows its host soul from invading souls).
 
 E-Cassidy does not go away even after the invading soul enters inside the soulspace. It will wait until I-Cassidy pushes a part of the invading soul out of the soulspace so E-Cassidy can pull them out of the soulspace and fight them again. E-Cassidy does not return as long as an invading soul is inside the soulspace.
+
+### Possession Power Index (PPI)
+
+Now that I explained how the soulspace protects itself from invading souls, let's now talk about how souls actually possess someone.
+
+Detached souls use PPI to possess inlife organisms (as discussed). But to be more precise, PPI lets you:
+- Enter inside a soulspace.
+- Connect to the Syovos.
+- Fight PCA cells and defend yourself by:
+    - Making PPI slashes that damage PCA cells.
+    - Making PPI shields that protects you from PCA cells.
+
+So PPI is just used for defense against I-Cassidy and to get into a soulspace and to connect yourself with the Syovos.
+
+You need certain amounts of PPI to achieve the properties of PPI. Here is a table showing how much PPI you need to achieve them.
+
+
+| PPI Required | Property |
+|--------------|----------|
+| 100 PPI | Entering inside a soulspace |
+|80 kPPI | Connecting to a Syovos |
+|207 kPPI| Making PPI slashes and PPI shields |
+
+
+When you enter inside a soulspace, I-Cassidy gets into action immediately. So you also need to use your PPI immediately to.
+
+You can use your PPI slashes to cut the B-D-PCA cells before they could reach the Syovos, however that would require you to see the 1mm orbs and them reaching to the Syovos among the other 1mm orbs and hit them with your PPI slash. That requires precision and good eyes. So targeting a single type/group of PCA cells is hard.
+
+Now you might be wondering, why even target a PCA cell when you can just slash all the PCA cells around you? Well first of all, randomly slashing PCA cells around you is inefficient as I-Cassidy will exploit that; second of all, targeting B-D-PCA cells before they harden will kill the B-D-PCA cells faster. And you also need to PPI slash B-D-PCA cells to connect with the Syovos in the first place.
+
+There is another reason targeting, When your PPI slash hits a PCA cell, the slash becomes slightly weaker (in damage) and the more it slashes through (the same or other) PCA cells the weaker it will get until it disappears. So if you want to hit a type of PCA cell surrounded by other PCA cells and you hit that crowd, your PPI slash will deal less damage to the targeted PPI cell than intended, although you really cannot do much in that situation.
+
+When PPI slash does damage, the entire thing loses damage, not only that region.
+
+To summon a PPI slash, you need to use PPI but you also need to decide the values of each PPI slash property, the properties being:
+- Size: the bigger the more PPI required, the smaller the less PPI required.
+- Damage: the more damage the more PPI required, the less damage the less PPI required.
+- Durability: the more durability the more PPI required, the less durability the less PPI required.
+- Speed: the more fast it goes the more PPI required, the less speed PPI required.
+- Shape: the more complex the shape, the more PPI required; the more simpler the shape, the less PPI required. A straight line is the simplest shape, i.e costing the least PPI.
+
+*-- Note to the author: add the PPI required for each property bases on avg value for reference. Same for PPI shield --*
+
+Along with PPI slash, you can use PPI shield to protect yourself from the PCA cells.
+
+They also need PPI to be summoned. Here are the properties of PPI shields:
+- Size: same like PPI slash.
+- Durability: same like PPI slash.
+- Shape: same like PPI slash.
+- Location: these don't have variable PPI. The PPI shield close to you will cost the same PPI if it was far away from you.
+
+PPI slash and PPI shields only affect PCA cells, they don't affect anything else. They are purple in color.
+
+*(I got tired at the end so it's a sloppy. When I edit this (to make things clear and structured, rn I am writing down ideas) I WILL change that)*
