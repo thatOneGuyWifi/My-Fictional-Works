@@ -1,5 +1,5 @@
 > [!NOTE]
-> This document is prone to changes
+> This document is not finished and still currently under development
 
 # Tables Of Content
 
@@ -17,7 +17,8 @@
 │&nbsp;&nbsp;&nbsp; └─ [How To Train Your IIP](#how-to-train-your-iip)  
 └─ [Possession](#possession)  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [I-SSPCAS](#i-sspcas)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 
 
 # Introduction
@@ -208,7 +209,9 @@ Detached souls can feel a "feeling" related to tIIP, aIIP and vIIP; these feelin
 
 This feeling cannot be described with words; it must be felt/experienced. It's like trying to describe a feeling you never felt; you can't never truly know how it feels until you feel it yourself. Infact, that is literally what this is; you can't know how it feels unless you feel it for yourself; which isn't exactly possible since this is a fictional work.
 
-What is the IIP Expander exactly? As previously stated, the IIP Expander is a feeling detached souls can feel. They are the things which lets a detached soul get IIP.
+What is the IIP Expander exactly? It is a property/configuration of a detached soul that influences (i.e increases) another property of the kandra soul, IIP. This property can be felt by detached souls and increased by "expanding" it. Think of your IIP Expander as a muscle, if you exercise your muscle (expanding your IIP Expander) it becomes stronger (increasing your IIP Expander); your muscles strength influences your health for the better (IIP Expander increasing your IIP).
+
+Your IIP Expander is measured in ex (**ex**pander), and it uses the metric system. For tIIP Expander, it is tex (**t**IIP **ex**pander); for aIIP Expander, it is aex (**a**IIP **ex**pander); and for vIIP Expander, it is vex (**v**IIP **ex**pander).
 
 A detached soul can focus on the feeling of an IIP Expander. They don't usually feel the IIP Expander; they only do when focusing on it, and detached souls have the ability to focus on each IIP Expander (one at a time).
 
@@ -217,8 +220,6 @@ Each feeling differs based on what IIP type they focus on, so tIIP, aIIP and vII
 I'll use tIIP for most of the examples.
 
 When a detached soul feels the tIIP Expander, they can "push" or expand this feeling; this is how they train their IIP (tIIP in this case). They focus on an IIP Expander and try to expand it. Again, this is not fully describable. It's like trying to explain how to move your arm to an armless person, they can't fully know how it feels like to move an arm until they get one.
-
-Your IIP Expander is measured in ex (**ex**pander), and it uses the metric system. For tIIP Expander, it is tex (**t**IIP **ex**pander); for aIIP Expander, it is aex (**a**IIP **ex**pander); and for vIIP Expander, it is vex (**v**IIP **ex**pander).
 
 Now, To actually increase your IIP Expander (tex/aex/vex), you need to keep expanding your IIP Expander. Every 3 and a half minute you expand your IIP Expander, your ex increases by one (corresponding to what type of IIP Expander you are using).
 
@@ -239,6 +240,8 @@ The more ex, the more intense that type of IIP Expander feels.
 I like to imagine it as an orb, and when you expand it, the orb gets bigger, expanding.
 
 When you push the tIIP Expander, you get something called "tIIP Expansion" or tIIPE (aIIPE and vIIPE for aIIP and vIIP respectively and IIPE to express all the three types of IIP Expansion). IIPE is what lets you gain IIP. 208 ktIIPE (kilo tIIPE) = 1 tIIP, same for aIIPE and vIIPE. After getting 208 ktIIPE, your tIIPE resets back to 0 tIIPE, again same for aIIPE and vIIPE.
+
+So IIP Expander is actually a property/configuration of a soul which gives IIPE and IIPE increases IIP. To analogize it, let's use our previous analogy of muscles: IIP Expander is your muscle, you exercise it (expanding your IIP Expander) and that exercise gives you gains (IIPE), the accumulated gains increase your actual strength (IIPE increasing your IIP).
 
 The amount of IIPE you get depends on something called the "Selective Inlife Interaction Power Concentration" or SIIPC.
 
