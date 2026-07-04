@@ -19,6 +19,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
 
 
 # Introduction
@@ -868,4 +869,55 @@ They also need PPI to be summoned. Here are the properties of PPI shields:
 
 PPI slash and PPI shields only affect PCA cells, they don't affect anything else. They are purple in color.
 
+Unlike IIP, PPI is losable with making PPI slashes and shields.
+
 *(I got tired at the end so it's a sloppy. When I edit this (to make things clear and structured, rn I am writing down ideas) I WILL change that)*
+
+#### How To Gain PPI And Train It
+
+Detached souls having something called the **"Possession Activation Substance Organ" (PASO)**. PASO releases **"Possession Activation Substance" (PAS)**, PAS is the substance which increases PPI, let's get more into it.
+
+PASO is not a new organ inside Detached souls, PASO is an existing organ with the property of producing PAS. The most common organ for it to be PASO in a species is the heart (human's PASO is the heart). Most species only have one PASO (including humans).
+
+What is PAS? PAS is an **"Afterlife Special Status Substance" (ASSS. We will get to ASSS later)**, a special substance that lets you gain PPI and train to get PPI faster. It doesn't typically interact with other body parts because of its special status.
+
+The amount of PAS your PASO produces relies on the health of the PASO (more healthy, more PAS; less healthy, less PAS) and some genetics. Detached souls can train to increase their PAS production even if they produce less PAS genetically, genetics aren't destiny.
+
+In detached souls, there are something called **"Possession Activation Substance Node" (PAS Node)**. PAS Nodes are the things which converts PAS to PPI. PAS Nodes looks like pink spherical balls, giving them the name "node". The position of PAS Nodes and number of PAS Nodes varies by the species and individual for humans and anthropomorphic species, they usually have four PAS Nodes and they are usually placed around the elbows and knees.
+
+PAS flows like liquid, that's why it's common to have heart as PASO, since it is tied with the circulatory system.
+
+PAS's speed again relies on health and genes of your PASO producing PAS, but the average speed is 3 cm/m (3 centimeters per minute).
+
+When PAS reaches a PAS Node, PAS Node absorbs some of the PAS and it gets stored inside the PAS Node. Once PAS Node collects 12 kPAS, the PAS Node will convert the PAS to PPI. 12 kPAS = 1 PPI.
+
+PAS Nodes aren't perfect at absorbing PAS, some of the PAS doesn't get absorbed, they are called **"Unabsorbed PAS"**. Unabsorbed PAS lasts for 3 days before dissolving into the blood and getting back to the heart for it to be produced again. PASO can theoretically produce a limitless amount of PAS but it requires energy, and reusing PAS requires *less* energy. PAS which goes to the opposite direction of the PAS nodes are also Unabsorbed PAS and gets reused by PASO.
+
+Genetics also plays a role in PAS Node's storage and absorption but they can be trained. On average, a PAS Node absorbs 8 PAS/s and stores 12 kPAS. If a PAS Node can store less than 12 kPAS, it'll convert all the PAS it can store to PPI, which will be <1 PPI but not 0. For example, if a PAS Node can store only 10 kPAS, then it'll result in 0.833 PPI (Rounded. If that PAS Node reaches 10 kPAS). If a PAS Node has more than 12 kPAS storage, for example 20 kPAS and has 20 kPAS, the PAS Node will convert the 12 kPAS into PPI, leaving 8 kPAS.
+
+A PAS Node can theoretically have a limitless amount of storage because PAS Nodes are also ASSS. It doesn't interact with the body parts except for PAS (PAS also interacting with PAS Nodes).
+
+Now, to actually get PPI, you need to make your PASO produce PAS. A detached soul can do this by just doing it, like how you just move an arm; not describable, must be experienced. When PAS gets to a PAS Node, the detached soul can feel it in that area. Again, the feeling isn't describable; however the feeling is neutral, not painful or pleasurable.
+
+To train your PASO and PAS Node (because those are the only 2 that can be trained) you need PAS. Once you get enough PAS, you can use it increase:
+
+For PASO:
+- PAS production.
+- PAS speed.
+
+For PAS Node:
+- Storage.
+- Absorption speed.
+
+It's like buying equipment with money, you give money (PAS) to buy the equipment (the improvements). Now you need to do it before a PAS Node reaches 12 kPAS otherwise that gets converted to 1 PPI. The "trade" is also not describable, must be felt. You just have to know to do it, which detached souls know how to do.
+
+Here is a table on how much PAS requires for each improvement for reference:
+
+
+| PASO/PAS Node | Improvement | Amount |PAS Required|
+|---------------|-------------|--------|------------|
+|     PASO      |  Prodiction | 1 PAS/s|   50 PAS   |
+|     PASO      |    Speed    | 1 cm/m |   50 PAS   |
+|    PAS Node   |   Storage   |1 extra PAS| 50 PAS  |
+|    PAS Node   |  Absorption | 1 PAS/s|   50 PAS   |
+
