@@ -916,7 +916,7 @@ Here is a table on how much PAS requires for each improvement for reference:
 
 | PASO/PAS Node | Improvement | Amount |PAS Required|
 |---------------|-------------|--------|------------|
-|     PASO      |  Prodiction | 1 PAS/s|   50 PAS   |
+|     PASO      |  Production | 1 PAS/s|   50 PAS   |
 |     PASO      |    Speed    | 1 cm/m |   50 PAS   |
 |    PAS Node   |   Storage   |1 extra PAS| 50 PAS  |
 |    PAS Node   |  Absorption | 1 PAS/s|   50 PAS   |
