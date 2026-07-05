@@ -166,6 +166,7 @@ These are the things willpower can change:
 - Change the style and length of your hair.
 - Change yourself into being something more youthful or something older (if you want to).
 - Reduce the amount of fat inside your body (you can't get back the reduced fat from wp, and reduction is only limited until essential fat is reached).
+- Increase/Decrease your height.
 
 These are the only things you can change with willpower.
 
@@ -881,21 +882,23 @@ PASO is not a new organ inside Detached souls, PASO is an existing organ with th
 
 What is PAS? PAS is an **"Afterlife Special Status Substance" (ASSS. We will get to ASSS later)**, a special substance that lets you gain PPI and train to get PPI faster. It doesn't typically interact with other body parts because of its special status.
 
-The amount of PAS your PASO produces relies on the health of the PASO (more healthy, more PAS; less healthy, less PAS) and some genetics. Detached souls can train to increase their PAS production even if they produce less PAS genetically, genetics aren't destiny.
+The amount of PAS your PASO produces relies on the health of the PASO (more healthy, more PAS; less healthy, less PAS) and some genetics. Detached souls can train to increase their PAS production even if they produce less PAS genetically, genetics aren't destiny. The average amount of PAS produced by PASO is 10 PAS/s (10 PAS per second).
 
-In detached souls, there are something called **"Possession Activation Substance Node" (PAS Node)**. PAS Nodes are the things which converts PAS to PPI. PAS Nodes looks like pink spherical balls, giving them the name "node". The position of PAS Nodes and number of PAS Nodes varies by the species and individual for humans and anthropomorphic species, they usually have four PAS Nodes and they are usually placed around the elbows and knees.
+In detached souls, there are something called **"Possession Activation Substance Node" (PAS Node)**. PAS Nodes are the things which converts PAS to PPI. PAS Nodes looks like pink spherical balls, giving them the name "node". They are 3 cm in diameter. The position of PAS Nodes and number of PAS Nodes varies by the species and individual for humans and anthropomorphic species, they usually have four PAS Nodes and they are usually placed around the elbows and knees.
 
 PAS flows like liquid, that's why it's common to have heart as PASO, since it is tied with the circulatory system.
 
-PAS's speed again relies on health and genes of your PASO producing PAS, but the average speed is 3 cm/m (3 centimeters per minute).
+PAS's speed again relies on health and genes of your PASO producing PAS, but the average speed is 3 cm/s (3 centimeters per second).
 
-When PAS reaches a PAS Node, PAS Node absorbs some of the PAS and it gets stored inside the PAS Node. Once PAS Node collects 12 kPAS, the PAS Node will convert the PAS to PPI. 12 kPAS = 1 PPI.
+When PAS reaches a PAS Node, the PAS Node absorbs some of the PAS and it gets stored inside the PAS Node. Once PAS Node collects 12 kPAS, the PAS Node will convert the PAS to PPI. 12 kPAS = 1 PPI. It takes a PAS Node 10 minutes to convert 12kPAS to 1 PPI.
 
 PAS Nodes aren't perfect at absorbing PAS, some of the PAS doesn't get absorbed, they are called **"Unabsorbed PAS"**. Unabsorbed PAS lasts for 3 days before dissolving into the blood and getting back to the heart for it to be produced again. PASO can theoretically produce a limitless amount of PAS but it requires energy, and reusing PAS requires *less* energy. PAS which goes to the opposite direction of the PAS nodes are also Unabsorbed PAS and gets reused by PASO.
 
 Genetics also plays a role in PAS Node's storage and absorption but they can be trained. On average, a PAS Node absorbs 8 PAS/s and stores 12 kPAS. If a PAS Node can store less than 12 kPAS, it'll convert all the PAS it can store to PPI, which will be <1 PPI but not 0. For example, if a PAS Node can store only 10 kPAS, then it'll result in 0.833 PPI (Rounded. If that PAS Node reaches 10 kPAS). If a PAS Node has more than 12 kPAS storage, for example 20 kPAS and has 20 kPAS, the PAS Node will convert the 12 kPAS into PPI, leaving 8 kPAS.
 
 A PAS Node can theoretically have a limitless amount of storage because PAS Nodes are also ASSS. It doesn't interact with the body parts except for PAS (PAS also interacting with PAS Nodes).
+
+When a PAS Node converts PAS to PPI and if it doesn't have enough storage to hold more PAS, the other PAS that could've been absorbed will be unabsorbed until conversion is finished.
 
 Now, to actually get PPI, you need to make your PASO produce PAS. A detached soul can do this by just doing it, like how you just move an arm; not describable, must be experienced. When PAS gets to a PAS Node, the detached soul can feel it in that area. Again, the feeling isn't describable; however the feeling is neutral, not painful or pleasurable.
 
@@ -908,6 +911,7 @@ For PASO:
 For PAS Node:
 - Storage.
 - Absorption speed.
+- PAS conversion speed.
 
 It's like buying equipment with money, you give money (PAS) to buy the equipment (the improvements). Now you need to do it before a PAS Node reaches 12 kPAS otherwise that gets converted to 1 PPI. The "trade" is also not describable, must be felt. You just have to know to do it, which detached souls know how to do.
 
@@ -917,7 +921,19 @@ Here is a table on how much PAS requires for each improvement for reference:
 | PASO/PAS Node | Improvement | Amount |PAS Required|
 |---------------|-------------|--------|------------|
 |     PASO      |  Production | 1 PAS/s|   50 PAS   |
-|     PASO      |    Speed    | 1 cm/m |   50 PAS   |
-|    PAS Node   |   Storage   |1 extra PAS| 50 PAS  |
+|     PASO      |    Speed    | 1 cm/s |   50 PAS   |
+|    PAS Node   |   Storage   | +1 PAS |   50 PAS   |
 |    PAS Node   |  Absorption | 1 PAS/s|   50 PAS   |
+|    PAS Node   |  Conversion |-1 minute| 100 PAS   |
 
+
+
+You can also force PAS conversion in a PAS Node which has >12 kPAS but it will be >1 PPI. PAS Nodes just automatically convert 12 kPAS to PPI.
+
+There is a formula to calculate how much PAS you will gain in a certain amount of time (when PAS reaches the PAS Node) for one PAS Node. The formula is:
+
+$P = min(A, R) \times T$
+
+P (PAS gained) means the total amount of PAS gained, measured in PAS. A (Absorption) means how much a PAS Node absorbs, measured in PAS/s. R (pRoduction) means how much PAS is produced by PASO, measured in PAS/s. T meas the specified time, measured in seconds.
+
+The min() function is there because if A > R, P = R because A would be the capacity and R will be the actual amount. If A < R, P = A because PAS exceeds the capacity of the PAS Node.
