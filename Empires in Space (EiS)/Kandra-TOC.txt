@@ -1,0 +1,18 @@
+Made this to sort of manage Kandra's Tables of Content because GFM (Github Flavored Markdown) needs a lot of &nbsp; for tabs.
+
+-------------------------------------------------------
+
+The Afterlife And Souls  
+├─ The Afterlife And Inlife
+├─ The Soul And Soulspace  
+├─ Willpower (wp)
+├─ Interacting With The Inlife
+│  └─How To Train Your IIP  
+├─ Possession
+│  ├─ E-SSPCAS
+│  ├─ I-SSPCAS
+│  ├─ Possession Power Index (PPI)
+│  │  └─ How To Gain PPI And Train It
+│  └─ Others
+├─ Society
+└─ Afterlife Special Status Substance (ASSS)
