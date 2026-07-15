@@ -6,15 +6,11 @@ I'd decided I'll have my own rule on how to use punctuation mark. I made this do
 
 **Colon (:)**: Use it when two or more clauses interact with eachother (one affecting the other) directly, following a "cause and effect" rule or when listing characteristics/properties of a subject/object.
 
-**Semicolon (;)**: Use it when adding a related supplementary or optional sentence to another sentence or in sub-lists (a list inside a list: A,B,C;D,E,F;G,H,I 3 sub-list inside one list separated by two semicolons).
-
-When a related supplementary/optional information is followed by important information ([information] + [optional information] + [important information]) for example: "He shot the target (i); it wasn't the best shot (oi); but it hit the target (ii)." then write two semicolons and put the optional information inside the semicolons, kind of like a pseudo-parenthesis.
-
-**Period (.)**: Use it when ending a sub-topic (but the main topic continues) or main topic.
+**Period (.)**: Use it when ending a sub-topic (but the main topic continues), main topic or for initials.
 
 **Ellipsis (...)**: Use it when in need of a long pause (that doesn't end the sub-topic) or when leaving out information.
 
-**Em-dash (—)**: Use it like a parenthesis which has more important information than a regular parenthesis (do not add space to the outside words touching the em-dash, like [outside word]—[inside content]—[outside word]) or when a clause is interrupted.
+**Em-dash (—)**: Use it when a clause/information is interrupted.
 
 **Hyphen (-)**: Use it in when joining two words together to make one word (a combined word).
 
@@ -23,6 +19,10 @@ When a related supplementary/optional information is followed by important infor
 **Square Brackets ([])**: Use it when adding optional information inside a parenthesis or when you need to insert required information.
 
 **Curly Brackets ({})**: Use it when adding optional information inside a square bracket (if you need to add parenthesis inside curly brackets, it loops back to normal parenthesis).
+
+**Semicolon (;)**: Use it when adding supplementary/optional information that is related to the sub-topic/more important than a parenthesis or in sub-lists (a list inside a list: A,B,C;D,E,F;G,H,I 3 sub-list inside one list separated by two semicolons).
+
+When a related supplementary/optional information is followed by important information ([information] + [optional information] + [important information]) for example: "He shot the target (i); it wasn't the best shot (oi); but it hit the target (ii)." then write two semicolons and put the optional information inside the semicolons, like a parenthesis.
 
 **Slash (/)**: Use it as a "or"; when writing alternatives.
 
@@ -45,27 +45,18 @@ When a related supplementary/optional information is followed by important infor
 > [!Note]
 > Sub-topics can be defined loosely (in parameters) but generally they are topics inside a main topic
 
-**Semicolon vs Parenthesis vs Em-dash**: They seem to be similar in function but there is a difference.
+**Semicolon vs Parenthesis**: They both seem to be similar in function but there is a difference.
 
-Use semicolons when the supplementary information describes the action (like an adverb) or characteristics of a noun:
-- *Example #1*: "She ate the food; eating it slowly, gently, savoring the taste." The semicolon is describing how the action (ate) is done/detailing the action (ate). Not required but adds to the sentence.
-- *Example #2*: "He turned on the music; the music sounding like the angels themselves were singing". The semicolon is describing a characteristic of the music, its quality; sounding as good like angels singing.
+Use parenthesis when presenting optional information and use semicolons when presenting optional information that is more important/more related.
 
-Use Parentheses when it adds extra additional information to information that doesn't describe the action or characteristic or extra information in the main topic:
-- *Example #1*: "Egypt—under it's new leader—turned into the 'Northern African Union' (NAU). NAU being set to reform the entirely of Northern Africa." The Parenthesis adds extra information; the short name.
-- *Example #2*: "The general led the battle forward (the battle being set in the morning), his soldiers marching towards the capital." The parenthesis adds extra information to the battle that isn't required.
-- *Example #3*: "(The scenario is set in the year 2105 on Mars. The main protagonist being born there)." The entire sentence being in a parenthesis, indicating that the information is additional to the main topic, primarily used for notes.
+*Examples (semicolon)*:
+- *Example #1*: "The woman takes out her sword; the sword being gifted to her by her father." The sword being gifted by her father part is optional information to relates more closely to the sub-topic.
+- *Example #2*: "His girlfriend; from Italy; comes to visit him; who lives in Germany." Here there are two uses of semicolons, showing where his girlfriend is from and where he lives.
 
-Use Em-dashes when the extra information seems more important than a normal parenthesis:
-- *Example #1*: "He led the campaign towards the 3rd district—the district being heavily militarized—proved getting in was not going to be easy". The Em-dash adds extra information which is important to the next information.
-- *Example #2*: "Morning came—the birds chirped, wind from the outside hit her face—today was going to be a good day." The Em-dash adds extra information about that morning that seems more important than a regular parenthesis.
+*Example (parenthesis)*:
+- *Example #1*: "Egypt; under new leadership; gets turned into the 'Northern African Union' (NAU). NAU being determined to take all of Northern Africa."Here, parenthesis is used to add the short form of the Northern African Union.
+- *Example #2*: "The general's soldier (from the 5th division) is sent to the capital." Here, the parenthesis is showing optional information that isn't relatively important.
+- *Example #3*: "(The scenario is set in the year 2105 on Mars. The protagonist being born there)." The entire sentence being in a parenthesis, indicating that the information is additional to the main topic, primarily used for notes.
 
-**Semicolon vs Colon**: Since the semicolon describes the characteristic(s) of a noun and so does the colon, what's the difference?
-
-Use a colon when characteristics are important to the topic.
-
-*Example*: "There are 4 states of matter: solid, liquid, gas, plasma." The characteristics are not supplementary to the topic, they are required to understand the topic.
-
-Use a semicolon when the characteristics are supplementary, not required but adds to the information.
-
-*Example*: "She cut the cake and ate it; the cake was red and tasted good." The characteristics are supplementary and not required.
+> [!NOTE]
+> The level of importance an information has is decided by the writer.
