@@ -91,11 +91,11 @@ The Combine named kandra, kandra, and all the rules of kandra.
 
 ## The Afterlife And Inlife
 
-In EiS, the afterlife exists, although its much more different from something like heaven or hell.
+In EiS, the afterlife exists; although it's much more different from something like heaven or hell.
 
-When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called the "inlife" and the "afterlife". Inlife is the semi-world where the living live and afterlife is the semi-world where the "dead" live. The two semi-worlds were created at the same time.
+When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called the "inlife" and the "afterlife". Inlife is the semi-world where the living lives and afterlife is the semi-world where the "dead" lives. The two semi-worlds were created at the same time the EiS universe was created.
 
-The afterlife and inlife worlds are "replica" of eachother. But to be accurate, they are replicas of when the EiS universe got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother, but not identical. The Afterlife or inlife doesn't "update" itself to match eachother.
+The afterlife and inlife worlds are "replicas" of eachother, but to be accurate: they are replicas of themselves when the EiS universe just got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother but not identical. The Afterlife or inlife doesn't "update" itself to match eachother.
 
 ## The Soul And Soulspace
 
@@ -1035,3 +1035,9 @@ The Gamma Force monitors every war to ensure all rules are followed.
 Afterlife Special Status Substance (ASSS) as the name states, are special substance in the afterlife semi-world that acts in exotic ways. Different from normal matter.
 
 They have rules in what they do but not always exactly how or why.
+
+Every ASSS has their own unique rules (how they work).
+
+Since ASSS is exotic, they really don't have have much explanation on how or why they work.
+
+PCA cells, E-SSPCAS and PAS are ASSS.

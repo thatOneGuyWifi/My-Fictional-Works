@@ -1,4 +1,4 @@
-*(NOTE: This is for my Empires In Space (EiS) universe and has outdated information.)*
+*(NOTE: This is for my Empires In Space (EiS) universe and has outdated information. Please see [Kandra.md](../Kandra.md))*
 
 The EiS universe was created by kandra. Before it existed, there existed called the "**Kandra-Ultimata**". The Kandra-Ultimata split itself and started to create a bunch of universes, including the EiS universe.
 
