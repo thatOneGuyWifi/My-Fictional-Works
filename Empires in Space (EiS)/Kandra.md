@@ -99,23 +99,23 @@ The afterlife and inlife worlds are "replicas" of eachother, but to be accurate:
 
 ## The Soul And Soulspace
 
-Every life in EiS has something called a **"Kandra Soul"** or simply **"Soul"**. The soul is a **physical** substance that resides in the entire body (as in it occupies the entire body).
+Every life in EiS has something called a **"Kandra Soul"** or simply called **"Soul"**. The soul is a **physical** substance that resides in the entire body; as in it occupies the entire body.
 
-You might be asking, if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you need to first know that souls reside in **soulspace**. Soulspace is a special branch of the afterlife which exists inside the inlife.
+You might be asking: if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you first need to know that souls reside in something called **soulspace**. Soulspace is a special branch of the afterlife which exists inside the inlife, meant to keep souls of living organisms.
 
-Soulspace isn't exactly a single thing like inlife or afterlife, it's multiple. When a life is birthed (in the inlife), kandra automatically creates a soul and a soulspace for that soul to reside in for that organism.
+Soulspace isn't exactly a single thing like the inlife or the afterlife, it's multiple. When a life is birthed (in the inlife): kandra automatically creates a soul and a soulspace for that soul to reside in for that organism.
 
-The soulspace takes the shape of the soul, which takes the shape of the organism. Every "alive" soul in the inlife gets their own soulspace, so that the soul can live inside it. So each soulspace is unique.
+The soulspace takes the shape of the soul; which takes the shape of the organism. Every alive soul in the inlife gets their own soulspace so that the soul can live inside it. So each soulspace is unique.
 
-The soulspace is anchored with its organism, which means when the organism moves, the soulspace moves. Basically it mirrors every movement the organism makes.
+The soulspace is anchored with its host; meaning when the organism (host) moves, the soulspace moves. It basically mirrors every movement the host makes.
 
-The soul's primary job is simply to carry the organism to the afterlife, but the soul have other jobs than simply transporting the organism to the afterlife.
+The soul's primary job is to carry the organism to the afterlife when it dies and function inside the afterlife. However, the soul has other jobs than simply transporting the organism to the afterlife and making it function in the afterlife.
 
-The soulspace's job is to let the soul stay with its organism, otherwise the soul will go to the afterlife.
+On the other hand, the soulspace's job is to anchor the soul with its host so that it doesn't go to the afterlife (otherwise the organism would be dead).
 
-Think of the soul as an organ and the soulspace as the skeleton. Without the skeleton, the organs will move around and touch eachother, which will cause complications. With the skeleton, everything stays stable. The same logic applies here, without the soulspace, the soul goes to afterlife and the organism dies; with the soulspace, it keeps the soul inside the organism to keep it alive.
+Think of the soul as an organ and the soulspace as the skeleton. Without the skeleton: the organs will move around and touch eachother; which will cause complications; with the skeleton: everything stays stable. The same logic applies here, without the soulspace: the soul goes to afterlife and the organism dies, with the soulspace: it anchors the soul to its host to keep it alive.
 
-The Soul exists in the soulspace, not in the inlife.
+I want to clarify that souls of living beings exists in the soulspace, not in the inlife. When the organism dies: it goes to the afterlife; so *a soul never really exists in the inlife (this isn't entirely true, see [Interacting With The Inlife](#interacting-with-the-inlife) section).
 
 For a soul to go to the afterlife, aka "die", it needs its soulspace to be destroyed. How do you destroy a soulspace? First, you need to know something called a "tuvlum".
 Tuvlums are metaphysical organs (or physical organs that exists within the soulspace) that looks like a tube-like or pipe-like structure. A tuvlum's job is to maintain the soulspace/keep the soulspace existing. They are connected to organs and the soulspace itself (inside the soulspace).
