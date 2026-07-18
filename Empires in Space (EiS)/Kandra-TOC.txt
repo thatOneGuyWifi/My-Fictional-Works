@@ -5,9 +5,15 @@ Made this to sort of manage Kandra's Tables of Content because GFM (Github Flavo
 The Afterlife And Souls  
 ├─ The Afterlife And Inlife
 ├─ The Soul And Soulspace  
+│  ├─ How An Organism Dies
+│  ├─ The Syovos
+│  ├─ Attached Souls And Detached Souls
+│  ├─ Life Birth And Soul Qualifications
+│  │  └─ The Clone Issue
+│  └─ Edge Cases
 ├─ Willpower (wp)
 ├─ Interacting With The Inlife
-│  └─How To Train Your IIP  
+│  └─ How To Train Your IIP  
 ├─ Possession
 │  ├─ E-SSPCAS
 │  ├─ I-SSPCAS

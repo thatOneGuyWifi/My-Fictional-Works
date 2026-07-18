@@ -9,9 +9,15 @@
 
 [Origins And Discovery](#origins-and-discovery)
 
-[The Afterlife And Souls](#the-afterlife-and-souls)  
+[The Afterlife](#the-afterlife)  
 ├─ [The Afterlife And Inlife](#the-afterlife-and-inlife)  
 ├─ [The Soul And Soulspace](#the-soul-and-soulspace)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─ [How An Organism Dies](#how-an-organism-dies)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Syovos](#the-syovos)
+│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Attached Souls And Detached Souls](#attached-souls-and-detached-souls)
+│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Life Birth And Soul Qualifications](#life-birth-and-soul-qualifications)
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Clone Issue](#the-clone-issue)
+│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Edge Cases](#edge-cases)
 ├─ [Willpower (wp)](#willpower-wp)  
 ├─ [Interacting With The Inlife](#interacting-with-the-inlife)  
 │&nbsp;&nbsp;&nbsp;└─ [How To Train Your IIP](#how-to-train-your-iip)  
@@ -87,7 +93,7 @@ The Combine named kandra, kandra, and all the rules of kandra.
 
 *(Fun Fact: I named kandra after the word "chandra", which means moon in hindi. I replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is The Combine just named kandra, kandra without it deriving it from chandra or any other word).*
 
-# The Afterlife And Souls
+# The Afterlife
 
 ## The Afterlife And Inlife
 
@@ -96,6 +102,10 @@ In EiS, the afterlife exists; although it's much more different from something l
 When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called the "inlife" and the "afterlife". Inlife is the semi-world where the living lives and afterlife is the semi-world where the "dead" lives. The two semi-worlds were created at the same time the EiS universe was created.
 
 The afterlife and inlife worlds are "replicas" of eachother, but to be accurate: they are replicas of themselves when the EiS universe just got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother but not identical. The Afterlife or inlife doesn't "update" itself to match eachother.
+
+Before we continue, I want to note that all of the knowledge of the afterlife is not known by the people in the inlife (as they never died).
+
+This section is only known by the people of the afterlife. This is the only section The Combine didn't find out. So most of the information is not known by the majority of people in the inlife (they don't even know there are semi-worlds and they are in the inlife semi-world, that is all discovered by the people in afterlife).
 
 ## The Soul And Soulspace
 
@@ -117,42 +127,91 @@ Think of the soul as an organ and the soulspace as the skeleton. Without the ske
 
 I want to clarify that souls of living beings exists in the soulspace, not in the inlife. When the organism dies: it goes to the afterlife; so *a soul never really exists in the inlife (this isn't entirely true, see [Interacting With The Inlife](#interacting-with-the-inlife) section).
 
-For a soul to go to the afterlife, aka "die", it needs its soulspace to be destroyed. How do you destroy a soulspace? First, you need to know something called a "tuvlum".
-Tuvlums are metaphysical organs (or physical organs that exists within the soulspace) that looks like a tube-like or pipe-like structure. A tuvlum's job is to maintain the soulspace/keep the soulspace existing. They are connected to organs and the soulspace itself (inside the soulspace).
+The soul takes the full appearance (anatomy and modified physiology) of the organism. So the appearance of a human's soul will look exactly like that human and even contain its own version of the human's organs and other biological matter. The physiology is slightly changed so that it doesn't need any materials for living, as souls cannot die (the soul can theoretically not modify the physiology but that would cause unnecessary pain, which the human soul and souls of most species avoids. To clarify: souls in the afterlife still can feel pain, but not from things like hunger or suffocation). The appearance of the soul changes as the organism's appearance change; like updating to the newest version.
 
-Now you might be asking, if the soul exists inside the soulspace and so does tuvlums, how do tuvlums exist in the soulspace with the soul? It's because tuvlums have a special property to phase through objects.
+The Soulspace takes the shape of its host; as in it only takes the outline of the host. Think of it like your shadow, it only displays your shape; no details or anything. The color of the soulspace is a bright yellow or #f7e013 exactly.
 
-The soul takes the full appearance (anatomy and a modified physiology) of the organism. So the appearance of a human's soul will look exactly like that human and even contain its own version of the human's organs and other biological matter. The physiology is slightly changed so that it doesn't need any materials for living, as souls cannot die (the soul can theoretically not do that but that would cause unnecessary pain, which the human soul and souls of most species avoided. To clarify, souls in the afterlife still can feel pain, but not from things like hunger or suffocation). The appearance of the soul changes as the organism's appearance change; like updating to the newest version.
+The soulspace's appearance changes as the appearance of the organism changes (like the soul).
 
-Tuvlums are connected to the soul's version of the organs. Those organs give some of its energy to their tuvlum to keep it alive and functioning. For humans (and most species), they have 3 tuvlums, each connected to the heart, lungs, and the brain.
+### How An Organism Dies
+
+For a soul to go to the afterlife (aka "die"), it needs its soulspace to be destroyed. How do you destroy a soulspace? First, you need to know something called a "tuvlum".
+
+Tuvlums are metaphysical organs (or physical organs that exists within the soulspace) that looks tube-like or pipe-like in structure. A tuvlum's job is to maintain the soulspace/keep the soulspace existing. They are connected to the host's soul's organs and the soulspace itself (inside the soulspace).
+
+Now you might be asking: if the soul takes up all the space inside the soulspace AND tuvlums exist inside the soulspace aswell, then how do tuvlums exist in the soulspace if the soul takes all the space? That is because tuvlums are **"Afterlife Special Status Substance (ASSS)"**. ASSS are substances in the afterlife that work in exotic ways (see [Afterlife Special Status Substance (ASSS)](#afterlife-special-status-substance-asss) to learn more). Tuvlums phase through all the matter between the organ and soulspace.
+
+Tuvlums are connected to the soul's version of the organs. Those organs give some of its energy to their tuvlum to keep it alive and functioning. For humans (and most species): they have 3 tuvlums, each connected to the heart, lungs, and the brain.
+
+The energy that the tuvlum gains make it able to maintain the soulspace.
 
 Now that you (hopefully) understand the vital role tuvlums plays in keeping the soulspace alive, let's talk about how someone actually dies now.
 
-When an organ connected to a tuvlum stops working (dies), it no longer is able to give energy to that tuvlum, causing the tuvlum to slowly stop working too. For humans, a tuvlum lasts 7 minutes without their organ before fully stopping themselves.
+When an organ connected to a tuvlum stops working (dies): it no longer is able to give energy to that tuvlum: causing the tuvlum to slowly stop working too. For humans: a tuvlum lasts 7 minutes without their organ before fully stopping themselves.
 
-The soulspace however doesn't get destroyed because one tuvlum stops working, it needs **all** the tuvlums to stop working to get fully destroyed. So for humans (and most species), they need their heart, brain **AND** lungs to stop working. After all the tuvlums stops working, the soulspace gets destroyed along with the tuvlums (and the Syovos, look farther) and the soul goes to the afterlife.
+However, The soulspace doesn't get destroyed because one tuvlum stops working, it needs **all** the tuvlums to stop working to get fully destroyed. So for humans (and most species), they need their heart, brain **AND** lungs to stop working. After all the tuvlums stops working, the soulspace gets destroyed along with the tuvlums (the Syovos, see [The Syovos](#the-syovos)) and the soul goes to the afterlife.
 
-Before a soul does go to the afterlife, kandra makes it so that the organs that stopped working start working again. Kandra also heals any injuries caused to the organism, even severe ones.
+The process of all the tuvlums dying and the soulspace getting destroyed is called **"SoulSpace Death" (SSD)**
 
-If somehow the soulspace gets destroyed without destroying the tuvlums or the tuvlums stop functioning/get destroyed, then the organism enters a "soul dead" state, where their bodies are technically functional but their bodies don't move or do anything. So in a comatose state.
+The soulspace lasts for 3 more minutes after the tuvlums gets destroyed. So it takes 63 minutes or 1 hour and 3 minutes for SSD to complete.
 
-This happens because a soul of an organism is like its consciousness. The (human and for most to all species) brain is connected to the soul with a metaphysical (or physical, it just exists in the soulspace, like tuvlums) organ called the "Syovos". The soul acts as the initiator or the consciousness of the organism and when it goes away, the body stops doing anything.
+Before a soul goes to the afterlife, kandra heals all the injuries of the soul and restarts all the organs and system for soul to properly work.
 
-When an organism goes unconsciousness, the neurons connected to the Syovos temporarily stops, separating the soul from the brain temporarily (When someone comes back to consciousness, the neurons connected to the Syovos starts working properly). The soul's brain anatomy and physiology is modified to let the Syovos exist inside it.
+### The Syovos
 
-The neurons connected to the Syovos lies in the claustrum, so does the Syovos.
+Let's talk about the Syovos. The Syovos is a metaphysical organ (or physical organ that exists within the soulspace) that connects the soul to the brain. It lies in the claustrum area of the brain.
 
-The Soulspace takes the shape of its organism; as in it only takes the outline of the organism. Think of it like your shadow, it only displays your shape; no details or anything. The color of the soulspace is a bright yellow or #f7e013 exactly.
+The Syovos; like tuvlums; is an ASSS. It also phases through the biological matter in the soul, only being connected to the neurons inside the claustrum.
 
-The soulspace's appearance change as the appearance of the organism change (like the soul).
+The soul acts as the organism's "consciousness" or like the initiator of the organism. When an organism does something; like walk for example; the soul is the one making that decision, the brain then just follows the soul's decision. So when you make a conscious decision: your soul (which is basically you) makes the decision. Unconscious decisions and acts are done by the brain, not the soul.
 
-There are two types of souls, **attached souls** and **detached souls**. Attached souls are souls which exists inside a soulspace. Attached souls never had their soulspace destroyed. Any alive person has an attached soul.
+To understand it better, just remember: conscious choice: soul, unconscious choice: brain.
 
-Detached souls are souls which are not attached to any soulspace. They are the ones who live in afterlife. They are the "dead" ones.
+The Syovos acts as the middle man, connecting the brain to the soul and vice versa. The Syovos lies in the claustrum area, connected to its neurons (as previously mentioned). That is where the connection happens between the soul and brain.
 
-Both souls however *exist in the afterlife. Detached souls live in the afterlife and attached souls exist in the soulspace, a branch of the afterlife.
+When someone goes unconscious, neural activity in the claustrum reduces (that is a real life fact): causing the connection to weaken, making the body unconscious.
 
-When a life is born in the inlife semi-world, kandra makes a new soul and soulspace for that organism (as discussed). However, when someone gives birth in the afterlife semi-world (they can do that), only a soul is created. This is because in the afterlife, the soul IS the organism and they don't need a soulspace because the soul is already in the afterlife.
+### Attached Souls And Detached Souls
+
+We have been talking a lot about souls but we haven't gotten to the most important thing: types of souls. We're gonna do that now.
+
+There are two types of souls: **attached souls** and **detached souls**. Attached souls are souls which exists inside a soulspace, anchored to an organism. Attached souls never had their soulspace destroyed. Every living person inside the inlife has an attached soul. They are the "alive" souls.
+
+Detached souls are souls which had their soulspace already destroyed. They are not anchored to any living organism in the inlife, they are the organisms themselves, living in the afterlife. They are the "dead" souls.
+
+Both souls however exist in the afterlife: detached souls live in the afterlife and attached souls live in the soulspace; a branch of the afterlife.
+
+Now that you know about attached and detached souls, I'm going to explain a part of the "dying" process. When an organism dies: it doesn't "go" to the afterlife, it transitions into a detached soul and detached souls have the property to teleport to the afterlife when it first turns becomes a detached soul.
+
+Detached souls cannot become attached souls again (unless if kandra manipulation is used, we'll get to that later).
+
+### Life Birth And Soul Qualifications
+
+When a life is born in the inlife: kandra makes a new (attached) soul and soulspace for that organism (as discussed). A soul and soulspace is given to the child when it becomes a fetus (this happens somewhere around Week 9 in human pregnancy).
+
+When life is born in the afterlife (yes, they can do that): the modified physiology creates a soul. The soul itself is the organism in the afterlife so no soulspace is created. When the embryo first forms: a soul is not made, instead a **"Pseudo-soul"** is made. Pseudo-souls are not exactly souls, they are killable (unlike souls). They are disposable souls that are either killed or matured into actual souls. A Pseudo-soul becomes an actual soul when the embryo becomes an actual soul when it becomes a fetus.
+
+You know that every life in EiS has an soul, infact for something to be considered living: they need a soul (this definition of life is only in the afterlife since inlife people don't know). But you might be asking: What classifies for something to have a soul (or for kandra to give something a soul)? To answer that, you need to know there are multiple requirements to get a soul and something needs to meet at least one of the requirements. These requirements are:
+- Be produced in a reproductive process and reach the fetus/biologically mature stage.
+- Have emotions (in any way).
+- Express the desire to live (in any way).
+- Be able to make choices independent of anything (agency).
+
+Due to this, sentient/sapient robots have souls.
+
+#### The Clone Issue
+
+Clones (at first) do not get souls. Kandra can recognize when something is made to replicate an already existing individual (that has a soul). Instead, clones get pseudo-souls (with a soulspace if in the inlife).
+
+If a clone diverges enough to be its own individual (have different belief, opinions, etc) or express a desire to live: then its pseudo-soul will mature into an actual soul.
+
+### Edge Cases
+
+If somehow the soulspace gets destroyed without destroying the tuvlums or the tuvlums stop functioning/get destroyed but the organism's organs function: then the organism enters a "soul dead" state, where their bodies are technically functional but their bodies don't move or do anything, like in a comatose state.
+
+This happens because as previously said, the soul is the consciousness/initiator of the body, without it, the organism is unconscious until the soul connects with the Syovos (the Syovos by then is also destroyed as it needs to soulspace to exist).
+
+If somehow the appearance of a soul changes but the organism doesn't: the soul will then forcibly change back to the organism's appearance (this can only be stopped by kandra manipulation). The same goes for soulspace.
 
 ## Willpower (wp)
 
