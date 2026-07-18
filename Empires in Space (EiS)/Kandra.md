@@ -157,6 +157,10 @@ The soulspace lasts for 3 more minutes after the tuvlums gets destroyed. So it t
 
 Before a soul goes to the afterlife, kandra heals all the injuries of the soul and restarts all the organs and system for soul to properly work.
 
+When an organism dies: it's soul gets teleported to the exact place in the afterlife; for example: if an they die in Tokyo, Japan, then that soul will get teleported to that exact place in afterlife's Tokyo, Japan.
+
+If the place in the afterlife has solid taking up its space: then the soul is moved until its in space not occupied by any solids. Remember the afterlife and inlife are not the same.
+
 ### The Syovos
 
 Let's talk about the Syovos. The Syovos is a metaphysical organ (or physical organ that exists within the soulspace) that connects the soul to the brain. It lies in the claustrum area of the brain.
@@ -216,9 +220,10 @@ If somehow the appearance of a soul changes but the organism doesn't: the soul w
 ## Willpower (wp)
 
 Detached souls can change their appearance and physiology using something called **"willpower" (wp).**
+
 Willpower here means the desire to do something, and willpower is measured in wp. That means the higher wp you have, the higher the desire you have to do that thing.
 
-Willpower can only be used to change the appearance of your soul IF you are a detached soul and even that is limited, so wp only measures your willpower over your desire to change your appearance; wp doesn't measure your willpower of other things.
+Willpower can only be used to change the appearance of your soul IF you are a detached soul and even that is limited. So wp only measures your willpower over your desire to change your appearance; wp doesn't measure your willpower of anything else.
 
 wp uses the metric system. Almost every measurement system here uses the metric system (except for IIP).
 
@@ -226,18 +231,22 @@ These are the things willpower can change:
 - Change the color of your outer appearance. You can even do designs.
 - Change the style and length of your hair.
 - Change yourself into being something more youthful or something older (if you want to).
-- Reduce the amount of fat inside your body (you can't get back the reduced fat from wp, and reduction is only limited until essential fat is reached).
+- Reduce the amount of fat inside your body (you can't get back the reduced fat from wp, and reduction stops when essential fat is reached).
 - Increase/Decrease your height.
 
 These are the only things you can change with willpower.
 
-To achieve an appearance change, you need to have enough wp, usually 12 kwp is enough for a full body change. Then you just need to want it, and your appearance should automatically change.
+To achieve an appearance change: you need to have enough wp; usually 12 kwp is enough for a full body change. Then you just need to want it, and your appearance should automatically change.
 
-To increase your wp, you need to increase your desire over changing your appearance. This is much easier said than done. There are **LEVELS** to this. You need to ACTUALLY want it.
+To increase your wp, you need to increase your desire over changing your appearance. This is much easier said than done, there are **LEVELS** to this, you need to ACTUALLY want it.
 
 ## Interacting With The Inlife
 
-Detached souls from the afterlife can teleport to the inlife and vise versa. When they do travel to the inlife, they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
+Detached souls can travel/teleport to the two semi-worlds. When they do travel to the inlife: they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
+
+Just like how when an organism dies, it teleports to that exact location in the afterlife: the same thing can be said for when a detached soul teleports between two semi-worlds.
+
+For example: when a detached soul in afterlife's Kolkata, India teleports to the inlife: it teleports to inlife's Kolkata, India.
 
 When a detached soul teleports in the inlife, they teleport to the place in the inlife that is adjacent to the afterlife place's counterpart the detached soul was in. For example: if a detached soul is in the afterlife's Kolkata, India and decides to teleport to the inlife, the soul will get teleported to inlife's Kolkata, India.
 
