@@ -248,26 +248,26 @@ Just like how when an organism dies, it teleports to that exact location in the 
 
 For example: when a detached soul in afterlife's Kolkata, India teleports to the inlife: it teleports to inlife's Kolkata, India.
 
-When a detached soul teleports in the inlife, they teleport to the place in the inlife that is adjacent to the afterlife place's counterpart the detached soul was in. For example: if a detached soul is in the afterlife's Kolkata, India and decides to teleport to the inlife, the soul will get teleported to inlife's Kolkata, India.
-
-For a detached soul to teleport to the inlife (or if a detached soul in the inlife wants to go to the afterlife), the soul just have to simply want it.
+For a detached soul to teleport to the inlife (or if a detached soul in the inlife wants to go back to the afterlife): the soul just have to simply want it.
 
 A detached soul cannot interact with the inlife **right away**, they need something called the **"Inlife Interaction Power" (IIP)**.
 
-IIP—as the name states—is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
+IIP (as the name states) is the power a detached soul has to interact with the inlife semi-world. The higher the IIP, the more power a detached soul has over interacting with the inlife semi-world.
 
 The IIP is divided into 3 types:
-- **"touchability Inlife Interaction Power" (tIIP)**. This type refers to being able to touch inlife objects (without it phasing through them) and get touched by inlife objects/organisms.
-- **"audible Inlife Interaction Power" (aIIP)**. This type refers to being able to make sound waves in the inlife, thus being heard by other inlife organisms.
-- **"visual Inlife Interaction Power" (vIIP)**. This type refers to the inlife light reflecting against detached souls, making them visible to other inlife organisms.
+- **"touchability Inlife Interaction Power" (tIIP)**: This type refers to being able to touch inlife objects/organisms (without it phasing through them) and get touched by inlife objects/organisms.
+- **"audible Inlife Interaction Power" (aIIP)**: This type refers to being able to make sound waves in the inlife; thus being heard by other inlife organisms.
+- **"visual Inlife Interaction Power" (vIIP)**: This type refers to the inlife light reflecting against detached souls; making them visible to other inlife organisms.
 
-The values of tIIP, aIIP and vIIP are all in seconds, meaning 10 tIIP = 10 seconds of being able to touch inlife objects before going on cooldown. This cooldown lasts for 240 hours or 10 days. This applies for aIIP and vIIP aswell.
+The values of tIIP, aIIP and vIIP are all in seconds, meaning 10 tIIP = 10 seconds of being able to touch inlife objects before going on cooldown. This cooldown lasts for 240 hours or 10 days; this applies for aIIP and vIIP aswell.
 
-Let's say you have 25 aIIP, and let's lay you use 10 of your aIIP, you now have 15 aIIP. You don't use your remaining aIIP and wait for 10 days to get 25 aIIP; which will give you a total of 40 aIIP. **BUT**, the cooldown doesn't work like that. If you have 15 aIIP, you will still receive 25 aIIP after 10 days. IIP knows your actual gained IIP from training, and after the cooldown it measures the right amount of IIP to give you, which is exactly the amount you gained from training. The same applies for tIIP and vIIP.
+Let's say you have 25 aIIP and let's say you use 10 of your aIIP; you now have 15 aIIP. You don't use your remaining aIIP and wait for 10 days to get 25 aIIP; which will give you a total of 40 aIIP. **BUT**, the cooldown doesn't work like that. If you have 15 aIIP: you will receive the difference between the total amount of aIIP you would gain and the amount of aIIP you have after 10 days (25 - 15 = 10, 10 + 15 = 25). The same applies for tIIP and vIIP.
 
-For example: you have 40 aIIP and use 13 aIIP and you don't use it, you will get +27 aIIP after the cooldown, because 13 + 27 = 40.
+That ensures you get the exact amount of IIP you trained and not more than you trained to have.
 
-When tIIP, aIIP or vIIP reaches 493: the cooldown will no longer be in effect and you will be able to use the type you got 493 on fully, without any cooldown.
+For example: you have 40 aIIP, you use 13 aIIP and you don't use it for 10 days. After the 10 days, you will get +27 aIIP after the cooldown because 13 + 27 = 40.
+
+When tIIP, aIIP or vIIP reaches 493: the cooldown will no longer be in effect and you will be able to use the type you got 493 on fully; without any cooldown.
 
 The IIP value follows this structure:
 
