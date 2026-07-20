@@ -277,102 +277,107 @@ So, something like 49t8a12v IIP means you have 49 tIIP, 8 aIIP and 12 vIIP.
 
 ### How To Train Your IIP
 
-Detached souls can feel a "feeling" related to tIIP, aIIP and vIIP; these feelings are called the "tIIP Expander", "aIIP Expander" and "vIIP Expander" respectively (collectively called the IIP Expander).
+Detached souls have something called an "IIP Expander". What is an IIP Expander? An IIP Expander is the thing which increases your; well; IIP. IIP Expander is divided into tIIP Expander, aIIP Expander and vIIP Expander: increasing tIIP, aIIP and vIIP respectively.
 
-This feeling cannot be described with words; it must be felt/experienced. It's like trying to describe a feeling you never felt; you can't never truly know how it feels until you feel it yourself. Infact, that is literally what this is; you can't know how it feels unless you feel it for yourself; which isn't exactly possible since this is a fictional work.
+But what is an IIP Expander; exactly? An IIP Expander is a property of a soul which affects another property of a soul: IIP Expansion (IIPE. I will get to what that is later), IIPE also affects another property of a soul: IIP; the thing that let you interact with the inlife semi-world (IIP Expander, IIPE and IIP is divided into tIIP, aIIP and vIIP so it's actually 9 properties).
 
-What is the IIP Expander exactly? It is a property/configuration of a detached soul that influences (i.e increases) another property of the kandra soul, IIP. This property can be felt by detached souls and increased by "expanding" it. Think of your IIP Expander as a muscle, if you exercise your muscle (expanding your IIP Expander) it becomes stronger (increasing your IIP Expander); your muscles strength influences your health for the better (IIP Expander increasing your IIP).
+Detached souls can feel an IIP Expander. Attached souls cannot feel them as they are anchored to an organism.
 
-Your IIP Expander is measured in ex (**ex**pander), and it uses the metric system. For tIIP Expander, it is tex (**t**IIP **ex**pander); for aIIP Expander, it is aex (**a**IIP **ex**pander); and for vIIP Expander, it is vex (**v**IIP **ex**pander).
+This feeling cannot be described with words; it must be felt/experienced. It's like trying to describe a feeling you never felt, you can't never truly know how it feels until you feel it yourself. Infact, that is literally what this is; you can't know how it feels unless you feel it yourself, which isn't exactly possible since this is a fictional work.
 
-A detached soul can focus on the feeling of an IIP Expander. They don't usually feel the IIP Expander; they only do when focusing on it, and detached souls have the ability to focus on each IIP Expander (one at a time).
+Each type of IIP Expander feels different; tIIP Expander, aIIP Expander and vIIP Expander all feels completely different (Note: they don't feel painful or pleasurable, they simply feel neutral).
 
-Each feeling differs based on what IIP type they focus on, so tIIP, aIIP and vIIP all feel different from eachother.
+Note that detached souls don't always feel IIP Expanders, they only feel them when they focus on them.
 
-I'll use tIIP for most of the examples.
+Detached souls can only feel one type of IIP Expander at a time.
 
-When a detached soul feels the tIIP Expander, they can "push" or expand this feeling; this is how they train their IIP (tIIP in this case). They focus on an IIP Expander and try to expand it. Again, this is not fully describable. It's like trying to explain how to move your arm to an armless person, they can't fully know how it feels like to move an arm until they get one.
+Once a detached soul feels an IIP Expander: they can then try to "push"/expand it, this is the main way to to train your IIP. The more you expand your IIP Expander: the better your IIP Expander will get to giving IIPE. Again, how a soul expands an IIP Expander must be experienced; not describable. You cannot describe how you move your arm to someone who doesn't have one.
 
-Now, To actually increase your IIP Expander (tex/aex/vex), you need to keep expanding your IIP Expander. Every 3 and a half minute you expand your IIP Expander, your ex increases by one (corresponding to what type of IIP Expander you are using).
+Think of expanding your IIP Expander as exercising a muscle: when you exercise your muscle (expand your IIP Expander): the quality and strength of your muscle increases (the better that IIP Expander gets at producing IIPE).
 
-You can however increase your IIP by using something called **"Interaction willpower" (Iwp)"**. Similar to willpower, Iwp measures your willpower over interacting with the inlife semi-world. It also use the metric system. The more Iwp you have, the more ex increases. You can increase your Iwp similarly to how you increase your wp.
+Now you might be asking: How do you exercise a property? Think of it as another feeling, feeling A; feeling an IIP Expander; let you detect that IIP Expander, feeling A now let you do feeling B; expanding your IIP Expander; which gives you IIPE (which in turn gives you IIP) and also improves your IIP Expander (Note: expanding different types of IIP Expanders feel different like feeling an IIP Expander. They are also neutral in feeling).
 
-There is another factor in ex training that determines how much (or how less) ex you get, that is **Body Relaxation**, measured in brl (Body Relaxation Level). Simply, if your body is relaxed, you get more ex, if your body is under stress, you get less ex.
+What does improving your IIP Expander mean exactly? What that means is how much IIPE you gain in a second from expanding your IIP Expander; an improved IIP Expander produces more IIPE in a second than a normal one.
 
-0 brl means your body is in a neutral state, not under any stress but neither relaxed. 0 brl doesn't effect your ex at all. However, your body is never truly "neutral" so 0 brl actually means the "baseline state" of your body.
+IIP Expander is measured in ex (**ex**pander); it uses the metric system. For tIIP Expander: it is tex (**t**IIP **ex**pander), for aIIP Expander: it is aex (**a**IIP **ex**pander) and for vIIP Expander: it is vex (**v**IIP **ex**pander). More ex: more improved IIP Expander.
 
-[positive] brl means your body is in a relaxed state. The higher [positive] brl, the more relaxed. [positive] brl does effect your ex and it effects it **positively**. The more [positive] brl, the more ex you get. The theoretical limit of [positive] brl is 100 brl. Anything above 100 brl means your literally body stops working, and souls cannot die.
+The more ex: the more intense the IIP Expander feels when you feel and expand it.
 
-[negative] brl is the exact opposite of [positive] brl. [negative] brl means your body is under stress. And as you guessed it, the more [negative] brl, the less ex you get. The theoretical limit of [negative] brl is -200 brl. Anything below -200 and your body enters cardiac arrest or stroke.
+Now, how do you actually improve/train your IIP Expander? To train it: you simply need to continue expanding your IIP. Every 3 and a half minutes your IIP Expander improves, increasing your ex by 1.
 
-So, time, Iwp and bod relaxation/stress all effect your tex/aex/vex gain.
+There are also two additional factors that helps with IIP Expander training. **"Interaction willpower (Iwp)"** and **"body relaxation level" (brl)**.
 
-The more ex, the more intense that type of IIP Expander feels.
+Similar to willpower, Iwp measures your willpower over interacting with the inlife semi-world. The more Iwp you have: the more ex increases. You can increase your Iwp similarly to how you increase your wp.
 
-I like to imagine it as an orb, and when you expand it, the orb gets bigger, expanding.
+brl measures your body relaxation. Simply put, the more relaxed your body is: the more ex you will gain, the less relaxed your body is: the less ex you will gain.
 
-When you push the tIIP Expander, you get something called "tIIP Expansion" or tIIPE (aIIPE and vIIPE for aIIP and vIIP respectively and IIPE to express all the three types of IIP Expansion). IIPE is what lets you gain IIP. 208 ktIIPE (kilo tIIPE) = 1 tIIP, same for aIIPE and vIIPE. After getting 208 ktIIPE, your tIIPE resets back to 0 tIIPE, again same for aIIPE and vIIPE.
+0 brl means your body is in a neutral state; not under any stress but neither relaxed. 0 brl doesn't effect your ex at all. Your body is never truly "neutral" so 0 brl actually means the "baseline state" of your body.
 
-So IIP Expander is actually a property/configuration of a soul which gives IIPE and IIPE increases IIP. To analogize it, let's use our previous analogy of muscles: IIP Expander is your muscle, you exercise it (expanding your IIP Expander) and that exercise gives you gains (IIPE), the accumulated gains increase your actual strength (IIPE increasing your IIP).
+[positive] brl means your body is in a relaxed state; the higher [positive] brl: the more relaxed. [positive] brl positively affect your ex; the more [positive] brl: the more ex you get. The theoretical limit of [positive] brl is 100 brl. Anything above 100 brl means your body literally stops working; and souls cannot die.
 
-The amount of IIPE you get depends on something called the "Selective Inlife Interaction Power Concentration" or SIIPC.
+[negative] brl is the exact opposite of [positive] brl. [negative] brl means your body is under stress. And as you guessed it, the more [negative] brl: the less ex you get. The theoretical limit of [negative] brl is -200 brl. Anything below -200 and your body enters cardiac arrest or stroke.
 
-When detached souls try to expand an IIP Expander (I'll use tIIP Expander for this example, but the same applies for aIIP and vIIP), the IIP Expander can be concentrated into a part of the body instead of the entire body. For example: A detached soul can concentrate their tIIP Expander into their hand instead of their entire body. They'll get tIIPE only for their hand but they'll gain more tIIPE in a shorter timespan compared to the entire body. That is SIIPC. Gain IIPE faster in exchange for only doing it for a single (or multiple) body part(s).
+Now let me explain what is IIP Expansion (IIPE). IIPE, like IIP Expander is another property of a soul which directly affects IIP by increasing it. IIP Expander increases IIPE and IIPE increases IIP.
 
-SIIPC says: the less mass you concentrate on, the more IIPE you gain in an shorter amount of time for that mass. What this means is if you concentrate your IIP Expander into a smaller body part, like your finger, you gain IIPE much faster than if you were to concentrate it into a larger body part like your arm (or your entire body, which IIPE gain is very slow).
+IIPE increases IIP differently than IIP Expander increases IIPE. Instead of increasing IIP every second like IIP Expander: an amount of IIPE = 1 IIP, that amount is 208 kIIPE (kilo IIPE) = 1 IIP.
 
-Let's do an example:
+IIPE ensures getting IIP is much harder.
 
-There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into both of his knees. After the 10 seconds ended, DeSoA got more tIIPE than DeSoB simply because one knee has less mass than two knees.
+The amount of IIPE you get depends on something called the **"Selective Inlife Interaction Power Concentration" (SIIPC)**.
 
-They'll get the exact tIIPE by dividing how much tIIP Expander you are using (tex) with the mass (grams).
+IIP Expander can be concentrated into a single body part instead of doing it to the entire body, expanding your IIP Expander to your entire body is called **"Entire Body Inlife Interaction Power" (EBIIP)**. You can also concentrate your IIP Expander into multiple areas, that is multiple SIIPC.
 
-There is another way to get IIPE faster, that is by doing the thing of your IIP type that is stated in the name in the inlife. What that means is:
-- if you want to get faster tIIPE, you need to touch more inlife objects (it has touchability in its name).
-- if you want to get aIIPE faster, you need to speak more or make sounds more in the inlife (it has audible in its name).
-- if you want to get vIIPE faster, you need to be in more bright inlife places (it has visual in its name).
+An example: concentrating your IIP Expander to your hand is SIIPC, doing it for both of your hands is multiple SIIPC. IIP will only increase in the concentrated areas
 
-This is called the **"Inlife Contact Expansion" (ICE)**.
+What is the benefit of SIIPC? The less mass you concentrate on: the more IIPE you will get in that area than if that area was in a larger area or in EBIIP.
 
-Here is a much more detailed explanation:
+An example: There are two detached souls, I'll name them DeSoA and DeSoB. They have 10 seconds to get tIIPE. DeSoA concentrates his tIIPE Expander into his knee while DeSoB concentrates his tIIP Expander into **both** of his knees. After the 10 seconds ended, DeSoA gets more tIIPE than DeSoB simply because one knee has less mass than two knees.
 
-**For tIIPE**:
+To get the total IIPE: you'll need to divide the amount of ex you have with the amount of mass you are concentrating; whether that be SIIPC or EBIIP.
 
-Teleport to the inlife and touch an object, any object. Your hands will phase through it of course but that gives you more tIIPE. Keep your hand in an inlife object and your tIIPE increases. The more your cover yourself in an inlife objects, the more tIIPE.
+\# Inlife Contact Expansion (ICE)
 
-However, don't touch the same object for too long (around 4 minutes) because then the object will give you much less tIIPE until it stops giving you any. So you can't just cheese it. After an hour, this resets, so if you touch an object for too long and one hour passes, the object will again give you the same amount of tIIP as it did before.
+What is Inlife Contact Expansion (ICE)? ICE is an additional way to increase your IIPE by being in contact with inlife objects and phenomena.
 
-You also need to be expanding your tIIPE Expander while touching inlife objects, otherwise you'll get 0 tIIPE. Same goes for aIIPE and vIIPE.
+- For tIIP, that means: you need to touch inlife objects.
+- For aIIP, that means: you need make "sound" in the inlife with your body.
+- For vIIP, that means: you need to be in more bright areas.
 
-The amount of coverage an inlife object is covering the concentrated area (or entire body) is called the **point** and the concentrated area itself is called the **"concentrated area"** for SIIPC or **"entire area"** for entire body. This goes same for aIIPE and vIIPE.
+That is a simplified and summarized version of what ICE means for tIIP, aIIP and vIIP. Here is a much detailed version of that:
 
-The point here gives you tIIPE. It exactly gives it by the mass of the point (how much the inlife object is covered by the concentrated/entire area). Measured in centigram (cg), so if the point is 8 cg, it will give 8 tIIPE.
+(Before you continue, note that you need to activate your that type's IIP Expander for ICE to take effect.)
 
-The concentrated/entire area covered by the point gets tIIPE equal to the amount it is covering. So the area covered by the point and the area which is >1 cm away gets 8 tIIPE.
+\## For tIIP
 
-If it wasn't clear, your point needs to be touching the area. If it touches outside the area, the area won't get any tIIPE from ICE. Same thing for aIIPE and vIIPE
+When a detached soul goes to the inlife and touches a inlife object: their tIIPE increases, keep touching the inlife object and tIIPE continues to increase. The more covered a detached soul is in an inlife object: the more tIIPE will be gained.
 
-Distance plays a key role for tIIPE (and aIIPE and vIIPE).
+However, if an inlife object is touched for too long; around 4 minutes; then: the object will give less tIIPE until ICE gives 0 tIIPE; so you cannot cheese it. After 10 minutes of not touching the inlife object, the restriction on the object will be lifted. This is called **"ICE Restriction"**, ICE Restriction also exists in aIIP and vIIP. tIIPE reduces by 1 every 20 seconds after ICE Restriction
 
-Let's say, the concentrated area is your arm and the point is in the tip of your upper arm. The area closer to the point gets more tIIPE while areas farther from it get less. The same goes for entire body. Every 1 cm farther from the point is -1 tIIPE lost. This framework applies for aIIPE and vIIPE aswell.
+The amount of coverage an inlife object is covering the concentrated area (or entire body) is called the **point** and the concentrated area itself is called the **"concentrated area"** for SIIPC or **"entire area"** for EBIIP. This goes same for aIIPE and vIIPE.
 
-***
+The point here gives you tIIPE. It exactly gives tIIPE by the mass of the point (how much the inlife object is covered by the concentrated/entire area), measured in centigram (cg); so if the point is 8 cg, it will give 8 tIIPE.
 
-**For aIIPE**:
+There is something called the **"distance penalty rule"** which dictates how much tIIPE you get from the point in more distant areas.
 
-Teleport to the inlife and try to make sounds by speaking or trying to make sounds with your body by hitting inlife objects. It won't make sound but increase your aIIPE. The more sound you make, the more aIIPE.
+The distance penalty rule states that: the areas that are x cm away from the point will get -x tIIPE/lose x tIIP; so if the area is 3 cm away from the point and the point gives 13 tIIPE: then that area will receive 13-3 tIIPE or 10 tIIPE. Areas that are much farther that they get negative numbers get 0 tIIPE from ICE. The area covered by the point and the area >1 cm away from the point gets the amount of tIIPE the point gives; so if the point gives 13 tIIPE: the area covered in the point and the area >1 cm away from the point gets 13 tIIPE.
 
-A similar problem arrives when you try to make sound by hitting the same inlife object for too long (around 4 minutes). It will give you less and less aIIPE until it gives no aIIPE. Again, this resets after an hour.
+The distance penalty rule applies for aIIP and vIIP aswell.
 
-The area where you hit the your concentrated area with an inlife object is the **point** here. The concentrated area (and entire area)'s name is the same as tIIPE's, and applies to vIIPE.
+\## for aIIPE
 
-The point here gives you aIIPE. It exactly gives it by the amount of sound it would make if an inlife organism hit the object with the same force or if it spoke with that level of loudness/quietness. Measured in centi-Pascal (cPa), so if the point is 8 cPa, it will give 8 aIIPE.
+When a detached soul goes to the inlife and makes "sound" by hitting a inlife object: their aIIPE increases, keep "hitting" the inlife object and aIIPE continues to increase. The more loud the sound is: the more aIIPE will be gained.
 
-You must hit an inlife object with the concentrated area (or entire area), or make include the mouth in the concentrated area when speaking. Otherwise you won't get aIIPE.
+A detached soul won't actually hit the object or make sound but the act of hitting the object (while aIIP Expander is active) gives aIIPE.
 
-Distance again plays a key role, but you already know that (hopefully).
+ICE Restriction also applies for aIIPE: hit the same object again and again for around 4 minutes and aIIPE will reduce to 0 (-1 aIIPE every 20 seconds).
 
-Let's say, the concentrated area is your face and the point is you speaking. The areas closer to the mouth gets more aIIPE than areas farther away. Again, following the 1 cm = -1 aIIPE rule. And also applying to entire body.
+The area where you hit the inlife object with your concentrated area/entire area is the **point** here.
+
+The point gives you aIIPE by the amount of of sound it would make in myriapascal (myPa). So if the "hitting" sound makes 120,000 Pa: it would be 12 myPa, which means the point gives 12 aIIPE.
+
+(myria was previously a official prefix in the metric system represents 10⁴ (10,000. The SI intentionally dropped but since I need it for this, I'm using it again. This isn't in-universe lore, this is what actually happened irl).
+
+The distance penalty rule applies to aIIPE too. The area farther from the point get less aIIPE by x cm away.
 
 ***
 
@@ -395,8 +400,6 @@ Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still not
 Let's say, you turn on a flashlight and place it behind you and your concentrated area is the neck. The point is the light hitting the back of your neck. The front of your neck gets less vIIPE because of distance. vIIPE also follows the 1 cm = -1 vIIPE rule. This all applies to entire body too.
 
 ***
-
-Detached souls can turn IIP off and on at will.
 
 I written a formula that calculates how much IIPE you will gain (if point and concentrated area is single. As doing multiple is kinda hard for me). The formula is (I will be using something called "Pseudo Code Language", something I made up. It's a pseudo programming language meant to make formulas a bit more readable [and also because I am not the best at math, and I am a programmer. I know, kinda conflicting] so it will be less mathematical. This formula also works with entire body):
 

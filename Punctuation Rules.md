@@ -2,17 +2,17 @@ I'd decided I'll have my own rule on how to use punctuation mark. I made this do
 
 ---
 
-**Comma (,)**: Use it when two or more clauses (independent of type) are related in a sub-topic, in lists or list-like sentences (the last item in a list should end with "and", "or" or any other variant without a comma), when directly addressing someone or use when in need of a short pause.
+**Comma (,)**: Use it when two or more clauses (independent of type) are related in a sub-topic, in lists or list-like sentences (the last item in a list should end with "and", "or" or any other variant without a comma) or when directly addressing someone.
 
-**Colon (:)**: Use it when two or more clauses interact with eachother (one affecting the other) directly, following a "cause and effect" rule or when listing characteristics/properties of a subject/object.
+**Colon (:)**: Use it when two or more clauses interact with eachother (one affecting the other) directly, following a "cause and effect" rule: like after a condition, before a result or when listing characteristics/properties of a subject/object.
 
 **Period (.)**: Use it when ending a sub-topic (but the main topic continues), main topic or for initials.
 
 **Ellipsis (...)**: Use it when in need of a long pause (that doesn't end the sub-topic) or when leaving out information.
 
-**Em-dash (—)**: Use it when a clause/information is interrupted.
+**Em-dash (—)**: Use it when a clause/information is interrupted or when showing ranges.
 
-**Hyphen (-)**: Use it in when joining two words together to make one word (a combined word).
+**Hyphen (-)**: Use it in when joining two words together to make one word (a combined word) or when assigning a quote to someone.
 
 **Parenthesis (())**: Use it when adding optional information to words, clauses, sentences, paragraphs or anywhere in a topic or when you need to insert optional information.
 
@@ -22,7 +22,7 @@ I'd decided I'll have my own rule on how to use punctuation mark. I made this do
 
 **Semicolon (;)**: Use it when adding supplementary/optional information that is related to the sub-topic/more important than a parenthesis or in sub-lists (a list inside a list: A,B,C;D,E,F;G,H,I 3 sub-list inside one list separated by two semicolons).
 
-When a related supplementary/optional information is followed by important information ([information] + [optional information] + [important information]) for example: "He shot the target (i); it wasn't the best shot (oi); but it hit the target (ii)." then write two semicolons and put the optional information inside the semicolons, like a parenthesis.
+When a related supplementary/optional information is followed by important information ([information] + [optional information] + [important information]) for example: "He shot the target (i); it wasn't the best shot (oi); but it hit the target (ii)." then write two semicolons and put the optional information inside the semicolons, like a parenthesis. It can also be used as a short pause.
 
 **Slash (/)**: Use it as a "or"; when writing alternatives.
 
