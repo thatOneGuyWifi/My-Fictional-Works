@@ -309,7 +309,7 @@ What does improving your IIP Expander mean exactly? What that means is how much 
 
 IIP Expander is measured in ex (**ex**pander); it uses the metric system. For tIIP Expander: it is tex (**t**IIP **ex**pander), for aIIP Expander: it is aex (**a**IIP **ex**pander) and for vIIP Expander: it is vex (**v**IIP **ex**pander). More ex: more improved IIP Expander.
 
-The more ex: the more intense the IIP Expander feels when you feel and expand it.
+The more ex: the more intense the IIP Expander feels when you feel and expand it (you can choose to use less ex when you have more, there is no benefit to it but is an option).
 
 #### IIP Expander Training
 
@@ -349,6 +349,18 @@ An example: There are two detached souls, I'll name them DeSoA and DeSoB. They h
 
 To get the total IIPE: you'll need to divide the amount of ex you have with the amount of mass you are concentrating; whether that be SIIPC or EBIIP.
 
+Now in multiple SIIPC, since different areas might have different IIP values, how would you express that? You do this:
+
+> [IIP Value #1]₁[IIP Value #2]₂[IIP Value #3]₃...
+
+You add the values with a subscript number at the end to indicate that is a separate value.
+
+For example: if you have 28 tIIP in your hands, 18 tIIP in your face and 64 tIIP in your feet: you will write it as: tIIP = 28₁18₂64₃
+
+If there is too much IIP values: you can also write it as:
+
+> [IIP Value #1]₁[IIP Value #2]₂[IIP Value #3]₃...[End IIP Value]ₙ
+
 #### Inlife Contact Expansion (ICE)
 
 What is Inlife Contact Expansion (ICE)? ICE is an additional way to increase your IIPE by being in contact with inlife objects and phenomena.
@@ -369,7 +381,7 @@ However, if an inlife object is touched for too long; around 4 minutes; then: th
 
 The amount of coverage an inlife object is covering the concentrated area (or entire body) is called the **point** and the concentrated area itself is called the **"concentrated area"** for SIIPC or **"entire area"** for EBIIP. This goes same for aIIPE and vIIPE.
 
-The point here gives you tIIPE. It exactly gives tIIPE by the mass of the point (how much the inlife object is covered by the concentrated/entire area), measured in centigram (cg); so if the point is 8 cg, it will give 8 tIIPE.
+The point here gives you tIIPE by the mass of the point (how much the inlife object is covering the concentrated/entire area), measured in centigram (cg); so if the point is 8 cg: it will give 8 tIIPE.
 
 There is something called the **"distance penalty rule"** which dictates how much tIIPE you get from the point in more distant areas.
 
@@ -407,9 +419,9 @@ The distance penalty rule also applies here: areas farther from point gets less 
 
 #### Formulas (IIP)
 
-I written a formula that calculates how much IIPE you will gain (if point and concentrated area is single. As doing multiple is kinda hard for me). The formula is (I will be using something called "Pseudo Code Language", something I made up. It's a pseudo programming language meant to make formulas a bit more readable [and also because I am not the best at math, and I am a programmer. I know, kinda conflicting] so it will be less mathematical. This formula also works with entire body):
+I've written a formula that calculates how much IIPE you gain from single SIIPC/EBIIP. I will be using something called "Pseudo Code Language" (PCL). PCL is something I made up to make the formula be better understood instead of using math notation (And also because I am not the best at math and a programmer).
 
-$E = \frac{PCL:EXIT(X)}{M} + max(0, PCL:ICE(P, A))$
+$E = PCL:EXIT \left( \frac{X}{M} \right) + max(0, PCL:ICE(P, A))$
 
 PCL:
 
@@ -417,54 +429,50 @@ comment_symbol(//)
 
 // comments are ignored by PCL. Used for documentation.
 
-function EXIT(X)  
-    &nbsp;&nbsp;&nbsp;&nbsp;if X = 0 then  
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit of formula  
+function EXIT(number)  
+    &nbsp;&nbsp;&nbsp;&nbsp;if number = 0 then  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exit of formula // this exits/stops the formula since X or M can't be 0.  
     &nbsp;&nbsp;&nbsp;&nbsp;end of if  
 end of function
 
 function ICE(P, A):  
     &nbsp;&nbsp;&nbsp;&nbsp;if P <= A then  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + P × (P + 1) ÷ 2  
-    &nbsp;&nbsp;&nbsp;&nbsp;else then // if P > A. Only useful in aIIPE, where cPa might be greater than concentrated/entire area  
+    &nbsp;&nbsp;&nbsp;&nbsp;else then // if P > A. Only useful in aIIPE, where myPa might be greater than concentrated/entire area  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output P + (P + (P - A)) × (A + 1) ÷ 2  
     &nbsp;&nbsp;&nbsp;&nbsp;end of if  
 end of function
 
 end of PCL
 
-The formula is split into two sections, the main (Expander) formula $\frac{X}{M}$ and the ICE (Bonus) formula $max(0, PCL:ICE(P, A))$.
-Here, E (Expansion) means the total amount of IIPE gained, measured in tIIPE, aIIPE or vIIPE.
+The formula is split into two sections: the main (Expander) formula $PCL:EXIT \left( \frac{X}{M} \right)$ and the ICE (Bonus) formula $max(0, PCL:ICE(P, A))$.
+Here: E (Expansion) means the total amount of IIPE gained in a second, measured in tIIPE/s, aIIPE/s or vIIPE/s.
 
 *Main Formula (Expander Formula):*
 
-Both X and M belong to the IIP Expander. The variables just hold different values of the IIP Expander
-
 X (eXpander) means the amount of IIP Expander you are using, measured in tex, aex or vex.
 
-M (Mass) means where you are using the IIP Expander/mass of the concentrated/entire area, measured in grams. Used for both SIIPC and entire body.
+M (Mass) means the total area of the concentrated/entire area, measured in grams.
+
+What the EXIT() function does is exit the formula if $\frac{X}{M} = 0$ because if the main formula is 0: then no IIPE is gained, period (undefined [what you get when dividing by 0] = 0).
 
 *ICE Formula (Bonus Formula):*
 
-The formula is separated from the main formula with a "+" as ICE is a bonus, not something exactly fundamental to IIP training.
+The formula is separated from the main formula with a "+" as ICE is a bonus; not something exactly fundamental to IIP training.
 
-P (Point) means how much IIPE the point will give you, measured in cg, cPa or cm².
+P (Point) means how much IIPE the point will give you, measured in cg, myPa or cm².
 
-A (Area) means the area of your concentrated area (or height if using entire body), measured in cm² or cm.
+A (Area) means the area of your concentrated area (or height for EBIIP), measured in cm² or cm.
 
-The max() function prevents the formula reaching a negative number by picking 0 if PCL:ICE(P, A) outputs a negative number. This is because ICE is a bonus, it should only positively impact the formula or not impact it at all. Not negatively impact it.
+The max() function prevents the formula reaching a negative number by picking 0 if PCL:ICE(P, A) outputs a negative number. This is because ICE is a bonus; it should only positively impact the formula or not impact it at all, not negatively impact it.
 
-The PCL:ICE(P, A) is a function inside the written PCL code. PCL says to trigger the PCL code and :ICE() says trigger the function named "ICE" inside the PCL code. ICE takes the variables P and A.
+What the ICE() function does is calculate the ICE formula from the given variables.
 
-*What PCL says*:
-
-PCL First checks the EXIT function. If X is 0, the entire formula stops, because you need ex to even get IIPE (and you can't divide by 0)
-
-PCL then checks ICE.
+*What ICE Does*:
 
 ICE checks if P is lesser than or equal to A OR if P is greater than A (technically it just runs the else statement if the if statement is false).
 
-Once it checks which is true, it runs the code inside that statement.
+Once it checks which is true: it runs the code inside that statement.
 
 If statement #1 is true:
 
@@ -476,7 +484,7 @@ Let's explain why:
 
 Let's take P as 8.
 
-What we need to do is do is add 1 to 8 and another 8 because the 8 is the IIPE from the point. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - P). Let me write a table for you to understand it better:
+What we need to do is add one 8 and another 8 because the first 8 is the IIPE from the point and the second 8 is the area >1 cm away from the point. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - P). Let me write a table for you to understand it better:
 
 
 | Distance | Value |
@@ -514,7 +522,7 @@ $\frac{P}{2}$  gets the number of pairs and $P + 1$ gets the sum. Combine them a
 
 $\frac{P}{2} \times (P + 1)$ simplified to $\frac{P \times (P + 1)}{2}$
 
-This does the pair method MUCH faster. But wait! This would just give us 36, which is not the answer. We need to add P again to finish to formula, which makes the final formula:
+This does the pair method MUCH faster. But wait! This would just give us 36; which is not the answer. We need to add P again to finish to formula, which makes the final formula:
 
 $P + \frac{P \times (P + 1)}{2}$
 ***
@@ -523,7 +531,7 @@ If statement #2 is true:
 
 Then it executes and outputs the $P + \frac{(P + (P - A)) × (A + 1)}{2}$ formula
 
-This statement can only activate for aIIPE because the point cannot take up more space than the concentrated/entire area in tIIPE and vIIPE. But aIIPE's point is different because cPa can be more than the concentrated/entire area.
+This statement can only activate for aIIPE because the point cannot take up more space than the concentrated/entire area in tIIPE and vIIPE. But aIIPE's point is different because myPa can be more than the concentrated/entire area.
 
 What the formula does is do P - 0 (point), P - 0 (>1 cm region), P - 1, P - 2, P - 3 ... P - [area of concentrated/entire area] then add all solutions together, but the formula does this in a much faster way.
 
@@ -531,9 +539,7 @@ Let's explain why:
 
 Let's take P as 800 and A as 25.
 
-What we need to do is do is add all the values between 800 and 25 . Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - 25). Let me write a table for you to understand it better:
-
-What we need to do is do is add 1 to 8 and another 8 because the 8 is the IIPE from the point. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - P). Let me write a table for you to understand it better:
+What we need to do is add all the values between 800 and 25. Otherwise written as P + (P - 0) + (P - 1) + (P - 2) + (P - 3) + ... + (P - 25). Let me write a table for you to understand it better:
 
 
 | Distance | Value |
@@ -589,7 +595,7 @@ We can again use the pair method. You can find the end number with P - A (800 - 
 |13 | 788 + 787 = | 1,575 |
 
 
-So number of pairs × sum + P. 13 × 1,575 = 20,475 + 800 = 21,275. As you can see, this also takes a considerable amount of time, which again, the formula solves by a huge margin.
+So number of pairs × sum + P. 13 × 1,575 = 20,475 + 800 = 21,275. As you can see: this also takes a considerable amount of time, which again, the formula solves by a huge margin.
 
 $\frac{A + 1}{2}$ gets the number of pairs and $P + (P − A)$ gets the sum. Combine them and you get:
 
@@ -628,7 +634,7 @@ Plug in X as 800 vex, M as 80 g, P as 16 cm² and A as 30 cm².
 
 *Example #3*:
 
-Plug in X as 450 aex, M as 30 g. P as 90 cPa and A as 20 cm².
+Plug in X as 450 aex, M as 30 g, P as 90 myPa and A as 20 cm².
 
 > $\frac{450}{30} = 15$  
 > ICE executes if statement #2 (else statement). $90 + \frac{(90 + (90 - 20)) \times (20 + 1)}{2} = 1,770$.  
@@ -638,15 +644,23 @@ Plug in X as 450 aex, M as 30 g. P as 90 cPa and A as 20 cm².
 
 **Answer**: 1,785 aIIPE or 1.785 kaIIPE.
 
+*Example #4*:
+
+Plug in X as 0 tex, M as 50 g, P as 15 cg and A as 20 cm.
+
+> EXIT exits the formula because X = 0.
+
+**Answer**: 0 tIIPE.
+
 ***
 
-There is also a formula to calculate how much ex you can get from training. But this one is much simpler than the formula for IIPE. The formula is
+I've also made another formula to calculate how much ex you can get from training. This one is much simpler than the formula for IIPE. The formula is:
 
 $X = max \left(0, \frac{T}{3.5} + W + B \right)$
 
-Yep, it's that simple. Here, X means the total ex gained, measured in tex, aex or vex. T means the time you much time you spent expanding your ex, measured in minutes. W means the amount of Iwp you have. B means the amount of brl you have.
+Yep, it's that simple. Here: X means the total ex gained from training, measured in tex, aex or vex. T means the time you much time you spent expanding your IIP Expander, measured in minutes. W means the amount of Iwp you have. B means the amount of brl you have.
 
-T is being divided by 3.5 because Every 3 and a half minute, you get 1 ex.
+T is being divided by 3.5 because Every 3 and a half minute: you get 1 ex.
 
 max(0,) prevent X being from being a negative number, since you can't get negative ex.
 
@@ -661,7 +675,7 @@ Plug in T as 9.5 m, W as 9 Iwp and B as 25 brl.
 > 2.714 + 34 = 36.714.  
 > max outputs 36.714.
 
-**Answer**: 36.714 ex.
+**Answer**: 37 ex (rounded).
 
 *Example #2*:
 
@@ -672,7 +686,7 @@ Plug in T as 2 m, W as 300 Iwp and B as 30 brl.
 > 0.571 + 330 = 330.571.  
 > max outputs 330.571.
 
-**Answer**: 330.571 ex.
+**Answer**: 331 ex (rounded).
 
 *Example #3*:
 
@@ -684,8 +698,6 @@ Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
 > max outputs 0.
 
 **Answer**: 0 ex.
-
-***
 
 ## Possession
 
