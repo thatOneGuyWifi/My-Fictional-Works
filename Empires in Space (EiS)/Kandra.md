@@ -21,6 +21,14 @@
 ├─ [Willpower (wp)](#willpower-wp)  
 ├─ [Interacting With The Inlife](#interacting-with-the-inlife)  
 │&nbsp;&nbsp;&nbsp;└─ [How To Train Your IIP](#how-to-train-your-iip)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [IIP Expander Training](#iip-expander-training)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [IIP Expansion (IIPE)](#iip-expansion-iipe)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [SIIPC](#siipc)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Inlife Contact Expansion (ICE)](#inlife-contact-expansion-ice)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For tIIP](#for-tiip)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For aIIP](#for-aiip)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For vIIP](#for-viip)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formulas (IIP)](#formulas-iip)  
 ├─ [Possession](#possession)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
@@ -257,7 +265,7 @@ IIP (as the name states) is the power a detached soul has to interact with the i
 The IIP is divided into 3 types:
 - **"touchability Inlife Interaction Power" (tIIP)**: This type refers to being able to touch inlife objects/organisms (without it phasing through them) and get touched by inlife objects/organisms.
 - **"audible Inlife Interaction Power" (aIIP)**: This type refers to being able to make sound waves in the inlife; thus being heard by other inlife organisms.
-- **"visual Inlife Interaction Power" (vIIP)**: This type refers to the inlife light reflecting against detached souls; making them visible to other inlife organisms.
+- **"visual Inlife Interaction Power" (vIIP)**: This type refers to the inlife light reflecting against detached souls; making them visible to other inlife organisms (Since souls don't automatically interact with inlife light: souls emit light that is only visible to them and other souls [the same goes for sounds] in the inlife. The soulspace does this too.)
 
 The values of tIIP, aIIP and vIIP are all in seconds, meaning 10 tIIP = 10 seconds of being able to touch inlife objects before going on cooldown. This cooldown lasts for 240 hours or 10 days; this applies for aIIP and vIIP aswell.
 
@@ -303,6 +311,8 @@ IIP Expander is measured in ex (**ex**pander); it uses the metric system. For tI
 
 The more ex: the more intense the IIP Expander feels when you feel and expand it.
 
+#### IIP Expander Training
+
 Now, how do you actually improve/train your IIP Expander? To train it: you simply need to continue expanding your IIP. Every 3 and a half minutes your IIP Expander improves, increasing your ex by 1.
 
 There are also two additional factors that helps with IIP Expander training. **"Interaction willpower (Iwp)"** and **"body relaxation level" (brl)**.
@@ -317,11 +327,15 @@ brl measures your body relaxation. Simply put, the more relaxed your body is: th
 
 [negative] brl is the exact opposite of [positive] brl. [negative] brl means your body is under stress. And as you guessed it, the more [negative] brl: the less ex you get. The theoretical limit of [negative] brl is -200 brl. Anything below -200 and your body enters cardiac arrest or stroke.
 
+#### IIP Expansion (IIPE)
+
 Now let me explain what is IIP Expansion (IIPE). IIPE, like IIP Expander is another property of a soul which directly affects IIP by increasing it. IIP Expander increases IIPE and IIPE increases IIP.
 
 IIPE increases IIP differently than IIP Expander increases IIPE. Instead of increasing IIP every second like IIP Expander: an amount of IIPE = 1 IIP, that amount is 208 kIIPE (kilo IIPE) = 1 IIP.
 
 IIPE ensures getting IIP is much harder.
+
+#### SIIPC
 
 The amount of IIPE you get depends on something called the **"Selective Inlife Interaction Power Concentration" (SIIPC)**.
 
@@ -335,19 +349,19 @@ An example: There are two detached souls, I'll name them DeSoA and DeSoB. They h
 
 To get the total IIPE: you'll need to divide the amount of ex you have with the amount of mass you are concentrating; whether that be SIIPC or EBIIP.
 
-\# Inlife Contact Expansion (ICE)
+#### Inlife Contact Expansion (ICE)
 
 What is Inlife Contact Expansion (ICE)? ICE is an additional way to increase your IIPE by being in contact with inlife objects and phenomena.
 
 - For tIIP, that means: you need to touch inlife objects.
 - For aIIP, that means: you need make "sound" in the inlife with your body.
-- For vIIP, that means: you need to be in more bright areas.
+- For vIIP, that means: you need to be covered in light.
 
 That is a simplified and summarized version of what ICE means for tIIP, aIIP and vIIP. Here is a much detailed version of that:
 
 (Before you continue, note that you need to activate your that type's IIP Expander for ICE to take effect.)
 
-\## For tIIP
+##### For tIIP
 
 When a detached soul goes to the inlife and touches a inlife object: their tIIPE increases, keep touching the inlife object and tIIPE continues to increase. The more covered a detached soul is in an inlife object: the more tIIPE will be gained.
 
@@ -363,7 +377,7 @@ The distance penalty rule states that: the areas that are x cm away from the poi
 
 The distance penalty rule applies for aIIP and vIIP aswell.
 
-\## for aIIPE
+##### For aIIP
 
 When a detached soul goes to the inlife and makes "sound" by hitting a inlife object: their aIIPE increases, keep "hitting" the inlife object and aIIPE continues to increase. The more loud the sound is: the more aIIPE will be gained.
 
@@ -379,27 +393,19 @@ The point gives you aIIPE by the amount of of sound it would make in myriapascal
 
 The distance penalty rule applies to aIIPE too. The area farther from the point get less aIIPE by x cm away.
 
-***
+##### For vIIP
 
-**For vIIPE**:
+When a detached soul goes to the inlife and stands in a bright area (like the outside during the day): their entire body is covered in light and vIIPE increases, keeping being in the area and vIIPE continues increasing.
 
-Teleport to the inlife and go to a bright place/room, like outside during the day or a room with like hundreds of light bulb. They won't make you visible but you'll get more vIIPE. The brighter the place, the more vIIPE.
+ICE Restriction also applies here: if the same light is covering the body (or part of a body); around 4 minutes; then vIIPE from ICE gets reduced by 1 every 20 seconds until it hits 0. Being reusable after 10 minutes of not being contacted by the light.
 
-A similar problem arrives when you stay in the same bright place for too long (around 4 minutes). The place will give you less and less vIIPE until it stops giving you any. Again, this resets after an hour.
+The area that is covered by inlife light is the **point** here.
 
-The light hitting your concentrated area (or entire area) is the **point** here.
+The point gives you vIIPE by how big the point is, measured in cm². So if the point is 8 cm²: the point will give 8 vIIPE
 
-The point here gives you vIIPE. It exactly gives it by the amount of area the light covers the concentrated/entire mass. Measured in cm², so if the point is 8 cm², it will give 8 vIIPE.
+The distance penalty rule also applies here: areas farther from point gets less vIIPE by x cm away from the point.
 
-The concentrated/entire area covered by the point gets vIIPE equal to the amount it is covering. So the area covered by the point and the area which is >1 cm away gets 8 vIIPE.
-
-If light hits outside your concentrated area, vIIPE won't be gained.
-
-Distance doesn't play a big role here unlike tIIPE and aIIPE but it is still noticeable.
-
-Let's say, you turn on a flashlight and place it behind you and your concentrated area is the neck. The point is the light hitting the back of your neck. The front of your neck gets less vIIPE because of distance. vIIPE also follows the 1 cm = -1 vIIPE rule. This all applies to entire body too.
-
-***
+#### Formulas (IIP)
 
 I written a formula that calculates how much IIPE you will gain (if point and concentrated area is single. As doing multiple is kinda hard for me). The formula is (I will be using something called "Pseudo Code Language", something I made up. It's a pseudo programming language meant to make formulas a bit more readable [and also because I am not the best at math, and I am a programmer. I know, kinda conflicting] so it will be less mathematical. This formula also works with entire body):
 
@@ -680,8 +686,6 @@ Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
 **Answer**: 0 ex.
 
 ***
-
-Since souls don't automatically interact with inlife light, souls emit light that is only visible to them and other souls (the same goes for sounds). The soulspace does this too.
 
 ## Possession
 

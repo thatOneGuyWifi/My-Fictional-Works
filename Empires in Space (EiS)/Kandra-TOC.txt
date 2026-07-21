@@ -14,6 +14,14 @@ The Afterlife And Souls
 ├─ Willpower (wp)
 ├─ Interacting With The Inlife
 │  └─ How To Train Your IIP  
+│     ├─ IIP Expander Training
+│     ├─ IIP Expansion (IIPE)
+│     ├─ SIIPC
+│     ├─ Inlife Contact Expansion (ICE)
+│     │  ├─ For tIIP
+│     │  ├─ For aIIP
+│     │  └─ For vIIP
+│     └ Formulas (IIP)
 ├─ Possession
 │  ├─ E-SSPCAS
 │  ├─ I-SSPCAS
