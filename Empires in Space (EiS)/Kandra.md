@@ -701,21 +701,29 @@ Plug in T as 35 m, W as 12 Iwp and B as -25 brl.
 
 ## Possession
 
-Detached souls can possess living organism, but to be more precise, Detached souls can possess anything that has a soulspace.
+Detached souls can possess living organisms, but to be more precise: detached souls can possess anything with a soulspace.
 
-Detached souls can see a soulspace when ever they want too. Resulting in them seeing their yellow outline.
+"Possession" here really means to get inside a soulspace and connect with the Syovos. This is easier said than done.
 
-What possession really means here is to get into the soulspace and take control over the Syovos. However, this is much easier said than done.
+First, a detached soul needs to see a soulspace to even possess something. This is the easiest part, as for a detached soul to see a soulspace: they simply need to want to see a soulspace, which will result in them being able to view all soulspaces of every organism near them; within eyesight. They need to be in the inlife and near an organism to actually see the soulspace.
 
-You need something called the **"Possession Power Index" (PPI)"**. Although, that is technically the only thing you need, practically however, you need some training in combat (you'll find out why).
+Everything from here will start to go "downhill". Seeing a soulspace isn't really even considered to be a part of possession due to every soul being able to do it. Like how you being able to move your arms or legs isn't considered in exercising since you can already do that.
 
-The soulspace won't just let a foreign soul enter inside. The soulspace has a defense mechanism against foreign souls entering inside; the defense mechanism being called **"SoulSpace Possession Counter Action System" (SSPCAS)** or by its informal name **"Cassidy"**.
+To actually start to possession process; aka, possess someone; detached souls need something called **"Possession Power Index" (PPI)**. With PPI, detached souls also need combat/fighting experience/skill. Why would they need combat experience for possession? You'll figure out soon.
 
-SSPCAS can be further divided into two parts, **"Internal SoulSpace Possession Counter Action System" (I-SSPCAS)** or **"I-Cassidy"** and **"External SoulSpace Possession Counter Action System" (E-SSPCAS)** or **"E-Cassidy"**
+Unlike other media, possession isn't a one-way free ticket where you can possess anyone with a soulspace with minimal-to-no resistance. The soulspace has its own defense mechanism against invading souls trying to possess called **"SoulSpace Possession Counter Action System" (SSPCAS)"**; or by its informal name, **"Cassidy"**.
+
+SSPCAS is be further divided into two parts: **"Internal SoulSpace Possession Counter Action System" (I-SSPCAS)** or **"I-Cassidy"** and **"External SoulSpace Possession Counter Action System" (E-SSPCAS)** or **"E-Cassidy"**.
 
 ### E-SSPCAS
 
-Whenever a detached soul tries to enter inside a soulspace, they get pushed back and a copy of the soulspace (with eyes and a mouth) comes out from the soulspace. This is E-SSPCAS or E-Cassidy.
+When an invading soul tries to possess a soulspace: E-Cassidy emerges out of the soulspace and pushes the invading soul away.
+
+E-Cassidy looks like the soulspace of that organism with more details (like having eyes, mouth, any marks) and biological matter; kind of a mix between a soul and a soulspace. E-Cassidy is an also ASSS.
+
+E-Cassidy's job is to push out the invading soul from it possessing the organism. Since souls are unkillable: E-Cassidy can only push them away or fight them until exhaustion. This is the reason detached souls also need to know how to fight when trying to possess.
+
+E-Cassidy has the personality, emotions and senses of that organism except for fear. E-Cassidy does not feel fear; they are quite literally incapable of feeling fear.
 
 E-Cassidy is a copy of the soulspace with the organism's organs and biological matter. Its purpose is to fight the foreign soul away (since souls aren't killable). E-Cassidy can talk and strategies on how to push back the foreign soul.
 
