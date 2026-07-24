@@ -36,7 +36,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Offense PCA Cells](#offense-pca-cells)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others (I-SSPCAS)](#others-i-sspcas)  
 
-
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others](#others)  
