@@ -719,33 +719,29 @@ SSPCAS is be further divided into two parts: **"Internal SoulSpace Possession Co
 
 When an invading soul tries to possess a soulspace: E-Cassidy emerges out of the soulspace and pushes the invading soul away.
 
-E-Cassidy looks like the soulspace of that organism with more details (like having eyes, mouth, any marks) and biological matter; kind of a mix between a soul and a soulspace. E-Cassidy is an also ASSS.
+E-Cassidy looks like the soulspace of that organism with more details (like having eyes, mouth, any marks) and biological matter; kind of a mix between a soul and a soulspace. E-Cassidy is an also ASSS and is unkillable.
 
 E-Cassidy's job is to push out the invading soul from it possessing the organism. Since souls are unkillable: E-Cassidy can only push them away or fight them until exhaustion. This is the reason detached souls also need to know how to fight when trying to possess.
 
-E-Cassidy has the personality, emotions and senses of that organism except for fear. E-Cassidy does not feel fear; they are quite literally incapable of feeling fear.
+E-Cassidy has the personality, emotions and senses of that organism except for fear. E-Cassidy does not feel fear; they are quite literally incapable of feeling fear. The reason for this is fear; while a very useful emotion for survival; will cause hesitance and even avoidance or surrender; which goes against E-Cassidy's entire job.
 
-E-Cassidy is a copy of the soulspace with the organism's organs and biological matter. Its purpose is to fight the foreign soul away (since souls aren't killable). E-Cassidy can talk and strategies on how to push back the foreign soul.
+If the organism's personality or part of personality interferes with efficient fighting too much; reduce winning percentage to below 51%; then: that part of the personality or the entire personality will not be adopted to E-Cassidy.
 
-E-Cassidy has the organism's emotions and personality, except for the emotion fear. E-Cassidy cannot feel fear, otherwise it would make them more hesitant to fight invading souls. If an E-Cassidy's personality and emotions get in the way of dealing with a soul efficiently, their emotions will be temporarily stripped to fight them efficiently.
+E-Cassidy is essentially the most efficient version of that organism in combat/defense (as of the organism's current state). E-Cassidy can even use kandra manipulation if that organism can use them (We'll get more into kandra manipulation later).
 
-E-Cassidy is essentially the most efficient version of that organism at combat/defense (as of the organism's current state, not possible state). E-Cassidy can even use kandra forces if that organism can use them (We'll get more into kandra manipulation later).
+E-Cassidy is only limited by the organism's current limitations (physical and knowledge). The E-Cassidy of a martial artist is going to have a better job at protecting its host than an average person.
 
-E-Cassidy is only limited by the organism's current limitations (physical and knowledge). So the E-Cassidy of a martial artist is going to be way better than the average person.
+E-Cassidy has a huge advantage: that advantage being *adaptation*. E-Cassidy adapts to the invading soul's fighting styles and technique due to E-Cassidy being hyper-observant; only limited by the organism's mental capacity. Like your immune system basically.
 
-This is why you need to know combat, to deal with E-Cassidy.
+Adaption isn't only limited to fighting styles and techniques, E-Cassidy keeps in mind almost everything about the invading soul and exploit any weakness E-Cassidy can find; so E-Cassidy can even use psychological warfare against the invading soul.
 
-E-Cassidy adapts to any invading soul's fighting technique (to the best of its abilities) as E-Cassidy is hyper-observant (limited to the organism's mental capacity). So when the same invading soul comes back, E-Cassidy can use its previous knowledge of how the soul fights.
+Since E-Cassidy only has the knowledge of the organism and additional afterlife knowledge: it doesn't know most of the terms used by people in the afterlife; they don't even know they are called E-Cassidy, they refer to themselves as the organism's name. But E-Cassidy can learn more about the afterlife with knowledge given by the invading soul.
 
-When the invading souls surrenders to E-Cassidy. E-Cassidy merges back to the soulspace, ready to come out again if called for.
+The best part about E-Cassidy is that its adaptation is hereditary. People who's E-Cassidy has fought an invading soul: their children will also have the same adaption and the children's children will have the same adaption and so on.
 
-Since E-Cassidy doesn't interact with the inlife semi-world like a detached soul (without IIP at least), the fight is completely invisible to any inlife organism while still technically being in the inlife semi-world.
+E-Cassidy doesn't interact with the inlife semi-world like detached souls, so their fight is completely invisible to everyone in the inlife, including the host. It should be obvious but the host doesn't know they have SSPCAS or a soulspace.
 
- Some E-Cassidy doesn't know it is named E-Cassidy as it only has the knowledge of the inlife organism. And inlife organisms don't know the existence of the afterlife. Other E-Cassidys do when encountering detached souls and they mention E-Cassidy as E-Cassidy.
-
- E-Cassidy has the knowledge of the inlife organism and its own knowledge. It gains knowledge every time the host learns knowledge and when it learns how to adapt against a soul or any extra info given by a invading soul.
-
-To actually possess the soulspace, you need to have some PPI to even enter it AND you need to go inside before E-Cassidy stops you/brings you out mid-entering. After you enter inside the soulspace, E-Cassidy can't do anything.
+So to actually possess someone: a detached soul needs to have PPI AND defeat E-Cassidy. Detached souls have to be fully inside the soulspace because if a part of them is exposed to E-Cassidy: it will pull them out.
 
 ### I-SSPCAS
 
