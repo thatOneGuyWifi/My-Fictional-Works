@@ -21,10 +21,13 @@ The Afterlife And Souls
 │     │  ├─ For tIIP
 │     │  ├─ For aIIP
 │     │  └─ For vIIP
-│     └ Formulas (IIP)
+│     └─ Formulas (IIP)
 ├─ Possession
 │  ├─ E-SSPCAS
 │  ├─ I-SSPCAS
+│  │  ├─ Defence PCA Cells
+│  │  ├─ Offense PCA Cells
+│  │  └─ Others (I-SSPCAS)
 │  ├─ Possession Power Index (PPI)
 │  │  └─ How To Gain PPI And Train It
 │  └─ Others

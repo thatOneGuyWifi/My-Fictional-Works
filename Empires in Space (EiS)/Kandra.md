@@ -32,6 +32,11 @@
 ├─ [Possession](#possession)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Defence PCA Cells](#defence-pca-cells)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Offense PCA Cells](#offense-pca-cells)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others (I-SSPCAS)](#others-i-sspcas)  
+
+
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others](#others)  
@@ -743,137 +748,156 @@ E-Cassidy doesn't interact with the inlife semi-world like detached souls, so th
 
 So to actually possess someone: a detached soul needs to have PPI AND defeat E-Cassidy. Detached souls have to be fully inside the soulspace because if a part of them is exposed to E-Cassidy: it will pull them out.
 
+E-Cassidy can teleport to the soulspace anytime since the organism might not stay in the same place.
+
 ### I-SSPCAS
 
-But the fight isn't over, it never is when you're trying to possess someone. Enter I-SSPCAS or I-Cassidy.
+However, do not think the fight is over when E-Cassidy is defeated; the fight is never over in possession; enter I-SSPCAS or I-Cassidy.
 
-I-Cassidy is more "system-like" defense, unlike E-Cassidy. Think of I-Cassidy as the immune system of a soulspace. The immune system takes care of bacteria and viruses (invading organisms) while I-Cassidy takes care of invading souls. So to I-Cassidy, invading souls are nothing more than a bacteria/virus trying to take control of the host.
+I-Cassidy's defense is more systematic; unlike E-Cassidy. Think of E-Cassidy as a bodyguard and I-Cassidy as a defense system. I-Cassidy can be summarized as the immune system of a soulspace; I-Cassidy does treat invading souls as bacteria/viruses that need to removed.
 
-When a invading soul enters inside a soulspace, I-Cassidy activates and produces small orb like things called **"Possession Counter Action Cells" (PCA Cells)**. PCA Cells are thing things that tries to push the invading soul out.
+I-Cassidy's line of defense are the **"Possession Counter Action Cells" (PCA Cells)"**. PCA cells are small orb-like cells that is the size of 1 mm. Different PCA cells have different jobs but they all share the same goal: remove the invading soul from the soulspace. They are also ASSS.
+
+PCA Cells are categorized into two categories: "Defence PCA Cells" or "D-PCA Cells" and "Offense PCA Cells" or "O-PCA Cells". As the name suggests, D-PCA cell's job is to protect the soulspace and support while O-PCA cell's job is to attack the invading soul.
 
 There are 2 categories of cells: "Defence PCA Cells" or "D-PCA Cells" and "Offense PCA Cells" or "O-PCA Cells". As the names suggest, D-PCA Cells protects the host while O-PCA cells attacks the invading cell and tries to push it out of the soulspace.
 
-Different species can have different D-PCA Cells and O-PCA Cells due to different methods adaption. Even individual organisms can have different types of D-PCA Cells and O-PCA Cells depending on their adaption (although this is much rarer).
+Different species can have different D-PCA and O-PCA cells due to different adaption methods. Even individual organisms can have different D-PCA and O-PCA cells for the same reason.
 
-*Defence PCA Cells:*
+#### Defence PCA Cells
 
 - **Block Defence PCA Cells** or **B-D-PCA Cells**: (Found in all species)
 
-When a invading soul enters a soulspace, these are the first cells that gets produce. They look like white orbs.
+When an invading soul enters the soulspace: these are the first cells to be produced. B-D-PCA Cells are white in color.
 
-The Syovos has five layers. B-D-PCA Cells blocks the first layer (the layer closest to the soul) so the invading soul cannot easily overrides the connection with the host's soul.
+B-D-PCA cell's job is to block the Syovos so the invading soul cannot connect with it. B-D-PCA cells however doesn't interrupt the connection with the host soul and lets other PCA cells pass. The Syovos has five layers, B-D-PCA cells block and unblock these layers based on the current state of the organism:
+- First Layer Blocked: always when an invading soul enters the soulspace; no matter what the organism is doing. The organism feels a weird sense of losing consciousness but easily ignorable; usually goes away after 1 minute.
+- Second Layer Blocked: when the organism isn't doing any demanding task. The organism feels a noticeably stronger sense of losing consciousness but still easily ignorable; goes away after 2 minutes.
+- Third Layer Blocked: when the organism is tired and in need of rest. The organism feels more tired than usual.
+- Fourth Layer Blocked: when the organism is relaxing. The organism feels more relaxed than usual; almost sleepy.
+- Fifth Layer Blocked: when the organism is in REM sleep and deep sleep (sleeping).
 
-B-D-PCA Cells however let the host soul pass, but the connection gets slightly weaker, making the organism feel a weird sense of losing consciousness but the feeling being easily ignorable. The more tired the host gets, the more layers get blocked so the invading soul has a harder time connecting to the Syovos.
+With each layer blocked, I-Cassidy becomes more active and produces more PCA cells; so it is actually best when the organism is working and worst when the organism is sleeping.
 
-Here is how the organism would feel when each layer is blocked:
-
-- First Layer Blocked: A weird sense of losing consciousness which is easily ignorable.  
-- Second Layer Blocked: The feeling of losing consciousness gets slightly stronger but not noticeably so. This layer gets blocked when the organism isn't doing any demanding task.  
-- Third Layer Blocked: The organism feels a bit tired. The third layer gets blocked when the organism is a bit tired and needs resting.
-- Fourth Layer Blocked: The organism feels more tired than before. This layer is blocked when the organism is resting.
-- Fifth Layer Blocked: The organism feels very sleepy and tired. This layer is blocked when the organism is sleeping.
-
-They all get blocked and unlocked quickly based in what the organism is currently doing.
-
-Also, when the organism gets more tired and rests, I-Cassidy becomes more active in pushing out the invading soul, so being tired is actually **worse** for the invading soul.
-
-When a B-D-PCA Soul enters a layer, it expands into a sheet of layer that blocks the invading soul but allows the host soul and other B-D-PCA Cells and hardens. It takes an average of 10 B-D-PCA Cells to securely block a layer.
+When B-D-PCA cells enter inside a layer: they expand into a sheet of layer and harden overtime; taking 3 minutes to fully harden. It takes an average of 10 B-D-PCA cells to secure a layer.
 
 - **Supporting Defence PCA Cells** or **S-D-PCA Cells**:
 
-S-D-PCA Cells are cells that support other PCA cells. They look orange in color.
+S-D-PCA cells heals other PCA cells; they are the healers of the "party" (I-SSPCAS). They can heal large damages in 1 millisecond.
 
-They mainly heal other cells (and themselves). They are the healers of the "party" (I-SSPCAS).
+When a S-D-PCA cell is created: they are assigned to support another PCA cell. When that PCA cell dies: they move to support the closest PCA cell.
+
+S-D-PCA cells can support other S-D-PCA cells.
+
+S-D-PCA cells are orange in color.
 
 - **Tank Defence PCA Cells** or **T-D-PCA Cells**:
 
-T-D-PCA Cells are cells that stay close to other cells and when hit with a PPI attack (we will get to that later), come infront of cells and "tank" (take in) the damage so the attack is less impactful to other cells. They look light brown in color.
+T-D-PCA cells are designed to tank hits from PPI slashes (we will get to that later). Due to this reason: They are very durable; they are infact, the most durable PCA cell.
 
-T-D-PCA cells are designed to have good endurance against PPI attacks.
+Like S-D-PCA cells, T-D-PCA cells get assigned to PCA cells and get infront of them to take the damage for them and/or reduce the damage of the PPI slash.
+
+T-D-PCA cells are brown in color.
 
 - **Infectious Defence PCA Cells** or **I-D-PCA Cells**:
 
-I-D-PCA Cells tries to enter inside an invading soul then it infects the nearby Red Blood Cells into producing IB-O-PCA cells (we'll get into that in a bit). They are red in color.
+I-D-PCA cells tries to enter inside an invading soul. Once inside: they infect nearby Red Blood Cells (RBC) into producing IB-O-PCA cells (we will get to that later).
 
-I-D-PCA cells add special DNA inside these red blood cells to produce IB-O-PCA cells.
+I-D-PCA cells injects special DNA inside the RBCs that produce IB-O-PCA cells.
 
-Unlike other PCA cells, I-D-PCA stays within a soul even after it leaves the soulspace. When they do, it stays dormant and doesn't do anything. However, when that same soul enters inside the same host, I-D-PCS activates and starts infecting new RBCs (When a soul leaves a soulspace, the special DNA in infected cells get destroyed. They can only survive inside that host's soulspace. I-D-PCA also won't activate when it invades another soulspace as it can't identify a new soulspace).
-
-I-D-PCA cells disguise themselves as blood cells so the white blood cells doesn't attack them.
+Unlike other PCA cells, I-D-PCA cells stays inside a soul after it leaves the soulspace. They stay dormant inside the soul; not infecting any new RBCs. When the invading soul enters inside the same soulspace: the dormant I-D-PCA cells activate again and starts infecting RBCs. They are like a sleeper agent basically; stay dormant until when the soul enters the same soulspace.
 
 The only way to remove I-D-PCA cells is through surgery.
 
-*Offense PCA Cells:*
+Notice I say "same soulspace" and not just "soulspace"? It's because ID-PCA cells from another soulspace won't activate if the soul gets inside a different organism's soulspace because the I-D-PCA cell doesn't recognize the different soulspace.
+
+I-D-PCA cells are red in color, them being red helps in not being targeted by the invading soul's immune system.
+
+#### Offense PCA Cells
 
 - **Base Offense PCA Cells** or **B-O-PCA Cells**: (Found in all species)
 
-B-O-PCA cells are the main line of offense against a invading soul. They are golden-yellow in color.
+B-O-PCA cells are the main line of offense against an invading soul.
 
-When they get produced, they go attack the invading soul, which results in them dying but also results to the invading soul to feel a sharp pain in that area and also getting pushed back out of the soulspace.
+When they get produced: they rush towards the invading soul to make contact with them: this results in the B-O-PCA cell dying but causing a sharp to the invading soul and pushing them back slightly.
 
-A single B-O-PCA cell can't do anything significant, the pain isn't that hard to handle and the "push" is barely noticeable. That's why they are heavily produced to counter these weaknesses.
+A single B-O-PCA cell cannot do anything on its own; the pain it causes isn't anything significant and it barely pushes the invading soul. That's why B-O-PCA cells are mass produced.
 
-A single B-O-PCA cells can't do much but a hundred can do a lot, and I-Cassidy produces more than one hundred.
-
-- **Starvation Offense PCA Cells** or **S-O-PCA Cells**:
-
-S-O-PCA cells enters inside a invading soul and then simulates starvation inside the soul. They are maroon in color.
-
-They try to enter inside an invading soul and goes to the stomach, then it simulates starvation.
-
-Like B-O-PCA cells, a single S-O-PCA cell doesn't simulate much starvation but a lot do.
-
-The idea behind S-O-PCA cells are that the pain should distract the soul from using PPI and let B-O-PCA cells do their job.
-
-The immune system of that invading soul does target S-O-PCA cells.
-
-Notice I said "simulate" starvation. It's because  souls cannot die and their physiology is modified to eliminate starvation.
-
-- **Suffocation Offense PCA Cells** or **O-O-PCA Cells***:
-
-O-O-PCA cells works similarly to S-O-PCA cells but instead of starvation it's suffocation. They are navy blue in color.
-
-O-O-PCA cells tries to enter inside an invading soul, travels to the lungs and simulate suffocation.
-
-They are also targeted by the immune system of that invading soul.
-
-- **Internal Base Offense PCA Cells** or **IB-O-PCA Cells**:
-
-IB-O-PCA cells are B-O-PCA cells but inside the invading soul. They are green in color.
-
-They enter inside an invading soul and attacks the muscles from the inside to hurt the invading soul and push the soul away.
-
-They act like the B-O-PCA cells but for the inside.
-
-The immune system tries to to stop the cells but they hurt, push and die before they can.
+B-O-PCA cells are yellow in color.
 
 - **Burnt Offense PCA Cells** or **R-O-PCA Cells**:
 
-R-O-PCA cells are like B-O-PCA cells with a "fire boost". They are blue in color.
+R-O-PCA cells are like B-O-PCA with a power up, that power up being to give burns.
 
-They act just like B-O-PCA cells but burns the skin (the burn being 1 mm in diameter from a single R-O-PCA cells), which causes more pain than a normal B-O-PCA cell.
+That is literally what they are; B-O-PCA cells but they burn the skin of the invading soul.
+
+R-O-PCA cells are purple in color.
+
+- **Starvation Offense PCA Cells** or **S-O-PCA Cells**:
+
+S-O-PCA cells tries enter inside an invading soul, they then go towards the stomach and simulate starvation.
+
+Notice I said "simulate" starvation? It's because  souls cannot die and their physiology is modified to eliminate starvation.
+
+The idea behind S-O-PCA cells is that the pain should distract the invading soul: which results in other PCA cells to do their jobs.
+
+Like B-O-PCA cells, a single S-O-PCA cell doesn't simulate much starvation but a lot do.
+
+The immune system of that invading soul does target S-O-PCA cells.
+
+S-O-PCA cells are maroon in color.
+
+- **Suffocation Offense PCA Cells** or **O-O-PCA Cells**:
+
+O-O-PCA cells follow the same idea as S-O-PCA cells but they simulate suffocation this time.
+
+O-O-PCA cells tries to enter the invading soul, goes to the lungs and simulate suffocation.
+
+They are also targeted by the immune system of that invading soul.
+
+O-O-PCA cells are navy blue in color.
+
+- **Internal Base Offense PCA Cells** or **IB-O-PCA Cells**:
+
+IB-O-PCA cells are B-O-PCA cells but they try to enter inside the invading soul and attack it from the inside; pushing the soul away from the inside.  
+
+The immune system tries to to stop IB-O-PCA cells but they attack and die before the immune system can stop them.
+
+IB-O-PCA cells are green in color
 
 - **Superior Base Offense PCA Cells** or **SB-O-PCA Cells**: (Rare, only found in the human species)
 
-As the name suggests, SB-O-PCA cells are superior versions of B-O-PCA cells. They are bright yellow in color.
+As the name suggests: SB-O-PCA cells are superior B-O-PCA cells.
 
-Unlike B-O-PCA cells who just die after attacking, they continuously attack without dying until the invading soul leaves. They also have greater damage and pushes harder.
+Instead of dying right after attacking, they continue attacking until they are either killed by a PPI slash or if the invading soul is out of the soulspace.
+
+They have greater damage, greater push and is more durable than B-O-PCA cells.
+
+They are yellow-golden in color.
 
 - **Superior Internal Base Offense PCA Cells** or **SIB-O-PCA Cells**: (Rare, only found in the human species)
 
-SIB-O-PCA Cells are basically SB-O-PCS cells for inside the invading soul. A combination of SB-O-PCA cells and IB-O-PCA cells. They are a dark green in color.
+As the name suggests: SIB-O-PCA cells are superior IB-O-PCA cells.
 
-They enter inside an invading soul and does what IB-O-PCA cells but instead of dying right after attacking, they continuously attack and push the invading soul.
+Similar to SB-O-PCA cells, instead of dying right after attacking, they continue attacking until the immune system kills them or if the invading soul is pushed out of the soulspace.
 
-They deal more damage and push harder.
+Since SIB-O-PCA cells don't die after attacking: they do get targeted by the immune system.
 
-The immune system of that invading soul does attack SIB-O-PCA cells as they don't die right after attacking.
+They have greater damage, greater push and is more durable than IB-O-PCA cells.
 
----
+SIB-O-PCA cells are dark green in color.
+
+#### Others (I-SSPCAS)
 
 PCA cells cannot survive outside the soulspace (except for I-D-PCA cells).
 
-Now, I-Cassidy can produce these cells but each cells take up energy, some more than others. PCS cells which take less energy gets produced more than ones who take more energy. Energy is taken from the stored energy of the soulspace it gains from tuvlums.
+You might think the soulspace only takes the amount of space of the organism so you might think: how does all of this happen? Shouldn't the PCA cells already make contact with the invading soul once produced? To answer that question, I first have to say the soulspace is NOT as big as the organism, it's bigger. The soulspace extends 20 cm away from the organism at all sides (leaving some wiggle room) that is where all the action happens.
+
+PCA cells are produced at the inner ends of the soulspace.
+
+Each PCA cell takes up energy to be produced; some taking more energy than others. This is why the more rest an organism is, the more active I-Cassidy is because more energy is sent from the tuvlum to the soulspace and from the energy: more PCA cells can be produced.
+
+PCA cells which take less energy to produce gets produced more, PCA cells which take more energy to produce gets produced less.
 
 Here is a table on each cells:
 
@@ -893,23 +917,61 @@ Here is a table on each cells:
 | Most  |SIB-O-PCA Cells| 5  |
 
 
-Each PCA Cells are about 1 mm in size.
+As you might have guessed: I-Cassidy adapts to the invading soul's way of using PPI slashes and shields and to the PPI slashes and shields themselves. Adaptation is also hereditary.
 
-PCS Cells get produced at the inner borders of the soulspace
+I-Cassidy learns the invading soul's fighting patterns and exploits any weak points. For example: if the invading soul only attacks from the front, PCA cell production will increase at the back.
 
-As you might have guessed, I-Cassidy also adapts like E-Cassidy. This isn't only limited to making new PCA Cell types.
+I-Cassidy can also adapt to make new PCA cells; as previously stated.
 
-I-Cassidy learns how the invading soul attacks and defends with PPI and adapts to exploit any weak points. For example, if an invading soul uses PPI to make a shield at its front to protect themselves, then I-Cassidy will produce cells behind the invading soul to push it out from the front. And I-Cassidy remembers it even after the soul leaves.
+However; even with all of this; I-Cassidy isn't perfect. The host soul themselves can get in the crossfire by the PCA cells.
 
-I-Cassidy is technically the soulspace trying to get any invading souls out.
+I-Cassidy however tries to resolve any mistake by using B-O-PCA cells to push the attached soul back into position and any PCA cells that went inside coming out.
 
-I-Cassidy however isn't perfect, the attached soul themselves can get in the crossfire by PCA Cells. For example, a B-O-PCA Cell might accidentally hit the attached soul which would push them out of the soulspace slightly.
+If a part of the attached soul exits the soulspace: E-Cassidy pushes the part back into the soulspace (E-Cassidy knows its host soul from invading souls).
 
-I-Cassidy however tries to resolve this quickly by using B-O-PCA cells to push the attached soul inside the soulspace again. The host won't feel any pain as pain from the attached soul doesn't get felt because it the inlife brain doesn't process it. The host being completely unaware.
+E-Cassidy doesn't go away even after the invading soul successfully gets inside the soulspace. It waits until a part of the invading soul is outside the soulspace, then it brings the invading soul out of the soulspace and fights them again.
 
-If a part of the attached soul exits the soulspace, E-Cassidy pushes the part back into the soulspace (E-Cassidy knows its host soul from invading souls).
+Here are some other tables relating to PCA cells
 
-E-Cassidy does not go away even after the invading soul enters inside the soulspace. It will wait until I-Cassidy pushes a part of the invading soul out of the soulspace so E-Cassidy can pull them out of the soulspace and fight them again. E-Cassidy does not return as long as an invading soul is inside the soulspace.
+Table of PCA cell speed; fastest—slowest:
+
+
+| Rank |    PCA Cell    |
+|------|----------------|
+| 1st  |  B-D-PCA Cell  |
+| 2nd  |  B-O-PCA Cell  |
+| 3rd  |  S-D-PCA Cell  |
+| 4th  |  R-O-PCA Cell  |
+| 5th  |  IB-O-PCA Cell |
+| 6th  |  S-O-PCA Cell  |
+| 7th  |  O-O-PCA Cell  |
+| 8th  |  I-D-PCA Cell  |
+| 9th  |  SB-O-PCA Cell |
+| 10th | SIB-O-PCA Cell |
+| 11th |  T-D-PCA Cell  |
+
+
+
+Table of PCA durability; most durable—least durable:
+
+
+
+| Rank |    PCA Cell    |
+|------|----------------|
+| 1st  |  T-D-PCA Cell  |
+| 2nd  | SIB-O-PCA Cell |
+| 3rd  |  SB-O-PCA Cell |
+| 4th  |  I-D-PCA Cell  |
+| 5th  |  O-O-PCA Cell  |
+| 6th  |  S-O-PCA Cell  |
+| 7th  |  IB-O-PCA Cell |
+| 8th  |  R-O-PCA Cell  |
+| 9th  |  S-D-PCA Cell  |
+| 10th |  B-D-PCA Cell  |
+| 11th |  B-O-PCA Cell  |
+
+
+**--- [THE SECTIONS BELOW ARW UNEDITED. IGNORE THEM FOR NOW] ---**
 
 ### Possession Power Index (PPI)
 
