@@ -969,22 +969,22 @@ Table of PCA durability; most durable—least durable:
 | 11th |  B-O-PCA Cell  |
 
 
-**--- [THE SECTIONS BELOW ARW UNEDITED. IGNORE THEM FOR NOW] ---**
-
 ### Possession Power Index (PPI)
 
-Now that I explained how the soulspace protects itself from invading souls, let's now talk about how souls actually possess someone.
+Now that I've discussed how the soulspace protects itself from invading souls, let's talk about how detached souls actually possess someone; aka, learn more about PPI.
 
-Detached souls use PPI to possess inlife organisms (as discussed). But to be more precise, PPI lets you:
-- Enter inside a soulspace.
-- Connect to the Syovos.
-- Fight PCA cells and defend yourself by:
+As you know, detached souls needs PPI to actually possess someone, PPI lets a detached soul possess someone, but what does PPI do exactly?
+
+What PPI exactly does is:
+- Let invading souls enter inside a soulspace.
+- Let invading souls connect to the Syovos.
+- Fight PCA cells and defend themselves by:
     - Making PPI slashes that damage PCA cells.
-    - Making PPI shields that protects you from PCA cells.
+    - Making PPI shields that protects them from PCA cells.
 
-So PPI is just used for defense against I-Cassidy and to get into a soulspace and to connect yourself with the Syovos.
+PPI slashes can only damage PCA cells and PPI shields can only block PCA cells; they are completely useless in actual combat or anything that isn't PCA cells. PPI slashes and shields are ASSS.
 
-You need certain amounts of PPI to achieve the properties of PPI. Here is a table showing how much PPI you need to achieve them.
+Detached souls need certain amounts of PPI to achieve the properties of PPI. Here is a table showing how much PPI is needed to achieve them:
 
 
 | PPI Required | Property |
@@ -994,38 +994,30 @@ You need certain amounts of PPI to achieve the properties of PPI. Here is a tabl
 |207 kPPI| Making PPI slashes and PPI shields |
 
 
-When you enter inside a soulspace, I-Cassidy gets into action immediately. So you also need to use your PPI immediately to.
+PPI slashes and shields are purple in color.
 
-You can use your PPI slashes to cut the B-D-PCA cells before they could reach the Syovos, however that would require you to see the 1mm orbs and them reaching to the Syovos among the other 1mm orbs and hit them with your PPI slash. That requires precision and good eyes. So targeting a single type/group of PCA cells is hard.
+To summon PPI slashes and shields: detached souls just can after achieving 207 kPPI; again, not describable, must be felt. But before summoning a PPI slash or shield: they must decide the values of all the properties of PPI slashes and shields.
 
-Now you might be wondering, why even target a PCA cell when you can just slash all the PCA cells around you? Well first of all, randomly slashing PCA cells around you is inefficient as I-Cassidy will exploit that; second of all, targeting B-D-PCA cells before they harden will kill the B-D-PCA cells faster. And you also need to PPI slash B-D-PCA cells to connect with the Syovos in the first place.
+The properties of PPI slashes are:
+- Size: the bigger: the more PPI required, the smaller: the less PPI required. For an average sized slash (15 cm): you need 10 PPI; which in total is 207.01 kPPI.
+- Damage: the more damage: the more PPI required, the less damage the less PPI required. For an average damage-inducing slash (able to take out B-O-PCA cells in one slash): you need 15 PPI; which in total is 207.015 kPPI.
+- Durability: the more durable: the more PPI required, the less durable: the less PPI required. For an average durable slash (able to withstand 13 B-O-PCA cells before getting destroyed): you need 13 PPI; which in total is 207.013 kPPI.
+- Speed: the faster: the more PPI required, the slower: the less PPI required. For an average slash speed (4 cm/s): you need 8 PPI; which in total is 207.008 kPPI.
+- Shape: the more complex the shape: the more PPI required, the more simpler the shape: the less PPI required. The simplest shape is a straight line which costs 0 PPI but the average shape of a slash is a slightly curved slash, which requires 3 PPI; which in total is 207.003 kPPI.
 
-There is another reason targeting, When your PPI slash hits a PCA cell, the slash becomes slightly weaker (in damage) and the more it slashes through (the same or other) PCA cells the weaker it will get until it disappears. So if you want to hit a type of PCA cell surrounded by other PCA cells and you hit that crowd, your PPI slash will deal less damage to the targeted PPI cell than intended, although you really cannot do much in that situation.
+The properties of PPI shields are:
+- Size: same as the PPI slash. An average sized shield is 15 cm in length and width; having the same cost as a PPI slash.
+- Durability: same as PPI slash. For an average durable shield (able to withstand 30 B-O-PCA cells before getting destroyed): you need 20 PPI; which in total is 207.02 kPPI.
+- Shape: same as PPI slash. The simplest is a straight line but an average shield shape is a square: which requires 12 PPI; which in total is 207.012 kPPI.
+- Location: Where the PPI slash will be placed. This property costs 0 PPI regardless of where in the soulspace.
 
-When PPI slash does damage, the entire thing loses damage, not only that region.
+*(NOTE: when a B-O-PCA cell hit an PPI slash, they will die just like if they attacked the invading soul. Same for R-O-PCA cells)*
 
-To summon a PPI slash, you need to use PPI but you also need to decide the values of each PPI slash property, the properties being:
-- Size: the bigger the more PPI required, the smaller the less PPI required.
-- Damage: the more damage the more PPI required, the less damage the less PPI required.
-- Durability: the more durability the more PPI required, the less durability the less PPI required.
-- Speed: the more fast it goes the more PPI required, the less speed PPI required.
-- Shape: the more complex the shape, the more PPI required; the more simpler the shape, the less PPI required. A straight line is the simplest shape, i.e costing the least PPI.
+Unlike IIP, PPI is losable when PPI slashes and shields are made.
 
-*-- Note to the author: add the PPI required for each property bases on avg value for reference. Same for PPI shield --*
+When PPI slashes deal damage: damage is also done to the PPI slash and when damage is done: the PPI slash loses some of it's damage capacity.
 
-Along with PPI slash, you can use PPI shield to protect yourself from the PCA cells.
-
-They also need PPI to be summoned. Here are the properties of PPI shields:
-- Size: same like PPI slash.
-- Durability: same like PPI slash.
-- Shape: same like PPI slash.
-- Location: these don't have variable PPI. The PPI shield close to you will cost the same PPI if it was far away from you.
-
-PPI slash and PPI shields only affect PCA cells, they don't affect anything else. They are purple in color.
-
-Unlike IIP, PPI is losable with making PPI slashes and shields.
-
-*(I got tired at the end so it's a sloppy. When I edit this (to make things clear and structured, rn I am writing down ideas) I WILL change that)*
+When a PPI slash and PPI shield gets destroyed: they turn into particles and disappear into thin air. They actually get absorbed by the soulspace as energy to produce more PCA cells; so the soulspace uses the remnants of your PPI slashes and shields against you, they don't give too much energy but the soulspace will take anything it gets.
 
 #### How To Gain PPI And Train It
 
