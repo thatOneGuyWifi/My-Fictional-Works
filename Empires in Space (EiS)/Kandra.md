@@ -1021,19 +1021,35 @@ When a PPI slash and PPI shield gets destroyed: they turn into particles and dis
 
 #### How To Gain PPI And Train It
 
-Detached souls having something called the **"Possession Activation Substance Organ" (PASO)**. PASO releases **"Possession Activation Substance" (PAS)**, PAS is the substance which increases PPI, let's get more into it.
+Souls having something called the **"Possession Activation Substance Organ" (PASO)**. PASO releases **"Possession Activation Substance" (PAS)**. PAS is the substance which increases PPI, let's get more into it.
 
-PASO is not a new organ inside Detached souls, PASO is an existing organ with the property of producing PAS. The most common organ for it to be PASO in a species is the heart (human's PASO is the heart). Most species only have one PASO (including humans).
+PASO is not a new organ inside souls, PASO is an existing organ that has the capability to produce PAS. The most common organ for most species to be PASO is the heart, due to it being tied to the circulatory system because PAS is a; well; substance. Most species; including humans; have one PASO (even if they have multiple hearts).
 
-What is PAS? PAS is an **"Afterlife Special Status Substance" (ASSS. We will get to ASSS later)**, a special substance that lets you gain PPI and train to get PPI faster. It doesn't typically interact with other body parts because of its special status.
+PAS is an ASSS, it allows detached souls to gain PPI in the first place. Think of them as the IIPE of PPI; that is basically what they are but instead of being a property of a soul, they are a substance produced by the soul.
 
-The amount of PAS your PASO produces relies on the health of the PASO (more healthy, more PAS; less healthy, less PAS) and some genetics. Detached souls can train to increase their PAS production even if they produce less PAS genetically, genetics aren't destiny. The average amount of PAS produced by PASO is 30 PAS/s (30 PAS per second).
+How does one produce PAS? As you might have guessed, it's a must be felt thing; not describable, detached souls just can.
 
-In detached souls, there are something called **"Possession Activation Substance Node" (PAS Node)**. PAS Nodes are the things which converts PAS to PPI. PAS Nodes looks like pink spherical balls, giving them the name "node". They are 3 cm in diameter. The position of PAS Nodes and number of PAS Nodes varies by the species and individual for humans and anthropomorphic species, they usually have four PAS Nodes and they are usually placed around the elbows and knees.
+The amount of PAS produced by a detached soul's PASO relies on the health of the PASO (more healthy: more PAS production, less healthy: less PAS production) and some genetics. However genetics doesn't mean the detached soul is stuck with the amount of PAS production their genetics can afford, PASO can be trained, I'll get more into that later.
 
-PAS flows like liquid, that's why it's common to have heart as PASO, since it is tied with the circulatory system.
+The average amount of PAS produced by PASO is 30 PAS/s (30 PAS per second).
 
-PAS's speed again relies on health and genes of your PASO producing PAS, but the average speed is 3 cm/s (3 centimeters per second).
+PAS's speed again relies on health of the PASO and genetics, this is also trainable. The average speed is 3 cm/s (3 centimeters per second).
+
+PAS is pink in color and doesn't interact with the blood or other matter in the circulatory system.    
+
+PAS flows like liquid, that's why it's common to have the heart as PASO; since it is tied with the circulatory system.
+
+Now you might be wondering: since PAS is a substance and not a property (like how IIPE is a property), how does PAS give PPI (get converted into PPI since IIPE gets converted into IIP)? Enter in **"Possession Activation Substance Node" (PASN)**.
+
+PASN absorbs PAS from the PASO and converts it into PPI. They look like pink spherical balls that are 3 cm in diameter; giving them "node" in their name. They are an ASSS, not interacting with blood or any matter. However PASN does interact with PAS (PAS also interacts with PASN) to absorb PAS. The position and number of PASN varies by species and individual (what that means is: PASN location is in an area, decided by the species and PASN location can vary in that area for the individual) but for humans and most anthropomorphic species: they have 4 PASN, located in each elbow and knee area.
+
+PASN stores the absorbed PAS. Once there is 12 kPAS then: the PASN converts PAS into PPI (a property of the soul). 12 kPAS = 1 PPI. It takes 10 minutes for a PASN to fully convert 12 kPAS into PPI.
+
+PASN can theoretically store limitless amount of PAS due to it's ASSS nature but an average PASN can store 12 kPAS; just the amount to equal 1 PPI. PASN storage is slightly determined by genetics; so PASN can store less or more than 12 kPPI.
+
+*If a PASN can store < 12 kPAS:*
+
+Then the PASN will convert all the PAS it can hold; so if a PASN can store 10 kPAS and it has 10 kPAS: then it will convert the 10 kPAS, which is $0.8\overline{3}$ PPI (rounded).
 
 When PAS reaches a PAS Node, the PAS Node absorbs some of the PAS and it gets stored inside the PAS Node. Once PAS Node collects 12 kPAS, the PAS Node will convert the PAS to PPI. 12 kPAS = 1 PPI. It takes a PAS Node 10 minutes to convert 12kPAS to 1 PPI.
 
