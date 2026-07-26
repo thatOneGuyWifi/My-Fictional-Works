@@ -30,8 +30,8 @@ The Afterlife And Souls
 │  │  └─ Others (I-SSPCAS)
 │  ├─ Possession Power Index (PPI)
 │  │  └─ How To Gain PPI And Train It
-│  │     ├─ Possession Activation Substance (PAS)
-│  │     ├─ Possession Activation Substance Node
+│  │     ├─ PAS
+│  │     ├─ PASN
 │  │     ├─ PPI Training
 │  │     └─ Formula (PPI)
 │  └─ Others

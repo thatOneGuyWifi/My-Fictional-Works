@@ -37,8 +37,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others (I-SSPCAS)](#others-i-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Activation Substance (PAS)](#possession-activation-substance-pas)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Activation Substance Node](#possession-activation-substance-node)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PAS](#pas)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PASN](#pasn)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Formula (PPI)](#formula-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others](#others)  
@@ -1033,7 +1033,7 @@ PAS is an ASSS, it allows detached souls to gain PPI in the first place. Think o
 
 How does one produce PAS? As you might have guessed, it's a must be felt thing; not describable, detached souls just can.
 
-##### Possession Activation Substance (PAS)
+##### PAS
 
 The amount of PAS produced by a detached soul's PASO relies on the health of the PASO (more healthy: more PAS production, less healthy: less PAS production) and some genetics. However genetics doesn't mean the detached soul is stuck with the amount of PAS production their genetics can afford, PASO can be trained, I'll get more into that later.
 
@@ -1047,7 +1047,7 @@ PAS flows like liquid, that's why it's common to have the heart as PASO; since i
 
 Now you might be wondering: since PAS is a substance and not a property (like how IIPE is a property), how does PAS give PPI (get converted into PPI since IIPE gets converted into IIP)? Enter in **"Possession Activation Substance Node" (PASN)**.
 
-##### Possession Activation Substance Node
+##### PASN
 
 PASN absorbs PAS from the PASO and converts it into PPI. They look like pink spherical balls that are 3 cm in diameter; giving them "node" in their name. They are an ASSS, not interacting with blood or any matter. However PASN does interact with PAS (PAS also interacts with PASN) to absorb PAS. The position and number of PASN varies by species and individual (what that means is: PASN location is in an area, decided by the species and PASN location can vary in that area for the individual) but for humans and most anthropomorphic species: they have 4 PASN, located in each elbow and knee area.
 
