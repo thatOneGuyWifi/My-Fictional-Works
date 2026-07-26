@@ -34,6 +34,6 @@ The Afterlife And Souls
 │  │     ├─ PASN
 │  │     ├─ PPI Training
 │  │     └─ Formula (PPI)
-│  └─ Others
+│  └─ Multiple Invading Souls
 ├─ Society
 └─ Afterlife Special Status Substance (ASSS)

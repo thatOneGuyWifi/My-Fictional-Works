@@ -41,7 +41,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PASN](#pasn)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formula (PPI)](#formula-ppi)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others](#others)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Multiple Invading Souls](#multiple-invading-souls)  
 ├─ [Society](#society)  
 └─ [Afterlife Special Status Substance (ASSS)](#afterlife-special-status-substance-asss)  
 
@@ -1133,15 +1133,13 @@ Plug in A as 8 PAS/s, R as 30 PAS/s and T as 10s.
 
 **Answer:** You get a total of 80 PAS in 10 seconds, 8 PAS every second.
 
-### Others
+### Multiple Invading Souls
 
-Along with SSPCAS adapting to possession attempts, SSPCAS's adaption is also hereditary; i.e they get passed down to their children. When an organism mates with a partner and has a child, that child will have the same SSPCAS adaption like its parents.
+Multiple invading souls can possess one soulspace. When one invading soul enters inside the soulspace: the soulspace shrinks the invading soul and attached soul to preserve space for I-Cassidy, the soulspace can do this multiple to multiple souls and can theoretically do it infinitely.
 
-The knowledge of E-Cassidy (and I-Cassidy) is also hereditary (tying to adaption). So when E-Cassidy learns how to fight a invading soul and the host reproduces, their child's E-Cassidy will know the same knowledge in how to fight that invading soul.
+When an invading soul is out of the soulspace, they return to their original size and the attached soul returns to their original size aswell.
 
-I-D-PCA cells also works like this. When a detached  soul has an I-D-PCA cell inside them and they try to possess the host's child, grandchild or a descendant of that host, then the I-D-PCA cell will recognize the soul is possessing a soulspace it knows, so it will activate and make IB-O-PCA cells.
-
-Multiple detached souls can possess one soulspace, however there are limits. Only 20 souls can fit inside a human soulspace (1 attached soul, 19 detached souls) assuming they are all human; if they are larger organisms, then the number is less. When a detached soul possess a soulspace, it's size decreases and so does the attached soul to fit int the soulspace. The human detached soul can only decrease 20 times its size. Detached souls of other organism's size decrease can vary. If an organism's maximum size increase is still bigger than the soulspace of an organism its trying to possess, then it simply can't.
+If there are multiple souls and one invading souls get kicked out/leaves: the other souls inside the soulspace slightly increase in size and the kicked out/left soul returns to their original size.
 
 ## Society
 
