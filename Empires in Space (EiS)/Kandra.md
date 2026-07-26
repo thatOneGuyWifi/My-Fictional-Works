@@ -37,6 +37,10 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others (I-SSPCAS)](#others-i-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Activation Substance (PAS)](#possession-activation-substance-pas)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Activation Substance Node](#possession-activation-substance-node)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Formula (PPI)](#formula-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others](#others)  
 ├─ [Society](#society)  
 └─ [Afterlife Special Status Substance (ASSS)](#afterlife-special-status-substance-asss)  
@@ -1029,6 +1033,8 @@ PAS is an ASSS, it allows detached souls to gain PPI in the first place. Think o
 
 How does one produce PAS? As you might have guessed, it's a must be felt thing; not describable, detached souls just can.
 
+##### Possession Activation Substance (PAS)
+
 The amount of PAS produced by a detached soul's PASO relies on the health of the PASO (more healthy: more PAS production, less healthy: less PAS production) and some genetics. However genetics doesn't mean the detached soul is stuck with the amount of PAS production their genetics can afford, PASO can be trained, I'll get more into that later.
 
 The average amount of PAS produced by PASO is 30 PAS/s (30 PAS per second).
@@ -1041,65 +1047,73 @@ PAS flows like liquid, that's why it's common to have the heart as PASO; since i
 
 Now you might be wondering: since PAS is a substance and not a property (like how IIPE is a property), how does PAS give PPI (get converted into PPI since IIPE gets converted into IIP)? Enter in **"Possession Activation Substance Node" (PASN)**.
 
+##### Possession Activation Substance Node
+
 PASN absorbs PAS from the PASO and converts it into PPI. They look like pink spherical balls that are 3 cm in diameter; giving them "node" in their name. They are an ASSS, not interacting with blood or any matter. However PASN does interact with PAS (PAS also interacts with PASN) to absorb PAS. The position and number of PASN varies by species and individual (what that means is: PASN location is in an area, decided by the species and PASN location can vary in that area for the individual) but for humans and most anthropomorphic species: they have 4 PASN, located in each elbow and knee area.
 
-PASN stores the absorbed PAS. Once there is 12 kPAS then: the PASN converts PAS into PPI (a property of the soul). 12 kPAS = 1 PPI. It takes 10 minutes for a PASN to fully convert 12 kPAS into PPI.
+PASN stores the absorbed PAS. Once there is 12 kPAS then: the PASN converts PAS into PPI (a property of the soul). 12 kPAS = 1 PPI. It takes 10 minutes for a PASN to fully convert 12 kPAS into PPI and it will not absorb any PAS during conversion.
 
-PASN can theoretically store limitless amount of PAS due to it's ASSS nature but an average PASN can store 12 kPAS; just the amount to equal 1 PPI. PASN storage is slightly determined by genetics; so PASN can store less or more than 12 kPPI.
+Detached souls can feel PASN absorbing PAS and converting PAS to PPI (both of them feeling different from one another).
+
+PASN can theoretically store limitless amount of PAS due to it's ASSS nature but an average PASN can store 12 kPAS; just the amount to equal 1 PPI. PASN storage is slightly determined by genetics; so PASN can store less or more than 12 kPPI. PASN storage can be increased by training.
 
 *If a PASN can store < 12 kPAS:*
-
 Then the PASN will convert all the PAS it can hold; so if a PASN can store 10 kPAS and it has 10 kPAS: then it will convert the 10 kPAS, which is $0.8\overline{3}$ PPI (rounded).
 
-When PAS reaches a PAS Node, the PAS Node absorbs some of the PAS and it gets stored inside the PAS Node. Once PAS Node collects 12 kPAS, the PAS Node will convert the PAS to PPI. 12 kPAS = 1 PPI. It takes a PAS Node 10 minutes to convert 12kPAS to 1 PPI.
+*If a PASN can store > 12 kPAS:*
 
-PAS Nodes aren't perfect at absorbing PAS, some of the PAS doesn't get absorbed, they are called **"Unabsorbed PAS"**. Unabsorbed PAS lasts for 3 days before dissolving into the blood and getting back to the heart for it to be produced again. PASO can theoretically produce a limitless amount of PAS but it requires energy, and reusing PAS requires *less* energy. PAS which goes to the opposite direction of the PAS nodes are also Unabsorbed PAS and gets reused by PASO.
+Then when PASN reaches full capacity: will convert the 12 kPAS and leave the extra PAS. So if the PASN has 20 kPAS: it will convert the 12 kPAS; leaving 8 kPAS.
 
-Genetics also plays a role in PAS Node's storage and absorption but they can be trained. On average, a PAS Node absorbs 8 PAS/s and stores 12 kPAS. If a PAS Node can store less than 12 kPAS, it'll convert all the PAS it can store to PPI, which will be <1 PPI but not 0. For example, if a PAS Node can store only 10 kPAS, then it'll result in 0.833 PPI (Rounded. If that PAS Node reaches 10 kPAS). If a PAS Node has more than 12 kPAS storage, for example 20 kPAS and has 20 kPAS, the PAS Node will convert the 12 kPAS into PPI, leaving 8 kPAS.
+Detached souls can actually make PASN convert all the PAS inside even if it's less than 12 kPAS, it's just PASN automatically converts 12 kPAS. Doing this is another must be felt/experienced thing; not describable, detached souls just can. They can also make a PASN not convert 12 kPAS.
 
-A PAS Node can theoretically have a limitless amount of storage because PAS Nodes are also ASSS. It doesn't interact with the body parts except for PAS (PAS also interacting with PAS Nodes).
+PASN isn't perfect at absorbing PAS, some PAS doesn't get absorbed by a PASN, PAS that are not absorbed by a PASN are called **"Unabsorbed PAS"**; PAS absorbed by a PASN are called **"Absorbed PAS"**, or simply: PAS outside PASN are called unabsorbed PAS and PAS inside PAS are called absorbed PAS. Unabsorbed PAS lasts for 3 days before dissolving into the blood and reabsorbed by the heart (after the 3 days: PAS interacts with blood, causing it to dissolve into it).
 
-When a PAS Node converts PAS to PPI and if it doesn't have enough storage to hold more PAS, the other PAS that could've been absorbed will be unabsorbed until conversion is finished.
+Unabsorbed PAS isn't a bad thing: PASO can theoretically produce limitless amounts of PAS but PAS production requires energy, the PASO can reuse unabsorbed PAS to save energy.
 
-Now, to actually get PPI, you need to make your PASO produce PAS. A detached soul can do this by just doing it, like how you just move an arm; not describable, must be experienced. When PAS gets to a PAS Node, the detached soul can feel it in that area. Again, the feeling isn't describable; however the feeling is neutral, not painful or pleasurable.
+Genetics also plays a role in PASN absorption speed and as you might have guessed: PASN absorption is trainable. The average PASN absorption speed is 8 PAS/s.
 
-To train your PASO and PAS Node (because those are the only 2 that can be trained) you need PAS. Once you get enough PAS, you can use it increase:
+##### PPI Training
 
-For PASO:
-- PAS production.
-- PAS speed.
+Now, let's talk about how detached souls can train. Detached souls can only train PASO and PASN because PAS itself isn't exactly trainable.
 
-For PAS Node:
+Detached souls can train these properties of PASO and PASN, they are:
+
+*For PASO*:
+- PAS production rate.
+- PAS quality (PAS speed).
+
+*For PASN*:
 - Storage.
 - Absorption speed.
 - PAS conversion speed.
 
-It's like buying equipment with money, you give money (PAS) to buy the equipment (the improvements). Now you need to do it before a PAS Node reaches 12 kPAS otherwise that gets converted to 1 PPI. The "trade" is also not describable, must be felt. You just have to know to do it, which detached souls know how to do.
+To train these properties: detached souls need PAS (absorbed by a PASN) to increase each of the properties. Think of it like trading, PAS is the currency and the properties are the products, you exchange the currency (PAS) for the product (trainable properties of PASO and PASN).
 
-Here is a table on how much PAS requires for each improvement for reference:
+Again, detached souls can just do this; must be experienced, not describable.
 
-
-| PASO/PAS Node | Improvement | Amount |PAS Required|
-|---------------|-------------|--------|------------|
-|     PASO      |  Production | 1 PAS/s|   50 PAS   |
-|     PASO      |    Speed    | 1 cm/s |   50 PAS   |
-|    PAS Node   |   Storage   | +1 PAS |   50 PAS   |
-|    PAS Node   |  Absorption | 1 PAS/s|   50 PAS   |
-|    PAS Node   |  Conversion |-1 minute| 100 PAS   |
+Here is a table on how much PAS is required for each improvement for reference:
 
 
+| PASO/PASN | Improvement | Amount |PAS Required|
+|-----------|-------------|--------|------------|
+|    PASO   |  Production | 1 PAS/s|   50 PAS   |
+|    PASO   |   Quality   | 1 cm/s |   50 PAS   |
+|    PASN   |   Storage   | +1 PAS |   50 PAS   |
+|    PASN   |  Absorption | 1 PAS/s|   50 PAS   |
+|    PASN   |  Conversion |-1 minute| 100 PAS   |
 
-You can also force PAS conversion in a PAS Node which has >12 kPAS but it will be >1 PPI. PAS Nodes just automatically convert 12 kPAS to PPI. Again, must be felt, not describable.
 
-There is a formula to calculate how much PAS you will gain in a certain amount of time (when PAS reaches the PAS Node) for one PAS Node. The formula is:
+##### Formula (PPI)
+
+There is a formula to calculate how much PAS a detached soul will gain in a certain amount of time (when PAS reaches the PASN) for one PASN. The formula is:
 
 $P = min(A, R) \times T$
 
-P (PAS gained) means the total amount of PAS gained, measured in PAS. A (Absorption) means how much a PAS Node absorbs, measured in PAS/s. R (pRoduction) means how much PAS is produced by PASO, measured in PAS/s. T meas the specified time, measured in seconds.
+P (PAS gained) means the total amount of PAS gained, measured in PAS. A (Absorption) means how much a PASN absorbs per second, measured in PAS/s. R (pRoduction rate) means how much PAS is produced by PASO per second, measured in PAS/s. T meas the specified time, measured in seconds.
 
-The min() function is there because if A > R, P = R because A would be the capacity and R will be the actual amount. If A < R, P = A because PAS exceeds the capacity of the PAS Node.
+The min() function is there because if A > R then: P = R because if a PASN can absorb more than the PAS there then: it will just absorb the PAS there since A doesn't magically create more PAS. If A < R then: P = A because the PASN cannot absorb the full PAS.
 
-Let's do some examples
+Let's do some examples:
 
 *Example #1: A > R*
 
@@ -1108,7 +1122,7 @@ Plug in A as 20 PAS/s, R as 10 PAS/s and T as 240s (4 minutes).
 > min outputs R. R = 10.
 > 10 × 240 = 2,400
 
-**Answer:** You get a total of 2,400 PAS or 2.4 kPAS in 4 minutes. 10 PAS every second.
+**Answer:** You get a total of 2,400 PAS or 2.4 kPAS in 4 minutes, 10 PAS every second.
 
 *Example #2: A < R*
 
@@ -1117,7 +1131,7 @@ Plug in A as 8 PAS/s, R as 30 PAS/s and T as 10s.
 > min outputs A. A = 8.
 > 8 × 10 = 80.
 
-**Answer:** You get a total of 80 PAS in 10 seconds. 8 PAS every second.
+**Answer:** You get a total of 80 PAS in 10 seconds, 8 PAS every second.
 
 ### Others
 
