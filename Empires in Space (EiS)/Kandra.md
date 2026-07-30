@@ -1167,7 +1167,7 @@ The number of Orbital Arkensis also affects how an element or Arkensis element b
 
 Modified Elements are written as:
 
-> [Element Symbol]${}^{\text{\textsuperscript{A[number of Orbital Arkensis]}}}$
+> $\text{[Element Symbol]}^{\textsuperscript{A[number of Orbital Arkensis]}}$
 
 So, for example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
 
