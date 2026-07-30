@@ -42,7 +42,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formula (PPI)](#formula-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Multiple Invading Souls](#multiple-invading-souls)  
-├─ [Afterlife Special Status Substance](afterlife-special-status-substance)  
+├─ [Afterlife Special Status Substance](#afterlife-special-status-substance)  
 │&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
 └─ [Society](#society)  
 
