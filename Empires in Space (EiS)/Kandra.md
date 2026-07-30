@@ -1186,7 +1186,7 @@ Arkensis Elements and modified elements usually interact with eachother (keyword
 
 Yes, the soul itself; attached souls, detached souls and pseudo-souls; are classified as an ASSS. 
 
-Souls are mostly made up of modified elements with it having an Arkensis Element called "Soulus" ( ${}^{A}$So).
+Souls are mostly made up of modified elements with it having an Arkensis Element called "Soulus" (ᴬSo).
 
 Soulus lets souls have all the interesting properties it has, but you see: Souls are special even in ASSS as it is recognized by Kandra to be unkillable (except for Pseudo-souls) and thus: cannot be killed.
 
@@ -1194,7 +1194,7 @@ Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point
 
 - **Tuvlums**:
 
-Tuvlums are made of an Arkensis Element called "Pontolum" (${}^{A}$Pt).
+Tuvlums are made of an Arkensis Element called "Pontolum" (ᴬPt).
 
 Pontolum, just like Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 620 °C, Boiling/Condensing Point: 1,760 °C).
 
