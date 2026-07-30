@@ -154,7 +154,7 @@ For a soul to go to the afterlife (aka "die"), it needs its soulspace to be dest
 
 Tuvlums are metaphysical organs (or physical organs that exists within the soulspace) that looks tube-like or pipe-like in structure. A tuvlum's job is to maintain the soulspace/keep the soulspace existing. They are connected to the host's soul's organs and the soulspace itself (inside the soulspace).
 
-Now you might be asking: if the soul takes up all the space inside the soulspace AND tuvlums exist inside the soulspace aswell, then how do tuvlums exist in the soulspace if the soul takes all the space? That is because tuvlums are **"Afterlife Special Status Substance (ASSS)"**. ASSS are substances in the afterlife that work in exotic ways (see [Afterlife Special Status Substance (ASSS)](#afterlife-special-status-substance-asss) to learn more). Tuvlums phase through all the matter between the organ and soulspace.
+Now you might be asking: if the soul takes up all the space inside the soulspace AND tuvlums exist inside the soulspace aswell, then how do tuvlums exist in the soulspace if the soul takes all the space? That is because tuvlums are **"Afterlife Special Status Substance (ASSS)"**. ASSS are substances in the afterlife that work in exotic ways (see [Afterlife Special Status Substance](#afterlife-special-status-substance) to learn more). Tuvlums phase through all the matter between the organ and soulspace.
 
 Tuvlums are connected to the soul's version of the organs. Those organs give some of its energy to their tuvlum to keep it alive and functioning. For humans (and most species): they have 3 tuvlums, each connected to the heart, lungs, and the brain.
 
@@ -1141,6 +1141,42 @@ When an invading soul is out of the soulspace, they return to their original siz
 
 If there are multiple souls and one invading souls get kicked out/leaves: the other souls inside the soulspace slightly increase in size and the kicked out/left soul returns to their original size.
 
+## Afterlife Special Status Substance
+
+Afterlife Special Status Substance (ASSS); as the name states; are substances in the afterlife semi-world which behaves exotically; different from how normal matter behaves.
+
+Normal physics does not properly explain how each ASSS works: so a new branch if physics called "Arkensis Physics" got invented (only existing in the afterlife).
+
+Arkensis Physics tries to explain ASSS as much as possible but similar to Quantum Physics, the "how" and "why" are not properly explained.
+
+You might be wondering: why is it named "Arkensis Physics" and not "Afterlife Special Status Substance (ASSS) Physics"? What even is "Arkensis"?
+
+Arkensis are substances that are located inside atoms, specifically located in either the nucleus of an atom or the atomic orbit that affects the atom in an exotic way. Arkensis are fundamental substances; not made of anything else other than itself.
+
+Arkensis do not look like perfect round spheres, their shape changes every nanosecond. Arkensis's shape is better described as changing spheroids; they constantly change, having indents and bulges at random spots but it has a consistent sphere shape. Arkensis's size is the size of a proton.
+
+Arkensis can be divided into two types based on its location: "Nuclear Arkensis" and "Orbital Arkensis".
+
+Nuclear Arkensis are located inside the nucleus of an atom and Orbital Arkensis are located in the atom's orbit (where the electrons lie).
+
+Arkensis does not have any charge like protons and electrons.
+
+Arkensis can do two things: either modify a function of an element (like hydrogen, helium, oxygen, gold, etc) in an exotic way while having most of the element's properties or completely turn it to a new element, called an **"Arkensis Element"**. You can actually know if an Arkensis will only modify an element or make a new one based on how many Nuclear Arkensis there are: if the number of protons and Nuclear Arkensis are the same, then: it will only modify the element, if the number of Nuclear Arkensis and protons are **not** the same; i.e there are less or more Nuclear Arkensis; then: it will be an Arkensis Element.
+
+The number of Orbital Arkensis also affects how an element or Arkensis element behaves, think of them as adding more behaviors mixed with the already exotic behaviors.
+
+Modified Elements are written as:
+
+> $[Element Symbol]^{A[number of Orbital Arkensis]}$
+
+So, for example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
+
+Arkensis Elements are written as:
+
+> ${}^{A}[Arkensis Element Symbol (looks similar to normal element symbols]$
+
+PCA cells, E-SSPCAS and PAS are ASSS.
+
 ## Society
 
 When people die and get sent to the afterlife, they carry their cultural norms with them.
@@ -1200,15 +1236,3 @@ APAPO brought massive reforms to how afterlife society works. It made the rules 
 APAPO has a military unit called the "Gamma Force". It is one of the most elite military forces, meant to reinforce APAPO's established rules. The Gamma Force belongs to APAPO, not a single nation; the soldiers are from different nations but the Gamma Force belongs to APAPO. This is because if the Gamma Force was only one nation's, they could basically do whatever they wanted, which APAPO is designed to not let happen.
 
 The Gamma Force monitors every war to ensure all rules are followed.
-
-## Afterlife Special Status Substance (ASSS)
-
-Afterlife Special Status Substance (ASSS) as the name states, are special substance in the afterlife semi-world that acts in exotic ways. Different from normal matter.
-
-They have rules in what they do but not always exactly how or why.
-
-Every ASSS has their own unique rules (how they work).
-
-Since ASSS is exotic, they really don't have have much explanation on how or why they work.
-
-PCA cells, E-SSPCAS and PAS are ASSS.
