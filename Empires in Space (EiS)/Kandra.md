@@ -1174,7 +1174,7 @@ For example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
 
 Arkensis Elements are written as:
 
-> ${}^{A(number\ of\ Orbital\ Arkensis)}$[Arkensis Element Symbol (looks similar to normal element symbols]
+> ${}^{A(number\ of\ Orbital\ Arkensis)}$[Arkensis Element Symbol (looks similar to normal element symbols)]
 
 Most Arkensis Elements don't interact with normal matter but most modified elements do interact with normal matter. "Most" is a keyword here because this may not always be true due to Arkensis's unpredictable nature.
 
@@ -1190,13 +1190,13 @@ Souls are mostly made up of modified elements with it having an Arkensis Element
 
 Soulus lets souls have all the interesting properties it has, but you see: Souls are special even in ASSS as it is recognized by Kandra to be unkillable (except for Pseudo-souls) and thus: cannot be killed.
 
-Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 683 °C, Boiling/Condensing Point: 2,235 °C). In souls: they come in small particles inside blood cells and skin cells.
+Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 892 °C, Boiling/Condensing Point: 2,235 °C). In souls: they come in small particles inside blood cells and skin cells.
 
 - **Tuvlums**:
 
 Tuvlums are made of an Arkensis Element called "Pontolum" (ᴬPt).
 
-Pontolum, just like Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 620 °C, Boiling/Condensing Point: 1,760 °C).
+Pontolum, just like Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 1,176 °C, Boiling/Condensing Point: 2,508 °C).
 
 Pontolum is very flexible and stretchable. It interestingly doesn't interact with modified elements but does interact with the soulspace.
 
