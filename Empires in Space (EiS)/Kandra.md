@@ -42,8 +42,9 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formula (PPI)](#formula-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Multiple Invading Souls](#multiple-invading-souls)  
-├─ [Society](#society)  
-└─ [Afterlife Special Status Substance (ASSS)](#afterlife-special-status-substance-asss)  
+├─ [Afterlife Special Status Substance](afterlife-special-status-substance)  
+│&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
+└─ [Society](#society)  
 
 # Introduction
 
@@ -1169,70 +1170,36 @@ Modified Elements are written as:
 
 > $\text{[Element Symbol]}^{A[number\ of\ Orbital\ Arkensis]}$
 
-So, for example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
+For example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
 
 Arkensis Elements are written as:
 
-> ${}^{A}$[Arkensis Element Symbol (looks similar to normal element symbols]
+> ${}^{A(number\ of\ Orbital\ Arkensis)}$[Arkensis Element Symbol (looks similar to normal element symbols]
 
-PCA cells, E-SSPCAS and PAS are ASSS.
+Most Arkensis Elements don't interact with normal matter but most modified elements do interact with normal matter. "Most" is a keyword here because this may not always be true due to Arkensis's unpredictable nature.
+
+Arkensis Elements and modified elements usually interact with eachother (keyword "usually")
+
+### List Of ASSS
+
+- **Souls**:
+
+Yes, the soul itself; attached souls, detached souls and pseudo-souls; are classified as an ASSS. 
+
+Souls are mostly made up of modified elements with it having an Arkensis Element called "Soulus" ( ${}^{A}$So).
+
+Soulus lets souls have all the interesting properties it has, but you see: Souls are special even in ASSS as it is recognized by Kandra to be unkillable (except for Pseudo-souls) and thus: cannot be killed.
+
+Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 683 °C, Boiling/Condensing Point: 2,235 °C). In souls: they come in small particles inside blood cells and skin cells.
+
+- **Tuvlums**:
+
+Tuvlums are made of an Arkensis Element called "Pontolum" (${}^{A}$Pt).
+
+Pontolum, just like Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point: 620 °C, Boiling/Condensing Point: 1,760 °C).
+
+Pontolum is very flexible and stretchable. It interestingly doesn't interact with modified elements but does interact with the soulspace.
+
+Pontolum usually has 12 Orbital Arkensis but the end of Tuvlums which are connected to an organ has 23 Orbital Arkensis to each Pontolum which strangely does make Pontolum interact with the modified elements. The reason for why the end has 23 Orbital Arkensis Pontolums is to be connected with the organ to get energy, as for why 23 Orbital Arkensis make Pontolum interact with modified elements is unclear.
 
 ## Society
-
-When people die and get sent to the afterlife, they carry their cultural norms with them.
-
-This has resulted in the Afterlife having different nations, exactly like how the inlife semi-world has different nations.
-
-The afterlife also advanced much faster than the inlife semi-world since no one could die here. The afterlife achieved intergalactic travel way faster than the inlife. A lot of mathematical and scientific discoveries and inventions were found/made earlier in the afterlife by different people.
-
-All the documentation about the afterlife was done by the people in the afterlife since inlife people have no idea about the afterlife semi-world or if there even is a semi-world.
-
-Ironically, the word "inlife" is used by the people in the afterlife to separate the two Semi-worlds. Living organisms have no idea they live in the "inlife".
-
-However, I will use the inlife as the setting outside the "Afterlife And Souls" section for better understandability.
-
-The afterlife mainly uses the **"Intergalactic Calendar"**. The Intergalactic Calendar includes 10 months, each having 30 days, divided into 2 "Sub-months". A sub-month takes 15 days, a week takes 10 days, A day takes 30 hours, an hour takes 60 minutes, a minute takes 60 seconds. However most planets use local calendars designed for their planet's rotation and revolution. Intergalactic Calendar's system is most commonly used in intergalactic matter, as it is intended.
-
-Different languages have different names for the different months and sub-months and days in a week. English's month name is quite similar to the Gregorian calendar with the 9th month being called "September-October" and the 10th month month being called "November-December". The 1st sub-month of the 9th month is called September, the 2nd sub-month is called "October". The 1st sub-month of the 10th month is "November", the 2nd sub-month is called "December".
-
-There is also the **"Intergalactic Time"** which focuses on there being 30 hours in one day. You write Intergalactic Time like:
-
-> [hour]:[minute] IT
-
-So basically like military time with IT at the end.
-
-The inlife also uses the Intergalactic Calendar and Intergalactic Time for intergalactic matters,  however they made that completely on their own. Inlife's Intergalactic Calendar and Time being exactly the same with Afterlife's Intergalactic Calendar and Time is a coincidence.
-
-Everyone goes to the afterlife, no matter how good someone is or evil someone is, they all go to the same place. The problem is exactly that, everyone goes to the exact same afterlife?
-
-How do they deal with criminals who just entered the afterlife? For that, they made multiple rehabilitation centers to rehabilitate them. These rehabilitation are meant to rehabilitate even the worst people. If normal methods aren't enough to rehabilitate them, then they'll use more biological processes to rehabilitate them. These rehabilitation centers are in every single country in the afterlife.
-
-But how do criminals who just entered the afterlife go the rehabilitation centers? Is it voluntary? Not necessarily. When a criminal dies, they get teleported to the closest rehabilitation center when they appear in the afterlife. When a soul goes to the afterlife, they get teleported to the afterlife's counterpart of that inlife place as previously stated. That's how the closest rehabilitation center is found.
-
-Actually, every soul when they first enter the afterlife gets transported to a rehabilitation center. The rehabilitation center first checks if the soul is in need of rehab, if they aren't in need of rehab, they'll be set free; if they are in need of rehab, they will be submitted. So practically, a soul who just got teleported to the afterlife will enter a rehab center.
-
-The soul becomes the citizen of the rehabilitation center's country they first appear in. If the rehabilitation center is in afterlife's Norway, they become the citizen of Norway.
-
-The rehab center also explains the basics to new souls before releasing/submitting them.
-
-But wait, how does this even happen? How do people get teleported to rehab centers? This happens by countries using kandra force manipulation (we'll get to this later).
-
-In the early stages of the afterlife, there were wars. The problem is, souls can't die. So how did wars happen?
-
-In very early stages, there weren't any clean cut rules. The most effective way was to capture their enemies and torture them until they surrender.
-
-But as countries developed, a rule was set on how to do wars and battles. The rule for winning a battle was capturing all the soldiers or most of them until one side surrendered. The rule for winning a war was when the opposing side surrenders or all their resources run out.
-
-The captured soldiers were then excepted to be released after the war and return to their serving countries.
-
-In the afterlife, there was a major war that changed afterlife societies forever, the **"Great Afterlife War"**. The Great Afterlife War is comparable to World War 1 and World War 2, with it having more impact than the both of them. This happened around 1800s.
-
-There were two sides to this war, the "Xilian Front" (Xilian being pronounced as /ɕi.li.ɛn/) and the "Alvekis Front" (Alvekis being pronounced as /æl.vɛ.kis/), named after the major countries in each side. The Alvekis Front won the war but it raised a massive question, should the afterlife keep going like this? The afterlife—in many mythology—is supposed to be peaceful. It is supposed to be the final resting place after death, where people should be free of worry and pain. The Great Afterlife War revealed that this afterlife was anything but that.
-
-But should the afterlife keep going like this? Almost every country's answer was no. From then, the **"Afterlife Peace And Prosperity Organization" (APAPO)** was formed, consisting of almost every nation. Basically the UN if it actually did its job and better.
-
-APAPO brought massive reforms to how afterlife society works. It made the rules of warfare strict and cause the least amount of suffering as possible.
-
-APAPO has a military unit called the "Gamma Force". It is one of the most elite military forces, meant to reinforce APAPO's established rules. The Gamma Force belongs to APAPO, not a single nation; the soldiers are from different nations but the Gamma Force belongs to APAPO. This is because if the Gamma Force was only one nation's, they could basically do whatever they wanted, which APAPO is designed to not let happen.
-
-The Gamma Force monitors every war to ensure all rules are followed.

@@ -2,7 +2,7 @@ Made this to sort of manage Kandra's Tables of Content because GFM (Github Flavo
 
 -------------------------------------------------------
 
-The Afterlife And Souls  
+The Afterlife
 ├─ The Afterlife And Inlife
 ├─ The Soul And Soulspace  
 │  ├─ How An Organism Dies
@@ -35,5 +35,6 @@ The Afterlife And Souls
 │  │     ├─ PPI Training
 │  │     └─ Formula (PPI)
 │  └─ Multiple Invading Souls
-├─ Society
-└─ Afterlife Special Status Substance (ASSS)
+├─ Afterlife Special Status Substance
+│  └─ List Of ASSS
+└─ Society
