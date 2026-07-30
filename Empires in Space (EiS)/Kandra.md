@@ -1167,13 +1167,13 @@ The number of Orbital Arkensis also affects how an element or Arkensis element b
 
 Modified Elements are written as:
 
-> $[Element Symbol]^{A[number of Orbital Arkensis]}$
+> $ \text{[Element Symbol]}^{A \text{[number of Orbital Arkensis]}}$
 
 So, for example: $Au^{A10}$ is Arkensis gold with ten Orbital Arkensis.
 
 Arkensis Elements are written as:
 
-> ${}^{A}[Arkensis Element Symbol (looks similar to normal element symbols]$
+> ${}^{A} \text{[Arkensis Element Symbol (looks similar to normal element symbols]}$
 
 PCA cells, E-SSPCAS and PAS are ASSS.
 
