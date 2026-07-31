@@ -37,4 +37,12 @@ The Afterlife
 │  └─ Multiple Invading Souls
 ├─ Afterlife Special Status Substance
 │  └─ List Of ASSS
+│     ├─ Souls
+│     ├─ Tuvlums
+│     ├─ Syovos
+│     ├─ E-SSPCAS
+│     ├─ PCA Cells
+│     ├─ PAS
+│     ├─ PASN
+│     └─ PPI Slash/Shield
 └─ Society
