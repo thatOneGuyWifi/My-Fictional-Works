@@ -53,6 +53,14 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PASN](#pasn-1)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [PPI Slash/Shield](#ppi-slashshield)  
 └─ [Society](#society)  
+&nbsp;&nbsp;&nbsp;&nbsp;└─ [Rismatre](#rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [About Rismatre](#about-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Asutra And Yiutra](#asutra-and-yiutra)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Punishment System](#punishment-system)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Gods/Goddesses](#godsgoddesses)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Cultural Practice](#cultural-practice)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Devils](#devils)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Vagsan](#vagsan)  
 
 # Introduction
 
@@ -1274,3 +1282,114 @@ PPI Slashes and Shields are both made of an Arkensis Element called "Varmitos" (
 Varmitos usually looks purple and usually is a solid (Freezing/Melting Point: 920 °C, Boiling/Condensing Point: 1,947 °C). It is sharp and durable, making it a good fit for PPI slashes and shields.
 
 ## Society
+
+When people die and go to the afterlife: they also bring their culture and norms with them.
+
+Since everything on earth that died went to Earth's version of the afterlife, early dead humans had to go up against literal dinosaurs. Thankfully, the dinosaurs and other creatures are much less aggressive as they cannot feel hunger and therefore: has no need to hunt.
+
+The early humans who died didn't properly understand the place or why they couldn't kill anything or be killed, so; like early humans in the inlife; they tried to come up with an explanation, that explanation being the religion **"Rismatre"**.
+
+### Rismatre
+
+#### About Rismatre
+
+Rismatre developed in the afterlife's Egypt, around the Nile river, replacing Egyptian mythology. The language of ancient afterlife Egypt is called **"Yatmav"** so all major books and writings in Rismatre is in Yatmav.
+
+##### Asutra And Yiutra
+
+In Rismatre; much like most religions; has two worlds where the living and dead lives, **"Asutra"** (the inlife) and **"Yiutra"** (the afterlife).
+
+Since early humans have a clear memory of them dying (and how and why they died): they were able to accurately guess they were in the Yiutra (the afterlife) and they were born in and once lived in Asutra (the inlife).
+
+Since early humans knew they were dead and in the afterlife: concepts like heaven and hell never developed as everyone who died came to the same space. Rismatris (people who believe in Rismatre. Singular: Rismatri) believes Asutra and Yiutra are one in the same, the only difference being in one: the living live and in the other: the dead live (They'd be mostly right).
+
+##### Punishment System
+
+Rismatris still believed the evil and sinful should be punished, so they made it their job to do punishments: enter **"Savak"**. Savak is basically prison/jail. People in Savak are sent in cells and isolated them from the outside world, but additionally they would be punished with the crimes they committed; for example: if they stole something from someone: a possession of them is given to the person they stole from. However for crimes that cannot be fully done to them then: they would just be isolated.
+
+Savaks are mostly made up of mud bricks and looked like big cubes; usually being 2—3 stories tall. People in Savaks usually needed to share cells with people who made crimes somewhat equal in the crime they committed. People wouldn't be sentenced to a Savak forever though as Rismatris believes people can always change and punishment can sometimes be triggers of change.
+
+But the people needed a system to find out which people go to Savaks and the type of punishment they'd receive: so they made something called **"Panre"**, basically their version of courts.
+
+When convicted of a crime: the accused and accuser would go to a Panre to settle things. Back then, lawyers didn't exist so the accused and accuser had to defend themselves entirely. They would have to present evidence to the **"Pangas"** (Judge) and the judge would have to decide if the accused is innocent or guilty and if guilty: the punishment. Pangas are usually high-level priests who has little-to-no relation to the accused or accuser to prevent bias.
+
+There are two types of punishments: "Unis Kaman" (criminal punishment) and "Agas Kaman" (Non-criminal punishment). Unis Kaman is where people go to Savaks, Agas Kaman are acts of sin that are not severe enough to be sent to a Savak, the Pangas then gives any punishment to the accused that doesn't involve going to a Savak or being worse than being in a Savak.
+
+##### Gods/Goddesses
+
+Like most religions, Rismatre has gods, a lot of gods, they are polytheist. Here are the major gods of Rismatre:
+- Vantra: The god of Asutra. Vantra is seen with black curly hair, white skin, red eyes and an athletic physique. He is usually described as a charismatic and confident god while still being kind to people. He is kind to a fault, being able to forgive even the worst of sinners. Vantra really doesn't get angry but if he does get angry, then: it is said he becomes the most dangerous person.
+- Sonala: The goddess of Yiutra. Sonala is seen with long black hair, green eyes, white skin and a mature and fertile body. She is described to have a motherly personality, deeply caring for the other gods and the beings in Asutra and Yiutra. Vantra and Sonala are married to eachother. When Vantra gets angry, Sonala is the only one who can calm him down. Sonala also has to warn Vantra on the people he is kind too as people might take advantage of his kindness.
+- Mimimo: The goddess of life. Mimimo is described to have short green hair that is slightly messy at the ends, blue eyes, white; slightly tanned; skin and a cute and feminine body. She is described to have a teasing, playful and mischievous personality. She is known to be a prankster and sometimes cause pranks that causes whole disasters in some stories (she doesn't mean the disasters in any of them). Despite that, she is known to be quite gullible and easily trusting.
+- Abaras: The god of death. Abaras is seen with short black hair, white skin, dark brown eyes and an lean and muscular body. He is described having a calm and serious personality. When someone dies, he is the one who brings them to Yiutra. He is married to Mimimo. Abaras sometimes have to scold Mimimo for some of the mischief she causes, but despite that Abaras loves Mimimo very much (the same is said for Mimimo) and cares for her deeply. He also cares for the beings in Asutra and Yiutra aswell.
+- Pyaris: The goddess of water. Pyaris is seen with white flowing long hair, blue eyes, white skin and a feminine and mature body. She is described having a calm and cool personality. She can be confident and charismatic. In many stories: she is depicted as bringing peace and calm to any heated situation.
+- Heires: The god of fire. Heires is seen with red messy hair, yellow eyes, tan skin and a soldier physique. He is described to be strict and easily angered but inside he cares for the gods and the beings in Asutra and Yiutra (that is why he is strict and angered). Heires is however able of cold logic and will not spare anyone he deems as an "enemy". He will do anything to win. He is married to Pyaris.
+- Ipis: The god of the sky. Ipis is seen with short blue hair, yellow eyes, tan skin and a muscular physique. He is described having confident and somewhat arrogant personalities. In many stores: sometimes his arrogance causes problems. He thinks he is the best god out there, but despite this he does care for others. It is described when he gets sad: the sky darkens; the rain being his "tears". When he gets angry: a thunderstorm happens. He is married to the goddess of plants, Keria.
+- Onaras: The god of the sun. Onaras is seen with long yellow hair, orange eyes, tan skin and a athletic body. He is described having a charismatic personality and having an hot temper. In many stories: he punishes sinner who made some horrible sins but also to lead sinners to the light; he is seen as both the punisher and savior. His smile is described to be bright enough to light up an entire city.
+- Janaie: The goddess of the moon. Janaie is seen with long wavy gray hair, brown eyes, white skin and a mature body. She is described having a kind and caring personality. She is seen as a motherly figure, she deeply cares about others. She finds the people of Asutra and Yiutra fascinating with all their inventions they made and way of live. In many stories: she helps lost people find their way in the night. She is married to Onaras.
+
+There are other gods but these are the major ones, also being worshiped by most Rismatris.
+
+Gods/Goddesses have angels who work under them, they share some of the power as their respective god. Their purpose is so spread their god's words and teachings to others. In many stories: angels are seen saving people.
+
+Rismatris either worship one god or multiple gods (most gods, including all the major gods doesn't mind a devotee worshiping other gods).
+
+Worship in Rismatre is not something seen as mandatory but rather option. Rismatris believes the gods are powerful and doesn't necessarily need their worship. Worship instead is seen as an act of expressing gratitude towards the gods. A Rismatri can never worship any god and that still would be considered fine.
+
+Despite worship being optional, high-tier priest and priestess has a lot of power and influence in ancient afterlife Egypt. Ancient afterlife Egypt had a democratic-ish government and to be the king of ancient afterlife Egypt, you needed to be a priest.
+
+##### Cultural Practice
+
+Unlike in abhramic religions for to be a priest/nun who can't get a partner and must be fully devoted to god, in Rismatre: it is actually encouraged for priests and priestesses to have partners. In ancient afterlife Egypt a priest/priestess having multiple partners were seen with higher status as in Rismatre: polygamy is allowed, so an average high-tier priest/priestess has 3—6 partners OR is a partner to another priest/priestess.
+
+In Rismatre: women are seen as equal to men and had no women-specific restrictions. Women in Rismatre are as free as men and could do whatever they wanted as long as they didn't commit any sin/crime. In many stories women could be seen in powerful roles or in traditional roles.
+
+Similar to Christianity, There is something called the "10 Major Virtues" (Nos Gunus Opart) and "10 Major Sins" (Nos Gunus Kasman). The 10 Major Virtues are:
+- Kindness.
+- Charity.
+- Faith in god(s).
+- Diligence.
+- Perseverance.
+- Patience.
+- Integrity.
+- Love.
+- Self-control.
+- Humility.
+- Compassion
+
+And Here are the 10 Major Sins:
+- Pride.
+- Envy.
+- Wrath.
+- Greed.
+- Sloth.
+- Gluttony.
+- Lust.
+- Manipulation.
+- Deceit.
+- Corrupting others.
+
+##### Devils
+
+Just like there are gods, there are also devils in Rismatre. Devils are the opposites of gods, gods are seen as good and devils are seen as evil. Devils; like gods; control an aspect of reality in Rismatre, most of them being seen as evil by Rismatre. Just like there are major gods, there are major devils. Here are the major devils:
+- Nastur: The devil of fire. Nastur has long red hair, black eyes, tan skin and an muscular physique. He is described having an arrogant and boastful personality, being easily angered. In many stories: Nastur commits a bunch of arson.
+- Enkas: The devil of adultery. Enkas has long black hair pink eyes, white skin and a curvy and voluptuous body. She is described having a flirty and manipulative personality. She mainly uses her body to manipulate desperate men. In many stories: she corrupts men and women to cheat on their partner(s).
+- Kansin: The devil of despair. Kansin has black short hair, yellow eyes, black skin and a athletic body. He is described having an mocking and dominating personalities. Kansin derives joy from seeing others in despair; often being called the first sadist. In many stories: he brings despair to people.
+- Anul: The devil of pain. Anul has yellow short hair, red eyes, tan skin and a bulky muscular body. He is described having a cold and indifferent personalities. Anul is highly egotistical, seeing himself as better than the people in Asutra and Yiutra and even seeing himself better than most gods and devils. In many stories: he inflicts pain to others to past the time.
+- Pasjin: The devil of envy. Pasjin has long green hair, red eyes, white skin and a feminine body. She is described as having an hateful and cold personality. She is known to be very hateful for seemingly no reason other than to just hate. Pasjin is very envious herself, hating the gods and devils who live better than her. In many stories: her vicinity can spike up sudden jealousy.
+
+A god and devil can control the same thing, it's just the one represents the good side and the other represent the evil side.
+
+The opposite to angels are demons, demons work under devils, they also share some power as their respective devil. Their purpose is to spread evil, misfortune and despair to others. In many stories: devils corrupt people, bring them despair, misfortune, etc.
+
+##### Vagsan
+
+Unlike abhramic religions, there isn't a single book that tells you all about Rismatre, instead: there is an official collection of books called the **"Vagsan"** which tells you all about Rismatre. Here are all the books:
+- Marutres: A book listing most of the sins and good acts in Rismatre.
+- Kamaras: A book detailing on all the gods and devils in Rismatre.
+- Danil: A collection of stories in Rismatre.
+- Yuni: A collection of songs in Rismatre used for worship and fun.
+- Tarbas: A collection of food recipes in Rismatre used for worship and fun.
+- Fuss: A guide for how to be a priests/priestess and what to do.
+- Janbak: A book detailing the justice and punishment system of Rismatre.
+- Inmal: A book detailing the political landscape of ancient afterlife Egypt.

@@ -46,3 +46,11 @@ The Afterlife
 │     ├─ PASN
 │     └─ PPI Slash/Shield
 └─ Society
+   └─ Rismatre
+       └─ About Rismatre
+         ├─ Asutra And Yiutra
+         ├─ Punishment System
+         ├─ Gods/Goddesses
+         ├─ Cultural Practices
+         ├─ Devils
+         └─ Vagsan
