@@ -3,54 +3,22 @@ Made this to sort of manage Kandra's Tables of Content because GFM (Github Flavo
 -------------------------------------------------------
 
 The Afterlife
-├─ The Afterlife And Inlife
 ├─ The Soul And Soulspace  
 │  ├─ How An Organism Dies
 │  ├─ The Syovos
 │  ├─ Attached Souls And Detached Souls
-│  ├─ Life Birth And Soul Qualifications
-│  │  └─ The Clone Issue
-│  └─ Edge Cases
+│  └─ Life Birth And Soul Qualifications
 ├─ Willpower (wp)
 ├─ Interacting With The Inlife
 │  └─ How To Train Your IIP  
-│     ├─ IIP Expander Training
-│     ├─ IIP Expansion (IIPE)
-│     ├─ SIIPC
-│     ├─ Inlife Contact Expansion (ICE)
-│     │  ├─ For tIIP
-│     │  ├─ For aIIP
-│     │  └─ For vIIP
-│     └─ Formulas (IIP)
 ├─ Possession
 │  ├─ E-SSPCAS
 │  ├─ I-SSPCAS
-│  │  ├─ Defence PCA Cells
-│  │  ├─ Offense PCA Cells
-│  │  └─ Others (I-SSPCAS)
 │  ├─ Possession Power Index (PPI)
 │  │  └─ How To Gain PPI And Train It
-│  │     ├─ PAS
-│  │     ├─ PASN
-│  │     ├─ PPI Training
-│  │     └─ Formula (PPI)
 │  └─ Multiple Invading Souls
 ├─ Afterlife Special Status Substance
 │  └─ List Of ASSS
-│     ├─ Souls
-│     ├─ Tuvlums
-│     ├─ Syovos
-│     ├─ E-SSPCAS
-│     ├─ PCA Cells
-│     ├─ PAS
-│     ├─ PASN
-│     └─ PPI Slash/Shield
 └─ Society
    └─ Rismatre
        └─ About Rismatre
-         ├─ Asutra And Yiutra
-         ├─ Punishment System
-         ├─ Gods/Goddesses
-         ├─ Cultural Practices
-         ├─ Devils
-         └─ Vagsan

@@ -10,57 +10,25 @@
 [Origins And Discovery](#origins-and-discovery)
 
 [The Afterlife](#the-afterlife)  
-├─ [The Afterlife And Inlife](#the-afterlife-and-inlife)  
 ├─ [The Soul And Soulspace](#the-soul-and-soulspace)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─ [How An Organism Dies](#how-an-organism-dies)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Syovos](#the-syovos)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─ [Attached Souls And Detached Souls](#attached-souls-and-detached-souls)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Life Birth And Soul Qualifications](#life-birth-and-soul-qualifications)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Clone Issue](#the-clone-issue)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Edge Cases](#edge-cases)  
+│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Life Birth And Soul Qualifications](#life-birth-and-soul-qualifications)  
 ├─ [Willpower (wp)](#willpower-wp)  
 ├─ [Interacting With The Inlife](#interacting-with-the-inlife)  
 │&nbsp;&nbsp;&nbsp;└─ [How To Train Your IIP](#how-to-train-your-iip)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [IIP Expander Training](#iip-expander-training)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [IIP Expansion (IIPE)](#iip-expansion-iipe)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [SIIPC](#siipc)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Inlife Contact Expansion (ICE)](#inlife-contact-expansion-ice)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For tIIP](#for-tiip)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For aIIP](#for-aiip)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [For vIIP](#for-viip)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formulas (IIP)](#formulas-iip)  
 ├─ [Possession](#possession)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Defence PCA Cells](#defence-pca-cells)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Offense PCA Cells](#offense-pca-cells)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Others (I-SSPCAS)](#others-i-sspcas)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PAS](#pas)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PASN](#pasn)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PPI Training](#ppi-training)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Formula (PPI)](#formula-ppi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Multiple Invading Souls](#multiple-invading-souls)  
 ├─ [Afterlife Special Status Substance](#afterlife-special-status-substance)  
 │&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Souls](#souls)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tuvlums](#tuvlums)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Syovos](#syovos)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas-1)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PCA Cells](#pca-cells)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PAS](#pas-1)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [PASN](#pasn-1)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [PPI Slash/Shield](#ppi-slashshield)  
 └─ [Society](#society)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Rismatre](#rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Rismatre](#rismatre)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [About Rismatre](#about-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Asutra And Yiutra](#asutra-and-yiutra)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Punishment System](#punishment-system)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Gods/Goddesses](#godsgoddesses)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Cultural Practice](#cultural-practice)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Devils](#devils)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Vagsan](#vagsan)  
 
 # Introduction
 
@@ -126,8 +94,6 @@ The Combine named kandra, kandra, and all the rules of kandra.
 *(Fun Fact: I named kandra after the word "chandra", which means moon in hindi. I replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is The Combine just named kandra, kandra without it deriving it from chandra or any other word).*
 
 # The Afterlife
-
-## The Afterlife And Inlife
 
 In EiS, the afterlife exists; although it's much more different from something like heaven or hell.
 
@@ -353,15 +319,11 @@ brl measures your body relaxation. Simply put, the more relaxed your body is: th
 
 [negative] brl is the exact opposite of [positive] brl. [negative] brl means your body is under stress. And as you guessed it, the more [negative] brl: the less ex you get. The theoretical limit of [negative] brl is -200 brl. Anything below -200 and your body enters cardiac arrest or stroke.
 
-#### IIP Expansion (IIPE)
-
 Now let me explain what is IIP Expansion (IIPE). IIPE, like IIP Expander is another property of a soul which directly affects IIP by increasing it. IIP Expander increases IIPE and IIPE increases IIP.
 
 IIPE increases IIP differently than IIP Expander increases IIPE. Instead of increasing IIP every second like IIP Expander: an amount of IIPE = 1 IIP, that amount is 208 kIIPE (kilo IIPE) = 1 IIP.
 
 IIPE ensures getting IIP is much harder.
-
-#### SIIPC
 
 The amount of IIPE you get depends on something called the **"Selective Inlife Interaction Power Concentration" (SIIPC)**.
 
@@ -908,7 +870,7 @@ They have greater damage, greater push and is more durable than IB-O-PCA cells.
 
 SIB-O-PCA cells are dark green in color.
 
-#### Others (I-SSPCAS)
+#### Others
 
 PCA cells cannot survive outside the soulspace (except for I-D-PCA cells).
 
@@ -1052,8 +1014,6 @@ PAS is an ASSS, it allows detached souls to gain PPI in the first place. Think o
 
 How does one produce PAS? As you might have guessed, it's a must be felt thing; not describable, detached souls just can.
 
-##### PAS
-
 The amount of PAS produced by a detached soul's PASO relies on the health of the PASO (more healthy: more PAS production, less healthy: less PAS production) and some genetics. However genetics doesn't mean the detached soul is stuck with the amount of PAS production their genetics can afford, PASO can be trained, I'll get more into that later.
 
 The average amount of PAS produced by PASO is 30 PAS/s (30 PAS per second).
@@ -1065,8 +1025,6 @@ PAS is pink in color and doesn't interact with the blood or other matter in the 
 PAS flows like liquid, that's why it's common to have the heart as PASO; since it is tied with the circulatory system.
 
 Now you might be wondering: since PAS is a substance and not a property (like how IIPE is a property), how does PAS give PPI (get converted into PPI since IIPE gets converted into IIP)? Enter in **"Possession Activation Substance Node" (PASN)**.
-
-##### PASN
 
 PASN absorbs PAS from the PASO and converts it into PPI. They look like pink spherical balls that are 3 cm in diameter; giving them "node" in their name. They are an ASSS, not interacting with blood or any matter. However PASN does interact with PAS (PAS also interacts with PASN) to absorb PAS. The position and number of PASN varies by species and individual (what that means is: PASN location is in an area, decided by the species and PASN location can vary in that area for the individual) but for humans and most anthropomorphic species: they have 4 PASN, located in each elbow and knee area.
 
@@ -1090,8 +1048,6 @@ PASN isn't perfect at absorbing PAS, some PAS doesn't get absorbed by a PASN, PA
 Unabsorbed PAS isn't a bad thing: PASO can theoretically produce limitless amounts of PAS but PAS production requires energy, the PASO can reuse unabsorbed PAS to save energy.
 
 Genetics also plays a role in PASN absorption speed and as you might have guessed: PASN absorption is trainable. The average PASN absorption speed is 8 PAS/s.
-
-##### PPI Training
 
 Now, let's talk about how detached souls can train. Detached souls can only train PASO and PASN because PAS itself isn't exactly trainable.
 
@@ -1121,8 +1077,6 @@ Here is a table on how much PAS is required for each improvement for reference:
 |    PASN   |  Absorption | 1 PAS/s|   50 PAS   |
 |    PASN   |  Conversion |-1 minute| 100 PAS   |
 
-
-##### Formula (PPI)
 
 There is a formula to calculate how much PAS a detached soul will gain in a certain amount of time (when PAS reaches the PASN) for one PASN. The formula is:
 
@@ -1295,15 +1249,11 @@ The early humans who died didn't properly understand the place or why they could
 
 Rismatre developed in the afterlife's Egypt, around the Nile river, replacing Egyptian mythology. The language of ancient afterlife Egypt is called **"Yatmav"** so all major books and writings in Rismatre is in Yatmav.
 
-##### Asutra And Yiutra
-
 In Rismatre; much like most religions; has two worlds where the living and dead lives, **"Asutra"** (the inlife) and **"Yiutra"** (the afterlife).
 
 Since early humans have a clear memory of them dying (and how and why they died): they were able to accurately guess they were in the Yiutra (the afterlife) and they were born in and once lived in Asutra (the inlife).
 
 Since early humans knew they were dead and in the afterlife: concepts like heaven and hell never developed as everyone who died came to the same space. Rismatris (people who believe in Rismatre. Singular: Rismatri) believes Asutra and Yiutra are one in the same, the only difference being in one: the living live and in the other: the dead live (They'd be mostly right).
-
-##### Punishment System
 
 Rismatris still believed the evil and sinful should be punished, so they made it their job to do punishments: enter **"Savak"**. Savak is basically prison/jail. People in Savak are sent in cells and isolated them from the outside world, but additionally they would be punished with the crimes they committed; for example: if they stole something from someone: a possession of them is given to the person they stole from. However for crimes that cannot be fully done to them then: they would just be isolated.
 
@@ -1314,8 +1264,6 @@ But the people needed a system to find out which people go to Savaks and the typ
 When convicted of a crime: the accused and accuser would go to a Panre to settle things. Back then, lawyers didn't exist so the accused and accuser had to defend themselves entirely. They would have to present evidence to the **"Pangas"** (Judge) and the judge would have to decide if the accused is innocent or guilty and if guilty: the punishment. Pangas are usually high-level priests who has little-to-no relation to the accused or accuser to prevent bias.
 
 There are two types of punishments: "Unis Kaman" (criminal punishment) and "Agas Kaman" (Non-criminal punishment). Unis Kaman is where people go to Savaks, Agas Kaman are acts of sin that are not severe enough to be sent to a Savak, the Pangas then gives any punishment to the accused that doesn't involve going to a Savak or being worse than being in a Savak.
-
-##### Gods/Goddesses
 
 Like most religions, Rismatre has gods, a lot of gods, they are polytheist. Here are the major gods of Rismatre:
 - Vantra: The god of Asutra. Vantra is seen with black curly hair, white skin, red eyes and an athletic physique. He is usually described as a charismatic and confident god while still being kind to people. He is kind to a fault, being able to forgive even the worst of sinners. Vantra really doesn't get angry but if he does get angry, then: it is said he becomes the most dangerous person.
@@ -1337,8 +1285,6 @@ Rismatris either worship one god or multiple gods (most gods, including all the 
 Worship in Rismatre is not something seen as mandatory but rather option. Rismatris believes the gods are powerful and doesn't necessarily need their worship. Worship instead is seen as an act of expressing gratitude towards the gods. A Rismatri can never worship any god and that still would be considered fine.
 
 Despite worship being optional, high-tier priest and priestess has a lot of power and influence in ancient afterlife Egypt. Ancient afterlife Egypt had a democratic-ish government and to be the king of ancient afterlife Egypt, you needed to be a priest.
-
-##### Cultural Practice
 
 Unlike in abhramic religions for to be a priest/nun who can't get a partner and must be fully devoted to god, in Rismatre: it is actually encouraged for priests and priestesses to have partners. In ancient afterlife Egypt a priest/priestess having multiple partners were seen with higher status as in Rismatre: polygamy is allowed, so an average high-tier priest/priestess has 3—6 partners OR is a partner to another priest/priestess.
 
@@ -1369,8 +1315,6 @@ And Here are the 10 Major Sins:
 - Deceit.
 - Corrupting others.
 
-##### Devils
-
 Just like there are gods, there are also devils in Rismatre. Devils are the opposites of gods, gods are seen as good and devils are seen as evil. Devils; like gods; control an aspect of reality in Rismatre, most of them being seen as evil by Rismatre. Just like there are major gods, there are major devils. Here are the major devils:
 - Nastur: The devil of fire. Nastur has long red hair, black eyes, tan skin and an muscular physique. He is described having an arrogant and boastful personality, being easily angered. In many stories: Nastur commits a bunch of arson.
 - Enkas: The devil of adultery. Enkas has long black hair pink eyes, white skin and a curvy and voluptuous body. She is described having a flirty and manipulative personality. She mainly uses her body to manipulate desperate men. In many stories: she corrupts men and women to cheat on their partner(s).
@@ -1381,8 +1325,6 @@ Just like there are gods, there are also devils in Rismatre. Devils are the oppo
 A god and devil can control the same thing, it's just the one represents the good side and the other represent the evil side.
 
 The opposite to angels are demons, demons work under devils, they also share some power as their respective devil. Their purpose is to spread evil, misfortune and despair to others. In many stories: devils corrupt people, bring them despair, misfortune, etc.
-
-##### Vagsan
 
 Unlike abhramic religions, there isn't a single book that tells you all about Rismatre, instead: there is an official collection of books called the **"Vagsan"** which tells you all about Rismatre. Here are all the books:
 - Marutres: A book listing most of the sins and good acts in Rismatre.
