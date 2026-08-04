@@ -28,7 +28,9 @@
 │&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
 └─ [Society](#society)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Rismatre](#rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [About Rismatre](#about-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [About Rismatre](#about-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Rise Of Rismatre](#the-rise-of-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Fall Of Rismatre](#the-fall-of-rismatre)  
 
 # Introduction
 
@@ -202,8 +204,6 @@ You know that every life in EiS has an soul, infact for something to be consider
 - Be able to make choices independent of anything (agency).
 
 Due to this, sentient/sapient robots have souls.
-
-#### The Clone Issue
 
 Clones (at first) do not get souls. Kandra can recognize when something is made to replicate an already existing individual (that has a soul). Instead, clones get pseudo-souls (with a soulspace if in the inlife).
 
@@ -1272,7 +1272,7 @@ Like most religions, Rismatre has gods, a lot of gods, they are polytheist. Here
 - Abaras: The god of death. Abaras is seen with short black hair, white skin, dark brown eyes and an lean and muscular body. He is described having a calm and serious personality. When someone dies, he is the one who brings them to Yiutra. He is married to Mimimo. Abaras sometimes have to scold Mimimo for some of the mischief she causes, but despite that Abaras loves Mimimo very much (the same is said for Mimimo) and cares for her deeply. He also cares for the beings in Asutra and Yiutra aswell.
 - Pyaris: The goddess of water. Pyaris is seen with white flowing long hair, blue eyes, white skin and a feminine and mature body. She is described having a calm and cool personality. She can be confident and charismatic. In many stories: she is depicted as bringing peace and calm to any heated situation.
 - Heires: The god of fire. Heires is seen with red messy hair, yellow eyes, tan skin and a soldier physique. He is described to be strict and easily angered but inside he cares for the gods and the beings in Asutra and Yiutra (that is why he is strict and angered). Heires is however able of cold logic and will not spare anyone he deems as an "enemy". He will do anything to win. He is married to Pyaris.
-- Ipis: The god of the sky. Ipis is seen with short blue hair, yellow eyes, tan skin and a muscular physique. He is described having confident and somewhat arrogant personalities. In many stores: sometimes his arrogance causes problems. He thinks he is the best god out there, but despite this he does care for others. It is described when he gets sad: the sky darkens; the rain being his "tears". When he gets angry: a thunderstorm happens. He is married to the goddess of plants, Keria.
+- Ipis: The god of the sky. Ipis is seen with short blue hair, yellow eyes, tan skin and a muscular physique. He is described having confident and somewhat arrogant personalities. In many stores: sometimes his arrogance causes problems. He thinks he is the best god out there, but despite this he does care for others. He is married to the goddess of plants, Keria.
 - Onaras: The god of the sun. Onaras is seen with long yellow hair, orange eyes, tan skin and a athletic body. He is described having a charismatic personality and having an hot temper. In many stories: he punishes sinner who made some horrible sins but also to lead sinners to the light; he is seen as both the punisher and savior. His smile is described to be bright enough to light up an entire city.
 - Janaie: The goddess of the moon. Janaie is seen with long wavy gray hair, brown eyes, white skin and a mature body. She is described having a kind and caring personality. She is seen as a motherly figure, she deeply cares about others. She finds the people of Asutra and Yiutra fascinating with all their inventions they made and way of live. In many stories: she helps lost people find their way in the night. She is married to Onaras.
 
@@ -1321,6 +1321,9 @@ Just like there are gods, there are also devils in Rismatre. Devils are the oppo
 - Kansin: The devil of despair. Kansin has black short hair, yellow eyes, black skin and a athletic body. He is described having an mocking and dominating personalities. Kansin derives joy from seeing others in despair; often being called the first sadist. In many stories: he brings despair to people.
 - Anul: The devil of pain. Anul has yellow short hair, red eyes, tan skin and a bulky muscular body. He is described having a cold and indifferent personalities. Anul is highly egotistical, seeing himself as better than the people in Asutra and Yiutra and even seeing himself better than most gods and devils. In many stories: he inflicts pain to others to past the time.
 - Pasjin: The devil of envy. Pasjin has long green hair, red eyes, white skin and a feminine body. She is described as having an hateful and cold personality. She is known to be very hateful for seemingly no reason other than to just hate. Pasjin is very envious herself, hating the gods and devils who live better than her. In many stories: her vicinity can spike up sudden jealousy.
+- Tandan: The devil of natural disasters. Tandan has short, messy, navy blue hair; gray eyes; white skin and a lean physique. He is described having a cold and calculating personality. He has no sympathy or empathy for anyone other than himself; often being called the first psychopath. In many stories: he usually brings natural disasters.
+- Vurham: The devil of manipulation. She has long straight black hair, blue eyes, tan skin and a curvy and mature body. She is described as being manipulative and having charismatic personality to corrupt others. She is described as thinking of only herself; so a narcissist. In many stories: She corrupts people to go against the gods.
+- Gabni: The devil of greed. Gabni has short red hair, purple eyes, black skin and a feminine body. She is described having a calculating and opportunistic personality. Gabni steals other people's valuable items and in recent times: bring financial misfortune to others. She has a room in her palace that is filled with gold, gems and other valuable items.
 
 A god and devil can control the same thing, it's just the one represents the good side and the other represent the evil side.
 
@@ -1334,4 +1337,46 @@ Unlike abhramic religions, there isn't a single book that tells you all about Ri
 - Tarbas: A collection of food recipes in Rismatre used for worship and fun.
 - Fuss: A guide for how to be a priests/priestess and what to do.
 - Janbak: A book detailing the justice and punishment system of Rismatre.
-- Inmal: A book detailing the political landscape of ancient afterlife Egypt.
+- Inmal: A book detailing the culture of Rismatre and ancient afterlife Egypt.
+
+Rismatre is technically the oldest religion in EiS; coming even before Hinduism (the oldest religion in the inlife).
+
+It should be clear that all the fantastical elements of Rismatre (the gods, the devils, the stories) are all fictional inside the EiS universe (it is fiction inside fiction) but a bunch of Rismatris believe them as to be real.
+
+#### The Rise Of Rismatre
+
+Rismatre was developed in ancient afterlife Egypt but it didn't stay there, it spread and it spread **quickly**.
+
+Afterlife Egypt was ruled by an country named **"Armus"**. Armus expanded into the deeper parts of the Nile along with the coast of Egypt. Armus then started to grow further; spreading into the desert of Egypt. By now, Rismatre was spread all over afterlife ancient Egypt so that really didn't make Rismatre rise, that happened when Armus met another country down south.
+
+That country was called "Sunus", located in Sudan, and it didn't follow Rismatre or knew what it was. Armus invaded and annexed Sunus to its territories and with that spread Rismatre to Sunus. The people there was fascinated by the religion and adopted it.
+
+Armus then decided to go west (where Libya is) and came across 5 different countries: Armus annexed them to and Rismatre spread there. Armus annexed another country into south of Sunus; occupying northern Ethiopia and most of Eritrea.
+
+Armusi (people of Armus) scholars had heard about the land of the east (afterlife Middle East) and their cultures being different from other parts of the world (Africa. Afterlife Middle East is also different from inlife Middle East), so Armusi scholars decided to head east to spread about the teachings of Rismatre and so Rismatre spread all over the Middle East.
+
+Then Armus itself decided it'd conquer the entire land of the east. Armus set up a campaign to take over all of the land of the east and long story short: Armus took all of the Middle East along with the western parts of Persia (Iran), Turkey and most of Balkan Europe; getting a small part of Ukraine and Moldova.
+
+While Armus was a major factor in spreading Rismatre Armus wasn't the only thing causing the spread. Armusi scholars and priests/priestesses traveled different parts of the afterlife world to spread the teachings of Rismatre. A lot of people from other religions or no religions got converted to Rismatre; the major reason being most of their religions gave a sense of the afterlife but Rismatre gave a better and accurate explanation.
+
+Soon, it wasn't only Armusi scholars and priest/priestesses who spread Rismatre, Rismatris from other parts of the world decided to spread Rismatre.
+
+While all of this was happening, Rome in the afterlife was born in the Italian Peninsula. This might not seem to be very significant information at first but the Roman Empire is going to become Armus's worst enemy.
+
+Rome was very reluctant to adopt Rismatre as they had their own gods but they decided to combine both aspects of the Roman gods mythology and Rismatri gods and mythology into something called "Roman-Rismatre".
+
+Armus was not very happy about Rome butchering their religion with adding their own gods and mythology but they didn't care much; back then Rome was just a small state, it wasn't like they could gain any influence.
+
+Armus was *very* wrong. Though not exactly like the inlife Roman Empire, The afterlife Roman Empire was massive; taking most of western and southern Europe (minus the Balkans), England and most of remaining northern Africa with small parts of northern Mauritania, Mali and Niger.
+
+And the influence of the Roman Empire began to increase: Roman-Rismatre spread to all of Europe and Northern Africa. Armus was furious by this and so: declared war on the Roman Empire.
+
+This war lasted for 6 years, none of them being winners as they both took and lost land from eachother. The war ended because both parties decided to end it. Both countries however are very bitter towards eachother after the war; the Romans hating the Armusis and Armusis hating the Romans.
+
+Both Armus and the Roman Empire didn't last forever. Armus was the first one to go due to a civil war and the Roman Empire soon followed. But because Armus and the Roman Empire collapsed doesn't mean Rismatre collapsed. Rismatre was booming; it became the largest religion in afterlife earth.
+
+Due to Rismatre's popularity and dominance: other religions had less influence in the afterlife. Actually, many people from different religions who died and came to the afterlife converted to Rismatre.
+
+#### The Fall Of Rismatre
+
+[WIP]
