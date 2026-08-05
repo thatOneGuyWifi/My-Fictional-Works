@@ -870,7 +870,7 @@ They have greater damage, greater push and is more durable than IB-O-PCA cells.
 
 SIB-O-PCA cells are dark green in color.
 
-#### Others
+#### Others (I-SSPCAS)
 
 PCA cells cannot survive outside the soulspace (except for I-D-PCA cells).
 
@@ -1398,3 +1398,44 @@ But because less people started to believe in Rismatre doesn't mean any new reli
 I kind of lied about the *fall of Rismatre, people did stop believing in the fantastical elements of Rismatre and started to become more irreligious; I didn't like about that. But the cultural aspects of Rismatre never died, people still practiced Rismatri festivals and other cultural practices; just in a more irreligious and secular manner.
 
 Also, Rismatre is still the largest religious group in the afterlife.
+
+### How Afterlife Society Works
+
+Discoveries and inventions in the afterlife happened much faster because nobody could die; afterlife humanity achieved space travel when in 1000 CE (Year 4,100).
+
+When countries no longer became bound to one country and was spread all over galaxies: using Earth's calendar and time system everywhere would be highly inaccurate. To solve this problem: the afterlife people decided to use the inlife's Intergalactic Calendar and Intergalactic Time (before then they were using the Gregorian Calendar as the Intergalactic Calendar). The Intergalactic Calendar and Time was made by the "Intergalactic Travel Organization" (ITO).
+
+*Intergalactic Calendar*:
+
+The Intergalactic Calendar is an arbitrary calendar not really based on anything. It has 10 months, each month has 30 days.
+
+The hierarchy is as follows:
+- Year (made of 10 months)
+    - Month (made of 2 sub-months, 30 days)
+        - Sub-month (made of 3 weeks, 15 days)
+            - Week (made of 5 days)
+                - Days (made of 30 hours)
+
+ITO did not give any names to the months, days or anything; they write it as "([Year No.] IY), (Month [Month No.]), (Sub-month [Sub-month No.]), (Week [Week No.]), (Day [Day No.])", this is because the ITO wanted each language to give them names so everyone could use them.
+
+In English: the month name are like ours but the last two months are now called "September-October" and "November-December". The 2 sub-month name of September-October and November-December are September, October; November, December (going first to second) respectively. The two sub-month name for the other month are called "Jupius" (first sub-month, named after the Roman god Jupiter) and "Minervus" (second sub-month, named after the Roman god "Minerva").
+
+The day names in english are also similar to the month names, with the last day of the week being called "Saturday-Sunday".
+
+To write down the year in the Intergalactic Calendar, write it as:
+
+> [Year Number] IY
+
+IY means "Intergalactic Year". To write the year that was before the invention of the Intergalactic Calendar: replace IY with BIY (Before Intergalactic Year); BIY works exactly like BCE/BC.
+
+*Intergalactic Time*:
+
+In Intergalactic Time: 30 seconds makes 1 minute, 60 minutes make up 1 hour and 30 hours make up a day.
+
+To write time in Intergalactic Time, write it as:
+
+> [Hour]:[Minute] IT
+
+IT means Intergalactic Time". It works similarly to military time but it is now 30 hours instead of 24.
+
+Intergalactic Calendar and Intergalactic Time is useful for intergalactic matters but in planetary matter: people use the local (planetary) calendar and time.
