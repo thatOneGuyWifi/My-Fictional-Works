@@ -28,9 +28,11 @@
 │&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
 └─ [Society](#society)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Rismatre](#rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [About Rismatre](#about-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Rise Of Rismatre](#the-rise-of-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Fall Of Rismatre](#the-fall-of-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [About Rismatre](#about-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Rise Of Rismatre](#the-rise-of-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Fall Of Rismatre](#the-fall-of-rismatre)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [How Afterlife Society Works](#how-afterlife-society-works)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Great Afterlife War](#the-great-afterlife-war)  
 
 # Introduction
 
@@ -1403,6 +1405,10 @@ Also, Rismatre is still the largest religious group in the afterlife.
 
 Discoveries and inventions in the afterlife happened much faster because nobody could die; afterlife humanity achieved space travel when in 1000 CE (Year 4,100).
 
+Unlike The Combine figuring out most of Kandra Physics in the inlife, Kandra Physic's discovery in the afterlife was much more decentralized; people from different nations discovered different aspects of Kandra.
+
+#### Calendar & Time
+
 When countries no longer became bound to one country and was spread all over galaxies: using Earth's calendar and time system everywhere would be highly inaccurate. To solve this problem: the afterlife people decided to use the inlife's Intergalactic Calendar and Intergalactic Time (before then they were using the Gregorian Calendar as the Intergalactic Calendar). The Intergalactic Calendar and Time was made by the "Intergalactic Travel Organization" (ITO).
 
 *Intergalactic Calendar*:
@@ -1439,3 +1445,31 @@ To write time in Intergalactic Time, write it as:
 IT means Intergalactic Time". It works similarly to military time but it is now 30 hours instead of 24.
 
 Intergalactic Calendar and Intergalactic Time is useful for intergalactic matters but in planetary matter: people use the local (planetary) calendar and time.
+
+---
+
+So as you know afterlife countries went to war... How? This is the same question the early humans had to go through.
+
+Since nobody could die: how was war going to happen? To answer this question, they made up rules for how war in the afterlife should go. To win a war: the party had to annex the other, both parties agree on a treaty or one party surrenders. To win a battle: the party had to capture/immobilize all the opposing soldiers or the opposition surrenders.
+
+Another widely agreed upon rule is: when a soldier retires: they cannot join the military force of that country for another 50 years.
+
+Everyone who dies goes to the afterlife, whether if someone is good or bad; the most kindest of kind people and the cruelest of cruel people will end up in the same place after death.
+
+But criminals couldn't just roam free in the afterlife: so they needed a way to punish them. Thankfully, Rismatre already solved this problem with Savaks and Panres.
+
+So for a while: prison and jail was the go to way to punish criminals; much like our world.
+
+However, rehabilitation centers became more popular over the years for its effectiveness for crime reduction and because it was seen as more humane. More countries adopted shorter prison sentences and rehabilitation right after.
+
+After the Great Afterlife War (see [The Great Afterlife War](#the-great-afterlife-war)), rehabilitation centers became the default way to "punish" criminals; prison became an option for only the worst and rehab right after.
+
+When someone dies: they appear in the afterlife's counterpart if the inlife place. That is not good. What if someone died in the road and appear in the afterlife which also has a road there? They could get hit by another vehicle and the both would get sent to the hospital. A lot of people die in the hospital, what if someone dies there and an operation is happening in the afterlife's counterpart? They'd fall upon the patient and cause more complications then they came with; plus disrupting the operation.
+
+And this happened; people who just died appearing in places not meant for them. To solve this: countries use kandra manipulation to flag areas where souls cannot appear in, instead they are appear right outside the flagged areas, these areas are called **"Appearance Exclusion Zone" (AEZ)**.
+
+AEZs are buildings, properties, busy roads, etc. Things that you think are probably an AEZ is probably an AEZ.
+
+### The Great Afterlife War
+
+[WIP]

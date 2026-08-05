@@ -20,7 +20,9 @@ The Afterlife
 ├─ Afterlife Special Status Substance
 │  └─ List Of ASSS
 └─ Society
-   └─ Rismatre
-       ├─ About Rismatre
-       ├─ The Rise Of Rismatre
-       └─ The Fall Of Rismatre
+   ├─ Rismatre
+   │   ├─ About Rismatre
+   │   ├─ The Rise Of Rismatre
+   │   └─ The Fall Of Rismatre
+   ├─ How Afterlife Society Works
+   └─ The Great Afterlife War
