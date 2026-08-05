@@ -1379,4 +1379,22 @@ Due to Rismatre's popularity and dominance: other religions had less influence i
 
 #### The Fall Of Rismatre
 
-[WIP]
+The fall started to happen around 200 CE (the afterlife countries used Armus's year system so it was Year 3,330 there). The fall didn't happen suddenly or dramatically, it happened slowly, gradually.
+
+By Year 3,330, the people started to get more into science and started to understand more; they understood how things actually worked. People started to find discovers and invent things years; decades; before they were found and invented in the inlife.
+
+New scientific discoveries and inventions shouldn't have caused for Rismatre to fall, and it didn't at first; but it did spark some doubt in some people.
+
+As more things get discovered: scientists who believed and Rismatre stopped believing in the fantastical solutions it gave; and some of the common people started to follow.
+
+The belief in Rismatre dwindled by each generation. Newer generations started to question the text and content in Rismatre; mostly targeting the fantastical elements. With more and more discoveries found: newer generations started to "leave" Rismatre.
+
+When humanity achieved space travel and contact with other (dead) alien species, the belief in Rismatre dwindled further as Rismatre was only based on Earth (and loosely based on space).
+
+Then the biggest hit came to Rismatre; and all religions; the discovery of Kandra (in the afterlife; which happened way before in the inlife). Now, people knew what actually made and governs their universe and now had no reason to believe in any of the fantastical elements of Rismatre (or other religions).
+
+But because less people started to believe in Rismatre doesn't mean any new religion took its place, people just started to become more irreligious overall.
+
+I kind of lied about the *fall of Rismatre, people did stop believing in the fantastical elements of Rismatre and started to become more irreligious; I didn't like about that. But the cultural aspects of Rismatre never died, people still practiced Rismatri festivals and other cultural practices; just in a more irreligious and secular manner.
+
+Also, Rismatre is still the largest religious group in the afterlife.
