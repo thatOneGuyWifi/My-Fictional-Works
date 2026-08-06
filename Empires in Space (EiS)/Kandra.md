@@ -36,12 +36,11 @@
 
 # Introduction
 
-What is Kandra? To simply the answer, kandra is a substance or force of reality that made the **"Empires In Space" (EiS)** Universe.
+What is Kandra? To simply the answer: kandra is a substance or force of reality that made the **"Empires in Space" (EiS)** Universe.
 
-What's Empires In Space? Empires In Space is a fictional universe the author made. It is basically a collection of stories (and lore), think of it as a story, which contains other stories (that can relate to eachother) with the same lore, and each story has the capacity to add new lore. Its similar to something like the Marvel Cinematic Universe (MCU), but a better comparison would be history. Empires In Space is sci-fi alt history.
+What's Empires in Space? Empires in Space is a fictional universe I made. EiS is basically a collection of stories (and lore) which happens inside the EiS universe/multiverse; it's similar to something like the Marvel Cinematic Universe (MCU) but a better comparison would be history, Empires in Space is sci-fi alt history.
 
-Everything in EiS is made by kandra and is technically kandra. So everything in EiS is technically a single substance, kandra. Its like how everything (objects) are all made out of m
-atoms, but in kandra's case, even atoms are kandra.
+In EiS: everything is made of kandra, everything is kandra; from objects to sentient life, from atoms to the stars, they are all kandra. Think of everything as different expressions of kandra; a human and ant are different expressions of kandra but is still kandra, like how water and ice are different expression/type of water but is still water.
 
 Since everything is made out of kandra, kandra is divided into categories called **"Kandra Force(s)"**. A kandra force is a specialized form of kandra that controls/governs a specific part of reality, that can be something broad like gravity, time, atom, or something hyper-specific like a smart phone screen, a single line from a book; there is a **vast** (practically infinite) number of kandra forces. Think of it as science or any subject, in science, there are different fields like physics, biology, chemistry, etc. Each field specializes in a different topic; kandra forces are kinda like that, they specialize in controlling a different part of reality.
 
