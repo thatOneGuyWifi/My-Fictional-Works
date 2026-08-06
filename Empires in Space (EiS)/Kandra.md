@@ -1452,6 +1452,8 @@ So as you know afterlife countries went to war... How? This is the same question
 
 Since nobody could die: how was war going to happen? To answer this question, they made up rules for how war in the afterlife should go. To win a war: the party had to annex the other, both parties agree on a treaty or one party surrenders. To win a battle: the party had to capture/immobilize all the opposing soldiers or the opposition surrenders.
 
+After the war: all the captured soldiers was sent to their country they were serving.
+
 Another widely agreed upon rule is: when a soldier retires: they cannot join the military force of that country for another 50 years.
 
 Everyone who dies goes to the afterlife, whether if someone is good or bad; the most kindest of kind people and the cruelest of cruel people will end up in the same place after death.
@@ -1472,4 +1474,29 @@ AEZs are buildings, properties, busy roads, etc. Things that you think are proba
 
 ### The Great Afterlife War
 
-[WIP]
+The Great Afterlife War is a major war in the afterlife that changed how afterlife society worked from then (being similar to the two World Wars in the inlife). The Great Afterlife war was a intergalactic war that span between galaxies. The war happened around when it was the 1800s in the inlife.
+
+The war had two groups: the **"Xilian Front" (ɕi.li.ɛn)** and the **"Akten Front" (æk.ten)**. Long story short: the Akten Front won the war; multiple war crimes were committed by both sides.
+
+But the war revealed a major flaw in their society: that despite being in the afterlife; a place of eternal rest after death; the afterlife was far from that. The question was: were they going to keep letting this happen? Their answer was **no** (not really).
+
+All the participating countries from both parties created the **"Afterlife Peace and Prosperity Organization" (APPO)**. APPO's function was simple: bring peace and prosperity to the afterlife; and it's safe to say it does it's job well. It's a better UN.
+
+Almost all afterlife countries are members of APPO.
+
+APPO knew that if it wanted to be effective in its policies: they needed the same thing that gives countries their power, the military. So, APPO created the **"Gamma Force"**. The Gamma Force is one of the most elite military forces in the afterlife, their soldiers are highly trained in kandra manipulation. The Gamma Force is not located in any singular country but across multiple countries so that not one country has a major hold on the Gamma Force.
+
+The Gamma Force's job is simple: when war happens between two or more countries: monitor those areas to make the countries follow standard war rules (as previously stated) and to stop any possible war crimes. If however a country thinks another country did commit a war crime while the Gamma Force was not there: they can go to international court (held by APPO) to discuss this, whichever country is found guilty is prompted to make the opposition win that battle; refusal is met with the Gamma Force.
+
+The Gamma Force also *occasionally* ends government in countries if there is evidence they severely oppress and harm their population on purpose. 
+
+In APPO, there is the **"Financial Branch"** which monitors the international economy to keep everything stable.
+
+With the formation of APPO, work life changed significantly. APPO has stated out rules that each business/field of work needs to follow so working doesn't feel like a pain, they are called the **"Work Rules & Regulation"**. Some of those rules are:
+- There at least need to be 2 off-work days for employees; this can be broken if something majorly important is happening.
+- Employees must to not be forced to work overtime.
+- Shift hours should be in a reasonable range based on the planet's day-and-night cycle and the field of work.
+- Pay should be reasonable depending on the money revenue, the field of work and the work/effort the employee puts in. Leaves/absence for emergencies should not reduce the employee's pay.
+- Businesses/fields of work cannot disturb an employee's personal life by any means. They cannot fire a employee for their personal lives unless they ruin that business/field of work's reputation.
+
+Most countries and businesses follows APPO's work rules & regulations. If an employee believes the place they work under break any of these rules and the country's court doesn't do anything about it: they can bring it to international court.
