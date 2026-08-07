@@ -24,6 +24,8 @@ I'd decided I'll have my own rule on how to use punctuation mark. I made this do
 
 When a related supplementary/optional information is followed by important information ([information] + [optional information] + [important information]) for example: "He shot the target (i); it wasn't the best shot (oi); but it hit the target (ii)." then write two semicolons and put the optional information inside the semicolons, like a parenthesis. It can also be used as a short pause.
 
+There can be supplementary info inside supplementary info, in that case use ;; to start that supplementary info and use ,; to end it if there is more to the previous supplementary info or . if the sentence ends with the supplementary supplementary info. ;; can be nested inside multiple supplementary info.
+
 **Slash (/)**: Use it as a "or"; when writing alternatives.
 
 **Double Quotes ("")**: Use it when first announcing a new term, quoting a person/outside quotes, when turning a word that is not a noun into a noun or when a word or sentence isn't entirely true/accurate.
