@@ -54,6 +54,17 @@ There is a hierarchical system to kandra forces: enter in **"Sub Kandra Force(s)
 
 Since every kandra force is from kandra itself: every kandra force is technically a sub kandra force, but the kandra forces that are only sub forces of kandra and not any other sub force are called the **"Fundamental Kandra Force(s)"** or simply **"Fundamental Force(s)"**. Every kandra force branches out from the fundamental forces.
 
+The fundamental forces are:
+- Kandra-energy force: the kandra force which controls all of energy.
+- Kandra-mass force: the kandra force which controls all of mass.
+- Kandra-spacial force: the kandra force which controls all of space.
+- Kandra-time force: the kandra force which controls all of time
+- Kandra-gravitational force: the kandra force which controls all of gravity.
+- Kandra-electromagnetic force: the kandra force which controls all of electromagnetism.
+- Kandra-information force: the kandra force which controls all of information. Now you might say: isn't information an abstract concept? How can it be a fundamental force? The answer to that question is: no, information is not fully abstract and is physical; this is not just a kandra thing but it also applies to our world. First of all: information is always stored in physical matter; you do not find information in the vacuum of space; second of all: heat (energy) is required to delete information; when you permanently delete a file in your computer: the computer uses heat to erase it;; if information was abstract: it wouldn't have required energy.
+
+That's it; every other sub force is derived from these 7 fundamental forces.
+
 # Naming A Kandra Force
 
 You might've already figured this out but to actually explain it, you need to follow this format:
