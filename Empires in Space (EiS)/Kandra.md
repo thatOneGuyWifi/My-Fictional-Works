@@ -3,9 +3,11 @@
 
 # Tables Of Content
 
-[Introduction](#introduction)
+[Introduction](#introduction)  
+├─ [Kandra Forces](#kandra-forces)  
+└─ [Kandra Factors](#kandra-factors)  
 
-[Naming A Kandra Force](#naming-a-kandra-force)
+[Naming A Kandra Force And Kandra Factor](#naming-a-kandra-force-and-kandra-factor)
 
 [Origins And Discovery](#origins-and-discovery)
 
@@ -34,6 +36,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [How Afterlife Society Works](#how-afterlife-society-works)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Great Afterlife War](#the-great-afterlife-war)  
 
+[The EiS Universe](#the-eis-universe)
+
 # Introduction
 
 What is Kandra? To simply the answer: kandra is a substance or force of reality that made the **"Empires in Space" (EiS)** Universe.
@@ -41,6 +45,8 @@ What is Kandra? To simply the answer: kandra is a substance or force of reality 
 What's Empires in Space? Empires in Space is a fictional universe I made. EiS is basically a collection of stories (and lore) which happens inside the EiS universe/multiverse; it's similar to something like the Marvel Cinematic Universe (MCU) but a better comparison would be history, Empires in Space is sci-fi alt history.
 
 In EiS: everything is made of kandra, everything is kandra; from objects to sentient life, from atoms to the stars, they are all kandra. Think of everything as different expressions of kandra; a human and ant are different expressions of kandra but is still kandra, like how water and ice are different expression/type of water but is still water.
+
+## Kandra Forces
 
 Since everything is made out of kandra: kandra is divided into categories that help us know what category controls what, they are called **"Kandra Force(s)**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality.
 
@@ -65,51 +71,67 @@ The fundamental forces are:
 
 That's it; every other sub force is derived from these 7 fundamental forces.
 
-# Naming A Kandra Force
+## Kandra Factors
 
-You might've already figured this out but to actually explain it, you need to follow this format:
+Now, I've said that kandra forces control an aspect of reality, but they don't run it; for example: the kandra-gravitational force has the function of gravity under it but it doesn't make gravity work itself. So, what does run the aspects of reality? Something called **"Kandra Factor(s)"**.
+
+Kandra factors are factors (components) of a kandra force, they lie inside their kandra force and runs everything the kandra force controls. Think of kandra forces as runtime environments (an environment where programs can run) or IDE (Integrated Development Environment) and kandra factors as programs that run inside those runtime environments/IDE; or a more simpler way to put it: think of kandra forces as capability and kandra factors as use of said capability.
+
+**"Natural Kandra Factors"** are kandra factors made by kandra itself and runs specific to fundamental parts of reality. Natural kandra factors only do one function/job inside their kandra force; for example: mass has gravity and bigger mass = higher gravity lies in two different kandra factors under the kandra-gravitational force.
+
+Natural kandra factors constantly run and never stop; if they did: it would cause a ton of complications like if the kandra factor that runs how electric currents make magnetic field stops: then a bunch of things will go wrong.
+
+If natural kandra factors do one function then: some functions need other functions to work, so how do they? The answer to that question is: natural kandra factors can call eachother, when they do: their kandra force takes in the call, sees what kandra factor is being called, retrieves all the data (code you can say) from the called kandra factor and gives it to the caller kandra factor; so kandra forces also work as an interface or API (Application Programming Interface).
+
+# Naming A Kandra Force And Kandra Factor
+
+To name a kandra force: follow this format:
 
 > (sub | fundamental) kandra-[name of the thing it controls] force
 
-(Note that anything in parenthesis () is optional and anything in square brackets [] is required)
+(Note that anything in parenthesis () is optional and anything in square brackets [] is required).
 
-That's it, its really simple. Let's take the kandra force that controls gravity, its name is kandra-gravitational force (I know its already mentioned but still). The name of the kandra force that controls water is called the "kandra-water force". It's also called the sub kandra-water force, although "sub" or "fundamental" are rarely written.
+That's it; it's that simple. Let's take the kandra force that controls gravity: its name is the kandra-gravitational force, let's take another example: the kandra force which controls chemistry: its name is the kandra-chemical force. Note that sub and fundamental are not usually written.
 
-Kandra force names are synonymous, meaning different words can have the same meaning. So for example: kandra-gravitational force can also be written as kandra-gravity force, the kandra-gas force can also be written as kandra-gaseous force.
+Kandra force names are synonymous; meaning different words can have the same meaning;; For example: kandra-gravitational force can also be written as kandra-gravity force and the kandra-chemical force can also be written as kandra-chemistry force. The name however must be related with the aspect of reality it controls.
 
-The name however must be related with the part of reality that controls or a synonym of the existing name.
+To name a kandra factor: follow this format:
+
+> (natural | artificial) kandra factor: <natural: [brief description of what it does]> <artificial: [any name the creator gives]>
+
+(Note that the angled brackets <> are like if statements).
+
+Naming a kandra factor is also relatively simple. Let's take the kandra factor which says mass has gravity: its name is kandra factor: mass has gravity. Note that natural and artificial are not usually written. Now you might be confused by the artificial labels; people can make kandra factors? Yes, they can; this will come later.
 
 # Origins And Discovery
 
-Before EiS or any universe existed, there were multiple realities floating in space. Think of these realities as a substance, in large sizes.
+Before EiS or any universe existed, there were multiple substance of reality floating around in space; including kandra, which is the strongest of all the realities. This period was called the **"Pre-universal Period"** due to it predating universes.
 
-Kandra was one of these realities. Back then, Kandra was called the **"Kandra Ultimata"**.
+Pre-universal kandra is called **"Kandra Ultimata"** due to it being "whole" at that time.
 
-These realities floated around space for a long time until kandra one day decided to create a universe, and another universe, and more, and it kept going, making a multiverse.
+What I mean by "whole" is kandra did not split. Now you might be asking: kandra split? Yes; when kandra made its multiverse: kandra split.
 
-Other realities "took inspiration" from kandra and made their own multiverse.
+Kandra split itself into different universes; marking the end of the pre-universal period. Each split is a different "personality" of kandra, what that means is each kandra "personality" controls their universe in a different way (they don't actually have personalities) but the basic structure (kandra forces and kandra factors) is same across most the universes. Also each split can have same personalities; they don't have to be different.
 
 EiS is the first universe kandra created.
 
-When kandra decided to make universes, it also split itself, each of its splits being a universe, and each split has different "personalities". What personality here means that each kandra split controls each universe in a different way. But, personality here means an actual personality type aswell, you'll find why that is later in the document.
+EiS's kandra doesn't interact with the universe unless if a function requires it, kandra makes a major "glitch" or if it simply wants to (we will get to glitches later).
 
-The split is also why kandra was previously called Kandra Ultimata, because it contained all the kandra splits, hence being an "Ultimate Kandra" or Kandra Ultimata (Ultimata means ultimate here).
+Other realities "took inspiration" from kandra and made their own multiverse/universe.
 
-EiS's kandra's personality is more of a neutral type, it set how the world works and doesn't interact with it much except if its a major "glitch" in reality or if it simply wants too. We'll get to what glitches are later.
+Kandra has a rule for how it makes new universes; and a lot of other realities follow this rule aswell.
 
-Kandra has a rule for how it makes new universes, and a lot of other realities follow this rule aswell.
+That rule is called **"Enfe Gahivno" (/ɛn.ɸe ɣa.xiβ.nɔ/)**; which means "Forever (Enfe) Growing (Gahivno)". The pronunciation is intimidating but you can just simply call it the "Forever Growing" rule. The name was given by the Combine; the space nation that discovered kandra, the Combine used their language to name the rules;; similar to how a lot of names in science comes from Greek or Latin
 
-This rule is called "**Enfe Gahivno** (/ɛn.ɸe ɣa.xiβ.nɔ/) which means "Forever (Enfe) Growing (Gahivno)". Now, I know, the pronunciation is intimidating but you can just simply call it the "Forever Growing" rule. The one who gave this rule this name was the people who discovered it, Combines, who named the rule in their language. Kinda like how in science a lot of names come from Greek or Latin.
+The rule states that the kandra multiverse is finite in volume but infinite in growth. What does that mean? It means that in any point: the number of universes made by kandra splitting is theoretically countable but this number grows infinitely; meaning universes will keep getting made forever;; so kandra will continue to split forever. Kandra makes 10 universes every second.
 
-The rule states that the kandra multiverse is finite in volume but infinite in growth. What that means is the multiverse made by kandra isn't infinite in amount/size, if you try to count the amount of universes the kandra multiverse has, it'd theoretically be possible. However, the kandra multiverse is always growing in size/amount. Its growth will never end, as its infinite. Now, growth has speed, and kandra makes 10 universes every second.
+You might be wondering: how the hell can kandra do this? Kandra is a substance of reality; it just can.
 
-Now you might be wondering, if kandra split itself, how can it infinitely make universe? Well, when the finite Kandra Ultimata decide to split itself to make a multiverse, it decided on making the split go forever infinitely. How did it achieve this? It just can.
+The Combine is a space-nation in EiS that first discovered kandra. Due to being the first ever nation to discover kandra and use it (through kandra manipulation; we'll get to that later): it became the strongest space nation in EiS before its collapse.
 
-Kandra was first discovered by The Combine in EiS. The Combine was a space-nation in EiS. The first space nation to discover kandra. And for its discovery and its utility of it, it became the strongest space nation in the world, before its collapse.
+Due to the discovery of kandra: The Combine made "Kandra Physics"; a branch of physics which studies kandra.
 
-The Combine named kandra, kandra, and all the rules of kandra.
-
-*(Fun Fact: I named kandra after the word "chandra", which means moon in hindi. I replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is The Combine just named kandra, kandra without it deriving it from chandra or any other word).*
+*(Fun Fact: I named kandra after the word "chandra"; which means moon in hindi. I replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is The Combine just named kandra, kandra without it deriving it from chandra or any other word).*
 
 # The Afterlife
 
@@ -124,6 +146,8 @@ Before we continue, I want to note that all of the knowledge of the afterlife is
 This section is only known by the people of the afterlife. This is the only section The Combine didn't find out. So most of the information is not known by the majority of people in the inlife (they don't even know there are semi-worlds and they are in the inlife semi-world, that is all discovered by the people in afterlife).
 
 ## The Soul And Soulspace
+
+This is the only section the people of inlife mostly know and discovered by The Combine due to kandra manipulation.
 
 Every life in EiS has something called a **"Kandra Soul"** or simply called **"Soul"**. The soul is a **physical** substance that resides in the entire body; as in it occupies the entire body.
 
@@ -148,6 +172,8 @@ The soul takes the full appearance (anatomy and modified physiology) of the orga
 The Soulspace takes the shape of its host; as in it only takes the outline of the host. Think of it like your shadow, it only displays your shape; no details or anything. The color of the soulspace is a bright yellow or #f7e013 exactly.
 
 The soulspace's appearance changes as the appearance of the organism changes (like the soul).
+
+The inlife believes the soulspace is a special space that contains the soul but doesn't know about the afterlife or semi-worlds.
 
 ### How An Organism Dies
 
@@ -206,6 +232,8 @@ Both souls however exist in the afterlife: detached souls live in the afterlife 
 Now that you know about attached and detached souls, I'm going to explain a part of the "dying" process. When an organism dies: it doesn't "go" to the afterlife, it transitions into a detached soul and detached souls have the property to teleport to the afterlife when it first turns becomes a detached soul.
 
 Detached souls cannot become attached souls again (unless if kandra manipulation is used, we'll get to that later).
+
+Inlife people do not know there are attached souls and detached souls.
 
 ### Life Birth And Soul Qualifications
 
@@ -1514,3 +1542,21 @@ With the formation of APPO, work life changed significantly. APPO has stated out
 - Businesses/fields of work cannot disturb an employee's personal life by any means. They cannot fire a employee for their personal lives unless they ruin that business/field of work's reputation.
 
 Most countries and businesses follows APPO's work rules & regulations. If an employee believes the place they work under break any of these rules and the country's court doesn't do anything about it: they can bring it to international court.
+
+# The EiS Universe
+
+The EiS universe is in the shape of a sphere; think of it as a perfectly round ball.
+
+In EiS: dark energy does not exist, instead something called **"Dark Glue"** replaces dark energy. Dark glue keeps the EiS universe's shape as it is; it doesn't let it expand or collapse. If dark glue didn't exist: the Big Crunch would've happened due to gravity. Due to dark glue: the EiS universe will not die and exist forever. Dark glue is calked dark glue because it holds the universe like a glue but doesn't interact with light.
+
+In 1998: astronomers were trying to measure how much expansion was slowing down because even without dark energy: the universe would keep expanding, gravity would be the thing slowing the expansion until it started to shrink. What they found instead is the universe did not expand or shrink at all; it stayed completely as it was; so the scientists came up with dark glue to explain this. So the discovery of dark glue happened before the discovery of kandra.
+
+The EiS universe is connected with another non-kandra universe. The connection happened due to a war between the Authoritative Combine and the Democratic Combine (the war is called the "Combine War". The war is also the reason of The Combine's collapse). A non-kandra universe was moving at speeds faster than light and entered the kandra multiverse. It was heading towards the EiS universe but was going to pass it, but due to the Combine's use of kandra manipulation: it caused a glitch where the EiS universe temporarily produced it's own gravity and the universe got caught it: causing it to slam with the EiS universe and make cause another glitch where a portal (like a wormhole) to that universe got created at the Authoritative Combine and Democratic Combine border because most of the kandra manipulation warfare happening there. Surprisingly, that is the only instance of kandra manipulation being cause of a kandra glitch, glitch from kandra manipulation have never been recorded since then.
+
+Kandra fixed the gravity production from the EiS universe but not the portal as it determined the glitch is not major enough.
+
+That universe gave a new alien species called "demons" (called demons because they look like demons; not that they are actually demons) and Chargic Energy, the secondary power system of EiS (but we will not get into it in this document). Kandra made demons into a part of kandra because kandra recognizes as any life inside it should be a part of it.
+
+Chargic Energy; though separate from kandra; follows kandra because kandra is the strongest substance of reality.
+
+The EiS universe in EiS is called "Erison" and the non-kandra universe is called "Delmos", together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).

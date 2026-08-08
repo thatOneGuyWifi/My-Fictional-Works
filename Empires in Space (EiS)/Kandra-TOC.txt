@@ -1,6 +1,10 @@
 Made this to sort of manage Kandra's Tables of Content because GFM (Github Flavored Markdown) needs a lot of &nbsp; for tabs.
 
--------------------------------------------------------
+-----------------------------------------------------
+
+Introduction
+├─ Kandra Forces
+└─ Kandra Factors
 
 The Afterlife
 ├─ The Soul And Soulspace  
