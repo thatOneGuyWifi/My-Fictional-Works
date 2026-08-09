@@ -83,6 +83,10 @@ Natural kandra factors constantly run and never stop; if they did: it would caus
 
 If natural kandra factors do one function then: some functions need other functions to work, so how do they? The answer to that question is: natural kandra factors can call eachother, when they do: their kandra force takes in the call, sees what kandra factor is being called, retrieves all the data (code you can say) from the called kandra factor and gives it to the caller kandra factor; so kandra forces also work as an interface or API (Application Programming Interface).
 
+There can be different kandra factors that do the same function, for example: the kandra-your hand force can have a kandra factor for how your hand moves and the kandra-velocity can have a factor for how everything moves, both the factors affect how your hand moves but one only says how only your hand moves while the other says how everything moves; the difference is the scope.
+
+You might be asking: kandra factors needs to call other kandra factors to receive their function (sort of like a library in programming) but how can kandra factors call a kandra factor inside a different kandra force? The answer to that question is: forces can communicate with eachother. The kandra force takes the call function from a kandra factor, sees in what force the kandra factor is, calls that force to give the data of that factor, the force gives the calling kandra force the data from the factor and the force gives the data to the calling factor; so its like an interconnected tree of APIs (kandra forces) or the universe's internet.
+
 # Naming A Kandra Force And Kandra Factor
 
 To name a kandra force: follow this format:
@@ -1559,4 +1563,4 @@ That universe gave a new alien species called "demons" (called demons because th
 
 Chargic Energy; though separate from kandra; follows kandra because kandra is the strongest substance of reality.
 
-The EiS universe in EiS is called "Erison" and the non-kandra universe is called "Delmos", together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).
+The EiS universe in EiS is called "Erison" (named after The Combine scientist who discovered kandra) and the non-kandra universe is called "Delmos" (named after the demon who introduced Chargic Energy to EiS), together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).
