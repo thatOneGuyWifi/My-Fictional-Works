@@ -39,6 +39,7 @@
 [The EiS Universe](#the-eis-universe)
 
 [Kandra Can Make Mistakes](#kandra-can-make-mistakes)
+
 [Kandra Manipulation](#kandra-manipulation)
 
 # Introduction
