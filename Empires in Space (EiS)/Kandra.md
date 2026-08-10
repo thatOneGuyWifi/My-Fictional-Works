@@ -38,6 +38,9 @@
 
 [The EiS Universe](#the-eis-universe)
 
+[Kandra Can Make Mistakes](#kandra-can-make-mistakes)
+[Kandra Manipulation](#kandra-manipulation)
+
 # Introduction
 
 What is Kandra? To simply the answer: kandra is a substance or force of reality that made the **"Empires in Space" (EiS)** Universe.
@@ -1564,3 +1567,34 @@ That universe gave a new alien species called "demons" (called demons because th
 Chargic Energy; though separate from kandra; follows kandra because kandra is the strongest substance of reality.
 
 The EiS universe in EiS is called "Erison" (named after The Combine scientist who discovered kandra) and the non-kandra universe is called "Delmos" (named after the demon who introduced Chargic Energy to EiS), together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).
+
+# Kandra Can Make Mistakes
+
+Sometimes, even kandra can make mistakes, these mistakes are called **"kandra glitch(es)"**. Kandra glitches doesn't happen often; that would be chaos; kandra glitches happen rarely but when they happen: they have a structure to them.
+
+Kandra glitches are usually minor so they really don't concern kandra and usually do not get "fixed" by kandra.
+
+Kandra glitches are rare but they are found quite often, so an organization called **"Anomalous Phenomena Research Organization" (APRO)"** was made to study them. APRO was originally a department of The Combine but after it got split into the Authoritative & Democratic Combine: it turned into an international organization, operating on multiple space nations.
+
+APRO gives name to the anomalies they find, and they have a structure in naming anomalies, the structure is:
+
+> ANP-[Safety Symbol][Special ID]
+
+(ANP means "ANomalous Phenomenon").
+
+Safety Symbol indicates how safe or dangerous the anomaly is, the symbols are:
+- S: safe.
+- P: might have potential harmful effects but safe.
+- M: mildly harmful.
+- H: harmful.
+- V: severely harmful.
+- K: Critically harmful; most likely will result in death.
+- D: Lethal; will cause death to a normal person.
+
+Special IDs are usually two numbers (but can be more).
+
+APRO also gives the anomalies nicknames because trying to remember what is what with the structured names can be complicated; the structured names are called **"Anomaly IDs"**.
+
+APRO is informally call the "real life SCP Foundation" (in EiS) because both dealing with anomalies.
+
+# Kandra Manipulation
