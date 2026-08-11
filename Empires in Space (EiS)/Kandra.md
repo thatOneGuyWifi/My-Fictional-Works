@@ -75,6 +75,10 @@ The fundamental forces are:
 
 That's it; every other sub force is derived from these 7 fundamental forces.
 
+Two or more kandra forces from different branches (under different sub/fundamental forces) can be connected to eachother by something called **"Kandra Force Linking"** or just force linking. Take this scenario: kandra-your hand force lies under the kandra-you force but the kandra-hand force (which controls all hands) should have the kandra-your hand force under it because it controls all hands; that's why force linking is a thing. 
+
+Kandra force which has another kandra force under it by force linking is called **"Superior Kandra Force"** or simply superior force and the kandra force that is under another kandra force by linking is called **"Inferior Kandra Force"** or simply inferior force; note that superior and inferior labels here are relative as a superior force can an be inferior force and an inferior force can be a superior force. A superior force can have many inferior forces and an inferior force can have many superior forces.
+
 ## Kandra Factors
 
 Now, I've said that kandra forces control an aspect of reality, but they don't run it; for example: the kandra-gravitational force has the function of gravity under it but it doesn't make gravity work itself. So, what does run the aspects of reality? Something called **"Kandra Factor(s)"**.
@@ -1571,7 +1575,7 @@ The EiS universe in EiS is called "Erison" (named after The Combine scientist wh
 
 # Kandra Can Make Mistakes
 
-Sometimes, even kandra can make mistakes, these mistakes are called **"kandra glitch(es)"**. Kandra glitches doesn't happen often; that would be chaos; kandra glitches happen rarely but when they happen: they have a structure to them.
+Sometimes, even kandra can make mistakes, these mistakes are called **"Kandra Glitch(es)"**. Kandra glitches doesn't happen often; that would be chaos; kandra glitches happen rarely but when they happen: they have a structure to them.
 
 Kandra glitches are usually minor so they really don't concern kandra and usually do not get "fixed" by kandra.
 
