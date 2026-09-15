@@ -52,15 +52,17 @@ In EiS: everything is made of kandra, everything is kandra; from objects to sent
 
 ## Kandra Forces
 
-Since everything is made out of kandra: kandra is divided into categories that help us know what category controls what, they are called **"Kandra Force(s)**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality.
+Since everything is made out of kandra: kandra is divided into categories called **"Kandra Force(s)"**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality/a physical concept.
 
-Kandra forces can control something broad as gravity, atoms, velocity or something hyper-specific as a smart phone, your hand or a single rock in your backyard; making the number of kandra forces vast, practically infinite. Think of kandra forces as fields of science: in science: different fields specialize in studying different aspects of science; like how chemistry studies how atoms interact with eachother or how biology studies how living beings work; just like that, kandra forces specialize in controlling different aspects of reality.
+Kandra forces can control something broad as gravity, atoms, velocity or something specific as smart phone; making the number of kandra forces vast and practically infinite. Think of kandra forces as fields of science: in science: different fields specialize in studying different aspects of science; like how chemistry studies how atoms interact with eachother or how biology studies how living beings work; just like that, kandra forces specialize in controlling different aspects of reality/physical concepts.
 
-Since kandra forces can be hyper-specific: anyone can make a kandra force and does everyday; but those kandra forces instantly get deleted. What do I mean by that? When you move your hand: that movement is counted as a kandra force, but when that movement stops: that kandra force will be removed since there no longer is that motion in the present. For a kandra force to exist in the present: the thing which it controls also must be in the present; so if one day your hand just disappears: the kandra force which controls your hand also disappears.
+However, there is a limit to what can be a kandra force, specifically: there are two specifications that can't be a kandra force:
+- Abstract concepts (like love, justice, etc)
+- Concepts that control only one instance of something; a kandra force controls all instances of the thing it controls, but there is another thing: the force must have a significant function, if it doesn't then: it won't be a force; significance is decided by the force above it so significance is different for every force.
 
-Kandra forces can only control the physical (and metaphysical) aspects of reality; kandra forces do not control the abstract parts of reality. Kandra forces which seem like they do control abstract concepts actually only controls the physical side of those abstract concept; for example: the kandra-love force only controls the physical aspects of love;; which in love's case is the neurological and chemical process of love.
+For a kandra force to exist in the present: the concept which it controls also must be in the present; so if all humans disappear: the kandra force which controls humans disappear.
 
-There is a hierarchical system to kandra forces: enter in **"Sub Kandra Force(s)** or simply **"Sub Force(s)"**. Sub forces are kandra forces that lie under another kandra force; sub forces themselves can have sub forces;; For example: the kandra-biology force is a sub force inside the kandra-chemistry force, the kandra-biology also has sub forces of its own like the kandra-mammal force, kandra-bird force and so on.
+There is a hierarchical system to kandra forces: enter in **"Sub Kandra Force(s)** or simply **"Sub Force(s)"**. Sub forces are kandra forces that lie under another kandra force; sub forces themselves can have sub forces; for example: the kandra-biology force is a sub force inside the kandra-chemistry force, the kandra-biology also has sub forces of its own like the kandra-mammal force, kandra-bird force and so on.
 
 Since every kandra force is from kandra itself: every kandra force is technically a sub kandra force, but the kandra forces that are only sub forces of kandra and not any other sub force are called the **"Fundamental Kandra Force(s)"** or simply **"Fundamental Force(s)"**. Every kandra force branches out from the fundamental forces.
 
@@ -71,11 +73,11 @@ The fundamental forces are:
 - Kandra-time force: the kandra force which controls all of time
 - Kandra-gravitational force: the kandra force which controls all of gravity.
 - Kandra-electromagnetic force: the kandra force which controls all of electromagnetism.
-- Kandra-information force: the kandra force which controls all of information. Now you might say: isn't information an abstract concept? How can it be a fundamental force? The answer to that question is: no, information is not fully abstract and is physical; this is not just a kandra thing but it also applies to our world. First of all: information is always stored in physical matter; you do not find information in the vacuum of space; second of all: heat (energy) is required to delete information; when you permanently delete a file in your computer: the computer uses heat to erase it;; if information was abstract: it wouldn't have required energy.
+- Kandra-information force: the kandra force which controls all of information. Now you might say: isn't information an abstract concept? How can it be a fundamental force? The answer to that question is: no, information is not fully abstract and is physical; this is not just a kandra thing but it also applies to our world. First of all: information is always stored in physical matter; you do not find information in the vacuum of space; second of all: heat (energy) is required to delete information; when you permanently delete a file in your computer: the computer uses heat to erase it; if information was abstract: it wouldn't have required energy.
 
 That's it; every other sub force is derived from these 7 fundamental forces.
 
-Two or more kandra forces from different branches (under different sub/fundamental forces) can be connected to eachother by something called **"Kandra Force Linking"** or just force linking. Take this scenario: kandra-your hand force lies under the kandra-you force but the kandra-hand force (which controls all hands) should have the kandra-your hand force under it because it controls all hands; that's why force linking is a thing. 
+Two or more kandra forces from different branches (under different sub/fundamental forces) can be connected to eachother by something called **"Kandra Force Linking"** or just force linking; for example: the kandra-human soul force lies under the kandra-human force but it is also connected to the kandra-soul force by force linking.
 
 Kandra force which has another kandra force under it by force linking is called **"Superior Kandra Force"** or simply superior force and the kandra force that is under another kandra force by linking is called **"Inferior Kandra Force"** or simply inferior force; note that superior and inferior labels here are relative as a superior force can an be inferior force and an inferior force can be a superior force. A superior force can have many inferior forces and an inferior force can have many superior forces.
 
@@ -1569,7 +1571,7 @@ Kandra fixed the gravity production from the EiS universe but not the portal as 
 
 That universe gave a new alien species called "demons" (called demons because they look like demons; not that they are actually demons) and Chargic Energy, the secondary power system of EiS (but we will not get into it in this document). Kandra made demons into a part of kandra because kandra recognizes as any life inside it should be a part of it.
 
-Chargic Energy; though separate from kandra; follows kandra because kandra is the strongest substance of reality.
+Chargic Energy; though separate from kandra; follows kandra inside the EiS universe.
 
 The EiS universe in EiS is called "Erison" (named after The Combine scientist who discovered kandra) and the non-kandra universe is called "Delmos" (named after the demon who introduced Chargic Energy to EiS), together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).
 
