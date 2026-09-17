@@ -40,7 +40,8 @@
 
 [Kandra Can Make Mistakes](#kandra-can-make-mistakes)
 
-[Kandra Manipulation](#kandra-manipulation)
+[Kandra Manipulation](#kandra-manipulation)  
+└─ [Stability](#stability)
 
 # Introduction
 
@@ -300,7 +301,9 @@ To increase your wp, you need to increase your desire over changing your appeara
 
 ## Interacting With The Inlife
 
-Detached souls can travel/teleport to the two semi-worlds. When they do travel to the inlife: they don't need to follow the rules of gravity, so they can fly. They also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
+Detached souls can travel/teleport to the two semi-worlds. When they do travel to the inlife: they don't follow the rules of gravity, so they can fly, they also can't touch any objects, so everything goes through them (this only applies for the inlife, not the afterlife).
+
+Why does this happen? Because: the two semi-worlds don't interact with eachother; causing any object—living organisms or inanimate objects—to not interact with the inlife world; the same is true for inlife objects in the afterlife (if an inlife object somehow enters the afterlife).
 
 Just like how when an organism dies, it teleports to that exact location in the afterlife: the same thing can be said for when a detached soul teleports between two semi-worlds.
 
@@ -1581,7 +1584,7 @@ Sometimes, even kandra can make mistakes, these mistakes are called **"Kandra Gl
 
 Kandra glitches are usually minor so they really don't concern kandra and usually do not get "fixed" by kandra.
 
-Kandra glitches are rare but they are found quite often, so an organization called **"Anomalous Phenomena Research Organization" (APRO)"** was made to study them. APRO was originally a department of The Combine but after it got split into the Authoritative & Democratic Combine: it turned into an international organization, operating on multiple space nations.
+Kandra glitches are rare but they are found quite often, so an organization called **"Anomalous Phenomena Research Organization" (APRO)"** was made to study them. APRO was originally a department of The Combine but after it got split into the Authoritative & Democratic Combine: it turned into an international organization; operating on multiple space nations.
 
 APRO gives name to the anomalies they find, and they have a structure in naming anomalies, the structure is:
 
@@ -1602,6 +1605,50 @@ Special IDs are usually two numbers (but can be more).
 
 APRO also gives the anomalies nicknames because trying to remember what is what with the structured names can be complicated; the structured names are called **"Anomaly IDs"**.
 
-APRO is informally call the "real life SCP Foundation" (in EiS) because both dealing with anomalies.
+APRO is informally call the "real life SCP Foundation" (in EiS) because both deal with anomalies.
 
 # Kandra Manipulation
+
+Now that we are familiar with what kandra is, it's time to get to the main part of the document—the reason I even made this—the power system; aka **"Kandra Manipulation"**. As the name implies: kandra manipulation is manipulating kandra to do what you want it to do; however manipulating kandra is easier said than done.
+
+Technically: anything that is made out of kandra or is related/connected to kandra can use kandra manipulation but practically: only intelligent life (like humans or alien species) are the only ones who can manipulate kandra because objects don't have wants and animals don't even know what kandra is.
+
+Let's begin by understanding what stability is.
+
+## Stability
+
+What is stability? To put it simply: stability is the connection you have with a kandra force; the more stability you have with a kandra force means the more connected you are with a kandra force; think of it as having a "friend", the more close you are with your friend: the more stable your friendship is (and more things you can get away with). Stability is a property of a person (specifically: their soul).
+
+Despite stability being the connection you have with a kandra force, you'll see how stability is used more as a resource later in the document.
+
+Stability is the very thing that even lets someone do kandra manipulation; without stability: a person cannot perform kandra manipulation.
+
+Now you might be asking: how does one even gain stability with a kandra force? What's the training method? For someone to gain stability with a kandra force: they have to fully focus on the thing the kandra force controls; for example: if someone wants to gain stability with the kandra-gravitational force: they have to fully focus on thinking about gravity. Visualizing can help someone stay focused.
+
+Sounds easy right? And to be honest: it kinda is. But this doesn't mean gaining stability is a piece of cake: focusing fully on something isn't exactly easy; your mind (probably) tends to wander off and that stops you from gaining stability.
+
+You will notice gaining stability when you feel something when focusing—that is you gaining stability—the more stability you have: the more intense the feeling gets, the feeling is called **"Kanfel" (kandra + feel)**. The feeling is not describable/must be experienced; like how you cannot fully describe how physical pain feels like to someone who is born with Congenital insensitivity to pain (CIP, someone who cannot feel physical pain). Most of our world is shaped by subjective experiences and kandra manipulation is no different. Stability with different forces each feel different.
+
+When you stop focusing on the thing that the kandra force controls: you also stop feeling the stability (kanfelling). You will feel it again when focusing back on the thing the kandra force controls.
+
+Another way to gain stability is by fully focusing on thinking about the ID of a kandra force. Kandra forces have IDs; we will get to them later.
+
+Stability is measured in stb (**st**a**b**ility) and follows the metric system. 1 second of focusing = 1 stb gained, however this isn't entirely true. There is something called the **"Kandra Force Value Hierarchy (KFVH)**. It's a hierarchy that states: the broader the force: the more value the force has, and the more value a force has: the more time it takes to gain 1 stb. Let's say: a kandra force's has 1 val (val measures value), then it would take 2 seconds to gain 1 stb. Value is added to time (1 s + 1 val = 2 s); so if a kandra force has 2 val: it would take 3 seconds to gain 1 stb.
+
+A fundamental force has 299 val (which means 300 s or 5 min = 1 stb) and each force below has a lesser val; so a sub force of a fundamental force will have less value and a sub force of that sub force has a lesser value and so on. There is a pattern on how the value decreases of each sub force, it's: 299-(10×[number of forces below the sub force is]); so a sub force below a fundamental force has a value of 289, a sub force that is 2 forces below will have the value of 279 and so on. The value of a kandra force cannot a negative number; so after going down 30 sub forces: the value will be 0.
+
+There is a way to fasten up gaining stability and that is by something called **"Familiarity"**. Familiarity is when a kandra force gets familiar with you, which: reduces the time for gaining stability. A person gains familiarity by gaining stability, 1 minute of gaining stability = 1 fam (fam measures familiarity). Just like stability, familiarity is a property of you (your soul).
+
+Familiarity divides the time by itself; so if you gaining stability with a fundamental force and you have 15 fam: it would take 20 second to gain 1 stb instead of 5 minutes.
+
+Note that the familiarity you gain is only for the kandra force you were gaining stability with; if you were gaining stability with the kandra-gravitational force and you gain familiarity from it, then: the familiarity will only work for the kandra-gravitational force, not any others. The same is said for stability as well; if you gain stability with the kandra-gravitational force: you won't get it for any others. You can have multiple stabilities and familiarities.
+
+Familiarity however is a bit different from stability; of course there is their different function but they also last differently. For stability: once you gain it: you won't lose it until you use it. For familiarity: for every 60 hours (roughly 3 days or 2 days and 12 hours) you don't gain stability: you will lose 1 fam.
+
+There is a formula to calculate how my stability you gain, that formula is:
+
+[WIP]
+
+---
+
+Stability and familiarity is stored in the soul so when someone dies: they don't lose the stability and the familiarity they gained
