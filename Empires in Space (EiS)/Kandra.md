@@ -1667,10 +1667,10 @@ Now let's do some examples:
 
 Let's say: you gain stability for 10 minutes with the kandra-gravitational force and you have 15 fam. We know kandra-gravitational force has 299 val since it is a fundamental force.
 
-> convert 10 minutes into seconds: 600 s
-> max outputs 15 fam
-> 600×15=9,000
-> 299+1=300
+> convert 10 minutes into seconds: 600 s  
+> max outputs 15 fam  
+> 600×15=9,000  
+> 299+1=300  
 > $\frac{9000}{300} = 30$
 
 **Ans**: S = 30 stb.
@@ -1679,10 +1679,10 @@ Let's say: you gain stability for 10 minutes with the kandra-gravitational force
 
 Let's say: you gain stability for 8 minutes with a kandra force with the value of 199 val and you have 0 fam.
 
-> convert 8 minutes into seconds: 480 s
-> max outputs 1
-> 480×1=480
-> 199+1=200
+> convert 8 minutes into seconds: 480 s  
+> max outputs 1  
+> 480×1=480  
+> 199+1=200  
 > $\frac{480}{200} = 2.4$
 
 **Ans**: S = 2.4 stb.
@@ -1691,10 +1691,10 @@ Let's say: you gain stability for 8 minutes with a kandra force with the value o
 
 Let's say: you gain stability for 5 minutes with a kandra force with the value of 0 val and you have 15 fam.
 
-> convert 5 minutes into seconds: 300 s
-> max outputs 15 fam
-> 300×15=4,500
-> 0+1=1
+> convert 5 minutes into seconds: 300 s  
+> max outputs 15 fam  
+> 300×15=4,500  
+> 0+1=1  
 > $\frac{4500}{1} = 4500$
 
 **Ans**: S = 4,500 stb.
