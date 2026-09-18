@@ -164,7 +164,7 @@ This is the only section the people of inlife mostly know and discovered by The 
 
 Every life in EiS has something called a **"Kandra Soul"** or simply called **"Soul"**. The soul is a **physical** substance that resides in the entire body; as in it occupies the entire body.
 
-You might be asking: if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you first need to know that souls reside in something called **soulspace**. Soulspace is a special branch of the afterlife which exists inside the inlife, meant to keep souls of living organisms.
+You might be asking: if souls are physical and occupies the entire body, where does organs and everything else reside? To answer that question, you first need to know that souls reside in something called the **"Soulspace"**. Soulspace is a special branch of the afterlife which exists inside the inlife, meant to keep souls of living organisms.
 
 Soulspace isn't exactly a single thing like the inlife or the afterlife, it's multiple. When a life is birthed (in the inlife): kandra automatically creates a soul and a soulspace for that soul to reside in for that organism.
 
@@ -1641,6 +1641,8 @@ Familiarity divides the time by itself; so if you gaining stability with a funda
 
 Note that the familiarity you gain is only for the kandra force you were gaining stability with; if you were gaining stability with the kandra-gravitational force and you gain familiarity from it, then: the familiarity will only work for the kandra-gravitational force, not any others. The same is said for stability as well; if you gain stability with the kandra-gravitational force: you won't get it for any others. You can have multiple stabilities and familiarities.
 
+However, if you gain stability with a force: you can use all the forces below the force you gained stability for; so if you gained stability with the kandra-biology force: you can manipulate all the sub forces below like kandra-human force, kandra-blood force, etc.
+
 Familiarity however is a bit different from stability; of course there is their different function but they also last differently. For stability: once you gain it: you won't lose it until you use it. For familiarity: for every 60 hours (roughly 3 days or 2 days and 12 hours) you don't gain stability: you will lose 1 fam.
 
 There is a formula to calculate how my stability you gain, that formula is:
@@ -1702,3 +1704,22 @@ Let's say: you gain stability for 5 minutes with a kandra force with the value o
 ---
 
 Stability and familiarity is stored in the soul so when someone dies: they don't lose the stability and the familiarity they gained
+
+## Creating A Kandra Factor
+
+Now that we know what stability is and how someone can gain it, let's learn how we can create a kandra factor. If it isn't obvious: you need stability to make one.
+
+Let's first begin by understanding what an **ansof** is:
+
+### Ansof
+
+What is an ansof? Basically: ansofs are symbols you can write with stability. What do I mean? You can use your stability to write symbols called ansofs like how you can write letters with your pen or pencil, you need to write ansofs to create kandra factors; think of them as binary code, computers cannot read human language, they can only understand 1s and 0s, similarly kandra factors cannot read human language, they can understand ansof. You could also think of ansofs as letters, each ansof is a letter.
+
+Writing ansofs cost stability and different ansofs costs different amounts of stability.
+
+Here is a list of all the ansofs:
+
+| Ansof | Name | Short Name | Desc | Cost |
+|-------|------|------------|------|------|
+|<img src="images/single_loop.png">|Single Loop|A|A single curled loop|1 stb|
+
