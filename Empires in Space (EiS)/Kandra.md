@@ -1720,6 +1720,6 @@ Writing ansofs cost stability and different ansofs costs different amounts of st
 Here is a list of all the ansofs:
 
 | Ansof | Name | Short Name | Desc | Cost |
-|-------|------|------------|------|------|
-|<img src="images/single_loop.png">|Single Loop|A|A single curled loop|1 stb|
-
+|-------|------|:------------:|------|------|
+|<img src="images/Kandra/Ansof/single_loop.png">|Single Loop|A|A single curled loop|1 stb|
+|<img src="images/Kandra/Ansof/line.png">|Line|L|A straight horizontal line|1 stb|
