@@ -94,8 +94,6 @@ Natural kandra factors constantly run and never stop; if they did: it would caus
 
 If natural kandra factors do one function then: some functions need other functions to work, so how do they? The answer to that question is: natural kandra factors can call eachother, when they do: their kandra force takes in the call, sees what kandra factor is being called, retrieves all the data (code you can say) from the called kandra factor and gives it to the caller kandra factor; so kandra forces also work as an interface or API (Application Programming Interface).
 
-There can be different kandra factors that do the same function, for example: the kandra-your hand force can have a kandra factor for how your hand moves and the kandra-velocity can have a factor for how everything moves, both the factors affect how your hand moves but one only says how only your hand moves while the other says how everything moves; the difference is the scope.
-
 You might be asking: kandra factors needs to call other kandra factors to receive their function (sort of like a library in programming) but how can kandra factors call a kandra factor inside a different kandra force? The answer to that question is: forces can communicate with eachother. The kandra force takes the call function from a kandra factor, sees in what force the kandra factor is, calls that force to give the data of that factor, the force gives the calling kandra force the data from the factor and the force gives the data to the calling factor; so its like an interconnected tree of APIs (kandra forces) or the universe's internet.
 
 # Naming A Kandra Force And Kandra Factor
@@ -1637,7 +1635,7 @@ Stability is measured in stb (**st**a**b**ility) and follows the metric system. 
 
 A fundamental force has 299 val (which means 300 s or 5 min = 1 stb) and each force below has a lesser val; so a sub force of a fundamental force will have less value and a sub force of that sub force has a lesser value and so on. There is a pattern on how the value decreases of each sub force, it's: 299-(10×[number of forces below the sub force is]); so a sub force below a fundamental force has a value of 289, a sub force that is 2 forces below will have the value of 279 and so on. The value of a kandra force cannot a negative number; so after going down 30 sub forces: the value will be 0.
 
-There is a way to fasten up gaining stability and that is by something called **"Familiarity"**. Familiarity is when a kandra force gets familiar with you, which: reduces the time for gaining stability. A person gains familiarity by gaining stability, 1 minute of gaining stability = 1 fam (fam measures familiarity). Just like stability, familiarity is a property of you (your soul).
+There is a way to fasten up gaining stability and that is by something called **"Familiarity"**. Familiarity is when a kandra force gets familiar with you, which: reduces the time for gaining stability. A person gains familiarity by gaining stability, 2 minutes of gaining stability = 1 fam (fam measures familiarity). Just like stability, familiarity is a property of you (your soul).
 
 Familiarity divides the time by itself; so if you gaining stability with a fundamental force and you have 15 fam: it would take 20 second to gain 1 stb instead of 5 minutes.
 
@@ -1647,7 +1645,59 @@ Familiarity however is a bit different from stability; of course there is their 
 
 There is a formula to calculate how my stability you gain, that formula is:
 
-[WIP]
+$S = \frac{T\times max\left(1,F\right)}{V+1}$
+
+Where S means the total stability gained (measured in stb), T means the time spent on gaining stability (measured in seconds), V means the value of a kandra force (measured in val) and F means the familiarity you have with that force (measured in fam). max() prevents F being 0 otherwise S also becomes 0.
+
+It can also be written as:
+
+$S = \frac{T\times max\left(1,F\right)}{max\left(1,\left(299+1\right)-10\times D\right)}$
+
+Where D is how many forces down a force is and max() prevents the denominator from being 0 or a negative number. But people usually use the first formula
+
+You might be asking: didn't you say familiarity divides the total time it takes for 1 stb? Why are we multiplying familiarity with time? Now you could write it as:
+
+$\frac{T}{\frac{V+1}{F}}$
+
+But we could simplify that to: $T\times \frac{F}{V+1}$ which further simplified is $\frac{T\times F}{V+1}$ and add max(1,F) to prevent the formula being 0.
+
+Now let's do some examples:
+
+*Example #1*:
+
+Let's say: you gain stability for 10 minutes with the kandra-gravitational force and you have 15 fam. We know kandra-gravitational force has 299 val since it is a fundamental force.
+
+> convert 10 minutes into seconds: 600 s
+> max outputs 15 fam
+> 600×15=9,000
+> 299+1=300
+> $\frac{9000}{300} = 30$
+
+**Ans**: S = 30 stb.
+
+*Example #2*:
+
+Let's say: you gain stability for 8 minutes with a kandra force with the value of 199 val and you have 0 fam.
+
+> convert 8 minutes into seconds: 480 s
+> max outputs 1
+> 480×1=480
+> 199+1=200
+> $\frac{480}{200} = 2.4$
+
+**Ans**: S = 2.4 stb.
+
+*Example #3*:
+
+Let's say: you gain stability for 5 minutes with a kandra force with the value of 0 val and you have 15 fam.
+
+> convert 5 minutes into seconds: 300 s
+> max outputs 15 fam
+> 300×15=4,500
+> 0+1=1
+> $\frac{4500}{1} = 4500$
+
+**Ans**: S = 4,500 stb.
 
 ---
 
