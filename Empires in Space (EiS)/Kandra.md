@@ -1759,6 +1759,8 @@ There are also numbers in ansof form, each ansof is a different number, Here is 
 |<img src="images/Kandra/Ansof/af_9.png" width="100" height="100">|9|Looks like an simplified trident symbol|1 stb|
 
 
+(Apologies for my drawings, just pretend they are good)
+
 There is an ansof called "short line" which just looks like a short line, it is placed under ansofs to connect them like a word; it costs 0.1 stb. A group of ansofs arranged like a word is called Ansofate (ˈæn.sɔf.ˌeit).
 
 There is also another ansof called the "decimal" which looks like the decimal dot and it's function is the same.
