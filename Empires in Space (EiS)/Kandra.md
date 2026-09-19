@@ -1729,7 +1729,7 @@ Here is a list of all the ansofs:
 |<img src="images/Kandra/Ansof/double_up_loop.png">|Double Up Loop|B|An up loop with two curls|3 stb|
 |<img src="images/Kandra/Ansof/triple_up_loop.png">|Triple Up Loop|E|An up loop with three curls|4 stb|
 |<img src="images/Kandra/Ansof/circle.png">|Circle|O|A circle|2 stb|
-|<img src="images/Kandra/Ansof/triangle.png">Triangle|A|A triangle|3 stb|
+|<img src="images/Kandra/Ansof/triangle.png">|Triangle|A|A triangle|3 stb|
 |<img src="images/Kandra/Ansof/leaf.png">|Leaf|D|It can be described as looking like a leaf or an lowercase e with the tail shortening and the upper part being angled back/open|2 stb|
 |<img src="images/Kandra/Ansof/left_bracket.png">|Left Bracket|F|Looks like "["|1 stb|
 |<img src="images/Kandra/Ansof/right_bracket.png">|Right Bracket|R|Looks like "]"|1 stb|
@@ -1747,16 +1747,16 @@ There are also numbers in ansof form, each ansof is a different number, Here is 
 
 |Ansof|Number|Desc|Cost|
 |-----|------|----|----|
-|<img src="images/Kandra/Ansof/af_0.png">|0|Looks like a 0 with a horizontal line inside it|1 stb|
-|<img src="images/Kandra/Ansof/af_1.png">|1|Looks like a diagonal "P" with another curved line behind and bottom the first one; looks like the infinity symbol|1 stb|
-|<img src="images/Kandra/Ansof/af_2.png">|2|Looks like the Aries zodiac symbol|1 stb|
-|<img src="images/Kandra/Ansof/af_3.png">|3|Looks like a diagonal z with the top and bottom lines being shortened|1 stb|
-|<img src="images/Kandra/Ansof/af_4.png">|4|Looks like two diamond shapes touching eachother with the far sides being erased and a vertical line in the middle|1 stb|
-|<img src="images/Kandra/Ansof/af_5.png">|5|Looks like a diamond shape with two diagonal lines coming out from the side corners|1 stb|
-|<img src="images/Kandra/Ansof/af_6.png">|6|Looks like an X with a horizontal line on the top|1 stb|
-|<img src="images/Kandra/Ansof/af_7.png">|7|Looks like an hook or the question mark symbol without the dot|1 stb|
-|<img src="images/Kandra/Ansof/af_8.png">|8|Looks like an uppercase C with a vertical line on the bottom|1 stb|
-|<img src="images/Kandra/Ansof/af_9.png">|9|Looks like an simplified trident symbol|1 stb|
+|<img src="images/Kandra/Ansof/af_0.png" width="100" height="100">|0|Looks like a 0 with a horizontal line inside it|1 stb|
+|<img src="images/Kandra/Ansof/af_1.png" width="100" height="100">|1|Looks like a diagonal "P" with another curved line behind and bottom the first one; looks like the infinity symbol|1 stb|
+|<img src="images/Kandra/Ansof/af_2.png" width="100" height="100">|2|Looks like the Aries zodiac symbol|1 stb|
+|<img src="images/Kandra/Ansof/af_3.png" width="100" height="100">|3|Looks like a diagonal z with the top and bottom lines being shortened|1 stb|
+|<img src="images/Kandra/Ansof/af_4.png" width="100" height="100">|4|Looks like two diamond shapes touching eachother with the far sides being erased and a vertical line in the middle|1 stb|
+|<img src="images/Kandra/Ansof/af_5.png" width="100" height="100">|5|Looks like a diamond shape with two diagonal lines coming out from the side corners|1 stb|
+|<img src="images/Kandra/Ansof/af_6.png" width="100" height="100">|6|Looks like an X with a horizontal line on the top|1 stb|
+|<img src="images/Kandra/Ansof/af_7.png" width="100" height="100">|7|Looks like an hook or the question mark symbol without the dot|1 stb|
+|<img src="images/Kandra/Ansof/af_8.png" width="100" height="100">|8|Looks like an uppercase C with a vertical line on the bottom|1 stb|
+|<img src="images/Kandra/Ansof/af_9.png" width="100" height="100">|9|Looks like an simplified trident symbol|1 stb|
 
 
 There is an ansof called "short line" which just looks like a short line, it is placed under ansofs to connect them like a word; it costs 0.1 stb. A group of ansofs arranged like a word is called Ansofate (ˈæn.sɔf.ˌeit).
