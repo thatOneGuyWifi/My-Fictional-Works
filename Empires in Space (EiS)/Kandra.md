@@ -41,7 +41,9 @@
 [Kandra Can Make Mistakes](#kandra-can-make-mistakes)
 
 [Kandra Manipulation](#kandra-manipulation)  
-└─ [Stability](#stability)
+├─ [Stability](#stability)  
+└─ [Creating A Kandra Factor](#creating-a-kandra-factor)  
+&nbsp;&nbsp;&nbsp;&nbsp;└─ [Ansof](#ansof)
 
 # Introduction
 
@@ -1761,6 +1763,21 @@ There are also numbers in ansof form, each ansof is a different number, Here is 
 
 (Apologies for my drawings, just pretend they are good)
 
-There is an ansof called "short line" which just looks like a short line, it is placed under ansofs to connect them like a word; it costs 0.1 stb. A group of ansofs arranged like a word is called Ansofate (ˈæn.sɔf.ˌeit).
+There is an ansof called "short line" which just looks like a short line, it is placed under ansofs to connect them like a word; it costs 0.1 stb. A group of ansofs arranged like a word (that does something like: keywords, datatypes, names, etc) is called an **"Ansofate"** (ˈæn.sɔf.ˌeit).
 
-There is also another ansof called the "decimal" which looks like the decimal dot and it's function is the same.
+There is also another ansof called the "decimal" which looks like the decimal dot and it's function is the same; costing 0.5 stb.
+
+But how does someone even write ansofs? We know they need stability but what's the process? Writing ansofs is another must be experienced thing that is not fully describable. Think of stability as like a pen/pencil you have; without a pen/pencil: you cannot write and stability is the special type of pen/pencil that lets you write these ansofs.
+
+Okay but what are ansofs exactly? Like what are they made of? Ansofs are properties of kandra factors (which are properties of kandra forces) so they really aren't made up of anything; like how color isn't "made up" of anything but they both have lasting physical effects.
+
+The "code" of a kandra factor (all the ansofs inside the kandra factor) is called the **"Ansofilya"** (ˈæn.sɔf.ˌɪl.jaː).
+
+There is another special ansof called the **"Kanket"** (ˈkæn.ˌkeit). It is the first thing you have to write to even create a kandra factor, kanket defines a factor; it's like the border/parameters of the factor. Multiple kankets make up the **"Ansofilya Border"/"Factor Border"**, with a length (number of lines) and width (number of possible ansofs inside a line without spaces) 1 kanket = 1 line and 1 kanket = 1 ansof. You can set the width and length of an ansofilya border but a standard ansofilya border—which composes of 20 lines and 50 ansofs in one line (without spaces, a total of 1,000 kankets)—costs 10 stb; also yes, you can space ansofs and spacing costs 0 stb. Here is the table of an ansofilya border:
+
+| Ansof | Name | Desc | Cost |
+|-------|------|------|------|
+|<img src="images/Kandra/Ansof/kanket.png">|Kanket|Looks like with "Π" connected with a short horitonzal line on the bottom; the line is also present for the second "Π"|0.01 stb (individual)|
+
+
+*(Fun Fact: "Ansof" means "symbol/letter" in combine, "Ansofate" means "word" and "Ansofilya" means "paragraph")*
