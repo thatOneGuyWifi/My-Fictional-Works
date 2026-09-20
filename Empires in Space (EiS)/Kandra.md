@@ -43,7 +43,7 @@
 [Kandra Manipulation](#kandra-manipulation)  
 ├─ [Stability](#stability)  
 └─ [Creating A Kandra Factor](#creating-a-kandra-factor)  
-&nbsp;&nbsp;&nbsp;&nbsp;└─ [Ansof](#ansof)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Ansof](#ansof)
 
 # Introduction
 
