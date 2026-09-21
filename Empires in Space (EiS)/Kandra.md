@@ -1778,8 +1778,8 @@ There is also mathematical operations in ansof form, here is the list:
 |<img src="images/Kandra/Ansof/root.png">|root (√), root with no number defaults to a square root|Looks like a flipped root symbol|3 stb|
 |<img src="images/Kandra/Ansof/greater_than.png">|greater than (>)|Looks like a right triangle without the horiztonal line pointed right|1 stb|
 |<img src="images/Kandra/Ansof/less_than.png">|less than (<)|Looks like a right triangle without the horiztonal line pointed left|1 stb|
-|<img src="images/Kandra/Ansof/gte_than.png">|greater than or equal (≥)|greater than ansof symbol + equal ansof symbol inside|2 stb|
-|<img src="images/Kandra/Ansof/lte_than.png">|less than or equal (≤)|less than ansof symbol + equal ansof symbol inside|2 stb|
+|<img src="images/Kandra/Ansof/gte.png">|greater than or equal (≥)|greater than ansof symbol + equal ansof symbol inside|2 stb|
+|<img src="images/Kandra/Ansof/lte.png">|less than or equal (≤)|less than ansof symbol + equal ansof symbol inside|2 stb|
 
 
 There is also an ansof symbol for grouping things (like parenthesis) but there is only 1 instead of the 3 grouping symbols ((), [], {}) and even it only has one symbol (no pairs like ( and )). Here is it's table:
