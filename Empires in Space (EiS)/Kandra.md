@@ -84,6 +84,8 @@ Two or more kandra forces from different branches (under different sub/fundament
 
 Kandra force which has another kandra force under it by force linking is called **"Superior Kandra Force"** or simply superior force and the kandra force that is under another kandra force by linking is called **"Inferior Kandra Force"** or simply inferior force; note that superior and inferior labels here are relative as a superior force can an be inferior force and an inferior force can be a superior force. A superior force can have many inferior forces and an inferior force can have many superior forces.
 
+Kandra forces that are in the same level by linking (not below or above it) are called **"Parallel Kandra Forces"** or simply parallel forces, and unlike superior and inferior labels being relative: parallel is not.
+
 ## Kandra Factors
 
 Now, I've said that kandra forces control an aspect of reality, but they don't run it; for example: the kandra-gravitational force has the function of gravity under it but it doesn't make gravity work itself. So, what does run the aspects of reality? Something called **"Kandra Factor(s)"**.
@@ -1578,6 +1580,8 @@ Chargic Energy; though separate from kandra; follows kandra inside the EiS unive
 
 The EiS universe in EiS is called "Erison" (named after The Combine scientist who discovered kandra) and the non-kandra universe is called "Delmos" (named after the demon who introduced Chargic Energy to EiS), together they are called the "Erison-Delmos dual-universe" or "EiS dual-universe" (this name is not canon inside EiS).
 
+In the EiS dual-universe: the future does not exist, only the present and past does; this means there is no "fate" or "destiny" in EiS and actions have effects.
+
 # Kandra Can Make Mistakes
 
 Sometimes, even kandra can make mistakes, these mistakes are called **"Kandra Glitch(es)"**. Kandra glitches doesn't happen often; that would be chaos; kandra glitches happen rarely but when they happen: they have a structure to them.
@@ -1761,9 +1765,42 @@ There are also numbers in ansof form, each ansof is a different number, Here is 
 |<img src="images/Kandra/Ansof/af_9.png" width="100" height="100">|9|Looks like an simplified trident symbol|1 stb|
 
 
+There is also mathematical operations in ansof form, here is the list:
+
+|Ansof|Operation|Desc|Cost|
+|-----|---------|----|----|
+|<img src="images/Kandra/Ansof/addition.png">|addition (+)|Looks like a wavy plus sign|1 stb|
+|<img src="images/Kandra/Ansof/subtraction.png">|subtraction (-)|Looks like a wavy minus sign| 1 stb|
+|<img src="images/Kandra/Ansof/multiplication.png">|multiplication (×)|Looks like a triangle without the horizontal line and a dot in the middle|2 stb|
+|<img src="images/Kandra/Ansof/division.png">|division (÷)|Looks like a cane/candy cane|2 stb|
+|<img src="images/Kandra/Ansof/equal.png">|equal (=)|Looks like ":"|1 stb|
+|<img src="images/Kandra/Ansof/exponent.png">|exponent/power of (^)|Looks like an upside down capital E|3 stb|
+|<img src="images/Kandra/Ansof/root.png">|root (√), root with no number defaults to a square root|Looks like a flipped root symbol|3 stb|
+|<img src="images/Kandra/Ansof/greater_than.png">|greater than (>)|Looks like a right triangle without the horiztonal line pointed right|1 stb|
+|<img src="images/Kandra/Ansof/less_than.png">|less than (<)|Looks like a right triangle without the horiztonal line pointed left|1 stb|
+|<img src="images/Kandra/Ansof/gte_than.png">|greater than or equal (≥)|greater than ansof symbol + equal ansof symbol inside|2 stb|
+|<img src="images/Kandra/Ansof/lte_than.png">|less than or equal (≤)|less than ansof symbol + equal ansof symbol inside|2 stb|
+
+
+There is also an ansof symbol for grouping things (like parenthesis) but there is only 1 instead of the 3 grouping symbols ((), [], {}) and even it only has one symbol (no pairs like ( and )). Here is it's table:
+
+|Ansof|Name|Desc|Cost|
+|-----|----|----|----|
+|<img src="images/Kandra/Ansof/grouper.png">|Grouper|Looks like a flipped elonged S|1 stb|
+
+
+There is also an ansof symbol for making strings; in programming: you use single/double quotes to write a string, a string is basically a piece of text. In ansof there is a dedicated symbol for it. Here is the table:
+
+|Ansof|Name|Desc|Cost|
+|-----|----|----|----|
+|<img src="images/Kandra/Ansof/stringer.png">|Stringer|A vertical line with a small circle in the middle| 3 stb|
+
+
+The special thing about strings is no matter how long or short a string is: it will always cost 3 stb.
+
 (Apologies for my drawings, just pretend they are good)
 
-There is an ansof called "short line" which just looks like a short line, it is placed under ansofs to connect them like a word; it costs 0.1 stb. A group of ansofs arranged like a word (that does something like: keywords, datatypes, names, etc) is called an **"Ansofate"** (ˈæn.sɔf.ˌeit).
+A group of ansofs arranged like a word (that does something like: keywords, datatypes, names, etc) is called an **"Ansofate"** (ˈæn.sɔf.ˌeit). Ansofates are separated by spaces.
 
 There is also another ansof called the "decimal" which looks like the decimal dot and it's function is the same; costing 0.5 stb.
 
@@ -1779,5 +1816,7 @@ There is another special ansof called the **"Kanket"** (ˈkæn.ˌkeit). It is th
 |-------|------|------|------|
 |<img src="images/Kandra/Ansof/kanket.png">|Kanket|Looks like with "Π" connected with a short horitonzal line on the bottom; the line is also present for the second "Π"|0.01 stb (individual)|
 
+
+So there is 20 base ansofs, 10 numerical ansofs, 11 operational ansofs, 3 special ansofs, which is a total of 44 ansofs.
 
 *(Fun Fact: "Ansof" means "symbol/letter" in combine, "Ansofate" means "word" and "Ansofilya" means "paragraph")*
