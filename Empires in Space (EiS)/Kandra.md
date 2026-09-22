@@ -57,7 +57,7 @@ In EiS: everything is made of kandra, everything is kandra; from objects to sent
 
 Since everything is made out of kandra: kandra is divided into categories called **"Kandra Force(s)"**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality/a physical concept.
 
-Kandra forces can control something broad as gravity, atoms, velocity or something specific as smart phone; making the number of kandra forces vast and practically infinite. Think of kandra forces as fields of science: in science: different fields specialize in studying different aspects of science; like how chemistry studies how atoms interact with eachother or how biology studies how living beings work; just like that, kandra forces specialize in controlling different aspects of reality/physical concepts.
+Kandra forces can control something broad as gravity, atoms, velocity or something specific as smart phone; making the number of kandra forces vast. Think of kandra forces as fields of science: in science: different fields specialize in studying different aspects of science; like how chemistry studies how atoms interact with eachother or how biology studies how living beings work; just like that, kandra forces specialize in controlling different aspects of reality/physical concepts.
 
 However, there is a limit to what can be a kandra force, specifically: there are two specifications that can't be a kandra force:
 - Abstract concepts (like love, justice, etc)
@@ -1804,7 +1804,7 @@ A group of ansofs arranged like a word (that does something like: keywords, data
 
 There is also another ansof called the "decimal" which looks like the decimal dot and it's function is the same; costing 0.5 stb.
 
-But how does someone even write ansofs? We know they need stability but what's the process? Writing ansofs is another must be experienced thing that is not fully describable. Think of stability as like a pen/pencil you have; without a pen/pencil: you cannot write and stability is the special type of pen/pencil that lets you write these ansofs.
+But how does someone even write ansofs? We know they need stability but what's the process? Writing ansofs is another must be experienced thing that is not fully describable. Think of stability as like a pen/pencil you have; without a pen/pencil: you cannot write and stability is the special type of pen/pencil that lets you write these ansofs. Each ansof comes instinctively to someone when they gain stability so they know how to write different ansofs.
 
 Okay but what are ansofs exactly? Like what are they made of? Ansofs are properties of kandra factors (which are properties of kandra forces) so they really aren't made up of anything; like how color isn't "made up" of anything but they both have lasting physical effects.
 
@@ -1820,3 +1820,19 @@ There is another special ansof called the **"Kanket"** (ˈkæn.ˌkeit). It is th
 So there is 20 base ansofs, 10 numerical ansofs, 11 operational ansofs, 3 special ansofs, which is a total of 44 ansofs.
 
 *(Fun Fact: "Ansof" means "symbol/letter" in combine, "Ansofate" means "word" and "Ansofilya" means "paragraph")*
+
+### Kandra Manipulation Abstraction Language
+
+What is Kandra Manipulation Abstraction Language (kmal)? Kmal is a pseudo-programming language made to make writing Ansofilya easier. It's not an actual programming language so you can't execute programs written in kmal inside a computer; it's meant for writing Ansofilya.
+
+This doesn't mean you don't have to use ansofs—you have to use ansofs when making a factor—kmal is an abstraction layer. With kmal: you can write the code in english first before writing it in ansofilya, experiment on the code—try to make it use the least amount of stability, fix any errors, etc—before adding it to ansofilya; kmal let's you understand what you wrote better than ansofilya.
+
+Kmal does not have a compiler which compiles the code into ansofilya, you have to do that yourself; kmal lets you flesh out the code and you could just copy the code into ansofilya; you can also look at it as kmal has a compiler, it's just you are the compiler. Fortunately, writing ansofilya is much easier than binary since binary has two symbols (1 and 0) and there are 44 ansofs; ansofilya is pretty close to actual high-level programming.
+
+Kandra Manipulation Abstraction Language was made by The Combine. They made it be as close as possible to ansofilya syntax while keeping it largely readable and since ansofilya syntax is relatively simple: the only noticeable change is everything is written in english (or another language) and not ansofs; so "compiling" is very easy. Think of kmal as the assembly for ansofs but much easier.
+
+There are many apps out there which runs kmal but the most popular one is called **"RealityEditor"** made by Molven Faz in The Combine. It gives you how much stability it takes to make the factor and also run it, it tells you where you made errors in the code; basically a code editor dedicated for one language but you can't run it.
+
+There is something called **"KMALIndex"** (also made by Molven). KMALIndex has a list of all natural factors and most of the public artificial ones; most people when they make a public artificial factor publish it to KMALIndex (in kmal of course). KMALIndex also has a list of most if not all the kandra forces.
+
+By learning the syntax of kmal: you will also learn the syntax of ansofilya; so we will learn the syntax of kmal.
