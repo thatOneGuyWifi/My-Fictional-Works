@@ -1883,7 +1883,7 @@ But what is a keyword? A keyword is reserved word that does something; like trig
 
 *Short Name (which means the keyword written in short names of ansofs)*: Q
 
-*Ansofate*: <img src="images/Kandra/Ansof/single_loop.png">
+*Ansofate*: <img src="images/Kandra/Ansof/single_loop.png" width="30" height="30">
 
 *Syntax*: VAR "\[name]" \[value]
 
