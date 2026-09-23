@@ -1928,6 +1928,6 @@ If a function doesn't have any arguments: you don't need to write any values but
 
 *Short Name*: FD
 
-*Ansofate*: <img src="images/Kandra/Ansof/left_bracket.png" width="30" height="30"><img src="images/Kandra/Ansof/leaf.png" width="30" height="30">
+*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/return.png" width="30" height="30">
 
 *Description*: RETURN outputs a result from a function; it returns the data/result from a variable or operation. Functions usually have them; written at the end.
