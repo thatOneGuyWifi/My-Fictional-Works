@@ -43,7 +43,8 @@
 [Kandra Manipulation](#kandra-manipulation)  
 ├─ [Stability](#stability)  
 └─ [Creating A Kandra Factor](#creating-a-kandra-factor)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Ansof](#ansof)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Ansof](#ansof)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Kandra Manipulation Abstraction Language](#kandra-manipulation-abstraction-language)  
 
 # Introduction
 
@@ -1887,8 +1888,36 @@ But what is a keyword? A keyword is reserved word that does something; like trig
 
 *Syntax*: VAR "\[name]" \[value]
 
-*Description*: VAR is a keyword that lets you declare and assign a variable. The name of a variable is written with quotes/stringers; this means a variable name can be anything and can include spaces. Anything that comes after the name is the value. You can just declare a variable like VAR "name" and that will have the value of null (nothing). 
+*Description*: VAR lets you declare and assign a variable. The name of a variable is written with quotes/stringers; this means a variable name can be anything and can include spaces. Anything that comes after the name is the value. You can just declare a variable like VAR "name" and that will have the value of null (nothing). 
 
 To assign true/false to a variable: the short name of true is AO and the short name of false is OA.
 
-To use a variable, you have to write it as: v"name" (Q"name" in ansof); the v let's kmal know the name is a variable.
+To use a variable, you have to write it as: v"\[name]" (Q"\[name]" in ansof); the v let's kmal know the name is a variable.
+
+- **END**
+
+*Short Name*: G
+
+*Ansofate*: <img src="images/Kandra/Ansof/single_up_loop.png" width="30" height="30">
+
+*Syntax*: END (keyword)
+
+*Description*: END by itself will stop the factor but if a keyword is after it (which usually is) then it ends that keyword. It's used for keywords that contain code, like if or functions.
+
+- **FUNC**:
+
+*Short Name*: Y
+
+*Ansofate*: <img src="images/Kandra/Ansof/double_loop.png" width="30" height="30">
+
+*Syntax*:
+
+FUNC "\[name]" "(argument name 1)" "(argument name 2)"...
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]
+END FUNC
+
+*Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(argument name 1)" "(argument name 2)". What are arguments? Arguments are data/value you give to a function for it to work/use. Arguments are separated by spaces.
+
+You write arguments like you write variables inside a function: v"\[argument name]". To write functions, you write it as: f"\[name]" (Y"\[name]" in ansof).
+
+If a function doesn't have any arguments: you don't need to write any values but if a function does have arguments: you have to give a values to them, written like: f"\[name]" \[value 1] \[value 2]... .

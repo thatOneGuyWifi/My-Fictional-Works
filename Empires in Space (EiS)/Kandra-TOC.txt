@@ -36,4 +36,5 @@ The Afterlife
 Kandra Manipulation
 ├─ Stability
 └─ Creating A Kandra Factor
-   └─ Ansof
+   ├─ Ansof
+   └─ Kandra Manipulation Abstraction Language
