@@ -1912,8 +1912,8 @@ To use a variable, you have to write it as: v"\[name]" (Q"\[name]" in ansof); th
 
 *Syntax*:
 
-FUNC "\[name]" "(argument name 1)" "(argument name 2)"...
-&nbsp;&nbsp;&nbsp;&nbsp;\[code]
+FUNC "\[name]" "(argument name 1)" "(argument name 2)"...  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END FUNC
 
 *Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(argument name 1)" "(argument name 2)". What are arguments? Arguments are data/value you give to a function for it to work/use. Arguments are separated by spaces.
