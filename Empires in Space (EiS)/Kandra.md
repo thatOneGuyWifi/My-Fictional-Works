@@ -1948,13 +1948,11 @@ You use arguments like you write variables inside a function: v"\[argument name]
 
 If a function doesn't have any arguments: you don't need to write any values but if a function does have arguments: you have to give a values to them, written like: f"\[name]" \[value 1] \[value 2]... .
 
----
-
 - **RETURN**:
 
 *Short Name*: FD
 
-*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/return.png" width="50" height="50">
+*Ansofate*: <img src="images/Kandra/Ansof/left_bracket.png" width="30" height="30"><img src="images/Kandra/Ansof/leaf.png" width="30" height="30">
 
 *Cost*: 4 stb.
 
@@ -1966,7 +1964,7 @@ If a function doesn't have any arguments: you don't need to write any values but
 
 *Short Name*: HZ
 
-*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/if.png" width="50" height="50">
+*Ansofate*: <img src="images/Kandra/Ansof/round_h.png" width="30" height="30"><img src="images/Kandra/Ansof/straight_z.png" width="30" height="30">
 
 *Syntax*:
 
@@ -1984,7 +1982,7 @@ Along with IF is the keyword ELSE.
 
 *Short Name*: OP
 
-*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/else.png" width="30" height="30">
+*Ansofate*: <img src="images/Kandra/Ansof/circle.png" width="30" height="30"><img src="images/Kandra/Ansof/up_bracket.png" width="30" height="30">
 
 *Syntax*:
 
@@ -2003,3 +2001,21 @@ END IF
 *Short Name*: OP HZ
 
 *Ansofate*:<img src="images/Kandra/Ansof/circle.png" width="30" height="30"><img src="images/Kandra/Ansof/up_bracket.png" width="30" height="30">&nbsp;&nbsp;<img src="images/Kandra/Ansof/round_h.png" width="30" height="30"><img src="images/Kandra/Ansof/straight_z.png" width="30" height="30">
+
+*Syntax*:
+
+IF \[condition]  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+ELSE IF \[condition]  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END IF
+
+*Cost*: 7 stb.
+
+*Description*: if the condition in the IF statement is false: it will run the code in the else if statement *only* if the condition in the else if statement is true. An else statement usually accompanies an if block even with an else if.
+
+There can be multiple else if statements inside an if block.
+
+If a condition is the same in both/multiple statements: the statement that comes first will run (if the condition is met).
+
+---
