@@ -1888,6 +1888,8 @@ But what is a keyword? A keyword is reserved word that does something; like trig
 
 *Syntax*: VAR "\[name]" \[value]
 
+*Cost*: 1 stb.
+
 *Description*: VAR lets you declare and assign a variable. The name of a variable is written with quotes/stringers; this means a variable name can be anything and can include spaces. Anything that comes after the name is the value. You can just declare a variable like VAR "name" and that will have the value of null (nothing). 
 
 To assign true/false to a variable: the short name of true is AO and the short name of false is OA.
@@ -1931,3 +1933,19 @@ If a function doesn't have any arguments: you don't need to write any values but
 *Ansofate*: <img src="images/Kandra/Ansof/Ansofate/return.png" width="50" height="50">
 
 *Description*: RETURN outputs a result from a function; it returns the data/result from a variable or operation. Functions usually have them; written at the end.
+
+- **IF**:
+
+*Short Name*: MT
+
+*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/if.png" width="50" height="50">
+
+*Syntax*:
+
+IF \[condition]  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END IF
+
+*Description*: IF runs code inside it if the condition given is true; for example: you have a variable x with the value 2, you write an if statement which says if x is 2, then: x will be 3, since x *is* 2: x will now be 3, if x is anything other than 2: the if statement will not run.
+
+
