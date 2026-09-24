@@ -1988,7 +1988,7 @@ Along with IF is the keyword ELSE.
 
 IF \[condition]  
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
-ELSE
+ELSE  
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END IF
 
