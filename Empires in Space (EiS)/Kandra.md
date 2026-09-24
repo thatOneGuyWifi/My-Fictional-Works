@@ -1898,6 +1898,22 @@ To use a variable, you have to write it as: v"\[name]" (Q"\[name]" in ansof); th
 
 Note: variables have global scope (can be accessed anywhere in the factor); so functions can access variables declared outside and variables declared inside functions can be accessed by outside code.
 
+---
+
+- **CONST**:
+
+*Short Name*: W
+
+*Ansofate*: <img src="images/Kandra/Ansof/triple_loop.png" width="30" height="30">
+
+*Syntax*: CONST "\[name]" \[value]
+
+*Cost*: 3 stb.
+
+*Description*: CONST works like a variable except once you assign a value to it: you cannot reassign another value to it (you'd have to change the value where the variable was first assigned). A const variable is called a "constant". Using a constant is same as a variable (v"\[name]").
+
+---
+
 - **END**
 
 *Short Name*: G
@@ -1906,7 +1922,11 @@ Note: variables have global scope (can be accessed anywhere in the factor); so f
 
 *Syntax*: END (keyword)
 
+*Cost*: 2 stb.
+
 *Description*: END by itself will stop the factor but if a keyword is after it (which usually is) then it ends that keyword. It's used for keywords that contain code, like if or functions.
+
+---
 
 - **FUNC**:
 
@@ -1920,11 +1940,15 @@ FUNC "\[name]" "(argument name 1)" "(argument name 2)"...
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END FUNC
 
+*Cost*: 2 stb.
+
 *Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(argument name 1)" "(argument name 2)". What are arguments? Arguments are data/value you give to a function for it to work/use. Arguments are separated by spaces.
 
 You use arguments like you write variables inside a function: v"\[argument name]". To use/call functions, you write it as: f"\[name]" (Y"\[name]" in ansof).
 
 If a function doesn't have any arguments: you don't need to write any values but if a function does have arguments: you have to give a values to them, written like: f"\[name]" \[value 1] \[value 2]... .
+
+---
 
 - **RETURN**:
 
@@ -1932,11 +1956,15 @@ If a function doesn't have any arguments: you don't need to write any values but
 
 *Ansofate*: <img src="images/Kandra/Ansof/Ansofate/return.png" width="50" height="50">
 
+*Cost*: 4 stb.
+
 *Description*: RETURN outputs a result from a function; it returns the data/result from a variable or operation. Functions usually have them; written at the end.
+
+---
 
 - **IF**:
 
-*Short Name*: MT
+*Short Name*: HZ
 
 *Ansofate*: <img src="images/Kandra/Ansof/Ansofate/if.png" width="50" height="50">
 
@@ -1946,6 +1974,32 @@ IF \[condition]
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END IF
 
+*Cost*: 3 stb.
+
 *Description*: IF runs code inside it if the condition given is true; for example: you have a variable x with the value 2, you write an if statement which says if x is 2, then: x will be 3, since x *is* 2: x will now be 3, if x is anything other than 2: the if statement will not run.
 
+Along with IF is the keyword ELSE.
 
+- **ELSE**:
+
+*Short Name*: OP
+
+*Ansofate*: <img src="images/Kandra/Ansof/Ansofate/else.png" width="30" height="30">
+
+*Syntax*:
+
+IF \[condition]  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+ELSE
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END IF
+
+*Cost*: 4 stb.
+
+*Description*: if the condition in the IF statement is false: it will run the code in the else statement. You can combine IF and ELSE together to make ELSE IF.
+
+- **ELSE IF**:
+
+*Short Name*: OP HZ
+
+*Ansofate*:<img src="images/Kandra/Ansof/circle.png" width="30" height="30"><img src="images/Kandra/Ansof/up_bracket.png" width="30" height="30">&nbsp;&nbsp;<img src="images/Kandra/Ansof/round_h.png" width="30" height="30"><img src="images/Kandra/Ansof/straight_z.png" width="30" height="30">
