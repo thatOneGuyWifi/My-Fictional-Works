@@ -1742,10 +1742,10 @@ Here is a list of all the ansofs:
 |<img src="images/Kandra/Ansof/right_bracket.png">|Right Bracket|R|Looks like "]"|1 stb|
 |<img src="images/Kandra/Ansof/up_bracket.png">|Up Bracket|P|Looks like "Π"|2 stb|
 |<img src="images/Kandra/Ansof/cross.png">|Cross|X|Looks like "X"|3 stb|
-|<img src="images/Kandra/Ansof/cup.png">|Cup|U|Looks like a wide U with a line on it's right side or like an upside down lowercase h|5 stb|
+|<img src="images/Kandra/Ansof/cup.png">|Cup|U|Looks like a wide U with a line on it's right side or like an upside down lowercase h|3 stb|
 |<img src="images/Kandra/Ansof/round_h.png">|Round H|H|Looks like a flipped lowercase h with the handle being separated, connected by a curved line|2 stb|
-|<img src="images/Kandra/Ansof/wave_n.png">|Wave N|N|Looks like an uppercase N that is round, looking like a wave|4 stb|
-|<img src="images/Kandra/Ansof/umbrella_t.png">|Umbrella T|T|Looks like an uppercase T with the top part being curved|5 stb|
+|<img src="images/Kandra/Ansof/wave_n.png">|Wave N|N|Looks like an uppercase N that is round, looking like a wave|2 stb|
+|<img src="images/Kandra/Ansof/umbrella_t.png">|Umbrella T|T|Looks like an uppercase T with the top part being curved|3 stb|
 |<img src="images/Kandra/Ansof/straight_z.png">|Straight Z|Z|Looks like an uppercase Z with the diagonal line is a vertical one|1 stb|
 |<img src="images/Kandra/Ansof/up_straight_z.png">|Up Straight Z|M|Straight z but pointed up|2 stb|
 
@@ -1886,7 +1886,7 @@ But what is a keyword? A keyword is reserved word that does something; like trig
 
 *Ansofate*: <img src="images/Kandra/Ansof/single_loop.png" width="30" height="30">
 
-*Syntax*: VAR "\[name]" \[value]
+*Syntax*: VAR "\[name]" (value)
 
 *Cost*: 1 stb.
 
@@ -1896,7 +1896,11 @@ To assign true/false to a variable: the short name of true is AO and the short n
 
 To use a variable, you have to write it as: v"\[name]" (Q"\[name]" in ansof); the v let's kmal know the name is a variable.
 
-Note: variables have global scope (can be accessed anywhere in the factor); so functions can access variables declared outside and variables declared inside functions can be accessed by outside code.
+Variable declared outside any functions/classes are global (can be accessed anywhere in the factor) but variables declared inside a function/class is local (can only be accessed by the function/class and anything nested inside it). You can see how to access a variable from a function/class in their respective sections.
+
+Note that two variables cannot share a same name inside a factor. Anything with \[letter]"\[name]" cannot share the same name.
+
+*(Fun Fact: you name a variable or anything a single space because spaces are technically recognized as an ansof).*
 
 ---
 
@@ -1906,11 +1910,13 @@ Note: variables have global scope (can be accessed anywhere in the factor); so f
 
 *Ansofate*: <img src="images/Kandra/Ansof/triple_loop.png" width="30" height="30">
 
-*Syntax*: CONST "\[name]" \[value]
+*Syntax*: CONST "\[name]" (value)
 
 *Cost*: 3 stb.
 
 *Description*: CONST works like a variable except once you assign a value to it: you cannot reassign another value to it (you'd have to change the value where the variable was first assigned). A const variable is called a "constant". Using a constant is same as a variable (v"\[name]").
+
+A constant and variable cannot share the same name aswell.
 
 ---
 
@@ -1936,17 +1942,19 @@ Note: variables have global scope (can be accessed anywhere in the factor); so f
 
 *Syntax*:
 
-FUNC "\[name]" "(argument name 1)" "(argument name 2)"...  
+FUNC "\[name]" ("parameter name 1") ("parameter name 2")...  
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END FUNC
 
 *Cost*: 2 stb.
 
-*Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(argument name 1)" "(argument name 2)". What are arguments? Arguments are data/value you give to a function for it to work/use. Arguments are separated by spaces.
+*Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(parameter name 1)" ("parameter name 2"). What are parameters? Parameters (also called arguments) are data/value you give to a function for it to work/use. Parameters are separated by spaces.
 
-You use arguments like you write variables inside a function: v"\[argument name]". To use/call functions, you write it as: f"\[name]" (Y"\[name]" in ansof).
+You use parameters like you use variables inside a function: v"\[parameter name]". To use/call functions, you write it as: f"\[name]" (Y"\[name]" in ansof).
 
-If a function doesn't have any arguments: you don't need to write any values but if a function does have arguments: you have to give a values to them, written like: f"\[name]" \[value 1] \[value 2]... .
+If a function doesn't have any parameter: you don't need to write any values but if a function does have parameters: you have to give a values to them, written like: f"\[name]" \[value 1] \[value 2]... .
+
+To access a variable declared inside a function outside that function, you have to write it as f"\[name]" v"\[name]"
 
 - **RETURN**:
 
@@ -2019,3 +2027,207 @@ There can be multiple else if statements inside an if block.
 If a condition is the same in both/multiple statements: the statement that comes first will run (if the condition is met).
 
 ---
+
+- **WHILE**:
+
+*Short Name*: EB
+
+*Ansofate*: <img src="images/Kandra/Ansof/triple_up_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/double_up_loop.png" width="30" height="30">
+
+*Syntax*:
+
+WHILE \[condition]  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END WHILE
+
+*Cost*: 5 stb.
+
+*Description*: Any code inside a while statement (or called a while loop) will repeat until the condition turns false. Usually the condition updates to turning false; if not: the loop will repeat infinitely; although an infinite loop is not as bad in kandra manipulation compared to actual programming and sometimes can be useful.
+
+Kmal—and by extension ansofilya—doesn't have a for loop, but you can make any loop with a while one.
+
+- **BREAK**:
+
+*Short Name*: X
+
+*Ansofate*: <img src="images/Kandra/Ansof/cross.png" width="30" height="30">
+
+*Cost*: 3 stb
+
+*Description*: BREAK stops a while loop even if the condition is still true. It's usually under an if statement to stop the loop if something happens.
+
+BREAK will break the loop it's in; so if there is another while loop inside a while loop and a BREAK is inside the inner while loop: only the inner while loop will stop.
+
+There is also a modifier for BREAK called ALL.
+
+- **ALL**:
+
+*Short Name*: XR
+
+*Ansofate*: <img src="images/Kandra/Ansof/cross.png" width="30" height="30"><img src="images/Kandra/Ansof/right_bracket.png" width="30" height="30">
+
+*Syntax*: BREAK ALL
+
+*Cost*: 4 stb.
+
+*Description*: BREAK ALL breaks the entire loop, no matter how nested it is.
+
+You can also use the ALL keyword with VAR (VAR ALL) to make a variable global; useful for variables inside functions/classes that need global access.
+
+---
+
+- **NOT**:
+
+*Short Name*: F
+
+*Ansofate*: <img src="images/Kandra/Ansof/left_bracket.png" width="30" height="30">
+
+*Cost*: 1 stb
+
+*Description*: NOT is a logic gate/operator which inverses the input or in other words: if the input is true: NOT will turn it false and vice versa.
+
+NOT is also added with other logic gates like AND, OR and XOR and with comparative operators like: greater than, less than, equal, etc. Usually when writing a comparative operators with NOT: NOT and the comparative operator doesn't have any spaces between them (this does not apply to NOT with other logic gates).
+
+- **AND**:
+
+*Short Name*: P
+
+*Ansofate*: <img src="images/Kandra/Ansof/up_bracket.png" width="30" height="30">
+
+*Cost*: 2 stb.
+
+*Description*: AND is a logic gate which outputs true if: all the inputs given to it are true; if even one input is false the entire output is false. AND is often paired with NOT (which is NOT AND) to form a nand gate; which outputs false if all the values are true and outputs true if at least one input if false.
+
+- **OR**:
+
+*Short Name*: R
+
+*Ansofate*: <img src="images/Kandra/Ansof/right_bracket.png" width="30" height="30">
+
+*Cost*: 1 stb.
+
+*Description*: OR is a logic gate which outputs true if: at least one input is true; if all inputs are false then OR will output false. OR is often paired with NOT (which is NOT OR) to form a nor gate; which outputs false is at least one input is true and outputs true if all inputs are false.
+
+- **XOR**:
+
+*Short Name*: OR
+
+*Ansofate*: <img src="images/Kandra/Ansof/circle.png" width="30" height="30"><img src="images/Kandra/Ansof/left_bracket.png" width="30" height="30">
+
+*Cost*: 3 stb.
+
+*Description*: XOR is a logic gates which outputs true if: an odd amount of inputs are true. If input A and Input B is both true or false: XOR will output false, if even one input is different, XOR will output true. XOR is often paired with NOT (which is NOT XOR) to form a xnor gate; which outputs false if odd number of inputs are true/false and outputs true if even number of inputs are true/false.
+
+---
+
+- **LIST**:
+
+*Short Name*: L
+
+*Ansofate*: <img src="images/Kandra/Ansof/line.png" width="30" height="30">
+
+*Syntax*: LIST "\[name]" (item 1) (item 2)...
+
+*Cost*: 1 stb.
+
+*Description*: A list is like a variable but it contains multiple values. To use a list, write it like this: l"\[name]" (written as L"\[name]" in ansofilya) This will give you all the values in a list. To select a specific item in a list, write: l"\[name]" \[item position number]. In programming the position number (called the index) of the first item is 0 but in kmal (and ansofilya) it's 1 (if you give 0 in the index: it will give the end item of the list).
+
+You can write lists inside a list with grouper, which would look something like:
+
+LIST "name" ("item 1" "item 2"...) ("item 1" "item 2"...)... . These are called nested lists.
+
+To select an inner list with all it's items, write: l"\[name]" \[list index] which will give all the values inside the inner list. To select an item inside an inner list, write: l"\[name]" \[list index] \[item index].
+
+With LIST, you can perform the operations: ADD, REMOVE, REPLACE.
+
+- **ADD**:
+
+*Short Name*: DT
+
+*Ansofate*: <img src="images/Kandra/Ansof/leaf.png" width="30" height="30"><img src="images/Kandra/Ansof/umbrella_t.png" width="30" height="30">
+
+*Syntax*: ADD LIST
+
+*Cost*: 5 stb.
+
+*Description*: ADD LIST adds an item or list to a list. To add an item to a list, write: ADD LIST l"\[name]" \[item] \[index]. This will push the item in that index and all the items following to the right (+1); adding an item at the end won't move any items. An index of 1 means the item will be placed at the start of the list and 0 means the item will be placed at the end of the list.
+
+To add an item inside an inner list, write: ADD LIST l"\[name]" \[item] \[list index] \[item index].
+
+To add a list inside a list, write: ADD LIST l"\[name]" ("item 1" "item 2"...) \[index]. If the list had no inner list: all the items inside it will be grouped into 1 (if there are items).
+
+---
+
+- **CLASS**:
+
+*Short Name*: M
+
+*Ansofate*: <img src="images/Kandra/Ansof/straight_up_z.png" width="30" height="30">
+
+*Syntax*:
+
+CLASS "\[name]"  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END CLASS
+
+*Cost*: 2 stb.
+
+*Description*: CLASS let's you create a class of your own. But what is a class? I suggest you study a but about Object-Oriented Programming (OOP) but to explain it simply: in OOP: there are objects; an object is an instance of a class, containing it's own values/data. For this example: think of an object as a car, a car has a color, model, brand, a car can drive, stop, etc. A class is like the blueprint of the car, every car has a color so there is a color field inside the blueprint, every car can drive so there is a function that let's car drive in the blueprint.
+
+Variables inside classes are called properties (in kmal, the name is different in many programming languages) and function inside classes are called methods but they are written the same in kmal/ansofilya.
+
+- **OBJ**:
+
+*Short Name*: O
+
+*Ansofate*: <img src="images/Kandra/Ansof/circle.png" width="30" height="30">
+
+*Syntax*: OBJ "\[name]" c"\[class]" (argument 1) (argument 2)...
+
+*Cost*: 2 stb.
+
+*Description*: OBJ declares an object. The object is assigned a class (blueprint) by c"\[class]" (written as M"\[class]" in ansofilya). You can see (argument 1) (argument 2), what are they? They are a part of something called an constructor; which we will get into shortly.
+
+To use an object, write it as: o"\[name]" (written as O"\[name]" in ansofilya).
+
+To access a property of an object, write it as: o"\[object]" v"\[property]". Accessing a method is the same but v"\[property]" is replaced with f"\[method]".
+
+From here we can fill out the fields, like for car we write:
+
+OBJ "car 1" c"Car"
+
+o"car 1" v"color" "blue"
+
+- **STRUCT**:
+
+*Short Name*: NU 
+
+*Ansofate*:<img src="images/Kandra/Ansof/wave_n.png" width="30" height="30"><img src="images/Kandra/Ansof/cup.png" width="30" height="30">
+
+*Syntax*:
+
+CLASS "\[name]"  
+&nbsp;&nbsp;&nbsp;&nbsp;(code)  
+&nbsp;&nbsp;&nbsp;&nbsp;STRUCT ("parameter 1") ("parameter 2")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(code)  
+&nbsp;&nbsp;&nbsp;&nbsp;END STRUCT  
+&nbsp;&nbsp;&nbsp;&nbsp;(code)  
+END CLASS
+
+*Cost*: 5 stb.
+
+*Description*: STRUCT creates a constructor. A constructor is a special method that is automatically called/ran when an object is made. STRUCT usually has parameters, making it enforce giving data/values to an object or letting you assign data in one line.
+
+A class can have multiple constructors, that is called "constructor overloading". Let's say: a class has two constructors, one with two parameters and the other with one. When you declare an object with that class: you can either give one or two arguments/data (but not more than two).
+
+Let's say: a class has three constructors, one with no parameters, one with one parameter and the other with two parameters. When you declare an object with that class: you can either give no, one or two arguments/data (but not more than two).
+
+Parameters are usually stored in variables inside the constructors for later use because normally: parameters aren't stored. Written like:
+
+CLASS "name"  
+&nbsp;&nbsp;&nbsp;&nbsp;STRUCT "Pname"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VAR "name" v"Pname"  
+&nbsp;&nbsp;&nbsp;&nbsp;END STRUCT  
+END CLASS
+
+Since parameters are basically variables, they cannot share the same names so a common naming convention for parameters (in constructors) is for the capital letter P to come first before the name. In actual programming: they have the keyword "this" to settle this but kmal (and ansofilya) doesn't have it.
