@@ -1942,13 +1942,13 @@ A constant and variable cannot share the same name aswell.
 
 *Syntax*:
 
-FUNC "\[name]" ("parameter name 1") ("parameter name 2")...  
+FUNC "\[name]" "(parameter name 1)" "(parameter name 2)"...  
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END FUNC
 
 *Cost*: 2 stb.
 
-*Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(parameter name 1)" ("parameter name 2"). What are parameters? Parameters (also called arguments) are data/value you give to a function for it to work/use. Parameters are separated by spaces.
+*Description*: FUNC lets you create a function of your own. The syntax is largely similar to VAR but as you have might have noticed, there are "(parameter name 1)" "(parameter name 2)". What are parameters? Parameters (also called arguments) are data/value you give to a function for it to work/use. Parameters are separated by spaces.
 
 You use parameters like you use variables inside a function: v"\[parameter name]". To use/call functions, you write it as: f"\[name]" (Y"\[name]" in ansof).
 
@@ -2146,15 +2146,49 @@ With LIST, you can perform the operations: ADD, REMOVE, REPLACE.
 
 *Ansofate*: <img src="images/Kandra/Ansof/leaf.png" width="30" height="30"><img src="images/Kandra/Ansof/umbrella_t.png" width="30" height="30">
 
-*Syntax*: ADD LIST
+*Syntax*: ADD LIST l"\[name]" \[item/list] \[index]
 
 *Cost*: 5 stb.
 
-*Description*: ADD LIST adds an item or list to a list. To add an item to a list, write: ADD LIST l"\[name]" \[item] \[index]. This will push the item in that index and all the items following to the right (+1); adding an item at the end won't move any items. An index of 1 means the item will be placed at the start of the list and 0 means the item will be placed at the end of the list.
+*Description*: ADD LIST adds an item or list to a list. To add an item to a list, write: ADD LIST l"\[name]" \[item] \[index]. This will push the items right of the added item to the right (+1); adding an item at the end won't move any items. An index of 1 means the item will be placed at the start of the list and 0 means the item will be placed at the end of the list.
 
 To add an item inside an inner list, write: ADD LIST l"\[name]" \[item] \[list index] \[item index].
 
-To add a list inside a list, write: ADD LIST l"\[name]" ("item 1" "item 2"...) \[index]. If the list had no inner list: all the items inside it will be grouped into 1 (if there are items).
+To add a list inside a list, write: ADD LIST l"\[name]" ("item 1" "item 2"...) \[index]. If the list had no inner list: all the items inside it will be grouped into one (if there are items).
+
+- **REMOVE**:
+
+*Short Name*: RT
+
+*Ansofate*: <img src="images/Kandra/Ansof/right_bracket.png" width="30" height="30"><img src="images/Kandra/Ansof/umbrella_t.png" width="30" height="30">
+
+*Syntax*: REMOVE LIST l"\[name]" \[index]
+
+*Cost*: 4 stb.
+
+*Description*: REMOVE LIST removes an item or a list from a list. To remove a item, write: l"\[name]" \[index]. This will push all the items to right to the removed item to the left (-1); again, removing the last item won't move anything. 1 will remove the first item and 0 will remove the last item.
+
+To remove a item from an inner list, write: l"\[name]" \[list index] \[item index]
+
+To remove an inner list, write: l"\[name]" "\[list index]"
+
+- **REPLACE**:
+
+*Short Name*: RP.
+
+*Ansofate*: <img src="images/Kandra/Ansof/right_bracket.png" width="30" height="30"><img src="images/Kandra/Ansof/up_bracket.png" width="30" height="30">
+
+*Syntax*: REPLACE LIST l"\[name]" \[list/item] (index)
+
+*Cost*: 3 stb.
+
+*Description*: REPLACE LIST replaces an item or list. To replace an item, write: l"\[name]" \[item] \[index]; this will replace the item in that index with the new item. 1 means you replace the first item and 0 means you replace the last.
+
+To replace an item from an inner list, write: l"\[name]" \[item] \[list index] \[item index]
+
+To replace an inner list, write: l"\[name]" "\[list]" "\[list index]"
+
+If you don't give an index: it will replace everything inside the list with the given item/list.
 
 ---
 
@@ -2208,11 +2242,13 @@ o"car 1" v"color" "blue"
 
 CLASS "\[name]"  
 &nbsp;&nbsp;&nbsp;&nbsp;(code)  
-&nbsp;&nbsp;&nbsp;&nbsp;STRUCT ("parameter 1") ("parameter 2")  
+&nbsp;&nbsp;&nbsp;&nbsp;STRUCT "(parameter 1)" "(parameter 2)"  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(code)  
 &nbsp;&nbsp;&nbsp;&nbsp;END STRUCT  
 &nbsp;&nbsp;&nbsp;&nbsp;(code)  
 END CLASS
+
+(Note you have to add code in at least one of the fields).
 
 *Cost*: 5 stb.
 
