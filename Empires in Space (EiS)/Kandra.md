@@ -1820,7 +1820,7 @@ There is another special ansof called the **"Kanket"** (ˈkæn.ˌkeit). It is th
 |<img src="images/Kandra/Ansof/kanket.png">|Kanket|Looks like with "Π" connected with a short horitonzal line on the bottom; the line is also present for the second "Π"|0.01 stb (individual)|
 
 
-So there is 20 base ansofs, 10 numerical ansofs, 11 operational ansofs, 3 special ansofs, which is a total of 44 ansofs.
+So there is 20 base ansofs, 10 numerical ansofs, 11 operational ansofs, 4 special ansofs, which is a total of 45 ansofs.
 
 *(Fun Fact: "Ansof" means "symbol/letter" in combine, "Ansofate" means "word" and "Ansofilya" means "paragraph")*
 
@@ -1892,17 +1892,15 @@ But what is a keyword? A keyword is reserved word that does something; like trig
 
 *Description*: VAR lets you declare and assign a variable. The name of a variable is written with quotes/stringers; this means a variable name can be anything and can include spaces. Anything that comes after the name is the value. You can just declare a variable like VAR "name" and that will have the value of null (nothing). 
 
-To assign true/false to a variable: the short name of true is AO and the short name of false is OA.
+To assign true/false to a variable: the short name of true is LQ and the short name of false is QL.
 
 To use a variable, you have to write it as: v"\[name]" (Q"\[name]" in ansof); the v let's kmal know the name is a variable.
 
 Variable declared outside any functions/classes are global (can be accessed anywhere in the factor) but variables declared inside a function/class is local (can only be accessed by the function/class and anything nested inside it). You can see how to access a variable from a function/class in their respective sections.
 
-Note that two variables cannot share a same name inside a factor. Anything with \[letter]"\[name]" cannot share the same name.
+Note that two variables cannot share a same name inside a factor. Anything with \[prefix]"\[name]" cannot share the same name.
 
 *(Fun Fact: you name a variable or anything a single space because spaces are technically recognized as an ansof).*
-
----
 
 - **CONST**:
 
@@ -1917,6 +1915,16 @@ Note that two variables cannot share a same name inside a factor. Anything with 
 *Description*: CONST works like a variable except once you assign a value to it: you cannot reassign another value to it (you'd have to change the value where the variable was first assigned). A const variable is called a "constant". Using a constant is same as a variable (v"\[name]").
 
 A constant and variable cannot share the same name aswell.
+
+- **NULL**:
+
+*Short Name*: ZM
+
+*Ansofate*: <img src="images/Kandra/Ansof/straight_z.png"><img src="images/Kandra/Ansof/straight_up_z.png">
+
+*Cost*: 3 stb.
+
+*Description*: NULL explicitly let's you assign null (nothing) to a variable.
 
 ---
 
@@ -2073,6 +2081,32 @@ There is also a modifier for BREAK called ALL.
 *Description*: BREAK ALL breaks the entire loop, no matter how nested it is.
 
 You can also use the ALL keyword with VAR (VAR ALL) to make a variable global; useful for variables inside functions/classes that need global access.
+
+---
+
+- **WAIT**:
+
+*Short Name*: WQ
+
+*Ansofate*: <img src="images/Kandra/Ansof/triple_loop.png"><img src="images/Kandra/Ansof/single_loop.png">
+
+*Syntax*: WAIT \[time in seconds]
+
+*Cost*: 4 stb.
+
+*Description*: WAIT stops the factor for a give amount of seconds.
+
+- **ACTIVATE**:
+
+*Short Name*: AL
+
+*Ansofate*: <img src="images/Kandra/Ansof/triangle.png"><img src="images/Kandra/Ansof/line.png">
+
+*Syntax*: ACTIVATE \[time in seconds]
+
+*Cost*: 4 stb.
+
+*Description*: ACTIVATE will start the factor after the given amount of seconds. A factor usually takes 5 seconds to activate, ACTIVATE can increase or decrease activation time.
 
 ---
 
@@ -2267,3 +2301,63 @@ CLASS "name"
 END CLASS
 
 Since parameters are basically variables, they cannot share the same names so a common naming convention for parameters (in constructors) is for the capital letter P to come first before the name. In actual programming: they have the keyword "this" to settle this but kmal (and ansofilya) doesn't have it.
+
+- **INHERIT**:
+
+*Short Name*: LH
+
+*Ansofate*: <img src="images/Kandra/Ansof/line.png"><img src="images/Kandra/Ansof/round_h.png">
+
+*Syntax*:
+
+CLASS "\[name]" INHERIT c"\[name]"  
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END CLASS
+
+*Cost*: 2 stb.
+
+*Description*: INHERIT lets a class have access to properties and methods of another class.
+
+---
+
+- **CALL**:
+
+*Short Name*: QQL
+
+*Ansofate*: <img src="images/Kandra/Ansof/single_loop.png"><img src="images/Kandra/Ansof/single_loop.png"><img src="images/Kandra/Ansof/line.png">
+
+*Syntax*: CALL "\[force ID/factor ID/name]"
+
+*Cost*: 3 stb.
+
+*Description*: CALL can call a kandra force (which the factor isn't in) or a kandra factor (from any kandra force); this is how kandra factors call eachother. But what does call, exactly? Call means to access all the data of a kandra factor/force; a data of a factor means all it's variables, functions, classes, objects or basically anything with an identifier (an element a user gives name to), a data of a force means the data of all the public factors inside it.
+
+Many artificial factors works like libraries or frameworks (in programming terms) and by calling their ID/name: you can use them inside your own factor.
+
+Let's say you call two factors and the two factors have a variable with the same name, but we know two variables cannot share the same name, so what happens? The variable which belongs to the factor that is called second will have 1 at the end of it's name. If you call three factors that have same variable name: the variable in the second called factor will have 1 in it's name, the variable in the third called factor will have 2 in it's name and the pattern continues. The pattern follows for every other \[prefix]"".
+
+Now let's say you call a force, that force probably has a variable name shared with many factors, so what happens here? That's where the keyword USE comes in.
+
+- **USE**:
+
+*Short Name*: YU
+
+*Ansofate*: <img src="images/Kandra/Ansof/double_loop.png"><img src="images/Kandra/Ansof/cup.png">
+
+*Syntax*: USE "\[factor ID/name]" \[prefix]"\[name]"
+
+*Cost*: 5 stb.
+
+*Description*: USE let's you select a variable/function/classes/object/etc from a specific factor inside a force. You can also use the USE keyword to import variables/functions/classes/object/etc with the same name; it will follow the previous pattern.
+
+---
+
+- **SET**:
+
+*Short Name*: LE 
+
+*Ansofate*: <img src="images/Kandra/Ansof/line.png"><img src="images/Kandra/Ansof/triple_up_loop.png">
+
+*Cost*: 5 stb.
+
+*Description*:
