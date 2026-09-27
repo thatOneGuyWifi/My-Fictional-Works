@@ -2435,7 +2435,7 @@ To make a diagonal line: you need to give data to both the x and y coordinates, 
 
 Additionally, you can make a line curved with the optional curve field. You use radians for the curve. If you put the value 6.283 into the field it will make a full circle as a circle is made of roughly 6.283 radians.
 
-You can also make multiple shapes into one shape by:
+You can also add previously defined shapes into one shape by:
 
 SHAPE "\[name]"  
 &nbsp;&nbsp;&nbsp;&nbsp;s"\[name]" \[x coordinate] \[y coordinate] \[z coordinate]  
