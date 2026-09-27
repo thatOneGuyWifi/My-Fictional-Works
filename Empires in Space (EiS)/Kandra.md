@@ -1924,7 +1924,7 @@ A constant and variable cannot share the same name aswell.
 
 *Short Name*: ZM
 
-*Ansofate*: <img src="images/Kandra/Ansof/straight_z.png"><img src="images/Kandra/Ansof/straight_up_z.png">
+*Ansofate*: <img src="images/Kandra/Ansof/straight_z.png" width="30" height="30"><img src="images/Kandra/Ansof/up_straight_z.png" width="30" height="30">
 
 *Cost*: 3 stb.
 
@@ -2092,7 +2092,7 @@ You can also use the ALL keyword with VAR (VAR ALL) to make a variable global; u
 
 *Short Name*: WQ
 
-*Ansofate*: <img src="images/Kandra/Ansof/triple_loop.png"><img src="images/Kandra/Ansof/single_loop.png">
+*Ansofate*: <img src="images/Kandra/Ansof/triple_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/single_loop.png" width="30" height="30">
 
 *Syntax*: WAIT \[time in seconds]
 
@@ -2222,7 +2222,7 @@ If you don't give an index: it will replace everything inside the list with the 
 
 *Short Name*: M
 
-*Ansofate*: <img src="images/Kandra/Ansof/straight_up_z.png" width="30" height="30">
+*Ansofate*: <img src="images/Kandra/Ansof/up_straight_z.png" width="30" height="30">
 
 *Syntax*:
 
@@ -2298,7 +2298,7 @@ Since parameters are basically variables, they cannot share the same names so a 
 
 *Short Name*: LH
 
-*Ansofate*: <img src="images/Kandra/Ansof/line.png"><img src="images/Kandra/Ansof/round_h.png">
+*Ansofate*: <img src="images/Kandra/Ansof/line.png" width="30" height="30"><img src="images/Kandra/Ansof/round_h.png" width="30" height="30">
 
 *Syntax*:
 
@@ -2316,7 +2316,7 @@ END CLASS
 
 *Short Name*: QQL
 
-*Ansofate*: <img src="images/Kandra/Ansof/single_loop.png"><img src="images/Kandra/Ansof/single_loop.png"><img src="images/Kandra/Ansof/line.png">
+*Ansofate*: <img src="images/Kandra/Ansof/single_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/single_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/line.png" width="30" height="30">
 
 *Syntax*: CALL "\[force ID/factor ID/name]"
 
@@ -2334,7 +2334,7 @@ Now let's say you call a force, that force probably has a variable name shared w
 
 *Short Name*: YU
 
-*Ansofate*: <img src="images/Kandra/Ansof/double_loop.png"><img src="images/Kandra/Ansof/cup.png">
+*Ansofate*: <img src="images/Kandra/Ansof/double_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/cup.png" width="30" height="30">
 
 *Syntax*: USE "\[factor ID/name]" \[prefix]"\[name]"
 
@@ -2348,7 +2348,7 @@ Now let's say you call a force, that force probably has a variable name shared w
 
 *Short Name*: LE 
 
-*Ansofate*: <img src="images/Kandra/Ansof/line.png"><img src="images/Kandra/Ansof/triple_up_loop.png">
+*Ansofate*: <img src="images/Kandra/Ansof/line.png" width="30" height="30"><img src="images/Kandra/Ansof/triple_up_loop.png" width="30" height="30">
 
 *Cost*: 5 stb.
 
@@ -2370,7 +2370,7 @@ Now let's say you call a force, that force probably has a variable name shared w
 
 *Syntax*:
 
-RESTRICT
+RESTRICT  
 &nbsp;&nbsp;&nbsp;&nbsp;\[code]  
 END RESTRICT
 
