@@ -1632,7 +1632,7 @@ Now you might be asking: how does one even gain stability with a kandra force? W
 
 Sounds easy right? And to be honest: it kinda is. But this doesn't mean gaining stability is a piece of cake: focusing fully on something isn't exactly easy; your mind (probably) tends to wander off and that stops you from gaining stability.
 
-You will notice gaining stability when you feel something when focusing—that is you gaining stability—the more stability you have: the more intense the feeling gets, the feeling is called **"Kanfel" (kandra + feel)**. The feeling is not describable/must be experienced; like how you cannot fully describe how physical pain feels like to someone who is born with Congenital insensitivity to pain (CIP, someone who cannot feel physical pain). Most of our world is shaped by subjective experiences and kandra manipulation is no different. Stability with different forces each feel different.
+You will notice gaining stability when you feel something when focusing—that is you gaining stability—the more stability you have: the more intense the feeling gets, the feeling is called **"Kanfel" (kandra + feel)**. The feeling is not describable/must be experienced; like how you cannot fully describe how physical pain feels like to someone who is born with Congenital insensitivity to pain (CIP, someone who cannot feel physical pain). Most of our world is shaped by subjective experiences and kandra manipulation is no different. Stability with different forces each feel different. Kanfelling can actually help you keep focus.
 
 When you stop focusing on the thing that the kandra force controls: you also stop feeling the stability (kanfelling). You will feel it again when focusing back on the thing the kandra force controls.
 
@@ -1741,7 +1741,7 @@ Here is a list of all the ansofs:
 |<img src="images/Kandra/Ansof/left_bracket.png">|Left Bracket|F|Looks like "["|1 stb|
 |<img src="images/Kandra/Ansof/right_bracket.png">|Right Bracket|R|Looks like "]"|1 stb|
 |<img src="images/Kandra/Ansof/up_bracket.png">|Up Bracket|P|Looks like "Π"|2 stb|
-|<img src="images/Kandra/Ansof/cross.png">|Cross|X|Looks like "X"|3 stb|
+|<img src="images/Kandra/Ansof/cross.png">|Cross|X|Looks like "X"|2 stb|
 |<img src="images/Kandra/Ansof/cup.png">|Cup|U|Looks like a wide U with a line on it's right side or like an upside down lowercase h|3 stb|
 |<img src="images/Kandra/Ansof/round_h.png">|Round H|H|Looks like a flipped lowercase h with the handle being separated, connected by a curved line|2 stb|
 |<img src="images/Kandra/Ansof/wave_n.png">|Wave N|N|Looks like an uppercase N that is round, looking like a wave|2 stb|
@@ -1832,13 +1832,17 @@ This doesn't mean you don't have to use ansofs—you have to use ansofs when mak
 
 Kmal does not have a compiler which compiles the code into ansofilya, you have to do that yourself; kmal lets you flesh out the code and you could just copy the code into ansofilya; you can also look at it as kmal has a compiler, it's just you are the compiler. Fortunately, writing ansofilya is much easier than binary since binary has two symbols (1 and 0) and there are 44 ansofs; ansofilya is pretty close to actual high-level programming.
 
-Kandra Manipulation Abstraction Language was made by The Combine. They made it be as close as possible to ansofilya syntax while keeping it largely readable and since ansofilya syntax is relatively simple: the only noticeable change is everything is written in english (or another language) and not ansofs; so "compiling" is very easy. Think of kmal as the assembly for ansofs but much easier.
+Kandra Manipulation Abstraction Language was made by The Combine. They made it be as close as possible to ansofilya syntax while keeping it largely readable and since ansofilya syntax is relatively simple: the only noticeable change is everything is written in english (or another language) and not ansofs and comments exist; so "compiling" is very easy. Think of kmal as the assembly for ansofs but much easier.
 
 There are many apps out there which runs kmal but the most popular one is called **"RealityEditor"** made by Molven Faz in The Combine. It gives you how much stability it takes to make the factor and also run it, it tells you where you made errors in the code; basically a code editor dedicated for one language but you can't run it.
 
 There is something called **"KMALIndex"** (also made by Molven). KMALIndex has a list of all natural factors and most of the public artificial ones; most people when they make a public artificial factor publish it to KMALIndex (in kmal of course). KMALIndex also has a list of most if not all the kandra forces.
 
 By learning the syntax of kmal: you will also learn the syntax of ansofilya; so we will learn the syntax of kmal. Anything that applies to kmal applies to ansofilya (until stated otherwise)
+
+Programming languages have comments, comments are written into the program to document code and is ignored by the program. Kmal also has comments, a single line comment has double slashes (//) at the start of a comment (// like this) and a multiple line comment starts with a slash and asterisk (/\*) and ends with a asterisk and slash (\*/) (/\*like this\*/).
+
+However ansofilya doesn't have comments so it's important to filter out the comments when "compiling".
 
 Kmal has 4 datatypes: integers (numbers), floats (decimals), boolean (true/false) and null (no value). But what is a datatype? Well, datatype is... A type of data—a type of value a variable can hold—it's pretty useful in programming, same for kmal.
 
@@ -2060,7 +2064,7 @@ Kmal—and by extension ansofilya—doesn't have a for loop, but you can make an
 
 *Ansofate*: <img src="images/Kandra/Ansof/cross.png" width="30" height="30">
 
-*Cost*: 3 stb
+*Cost*: 2 stb
 
 *Description*: BREAK stops a while loop even if the condition is still true. It's usually under an if statement to stop the loop if something happens.
 
@@ -2076,7 +2080,7 @@ There is also a modifier for BREAK called ALL.
 
 *Syntax*: BREAK ALL
 
-*Cost*: 4 stb.
+*Cost*: 3 stb.
 
 *Description*: BREAK ALL breaks the entire loop, no matter how nested it is.
 
@@ -2095,18 +2099,6 @@ You can also use the ALL keyword with VAR (VAR ALL) to make a variable global; u
 *Cost*: 4 stb.
 
 *Description*: WAIT stops the factor for a give amount of seconds.
-
-- **ACTIVATE**:
-
-*Short Name*: AL
-
-*Ansofate*: <img src="images/Kandra/Ansof/triangle.png"><img src="images/Kandra/Ansof/line.png">
-
-*Syntax*: ACTIVATE \[time in seconds]
-
-*Cost*: 4 stb.
-
-*Description*: ACTIVATE will start the factor after the given amount of seconds. A factor usually takes 5 seconds to activate, ACTIVATE can increase or decrease activation time.
 
 ---
 
@@ -2330,7 +2322,7 @@ END CLASS
 
 *Cost*: 3 stb.
 
-*Description*: CALL can call a kandra force (which the factor isn't in) or a kandra factor (from any kandra force); this is how kandra factors call eachother. But what does call, exactly? Call means to access all the data of a kandra factor/force; a data of a factor means all it's variables, functions, classes, objects or basically anything with an identifier (an element a user gives name to), a data of a force means the data of all the public factors inside it.
+*Description*: CALL can call a kandra force (which the factor isn't in) or a kandra factor (from any kandra force); this is how kandra factors call eachother. But what does call, exactly? Call means to access all the data of a kandra factor/force; a data of a factor means all it's variables, functions, classes, objects or basically anything with an identifier (an element a user gives name to), a data of a force means the data of all the public factors inside it. CALL is usually placed at the top of the factor.
 
 Many artificial factors works like libraries or frameworks (in programming terms) and by calling their ID/name: you can use them inside your own factor.
 
@@ -2360,4 +2352,111 @@ Now let's say you call a force, that force probably has a variable name shared w
 
 *Cost*: 5 stb.
 
-*Description*:
+*Description*: SET sets properties of a factor or turns the factor into something else (usually placed at the top of the factor). With SET, you can do:
+- SET PUBLIC (LE PL, 5+3 stb): Sets the factor public (by default a factor is public so there is no need to write this).
+- SET PRIVATE (LE OT, 5+5 stb): Sets the factor private (we will explore more about public and private factors later).
+- SET NAME "\[name]" (LE NH, 5+4 stb): Sets the name of a factor (written in ansof). If a factor from any kandra force has the name you want to assign your factor: it will follow the identifier numbering pattern (adding a number to the end of it).
+- SET ACTIVATE \[time in seconds] (LE AL, 5+4 stb): Sets the factor activation at the given time. By default: a factor activates in 5 seconds.
+- SET GROUP (LE GG, 5+4 stb): Sets the factor to a special group (you'll know more about this in the public vs private factors section)
+- SET RESTRICTION (LE BQ, 5+4 stb): Sets the factor to a Kandra Restriction (we will know more about this in Kandra Restriction).
+
+---
+
+- **RESTRICT**:
+
+*Short Name*: NA
+
+*Ansofate*: <img src="images/Kandra/Ansof/wave_n.png" width="30" height="30"><img src="images/Kandra/Ansof/triangle.png" width="30" height="30">
+
+*Syntax*:
+
+RESTRICT
+&nbsp;&nbsp;&nbsp;&nbsp;\[code]  
+END RESTRICT
+
+*Cost*: 5 stb.
+
+*Description*: RESTRICT embeds a kandra restriction inside the factor.
+
+---
+
+- **LOCAL**:
+
+*Short Name*: LLL
+
+*Ansofate*: <img src="images/Kandra/Ansof/line.png" width="30" height="30"> <img src="images/Kandra/Ansof/line.png" width="30" height="30"> <img src="images/Kandra/Ansof/line.png" width="30" height="30">
+
+*Syntax*: LOCAL (x coordinate) (y coordinate) (z coordinate) \[code]
+
+*Cost*: 3 stb.
+
+*Description*: LOCAL will set the effects of a factor locally so it doesn't affect everything. The optional coordinates is used for setting the effect of the factor away from the user (distance measured in meters). By default the coordinate are 0 and the user is the origin (where the coordinate are all 0).
+
+---
+
+- **DEAMP**:
+
+*Short Name*: GQ
+
+*Ansofate*: <img src="images/Kandra/Ansof/single_up_loop.png" width="30" height="30"><img src="images/Kandra/Ansof/single_loop.png" width="30" height="30">
+
+*Syntax*: DEAMP \[number]
+
+*Cost*: 3 stb.
+
+*Description*: When you amplify a factor (we will get to that later) DEAMP decreases the number instead of increasing it.
+
+---
+
+- **SHAPE**:
+
+*Short Name*: U
+
+*Ansofate*: <img src="images/Kandra/Ansof/cup.png" width="30" height="30">
+
+*Syntax*:
+
+SHAPE "\[name]"  
+&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (curvature)  
+&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (curvature)  
+...  
+END SHAPE
+
+
+*Cost*: 3 stb.
+
+*Description*: SHAPE let's you create a shape. To better understand this: visualizing the coordinate plane (or coordinate space) will help. When you first make a SHAPE block: imagine a point starting at the origin (0, 0, 0). Now imagine moving the point 10 units along the x axis, this made a horizontal line of 10 units, you would write this as: 10 0 0.
+
+Now imagine moving the point 10 units along the y axis, this made a vertical line of 10 units on top of the horizontal line, you would write this as: 0 10 0.
+
+Now repeat the step 2 times in the opposite direction (so -10) and you made a square!
+
+To make a diagonal line: you need to give data to both the x and y coordinates, so something like 12 20 0 is a diagonal line.
+
+Additionally, you can make a line curved with the optional curve field. You use radians for the curve. If you put the value 6.283 into the field it will make a full circle as a circle is made of roughly 6.283 radians.
+
+You can also make multiple shapes into one shape by:
+
+SHAPE "\[name]"  
+&nbsp;&nbsp;&nbsp;&nbsp;s"\[name]" \[x coordinate] \[y coordinate] \[z coordinate]  
+&nbsp;&nbsp;&nbsp;&nbsp;s"\[name]" \[x coordinate] \[y coordinate] \[z coordinate]  
+...  
+END SHAPE
+
+The shape spawns in the origin and the given coordinates positions the shape. This doesn't mean the previous shapes are deleted or merged into the shape.
+
+A unique property of SHAPE—like stringer—the entire shape block costs 3 stb, no matter how big or small.
+
+You might notice I used unit instead of metric, why? Because shapes are scalable (they can be big or small).
+
+- **ROTATE**:
+
+*Short Name*: XQ
+
+*Ansofate*: <img src="images/Kandra/Ansof/cross.png" width="30" height="30"><img src="images/Kandra/Ansof/single_loop.png" width="30" height="30">
+
+*Syntax*: ROTATE s"\[name]" \[radian]
+
+*Cost*: 3 stb.
+
+*Description*: ROTATE rotates a shape by a given radian.
