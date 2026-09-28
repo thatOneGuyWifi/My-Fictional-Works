@@ -44,7 +44,8 @@
 ├─ [Stability](#stability)  
 └─ [Creating A Kandra Factor](#creating-a-kandra-factor)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Ansof](#ansof)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Kandra Manipulation Abstraction Language](#kandra-manipulation-abstraction-language)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Kandra Manipulation Abstraction Language](#kandra-manipulation-abstraction-language)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [English In Ansof](#english-in-ansof)  
 
 # Introduction
 
@@ -2460,3 +2461,79 @@ You might notice I used unit instead of metric, why? Because shapes are scalable
 *Cost*: 3 stb.
 
 *Description*: ROTATE rotates a shape by a given radian.
+
+### English In Ansof
+
+When we write names of variables, functions, objects, etc. We have to write them in ansof. But when writing names: we usually write it in english (or another language), but we can't do that in the ansofilya. So: the Combine made a chart mapping the latin (english) alphabet to ansofs; they also did this for other writing scripts but for our purpose: we will only be doing english.
+
+Now you might be asking: there are 20 base ansofs and there are 26 letters in the latin (english) alphabet, how are we going to represent the other six? Using groupers.
+
+Here is a chart mapping latin letters to ansofs (using short names):
+
+| Letter | Short Name |
+|:------:|:----------:|
+|    a   |      A     |
+|    b   |      B     |
+|    c   |     (8)    |
+|    d   |      D     |
+|    e   |      E     |
+|    f   |      F     |
+|    g   |      G     |
+|    h   |      H     |
+|    i   |     (H)    |
+|    j   |     (B)    |
+|    k   |     (4)    |
+|    l   |      L     |
+|    m   |      M     |
+|    n   |      N     |
+|    o   |      O     |
+|    p   |      P     |
+|    q   |      Q     |
+|    r   |      R     |
+|    s   |     (N)    |
+|    t   |      T     |
+|    u   |      U     |
+|    v   |     (2)    |
+|    w   |      W     |
+|    x   |      X     |
+|    y   |      Y     |
+|    z   |      Z     |
+
+
+To capitalize letters: use the ansof symbol for exponent before the letter (^H for capital H), for letters that are represented by groupers: write the exponent symbol inside the grouper ((^8) for capital C). Writing numbers and operators are fairly straightforward; use the ansof version of them. Here is an example text of how you write "In the shelf" in ansof (short name): "(^H)N THE (N)HELF"
+
+The Combine have also mapped ansof punctuation and other symbols. Here is the table:
+
+| Symbol | Short Name |
+|:------:|:----------:|
+|    .   |the decimal ansof (.)|
+|    ,   |     (.)    |
+|    ;   |     (=.)   |
+|    :   |     (=)    |
+|    ?   |     (7)    |
+|    !   |     (M7)   |
+|    (   |     (<)    |
+|    )   |     (>)    |
+|    [   |     (Z<)   |
+|    ]   |     (Z>)   |
+|    {   |     (M<)   |
+|    }   |     (M>)   |
+|    /   |     (3)    |
+|    \   |     (3M)   |
+|    #   |     (HP)   |
+|    _   |     (L)    |
+|— (em-dash)|  (LM)   |
+|– (en-dash)|  (LN)   |
+|    *   |     (A)    |
+|    '   |     (Q)    |
+|    "   |     (DQ)   |
+|    &   |     (AN)   |
+|    @   |     (AD)   |
+|    $   |     (DOL)  |
+|   \|   |     (P)    |
+|    ~   |     (T)    |
+|    `   |     (BT)   |
+|    %   |    (100)   |
+
+
+

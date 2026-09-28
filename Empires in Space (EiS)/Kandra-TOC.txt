@@ -37,4 +37,5 @@ Kandra Manipulation
 ├─ Stability
 └─ Creating A Kandra Factor
    ├─ Ansof
-   └─ Kandra Manipulation Abstraction Language
+   ├─ Kandra Manipulation Abstraction Language
+   └─ English In Ansof
