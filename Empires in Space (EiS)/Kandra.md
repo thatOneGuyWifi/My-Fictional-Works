@@ -1,51 +1,7 @@
 > [!NOTE]
 > This document is not finished and still currently under development
 
-# Tables Of Content
-
-[Introduction](#introduction)  
-├─ [Kandra Forces](#kandra-forces)  
-└─ [Kandra Factors](#kandra-factors)  
-
-[Naming A Kandra Force And Kandra Factor](#naming-a-kandra-force-and-kandra-factor)
-
-[Origins And Discovery](#origins-and-discovery)
-
-[The Afterlife](#the-afterlife)  
-├─ [The Soul And Soulspace](#the-soul-and-soulspace)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─ [How An Organism Dies](#how-an-organism-dies)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Syovos](#the-syovos)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─ [Attached Souls And Detached Souls](#attached-souls-and-detached-souls)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─ [Life Birth And Soul Qualifications](#life-birth-and-soul-qualifications)  
-├─ [Willpower (wp)](#willpower-wp)  
-├─ [Interacting With The Inlife](#interacting-with-the-inlife)  
-│&nbsp;&nbsp;&nbsp;└─ [How To Train Your IIP](#how-to-train-your-iip)  
-├─ [Possession](#possession)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [E-SSPCAS](#e-sspcas)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [I-SSPCAS](#i-sspcas)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Possession Power Index (PPI)](#possession-power-index-ppi)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [How To Gain PPI And Train It](#how-to-gain-ppi-and-train-it)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [Multiple Invading Souls](#multiple-invading-souls)  
-├─ [Afterlife Special Status Substance](#afterlife-special-status-substance)  
-│&nbsp;&nbsp;&nbsp;└─ [List Of ASSS](#list-of-asss)  
-└─ [Society](#society)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Rismatre](#rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [About Rismatre](#about-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [The Rise Of Rismatre](#the-rise-of-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Fall Of Rismatre](#the-fall-of-rismatre)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [How Afterlife Society Works](#how-afterlife-society-works)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [The Great Afterlife War](#the-great-afterlife-war)  
-
-[The EiS Universe](#the-eis-universe)
-
-[Kandra Can Make Mistakes](#kandra-can-make-mistakes)
-
-[Kandra Manipulation](#kandra-manipulation)  
-├─ [Stability](#stability)  
-└─ [Creating A Kandra Factor](#creating-a-kandra-factor)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Ansof](#ansof)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─ [Kandra Manipulation Abstraction Language](#kandra-manipulation-abstraction-language)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─ [English In Ansof](#english-in-ansof)  
+See Tables Of Content in [Kandra-TOC.md](Kandra-TOC.md)
 
 # Introduction
 
@@ -1821,6 +1777,8 @@ There is another special ansof called the **"Kanket"** (ˈkæn.ˌkeit). It is th
 |<img src="images/Kandra/Ansof/kanket.png">|Kanket|Looks like with "Π" connected with a short horitonzal line on the bottom; the line is also present for the second "Π"|0.01 stb (individual)|
 
 
+Another unique thing about Kanket is that it is a force-specific ansof rather than an universal one like all the others. This means you can only create a factor border—hence the factor—inside the force you have stability with or any sub-force below it; you cannot place a factor border inside other higher forces or forces not connected to it.
+
 So there is 20 base ansofs, 10 numerical ansofs, 11 operational ansofs, 4 special ansofs, which is a total of 45 ansofs.
 
 *(Fun Fact: "Ansof" means "symbol/letter" in combine, "Ansofate" means "word" and "Ansofilya" means "paragraph")*
@@ -2448,7 +2406,7 @@ The shape spawns in the origin and the given coordinates positions the shape. Th
 
 A unique property of SHAPE—like stringer—the entire shape block costs 3 stb, no matter how big or small.
 
-You might notice I used unit instead of metric, why? Because shapes are scalable (they can be big or small).
+You might notice I used unit instead of metric, why? Because shapes are scalable (they can be big or small). After you are done creating a shape: you can set it's size like: s"\[name]" \[size]. Size is measured in meters. Since the shape stays the same as it gets bigger and smaller: the input affects all side (or the sides that keeps the shape same); that's why there is only one input.
 
 - **ROTATE**:
 
@@ -2536,4 +2494,41 @@ The Combine have also mapped ansof punctuation and other symbols. Here is the ta
 |    %   |    (100)   |
 
 
+### Makespace
 
+When you are creating a factor: stability automatically visualizes what the ansofilya—and the factor border—looks like (you don't have to visualize it yourself), and when you close your eyes: you can fully see the ansofilya; even if someone is unable to visualize things (aphantasia): stability will let you visualize the ansofilya. This is called the **"Makespace"**.
+
+Makespace is not an actual space but rather stability helping you visualize the process of making a factor (yes, stability can do that). Also: the visualization is also vivid.
+
+When you are creating a factor: You can add, delete or do whatever you want with the ansofs without it costing stability. That is called the creating phase and in the creating phase you can edit the ansofilya however you like.
+
+When you decided the ansofilya is done: you can either create it or discard it; both are must be experienced things that comes to the user instinctively once they have stability. Creating a factor makes the factor by taking all of the required stability. Discarding a factor discards the ansofilya in the creating phase and doesn't cost stability.
+
+If you do not have enough stability to create a factor given the ansofilya: it automatically gets discarded.
+
+### Public And Private Factors
+
+Kandra factors have owners, owners are the people who make made the factor. Owners can decide to make their factors public or private (by SET). All natural factors are public and owned by kandra itself.
+
+Public factors can be viewed, ran, edited and copied by anyone. A factor is public by default.
+
+Private factor can only be viewed, ran, edited and copied by the owner or anyone the owner decides to give access to.
+
+An owner can let anyone (souls) have access to their private factor; this is another must be experienced thing that comes to the owner instinctively. An owner can let the person have access to certain parts of a factor while restricting others. These are the things a person can have access to or be restricted from:
+- *(V) Viewability*: being able to view the ansofilya of the factor.
+- *(R) Runability*: being able to run the kandra factor.
+- *(E) Editability*: being able to edit a kandra factor (you also need to have access to viewability for this to be useful).
+- *(C) Copyability*: being able to copy a kandra factor (you also need to have access to viewability and editability for this to be useful).
+- *(A) Administrator*: having full access to the factor; basically a second owner.
+
+Again, being able to assign this to a person is a must be experienced thing and comes instinctively. The capital letters in parenthesis is used to write the access parts someone (or a group) has, following the order: V, R, E, C, A; if the person is an administrator: you don't need to write V, R, E or C. When writing them: you don't include spaces; for example: VR means someone can only view and edit the private factor.
+
+The owner can also make groups with a type of access and put people inside it. If you guessed making a group is a must be experienced thing: you would be correct. Access parts are written before the group name (if the group has a name); for example: A Group is a group with administrator access.
+
+Owners can also make "special groups" with SET GROUP. Special Groups are groups that have a set of rules that automatically decides who gets inside the group. SET GROUP will turn the factor to a special group. To set a special group for a factor, write: CALL "\[name/ID]"; a special group follows the same ID structure as a factor.
+
+An owner can pass ownership to another person; this is also a must be experienced thing. From here: anything that is a must be experienced thing will be marked with MBE. Only one person can be owner of a factor.
+
+Only the owner and administrator can delete a factor (MBE).
+
+Ownership is stored in the soul so when the owner dies: the factor isn't suddenly owner less.
