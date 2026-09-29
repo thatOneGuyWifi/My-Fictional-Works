@@ -4,7 +4,7 @@
 
 ## [Kandra Factors](Kandra.md#kandra-factors)
 
-# [Naming A Kandra Force And Kandra Factor](Kandra.md#namimg-a-kandra-force-and-kandra-factor)
+# [Naming A Kandra Force And Kandra Factor](Kandra.md#naming-a-kandra-force-and-kandra-factor)
 
 # [Origins And Discovery](Kandra.md#origins-and-discovery)
 
