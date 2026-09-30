@@ -1175,7 +1175,7 @@ Arkensis Elements and modified elements usually interact with eachother (keyword
 
 ### List Of ASSS
 
-#### Souls
+- **Souls**:
 
 Yes, the soul itself; attached souls, detached souls and pseudo-souls; are classified as an ASSS. 
 
@@ -1187,7 +1187,9 @@ Soulus usually looks yellow in color and comes as solids (Freezing/Melting Point
 
 Before we go, I want to clarify the **soulspace** is not an ASSS. The soulspace is a *space*; a special branch of the afterlife semi-world; not substance.
 
-#### Tuvlums
+---
+
+- **Tuvlums**:
 
 Tuvlums are made of an Arkensis Element called "Pontolum" (ᴬPt).
 
@@ -1197,7 +1199,9 @@ Pontolum is very flexible and stretchable. It interestingly doesn't interact wit
 
 Pontolum usually has 12 Orbital Arkensis but the end of Tuvlums which are connected to an organ has 23 Orbital Arkensis to each Pontolum which strangely does make Pontolum interact with the modified elements. The reason for why the end has 23 Orbital Arkensis Pontolums is to be connected with the organ to get energy, as for why 23 Orbital Arkensis make Pontolum interact with modified elements is unclear.
 
-#### Syovos
+---
+
+- **Syovos**:
 
 Just like tuvlums, The Syovos is also made of Pontolum. The ends of the Syovos are covered in a Soulus which seems to make the connection possible.
 
@@ -1205,13 +1209,17 @@ The Soulus coating is made of 23 Orbital Arkensis which makes the Soulus not int
 
 So it seems like 23 Orbital Arkensis inverses the Arkensis Element's interaction with modified element (might not be applicable to all).
 
-#### E-SSPCAS
+---
+
+- **E-SSPCAS**:
 
 E-Cassidy is made up of modified elements for the biological matter and Soulus.
 
 E-Cassidy's skin is replaced with Soulus: giving E-Cassidy it's yellow look.
 
-#### PCA Cells
+---
+
+- **PCA Cells**:
 
 PCA Cells are made of an Arkensis Element called "Kavak" (ᴬKv).
 
@@ -1236,7 +1244,9 @@ Here is a table of the number of Orbital Arkensis each PCA cells have:
 |  O-O-PCA |            7            |
 
 
-#### PAS
+---
+
+- **PAS**:
 
 PAS is made up of an Arkensis Element called "Tenilus" (ᴬT).
 
@@ -1244,13 +1254,17 @@ Tenilus usually looks pink and is usually a liquid (Freezing/Melting Point: 5 °
 
 Tenilus interestingly increases PPI for some odd reason.
 
-#### PASN
+---
+
+- **PASN**:
 
 PASN is also made up of Tenilus but with 3 Orbital Arkensis which makes it a solid; increasing the points (Freezing/Melting Point: 765 °C, Boiling/Condensing Point: 1,127 °C).
 
 The Tenilus also interestingly seems to convert the Tenilus (PAS) to PPI.
 
-#### PPI Slash/Shield
+---
+
+- **PPI Slash/Shield**:
 
 PPI Slashes and Shields are both made of an Arkensis Element called "Varmitos" (ᴬVm).
 

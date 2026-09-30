@@ -12,32 +12,86 @@
 
 ## [The Soul And Soulspace](Kandra.md#the-soul-and-soulspace)
 
-### [How An Organism Dies](/Empires%20in%20Space%20%28EiS%29/Kandra.md#how-an-organism-dies)
+### [How An Organism Dies](Kandra.md#attached-souls-and-detached-souls)
 
-### [The Syovos](Kandra.md#the-syovos)
+### [Life Birth And Soul Qualifications](Kandra.md#life-birth-and-soul-qualifications)
 
-### [Attached Souls And Detached Souls](/Empires%20in%20Space%20%28EiS%29/Kandra.md#attached-souls-and-detached-souls)
+### [Edge Cases](Kandra.md#edge-cases)
 
-### [Life Birth And Soul Qualifications](/Empires%20in%20Space%20%28EiS%29/Kandra.md#life-birth-and-soul-qualifications)
+## [Willpower (wp)](Kandra.md#willpower-wp)
 
-### [Edge Cases](/Empires%20in%20Space%20%28EiS%29/Kandra.md#edge-cases)
+## [Interacting With The Inlife](Kandra.md#interacting-with-the-inlife)
 
-## [Willpower (wp)](/Empires%20in%20Space%20%28EiS%29/Kandra.md#willpower-wp)
+### [How To Train Your IIP](Kandra.md#how-to-train-your-iip)
 
-## [Interacting With The Inlife](/Empires%20in%20Space%20%28EiS%29/Kandra.md#interacting-with-the-inlife)
+#### [IIP Expander Training](Kandra.md#iip-expander-training)
 
-### [How To Train Your IIP](/Empires%20in%20Space%20%28EiS%29/Kandra.md#how-to-train-your-iip)
+#### [Inlife Contact Expansion (ICE)](Kandra.md#inlife-contact-expansion-ice)
 
-#### [IIP Expander Training](/Empires%20in%20Space%20%28EiS%29/Kandra.md#iip-expander-training)
+##### [For tIIP](Kandra.md#for-tiip)
 
-#### [Inlife Contact Expansion (ICE)](/Empires%20in%20Space%20%28EiS%29/Kandra.md#inlife-contact-expansion-ice)
-
-##### [For tIIP](/Empires%20in%20Space%20%28EiS%29/Kandra.md#for-tiip)
-
-##### [For aIIP](/Empires%20in%20Space%20%28EiS%29/Kandra.md#for-aiip)
+##### [For aIIP](Kandra.md#for-aiip)
 
 ##### [For vIIP](Kandra.md#for-viip)
 
-#### [Formulas (IIP)](/Empires%20in%20Space%20%28EiS%29/Kandra.md#formulas-iip)
+#### [Formulas (IIP)](Kandra.md#formulas-iip)
 
+## [Possession](Kandra.md#possession)
 
+### [E-SSPCAS](Kandra.md#e-sspcas)
+
+### [I-SSPCAS](Kandra.md#i-sspcas)
+
+#### [Defence PCA Cells](Kandra.md#defence-pca-cells)
+
+#### [Offense PCA Cells](Kandra.md#offense-pca-cells)
+
+#### [Others (I-SSPCAS)](Kandra.md#others-i-sspcas)
+
+### [Possession Power Index (PPI)](Kandra.md#possession-power-index-ppi)
+
+#### [How To Gain PPI And Train It](Kandra.md#how-to-gain-ppi-and-train-it)
+
+### [Multiple Invading Souls](Kandra.md#multiple-invading-souls)
+
+## [Afterlife Special Status Substance](Kandra.md#afterlife-special-status-substance)
+
+### [List Of ASSS](Kandra.md#list-of-asss)
+
+## [Society](Kandra.md#society)
+
+### [Rismatre](Kandra.md#rismatre)
+
+#### [About Rismatre](Kandra.md#about-rismatre)
+
+#### [The Rise Of Rismatre](Kandra.md#the-rise-of-rismatre)
+
+#### [The Fall Of Rismatre](Kandra.md#the-fall-of-rismatre)
+
+### [How Afterlife Society Works](Kandra.md#how-afterlife-society-works)
+
+#### [Calendar & Time](Kandra.md#calendar-time)
+
+### [The Great Afterlife War](Kandra.md#the-great-afterlife-war)
+
+# [The EiS Universe](Kandra.md#the-eis-universe)
+
+# [Kandra Can Make Mistakes](Kandra.md#kandra-can-make-mistakes)
+
+# [Kandra Manipulation](Kandra.md#kandra-manipulation)
+
+## [Stability](Kandra.md#stability)
+
+## [Creating A Kandra Factor](Kandra.md#creating-a-kandra-factor)
+
+### [Ansof](Kandra.md#ansof)
+
+### [Kandra Manipulation Abstraction Language](Kandra.md#kandra-manipulation-abstraction-language)
+
+#### [List Of Keywords](Kandra.md#list-of-keywords)
+
+### [English In Ansof](Kandra.md#english-in-ansof)
+
+### [Makespace](Kandra.md#makespace)
+
+### [Public And Private Factors](Kandra.md#public-and-private-factors)
