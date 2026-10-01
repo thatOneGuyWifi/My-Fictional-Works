@@ -1564,7 +1564,7 @@ Kandra glitches are rare but they are found quite often, so an organization call
 
 APRO gives name to the anomalies they find, and they have a structure in naming anomalies, the structure is:
 
-> ANP-\[Safety Symbol][Special ID]
+> ANP-\[Safety Symbol]\[Special ID]
 
 (ANP means "ANomalous Phenomenon").
 
@@ -1835,15 +1835,13 @@ For fundamental force's ID: it's just the ansof symbolization for the fundamenta
 
 Now here is the ID structure for kandra factors:
 
-> \[force ID]f\[creation placement]\[unique ID]
+> \[force ID]f\[unique ID]
 
 Let's go over what each means:
 
 \[force ID]: the ID of the force the factor lies in.
 
 f: this means the ID is of a factor, in ansof: the f is a left bracket (which has the short name of F).
-
-\[creation placement]: when the factor was made. If the factor was made first then: it will be 1, if it it was made second: it will be 2, etc. The more important ones in a force are made first so it can also be seen as how important the factor is.
 
 \[unique ID]: every factor has a random set of numbers; it can be of single digit, double digits or any number of digits but usually it's double digit.
 
@@ -2512,7 +2510,7 @@ The Combine have also mapped ansof punctuation and other symbols. Here is the ta
 
 When you are creating a factor: stability automatically visualizes what the ansofilya—and the factor border—looks like (you don't have to visualize it yourself), and when you close your eyes: you can fully see the ansofilya; even if someone is unable to visualize things (aphantasia): stability will let you visualize the ansofilya. This is called the **"Makespace"**.
 
-Makespace is not an actual space but rather stability helping you visualize the process of making a factor (yes, stability can do that). Also: the visualization is also vivid.
+Makespace is not an actual space but rather stability helping you visualize the process of making a factor (yes, stability can do that). Also: the visualization is also vivid. It's noted that the ansofilya (and ansof) is yellow in color.
 
 When you are creating a factor: You can add, delete or do whatever you want with the ansofs without it costing stability. That is called the creating phase and in the creating phase you can edit the ansofilya however you like.
 
@@ -2546,3 +2544,9 @@ An owner can pass ownership to another person; this is also a must be experience
 Only the owner and administrator can delete a factor (MBE).
 
 Ownership is stored in the soul so when the owner dies: the factor isn't suddenly owner less.
+
+## Factor Hub
+
+Factor Hub is another visualization made by stability like makespace. It's purpose is to let people search public factors/forces and select those factors to view, run, edit and copy (view, run, edit and copy is MBE. Opening Factor Hub is also MBE). Here is how Factor Hub looks like:
+
+<img src="images/Kandra/factor_hub.png">
