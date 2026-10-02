@@ -2550,3 +2550,17 @@ Ownership is stored in the soul so when the owner dies: the factor isn't suddenl
 Factor Hub is another visualization made by stability like makespace. It's purpose is to let people search public factors/forces and select those factors to view, run, edit and copy (view, run, edit and copy is MBE. Opening Factor Hub is also MBE). Here is how Factor Hub looks like:
 
 <img src="images/Kandra/factor_hub.png">
+
+You can see the color of factor hub is yellow while the background is black. The three tab like things at the top with single, double and triple loop is called the "filter"; the first tab (the single loop) one is called the "all filter". You can see a lighter shade of yellow on the first tab, that means the first tab is selected; light yellow means something is selected.
+
+At the bottom of the filters: you can see a bunch of ansofs written, separated by a yellow lines, these are the factors; specifically the factors you ran/made and private factors you have access too. The first written ansofs are the name of the factor; if a factor name is too long: you can scroll the name to see more (MBE). The written ansof below is the ID of the factor; if a factor doesn't have a name: only it's ID will be shown. Each factor is separated by a yellow horizontal line. You can scroll down to see more factors (MBE), works like regular scrolling. Reaching the end will show nothing and you can't scroll further.
+
+Switching to the second tab (double loop, MBE) will show only the factors you ran and switching to the third tab (MBE) will show only the factors you made and private factors you have access to.
+
+Above the filters seems to be nothing but that's actually the search bar. You can write ansofs in the search bar (MBE) and it will give you a list of public factors and forces depending on the filter. The first tab shows public factors and forces, the second tab shows public factors and the third tab will show forces.
+
+Viewing a factor will show the makespace/ansofilya of the factor (MBE).
+
+Copying a public factor will make another instance of a factor and you will be owning that copied instance. However, copying a private factor means you just made a instance of a private factor and the owner of the private factor owns all copied versions. Special groups, groups and individuals who have access to the original private factor will also have access to all copied versions *but* special groups, groups and individuals who have access to a copied version does not have access to all copied versions (they can have access to the copied version of that copied version and all the versions that source to it). You can remove the access of them if you want to.
+
+We will get more into detail about running and editing.

@@ -95,3 +95,5 @@
 ### [Makespace](Kandra.md#makespace)
 
 ### [Public And Private Factors](Kandra.md#public-and-private-factors)
+
+## [Factor Hub](Kandra.md#factor-hub)
