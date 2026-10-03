@@ -2328,6 +2328,7 @@ Now let's say you call a force, that force probably has a variable name shared w
 - SET PRIVATE (LE OT, 5+5 stb): Sets the factor private (we will explore more about public and private factors later).
 - SET NAME "\[name]" (LE NH, 5+4 stb): Sets the name of a factor (written in ansof). If a factor from any kandra force has the name you want to assign your factor: it will follow the identifier numbering pattern (adding a number to the end of it).
 - SET ACTIVATE \[time in seconds] (LE AL, 5+4 stb): Sets the factor activation at the given time. By default: a factor activates in 5 seconds.
+- SET TIME \[time in seconds] (LE TM, 5+5 stb): Sets the run time of a factor. An artificial factor usually runs for 10 minutes.
 - SET GROUP (LE GG, 5+4 stb): Sets the factor to a special group (you'll know more about this in the public vs private factors section)
 - SET RESTRICTION (LE BQ, 5+4 stb): Sets the factor to a Kandra Restriction (we will know more about this in Kandra Restriction).
 
@@ -2564,3 +2565,15 @@ Viewing a factor will show the makespace/ansofilya of the factor (MBE).
 Copying a public factor will make another instance of a factor and you will be owning that copied instance. However, copying a private factor means you just made a instance of a private factor and the owner of the private factor owns all copied versions. Special groups, groups and individuals who have access to the original private factor will also have access to all copied versions *but* special groups, groups and individuals who have access to a copied version does not have access to all copied versions (they can have access to the copied version of that copied version and all the versions that source to it). You can remove the access of them if you want to.
 
 We will get more into detail about running and editing.
+
+## Running A Kandra Factor
+
+Natural factors are always running, so we don't need to run them. Artificial factors on the other hand don't automatically run when created: they needed to ran manually (MBE).
+
+Running a factor costs stability. The amount of stability a factor needs depends on the overall change done by the factor. The more change = more stability required. The rule however goes much more deeper than simple more change done = more stability needed. There are 6 factors (not referring to kandra factors) that affect how much stability is required to run a kandra factor, those are: size, concept, speed, activation time, run time and distance.
+
+- **Size**: The total width, length and depth (x, y, z) of a shape in meters = the amount of stability required. That means if the shape is less than 1 meter: it will also cost less.
+
+- **Concept**: Concept means using the physical concept/aspect of that kandra force. Each force has different concepts, some more fundamental than others. Fundamental concepts require more stability. The most fundamental concept of a fundamental force requires 1 kstb (1000 stb). And it goes down by 100 for every concept below it/every concept that is less fundamental, so a concept just below a fundamental concept requires 900 stb (1000-100=900) and a concept below that one costs 800 stb (1000-(100+100)=800 or 1000-100×2=800). So the formula for calculating how much stability is required for a concept can be written as: 1000-100×\[how many concepts below the fundamental concept (counting itself)] or $1000-100\times D$
+
+When the force goes down: so does the stability required. The previous formula stays untouched but the 1 kstb is changed. For every force down a fundamental force: the 1000 is subtracted by 10; so this formula can be written as: 1000-10×\[how many forces below the fundamental force (counting itself)]-100×D or $1000-10\times A-100\times D$
