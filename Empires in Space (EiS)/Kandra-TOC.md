@@ -97,3 +97,5 @@
 ### [Public And Private Factors](Kandra.md#public-and-private-factors)
 
 ## [Factor Hub](Kandra.md#factor-hub)
+
+## [Running A Kandra Factor](Kandra.md#running-a-kandra-factor)
