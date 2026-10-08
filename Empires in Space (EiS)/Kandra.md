@@ -2328,7 +2328,7 @@ Now let's say you call a force, that force probably has a variable name shared w
 - SET PRIVATE (LE OT, 5+5 stb): Sets the factor private (we will explore more about public and private factors later).
 - SET NAME "\[name]" (LE NH, 5+4 stb): Sets the name of a factor (written in ansof). If a factor from any kandra force has the name you want to assign your factor: it will follow the identifier numbering pattern (adding a number to the end of it).
 - SET ACTIVATE \[time in seconds] (LE AL, 5+4 stb): Sets the factor activation at the given time. By default: a factor activates in 5 seconds.
-- SET TIME \[time in seconds] (LE TM, 5+5 stb): Sets the run time of a factor. An artificial factor usually runs for 10 minutes.
+- SET TIME \[time in minutes] (LE TM, 5+5 stb): Sets the run time of a factor. An artificial factor usually runs for 10 minutes.
 - SET GROUP (LE GG, 5+4 stb): Sets the factor to a special group (you'll know more about this in the public vs private factors section)
 - SET RESTRICTION (LE BQ, 5+4 stb): Sets the factor to a Kandra Restriction (we will know more about this in Kandra Restriction).
 
@@ -2590,3 +2590,20 @@ The lowest a concept can cost is 30 stb so after a certain point: concepts will 
  But here is the thing: if the change does less overall change (if the gravity in the vacuum in our previous example only affects 1 person): then it will actually make running the factor cost *less*. Remember costs depends on overall change done, if less overall change is done: the cost is less. This change is called **"Inverse Change"**. Inverse Changes cuts the cost of the used concept by half; for example: if the concept being inverse changed cost 1000, the cost will be: $\frac{1000}{2}=500$.
 
 - **Speed**: Speed does not measure the change of speed in something; intensity does that. Speed measures the speed of something which normally wouldn't have speed but does because of the factor. The cost of speed is how much speed is added, measured in km/h.
+
+- **Activation Time**: A factor takes 5 seconds to activate, you can set the activation time (with SET ACTIVATE) to more or less than 5 seconds. If >5: more stability will be required, if <5: that will reduce the cost to run the factor.
+
+When >5: The cost will depend on the further down you go from five. Let's say: you set activation time to 4 seconds, the cost will be 1 stb; you set activation time to 3 seconds, the cost will be 2 stb; 2 seconds, 3 stb; 1 second 4 stb. The formula you can use for this is 5 - \[set activation seconds] = \[cost] or $5-B=C$.
+
+The next level down is 0.9-0.1, then 0.09-0.01 and so on. Let's use the formula 5-B=C here. Let B = 0.9, our pattern says C should equal 5 but 5-0.9=4.1, which isn't correct (B should be 5). So we use another formula for when B > 1. We use the formula $5+9(n-1)+(9-10^{n}B)$ where n means how many zeros are in B.
+
+When <5: It lowers the cost of running the factor by \[cost of factor] - (\[set activation second] - 5) or $C-(B-5)$
+
+- **Run Time**: A factor runs for 10 minutes, you can set the run time (with SET TIME) to more or less than 10 minutes. If <10 minutes: more stability required, if >10: the cost of running a factor is reduced.
+
+When <10: the formula $5-B=C$ works here to but it's inversed, 5 is 10 ($B-10=C$) and instead of going down: it's going up and it's measured in minutes.
+
+When >10: the formula $C-(10-B)$ (for B≥1) and $C-(10+9(n-1)+(9-10^{n}B)$) works. Those formulas are basically the formulas for activation time but modified for run time.
+
+- **Distance**: The further away a factor is activated from the user: the more stability it costs, measured in meters (you can say the user is the origin).
+
