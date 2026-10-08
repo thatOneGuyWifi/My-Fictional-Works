@@ -2606,4 +2606,3 @@ When <10: the formula $5-B=C$ works here to but it's inversed, 5 is 10 ($B-10=C$
 When >10: the formula $C-(10-B)$ (for B≥1) and $C-(10+9(n-1)+(9-10^{n}B)$) works. Those formulas are basically the formulas for activation time but modified for run time.
 
 - **Distance**: The further away a factor is activated from the user: the more stability it costs, measured in meters (you can say the user is the origin).
-
