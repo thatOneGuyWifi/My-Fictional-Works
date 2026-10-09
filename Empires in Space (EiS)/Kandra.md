@@ -2619,77 +2619,21 @@ Stopping a factor is called releasing a factor.
 The formula to calculate the total cost of running a factor is:
 
 $$
-C = (X + Y + Z) + \begin{cases}
-1000 - 10A - 100D & \text{if no change} \newline
-(1000 - 10A - 100D) \times 2 & \text{if change} \newline
-(1000 - 10A - 100D) \div 2 & \text{if -change}
-\end{cases} + \begin{cases}
-I & \text{if increase} \newline
-\begin{cases}
-J - O & \text{if decrease by subtraction} \newline
-J \div O & \text{if decrease by division} \newline
-\sqrt[O]{J} & \text{if decrease by root}
-\end{cases} & \text{if decrease}
-\end{cases} + V + \begin{cases}
-5 - B & \text{if } B \geq 1 \newline
-5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
-\end{cases} + (R - 10) + M
+C = (X + Y + Z) + \begin{cases} 1000 - 10A - 100D & \text{if no change} \newline (1000 - 10A - 100D) \times 2 & \text{if change} \newline (1000 - 10A - 100D) \div 2 & \text{if -change} \end{cases} + \begin{cases} I & \text{if increase} \newline \begin{cases} J - O & \text{if decrease by subtraction} \newline J \div O & \text{if decrease by division} \newline \sqrt[O]{J} & \text{if decrease by root} \end{cases} & \text{if decrease} \end{cases} + V + \begin{cases} 5 - B & \text{if } B \geq 1 \newline 5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1 \end{cases} + (R - 10) + M
 $$
 
 $$
-\text{if } B > 5 \text{: } C = (X + Y + Z) + \begin{cases}
-1000 - 10A - 100D & \text{if no change} \newline
-(1000 - 10A - 100D) \times 2 & \text{if change} \newline
-(1000 - 10A - 100D) \div 2 & \text{if -change}
-\end{cases} + \begin{cases}
-I & \text{if increase} \newline
-\begin{cases}
-J - O & \text{if decrease by subtraction} \newline
-J \div O & \text{if decrease by division} \newline
-\sqrt[O]{J} & \text{if decrease by root}
-\end{cases} & \text{if decrease}
-\end{cases} + V + (R - 10) + M - (B - 5)
+\text{if } B > 5 \text{: } C = (X + Y + Z) + \begin{cases} 1000 - 10A - 100D & \text{if no change} \newline (1000 - 10A - 100D) \times 2 & \text{if change} \newline (1000 - 10A - 100D) \div 2 & \text{if -change} \end{cases} + \begin{cases} I & \text{if increase} \newline \begin{cases} J - O & \text{if decrease by subtraction} \newline J \div O & \text{if decrease by division} \newline \sqrt[O]{J} & \text{if decrease by root} \end{cases} & \text{if decrease} \end{cases} + V + (R - 10) + M - (B - 5)
 $$
 
 $$
-\text{if } R < 10 \text{: } C = (X + Y + Z) + \begin{cases}
-1000 - 10A - 100D & \text{if no change} \newline
-(1000 - 10A - 100D) \times 2 & \text{if change} \newline
-(1000 - 10A - 100D) \div 2 & \text{if -change}
-\end{cases} + \begin{cases}
-I & \text{if increase} \newline
-\begin{cases}
-J - O & \text{if decrease by subtraction} \newline
-J \div O & \text{if decrease by division} \newline
-\sqrt[O]{J} & \text{if decrease by root}
-\end{cases} & \text{if decrease}
-\end{cases} + V + \begin{cases}
-5 - B & \text{if } B \geq 1 \newline
-5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
-\end{cases} + M - \begin{cases}
-10 - R & \text{if } R \geq 1 \newline
-10 + 9(m-1) + (9 - 10^m R) & \text{if } R < 1
-\end{cases}
+\text{if } R < 10 \text{: } C = (X + Y + Z) + \begin{cases} 1000 - 10A - 100D & \text{if no change} \newline (1000 - 10A - 100D) \times 2 & \text{if change} \newline (1000 - 10A - 100D) \div 2 & \text{if -change} \end{cases} + \begin{cases} I & \text{if increase} \newline \begin{cases} J - O & \text{if decrease by subtraction} \newline J \div O & \text{if decrease by division} \newline \sqrt[O]{J} & \text{if decrease by root} \end{cases} & \text{if decrease} \end{cases} + V + \begin{cases} 5 - B & \text{if } B \geq 1 \newline 5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1 \end{cases} + M - \begin{cases} 10 - R & \text{if } R \geq 1 \newline 10 + 9(m-1) + (9 - 10^m R) & \text{if } R < 1 \end{cases}
 $$
 
 $$
-\text{if } R = 0 \text{: } C = \left( (X + Y + Z) + \begin{cases}
-1000 - 10A - 100D & \text{if no change} \newline
-(1000 - 10A - 100D) \times 2 & \text{if change} \newline
-(1000 - 10A - 100D) \div 2 & \text{if -change}
-\end{cases} + \begin{cases}
-I & \text{if increase} \newline
-\begin{cases}
-J - O & \text{if decrease by subtraction} \newline
-J \div O & \text{if decrease by division} \newline
-\sqrt[O]{J} & \text{if decrease by root}
-\end{cases} & \text{if decrease}
-\end{cases} + V + \begin{cases}
-5 - B & \text{if } B \geq 1 \newline
-5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
-\end{cases} + M \right)^2
+\text{if } R = 0 \text{: } C = \left( (X + Y + Z) + \begin{cases} 1000 - 10A - 100D & \text{if no change} \newline (1000 - 10A - 100D) \times 2 & \text{if change} \newline (1000 - 10A - 100D) \div 2 & \text{if -change} \end{cases} + \begin{cases} I & \text{if increase} \newline \begin{cases} J - O & \text{if decrease by subtraction} \newline J \div O & \text{if decrease by division} \newline \sqrt[O]{J} & \text{if decrease by root} \end{cases} & \text{if decrease} \end{cases} + V + \begin{cases} 5 - B & \text{if } B \geq 1 \newline 5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1 \end{cases} + M \right)^2
 $$
 
-C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R<10).
+C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R>10).
 
 When there are combinations: modify the formula accordingly. If there are more than one change and intensity, add the changes and intensities to the cost. Yeah, this formula is long.
