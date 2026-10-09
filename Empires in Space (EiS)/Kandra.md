@@ -2568,7 +2568,7 @@ We will get more into detail about running and editing.
 
 ## Running A Kandra Factor
 
-Natural factors are always running, so we don't need to run them. Artificial factors on the other hand don't automatically run when created: they needed to ran manually (MBE).
+Natural factors are always running, so we don't need to run them. Artificial factors on the other hand don't automatically run when created: they needed to be ran manually (MBE).
 
 Running a factor costs stability. The amount of stability a factor needs depends on the overall change done by the factor. The more change = more stability required. The rule however goes much more deeper than simple more change done = more stability needed. There are 8 factors (not referring to kandra factors) that affect how much stability is required to run a kandra factor, those are: size, concept, intensity, change, speed, activation time, run time and distance.
 
@@ -2584,7 +2584,6 @@ The lowest a concept can cost is 30 stb so after a certain point: concepts will 
 
  - **Intensity**: Intensity is related to concept. Intensity means how intense the concept is; for example: changing the gravity of earth by ×2. It also works the other way too; i.e, decreasing the number, for example: dividing earth's gravity by 2. Intensity can be described as changing the base number of a concept. The cost of intensity is based on whether if the base increases or decreases, if it is a increase, then: the changed base will be the cost, if it is a decrease, then: the cost will be the base number × the operand (if division), base number ^ the operand (if root) or base number + the operand (if subtraction. Operand means the number changing the base number. Any negative numbers will be absoulted).
 
-
  - **Change**: Change is also related to concept. Change means changing a part of a concept; for example: creating gravity inside of a vacuum (the gravity doesn't have mass tied to it) or inversing the effects of gravity (making it a repellent). The cost of change is the same as the cost of the concept being changed; let's say a concept costs 1000 stb and we change that concept, the cost of change will be 1000; a total of 2000 since we add concept cost and change cost (along with all the other costs). Costs can stack; for example: if you change two concepts: one costing 1000 and another costing 700: then the total will be (1000+1000)+(700+700)=3400 
 
  But here is the thing: if the change does less overall change (if the gravity in the vacuum in our previous example only affects 1 person): then it will actually make running the factor cost *less*. Remember costs depends on overall change done, if less overall change is done: the cost is less. This change is called **"Inverse Change"**. Inverse Changes cuts the cost of the used concept by half; for example: if the concept being inverse changed cost 1000, the cost will be: $\frac{1000}{2}=500$.
@@ -2593,11 +2592,11 @@ The lowest a concept can cost is 30 stb so after a certain point: concepts will 
 
 - **Activation Time**: A factor takes 5 seconds to activate, you can set the activation time (with SET ACTIVATE) to more or less than 5 seconds. If >5: more stability will be required, if <5: that will reduce the cost to run the factor.
 
-When >5: The cost will depend on the further down you go from five. Let's say: you set activation time to 4 seconds, the cost will be 1 stb; you set activation time to 3 seconds, the cost will be 2 stb; 2 seconds, 3 stb; 1 second 4 stb. The formula you can use for this is 5 - \[set activation seconds] = \[cost] or $5-B=C$.
+When <5: The cost will depend on the further down you go from five. Let's say: you set activation time to 4 seconds, the cost will be 1 stb; you set activation time to 3 seconds, the cost will be 2 stb; 2 seconds, 3 stb; 1 second 4 stb. The formula you can use for this is 5 - \[set activation seconds] = \[cost] or $5-B=C$.
 
 The next level down is 0.9-0.1, then 0.09-0.01 and so on. Let's use the formula 5-B=C here. Let B = 0.9, our pattern says C should equal 5 but 5-0.9=4.1, which isn't correct (B should be 5). So we use another formula for when B > 1. We use the formula $5+9(n-1)+(9-10^{n}B)$ where n means how many zeros are in B.
 
-When <5: It lowers the cost of running the factor by \[cost of factor] - (\[set activation second] - 5) or $C-(B-5)$
+When >5: It lowers the cost of running the factor by \[cost of factor] - (\[set activation second] - 5) or $C-(B-5)$
 
 - **Run Time**: A factor runs for 10 minutes, you can set the run time (with SET TIME) to more or less than 10 minutes. If <10 minutes: more stability required, if >10: the cost of running a factor is reduced.
 
@@ -2606,3 +2605,91 @@ When <10: the formula $5-B=C$ works here to but it's inversed, 5 is 10 ($B-10=C$
 When >10: the formula $C-(10-B)$ (for B≥1) and $C-(10+9(n-1)+(9-10^{n}B))$ (for B<1) works. Those formulas are basically the formulas for activation time but modified for run time.
 
 - **Distance**: The further away a factor is activated from the user: the more stability it costs, measured in meters (you can say the user is the origin).
+
+Users can select multiple factors (from factor hub) to run multiple factors at the same time.
+
+When the user runs a kandra factor: thee user run a local instance of the factor. What that means is if the factor has local effects (the factor doesn't change a part of the universe everywhere; which is most factors): the factor will run where the user is running it. So, the factor can be run at different places by different users simultaneously.
+
+If the user does not have enough stability to run the factor, the factor won't run. If there are errors inside the factor: the factor won't run.
+
+A factor runs for 10 minutes (usually, when run time is not changed) and the user has to run it again after the 10 minutes. However: factors can be ran permanently/forever by SET TIME 0. The cost of a permanent running factor is \[base cost of the factor]^2.
+
+Stopping a factor is called releasing a factor.
+
+The formula to calculate the total cost of running a factor is:
+
+$$
+C = (X + Y + Z) + \begin{cases}
+1000 - 10A - 100D & \text{if no change} \newline
+(1000 - 10A - 100D) \times 2 & \text{if change} \newline
+(1000 - 10A - 100D) \div 2 & \text{if -change}
+\end{cases} + \begin{cases}
+I & \text{if increase} \newline
+\begin{cases}
+J - O & \text{if decrease by subtraction} \newline
+J \div O & \text{if decrease by division} \newline
+\sqrt[O]{J} & \text{if decrease by root}
+\end{cases} & \text{if decrease}
+\end{cases} + V + \begin{cases}
+5 - B & \text{if } B \geq 1 \newline
+5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
+\end{cases} + (R - 10) + M
+$$
+
+$$
+\text{if } B > 5 \text{: } C = (X + Y + Z) + \begin{cases}
+1000 - 10A - 100D & \text{if no change} \newline
+(1000 - 10A - 100D) \times 2 & \text{if change} \newline
+(1000 - 10A - 100D) \div 2 & \text{if -change}
+\end{cases} + \begin{cases}
+I & \text{if increase} \newline
+\begin{cases}
+J - O & \text{if decrease by subtraction} \newline
+J \div O & \text{if decrease by division} \newline
+\sqrt[O]{J} & \text{if decrease by root}
+\end{cases} & \text{if decrease}
+\end{cases} + V + (R - 10) + M - (B - 5)
+$$
+
+$$
+\text{if } R < 10 \text{: } C = (X + Y + Z) + \begin{cases}
+1000 - 10A - 100D & \text{if no change} \newline
+(1000 - 10A - 100D) \times 2 & \text{if change} \newline
+(1000 - 10A - 100D) \div 2 & \text{if -change}
+\end{cases} + \begin{cases}
+I & \text{if increase} \newline
+\begin{cases}
+J - O & \text{if decrease by subtraction} \newline
+J \div O & \text{if decrease by division} \newline
+\sqrt[O]{J} & \text{if decrease by root}
+\end{cases} & \text{if decrease}
+\end{cases} + V + \begin{cases}
+5 - B & \text{if } B \geq 1 \newline
+5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
+\end{cases} + M - \begin{cases}
+10 - R & \text{if } R \geq 1 \newline
+10 + 9(m-1) + (9 - 10^m R) & \text{if } R < 1
+\end{cases}
+$$
+
+$$
+\text{if } R = 0 \text{: } C = \left( (X + Y + Z) + \begin{cases}
+1000 - 10A - 100D & \text{if no change} \newline
+(1000 - 10A - 100D) \times 2 & \text{if change} \newline
+(1000 - 10A - 100D) \div 2 & \text{if -change}
+\end{cases} + \begin{cases}
+I & \text{if increase} \newline
+\begin{cases}
+J - O & \text{if decrease by subtraction} \newline
+J \div O & \text{if decrease by division} \newline
+\sqrt[O]{J} & \text{if decrease by root}
+\end{cases} & \text{if decrease}
+\end{cases} + V + \begin{cases}
+5 - B & \text{if } B \geq 1 \newline
+5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1
+\end{cases} + M \right)^2
+$$
+
+C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R<10).
+
+When there are combinations: modify the formula accordingly. If there are more than one change and intensity, add the changes and intensities to the cost. Yeah, this formula is long.
