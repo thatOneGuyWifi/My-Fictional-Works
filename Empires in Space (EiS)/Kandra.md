@@ -2634,6 +2634,23 @@ $$
 \boxed{\text{if } R = 0 \text{: } C = \left( (X + Y + Z) + \begin{cases} 1000 - 10A - 100D & \text{if no change} \newline (1000 - 10A - 100D) \times 2 & \text{if change} \newline (1000 - 10A - 100D) \div 2 & \text{if -change} \end{cases} + \begin{cases} I & \text{if increase} \newline \begin{cases} J - O & \text{if subtraction} \newline J \div O & \text{if division} \newline \sqrt[O]{J} & \text{if root} \end{cases} & \text{if decrease} \end{cases} + V + \begin{cases} 5 - B & \text{if } B \geq 1 \newline 5 + 9(n-1) + (9 - 10^n B) & \text{if } B < 1 \end{cases} + M \right)^2}
 $$
 
+*(Note that when B=5 and R=10, their part gives 0)*
+
 C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R>10).
 
 When there are combinations: modify the formula accordingly. If there are more than one change and intensity, add the changes and intensities to the cost. Yeah, this formula is long.
+
+Let's do some examples:
+
+- *Example #1 (Base Formula, no set activation and run time)*:
+
+Let's say: the kandra factor creates a shape with the with the width and dept of of 1 centimeter and the length of 1 meter. It moves at 10 km/h. The concept costs 900 stb with no change and Intensity is 42. No set activation or run time. The factor runs 30 centimeters away from the user.
+
+X=0.01, Y=1, Z=0.01, A=0, D=1, I=42, V=10, M=0.3
+
+> Activation time and run time gives 0.  
+> 0.01+1+0.01=1.02  
+> 1000-10×0-100×1=900  
+> 1.02+900+42+10+0+0+0.3=953.32
+
+*Ans*: C=953.32 stb
