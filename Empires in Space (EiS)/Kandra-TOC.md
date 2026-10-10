@@ -99,3 +99,7 @@
 ## [Factor Hub](Kandra.md#factor-hub)
 
 ## [Running A Kandra Factor](Kandra.md#running-a-kandra-factor)
+
+## [Amplifying A Kandra Factor](Kandra.md#amplifying-a-kandra-factor)
+
+## [Editing A Kandra Factor](Kandra.md#editing-a-kandra-factor)
