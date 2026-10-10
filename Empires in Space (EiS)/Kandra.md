@@ -2389,8 +2389,8 @@ END RESTRICT
 *Syntax*:
 
 SHAPE "\[name]"  
-&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (curvature)  
-&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (curvature)  
+&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (\[curvature] \[x coordinate] \[y coordinate] \[z coordinate])  
+&nbsp;&nbsp;&nbsp;&nbsp;\[x coordinate] \[y coordinate] \[z coordinate] (\[curvature] \[x coordinate] \[y coordinate] \[z coordinate])  
 ...  
 END SHAPE
 
@@ -2405,7 +2405,7 @@ Now repeat the step 2 times in the opposite direction (so -10) and you made a sq
 
 To make a diagonal line: you need to give data to both the x and y coordinates, so something like 12 20 0 is a diagonal line.
 
-Additionally, you can make a line curved with the optional curve field. You use radians for the curve. If you put the value 6.283 into the field it will make a full circle as a circle is made of roughly 6.283 radians.
+Additionally, you can make a line curved with the optional curve field. You use radians for the curve. If you put the value 6.283 into the field it will make a full circle as a circle is made of roughly 6.283 radians. The extra x, y and z coordinates dictates where the curve is curved.
 
 You can also add previously defined shapes into one shape by:
 
@@ -2419,7 +2419,7 @@ The shape spawns in the origin and the given coordinates positions the shape. Th
 
 A unique property of SHAPE—like stringer—the entire shape block costs 3 stb, no matter how big or small.
 
-You might notice I used unit instead of metric, why? Because shapes are scalable (they can be big or small). After you are done creating a shape: you can set it's size like: s"\[name]" \[size]. Size is measured in meters. Since the shape stays the same as it gets bigger and smaller: the input affects all side (or the sides that keeps the shape same); that's why there is only one input.
+You might notice I used unit instead of metric, why? Because shapes are scalable (they can be big or small). After you are done creating a shape: you can set it's size like: s"\[name]" \[size]. Size is measured in meters. Since the shape stays the same as it gets bigger and smaller: the input affects all side (or the sides that keeps the shape same); that's why there is only one input. You can also change each width, length and depth manually by s"\[name]" \[x coordinate] \[y coordinate] \[z coordinate]; so you can either give 1 or 3 inputs to the shape.
 
 - **ROTATE**:
 
@@ -2432,6 +2432,18 @@ You might notice I used unit instead of metric, why? Because shapes are scalable
 *Cost*: 3 stb.
 
 *Description*: ROTATE rotates a shape by a given radian.
+
+- **VELOCITY**:
+
+*Short Name*: YL
+
+*Ansofate*: <img src="images/Kandra/Ansof/double_loop.png width="30" height="30"><img src="images/Kandra/Ansof/line.png width="30" height="30">
+
+*Syntax*: VELOCITY \[identifier] [speed in km/h] (x coordinate) (y coordinate) (z coordinate)
+
+*Cost*: 3 stb.
+
+*Description*: VELOCITY gives something that doesn't have any velocity, velocity; this includes: objects, functions, shapes and variables. Speed is measured in km/h. The x, y and z coordinates are the direction; measured in meters. The user being 0, 0, 0 (the origin).
 
 ### English In Ansof
 
@@ -2636,7 +2648,7 @@ $$
 
 *(Note that when B=5 and R=10, their part gives 0)*
 
-C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R>10).
+C means the total cost of running the factor. The first group (X+Y+Z) is for size; X means the width, Y means the length and Z means the depth. The first piecewise function is concept+change grouped together; A means how many forces and D means how many concepts down. The second piecewise function is intensity; I means the final number and J means the base number and O means the operand being performed on J. V means the speed. The third piecewise function is for activation time; B means the set activation time and n means how many zeros there are in B. The second group is for run time; R means the set run time. M means the distance. m means the same thing as n but m belongs to run time (if R>10).
 
 When there are combinations: modify the formula accordingly. If there are more than one change and intensity, add the changes and intensities to the cost. Yeah, this formula is long.
 
@@ -2654,3 +2666,57 @@ X=0.01, Y=1, Z=0.01, A=0, D=1, I=42, V=10, M=0.3
 > 1.02+900+42+10+0+0+0.3=953.32
 
 *Ans*: C=953.32 stb
+
+- *Example #2  (Base Formula)*:
+
+Let's say: the kandra factor creates a shape of a cube with all sides being 10 centimeters. The concept cost is 1000 stb with change and intensity is 5.81 (the base being 9.81). The speed is 5 km/h. The set activation time is 3 seconds and the set run time is 14 minutes. Distance is 5 centimeters away from the user.
+
+X=0.1, Y=0.1, Z=0.1, A=0, D=0, J=9.81, O=4, V=5, B=3, R=14, M=0.05
+
+> 0.1+0.1+0.1=0.3  
+> 1000×2=2000  
+> 9.81-4=5.81  
+> 5-3=2  
+> 14-10=4  
+> 0.3+2000+5.81+5+2+4+0.05=2,017.16
+
+*Ans*: C=2,017.16 stb
+
+- *Example #3 (Base Formula, inverse change)*:
+
+Let's use our previous example but instead of the concept being changed, it's being inverse changed.
+
+> $\frac{1000}{2} = 500$  
+> 0.3+500+5.81+5+2+4+0.05=517.16
+
+*Ans*: C=517.16 stb
+
+- *Example #4 (R<10 and B>5 Formula)*:
+
+This formula will combine both R<10 and B>5 formula to show an example of modifying the formula. Let's use example #2 but R=5 and B=12.
+
+> 12-5=7  
+> 10-5=5  
+> 0.3+2000+5.81+5-7-5+0.05=1,999.16
+
+*Ans*: C=1,999.16 stb
+
+- *Example #5 (R>10 Formula, R<1 and B<1)*:
+
+Let's use example #2 but R=0.7 and B=0.9
+
+n=1, m=1
+
+> - $10+9(1-1)+(9-10^1\times 0.7)=12$  
+> $5+9(1-1)+(9-10^1\times 0.9)=5$  
+> 0.3+2000+5.81+5+5-12+0.05=2,004.16
+
+*Ans*: C=2,004.16 stb
+
+- *Example #6 (R=0 Formula)*:
+
+Let's use example #2 but R=0.
+
+> $(0.3+2000+5.81+5+2+4+0.05)^2=4068934.4656$
+
+*Ans*: C=4068934.4656 stb
