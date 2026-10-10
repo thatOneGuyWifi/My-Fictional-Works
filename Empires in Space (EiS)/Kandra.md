@@ -2376,7 +2376,19 @@ END RESTRICT
 
 *Cost*: 3 stb.
 
-*Description*: When you amplify a factor (we will get to that later) DEAMP decreases the number instead of increasing it.
+*Description*: When you amplify a factor (we will get to that later): DEAMP decreases the number instead of increasing it.
+
+- **NOAMP**:
+
+*Short Name*: NQ
+
+*Ansofate*: <img src="images/Kandra/Ansof/wave_n.png"><img src="images/Kandra/Ansof/single_loop.png">
+
+*Syntax*: NOAMP \[number]
+
+*Cost*: 3 stb.
+
+*Description*: When you amplify a factor: NOAMP doesn't let the number after it be amplified.
 
 ---
 
@@ -2720,3 +2732,17 @@ Let's use example #2 but R=0.
 > $(0.3+2000+5.81+5+2+4+0.05)^2=4068934.4656$
 
 *Ans*: C=4068934.4656 stb
+
+## Amplifying A Kandra Factor
+
+In addition to giving stability to run a factor, an user can add extra stability to the factor (MBE). This will amplify the factor/effects of the factor. What that means is: amplifying will increase all the numbers inside the factor.
+
+If there is only one number: the number will be increased by the stability; for example: the user adds an additional 500 stb, the number will be increased (added) by 500. If there is more than one number (which there usually is): the extra stability will be divided by the amount of numbers in the factor and the result will increase all the numbers; for example: the user adds an additional of 500 stb and there are 4 mentions of numbers inside the factor, 500÷4=125 so all numbers will be increased by 125.
+
+The keyword DEAMP decreases (subtracts) the number after in when amplifying. The keyword NOAMP doesn't amplify the number after it at all; that number also won't be included when extra stability is being divided by the mentions of number.
+
+## Editing A Kandra Factor
+
+When editing a kandra factor: the editor has access to makespace. In editing: an ansof can be either added or deleted; adding an ansof works the same as in creating a factor and deleting a factor costs the cost of ansof being deleted; this only applies for deleting ansofs from the original ansofilya, not added ones in editing. Replacing an ansof is just deleting and adding a new ansof.
+
+After editing: the editor can save the changes or discard them. If someone edits a kandra factor they do not own or is not an administrator of: then a copy of the factor is made with those changes that you own—the rest of the ansofilya being counted to the cost along with the edited changes—the original factor itself doesn't change; only the owner or an admin can edit the original factor.
