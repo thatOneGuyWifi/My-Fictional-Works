@@ -2748,3 +2748,15 @@ When editing a kandra factor: the editor has access to makespace. In editing: an
 After editing: the editor can save the changes or discard them. If someone edits a kandra factor they do not own or is not an administrator of: then a copy of the factor is made with those changes that you own—the rest of the ansofilya being counted to the cost along with the edited changes—the original factor itself doesn't change; only the owner or an admin can edit the original factor.
 
 But, there is actually a third option other than saving and discarding, that option is called **"Edit-Run"** (MBE). In edit-run: the edited factor is run instead of being saved, this results in the edited factor to run and the edit itself costing no stability but the cost of edited factor is changed based on the edit (so it can cost more or less). After the factor is released, the changes are removed; or more precisely *never saved*. Running a factor happens locally so the change get made only in that instance in edit-run. Edit-run is really useful for various situations; especially in combat.
+
+## Resolving Conflicting Kandra Factors
+
+When two kandra factors have the same effect but with different values and run at the same time, in the same place, then: the two factors conflict with eachother. So there is a way to resolve this, with something called **"Refinement"**.
+
+In refinement: extra stability is added when run. Refinement is like amplifying a factor but instead of increasing the values in a factor, refining at the surface does nothing (MBE, think of refinement and amplifying as separate arms). But, the more refined factor takes priority over the less refined one.
+
+If neither factor is refined or equally refined, then: the factor that was made first will take priority; and if they were made at the same time (some how): no factor runs.
+
+Refined factors overpower different less refined factors so refining a factor can be useful for nullifying the effects of another factor.
+
+All natural kandra factors have a refinement of 1000 stb.
