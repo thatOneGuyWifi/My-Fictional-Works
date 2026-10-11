@@ -2760,3 +2760,16 @@ If neither factor is refined or equally refined, then: the factor that was made 
 Refined factors overpower different less refined factors so refining a factor can be useful for nullifying the effects of another factor.
 
 All natural kandra factors have a refinement of 1000 stb.
+
+## Kandra Restrictions
+
+An user can restrict a part of themselves for reducing the stability needed to run a factor or amplifying a kandra factor (set in ansofilya) without adding stability or both, this is called **"Kandra Restriction"**. It's similar to binding vows from Jujutsu Kaisen (JJK).
+
+A kandra restriction can be embedded into the factor itself (with RESTRICT) or be called by a factor (with CALL "\[name]/\[ID]", kandra restrictions follow the same id structure as a kandra factor). SET RESTRICTION sets the factor to a kandra restriction and can be called by any kandra factor.
+
+There are 5 types of kandra restrictions:
+- *Bodily Restriction*: restricting a function of a body part(s) or anything bodily related.
+- *Mental Restriction*: restricting a mental function(s).
+- *Factor/Stability Restriction*: Restricting the use of a factor to use another one for an amount of time or restricting the use of stability for an amount of time.
+- *Effort Restriction*: Having to do an action or sequence of actions to run/amplify a factor.
+- *Action Restriction*: Restricting an action that the user might do; for example: not eating ice-cream for 10 days. Action restriction are unique from the others, the effects of the other restrictions happen immediately after the kandra restriction is running but that's not the case with action restrictions as they can be broken. However breaking a kandra restriction can have consequences, those consequences being not being able to use the factor for an amount of time; depending on the factor.

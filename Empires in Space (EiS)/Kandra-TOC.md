@@ -103,3 +103,7 @@
 ## [Amplifying A Kandra Factor](Kandra.md#amplifying-a-kandra-factor)
 
 ## [Editing A Kandra Factor](Kandra.md#editing-a-kandra-factor)
+
+## [Resolving Conflicting Kandra Factors](Kandra.md#resolving-conflicting-kandra-factors)
+
+## [Kandra Restrictions](Kandra.md#kandra-restrictions)
