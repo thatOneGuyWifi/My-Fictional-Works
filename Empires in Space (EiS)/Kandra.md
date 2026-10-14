@@ -2775,10 +2775,34 @@ There are 4 types of kandra restrictions:
 
 ### How Much Each Kandra Restriction Gives
 
-- **Bodily Restriction**: Bodily Restriction works similarly to concept force cost—10,000-10×A—but instead of costing that much, it gives you that much. The most important functions (that won't kill the user after being instantly restricted) will decrease the total stability cost by 10,000 or amplify the factor by 10,000. And the hierarchy follows as: most important gives more andess important gives less, A here meaning how many function layer (functions that gives the same amount) down. If the effects are set to last after the factor is released for an amount of time, then it gives: \[base] + [time in hours].
+- **Bodily Restriction**: Bodily Restriction works similarly to concept force cost—10,000-10×A—but instead of costing that much, it gives you that much. The most important functions (that won't kill the user after being instantly restricted) will decrease the total stability cost by 10,000 or amplify the factor by 10,000. And the hierarchy follows as: most important gives more andess important gives less, A here meaning how many function layer (functions that gives the same amount) down. If the effects are set to last after the factor is released for an amount of time, then it gives: \[base] + \[time in hours].
 
 - **Factor/Stability Restriction**: Factor restriction gives you \[cost of running the factor being restricted] + \[time in hours]. A factor being restricted must first be run by the user. Also, when restricting a factor: there is already a set amount of hours the factor can't be ran for, calculated by: \[cost]÷50=\[time restricted in hours]; this is to prevent restricting a factor that costs a lot and the user usually doesn't use to reduce the stability of/amplify the factor they are using repeatedly. Only adding extra hours to the already restricted hours will be counted for \[time in hours]. Factors that are already restricted can't be restricted until they are out of restriction. Stability restriction gives you \[value of force]×100+\[time in hours] (the ×100 gives more so restricting a factor and stability can be similar). There is a set time you can't use stability with a force after restricting it—similar to factor restriction—calculated by: \[value]×100÷50=\[time in hours] and any extra time is counted in \[time in hours]
 
 - **Effort Restriction**: An action has a point(s) and a destination; the point can be any area of the body while the destination must be anywhere away from the user. The distance of the destination and point in meters reduces/amplifys the factor by that many meters. Now, an action can have "subactions", subactions are a set of movements the user has to do, subactions also have a point(s) and a destination(s). In a subaction: the destination is shaped like a cut out of a point in a specificed way and the point must be filled into the cut out (destination), the distance of the destination and point centimeters gets added to the action. Destinations in subactions has to stay attached with the body. There can be multiple subactions inside an action. Think of an action as where to go and subactions as how to go. Actions can only have one destination while subactions can have multiple. Subactions can be set at any moment in the action. How much effort restriction gives is calculated by: (\[action] + \[subaction #1] + \[subaction #2] + ...) + (\[action] + \[subaction #1] + \[subaction #2] + ...) + ...
 
-- **Action Restriction**:
+- **Action Restriction**: The action being restricted will have an importance value assigned to it. And the importance value (measured as iv) + how long the action will be restricted (measured in hours) will reduce the required stability or amplify it. Importance value of an action is relative to the user. Two factors (not referring to kandra factors) decide the importance value, they are: frequency and likeability.
+
+*Frequency*: The simplified rule is: more frequent = more important. But calculating it is a bit more complicated than that. \[iv from frequency] = \[average frequency of action]/hour. Finding the average frequency means getting a total amount of the action done by user in their entire life and how long they are living (usually measured in Intergalactic Years but technically could be measured in any unit since hour is the base unit).
+
+Let's say: the user is restricting the action to eat ice-cream for 10 days.
+
+- Step #1: Find the average. The user ate 580,987 ice-creams his entire life, he is 22 y/o. 580,987÷22=26,408.5
+- Step #2: Convert 26,408.5 into hours. An Intergalactic Year has 9,000 hours so 26,408.5÷9,000=2.9342778 (rounded)
+- Step #3: iv=2.9342778/hour. Since the restriction is being done for 10 (intergalactic calendar) days: convert days into hours; 10 days = 300 hours. 2.9342778+300=302.9342778
+
+iv=302.9342778.
+
+*Likeability*: The rule is similar to frequency's; thee more liked the action is by the user = more stability reduced. Likeability is measured in lk (LiKeability). 0 lk means action is neither liked or disliked by user; they feel neutral about it. \[pos] lk means the action is liked/loved by the user. \[neg] lk means the action is disliked/hated by the user.
+
+For reference for \[pos] lk: usually having a favorite food is around 30 lk, usually obsessing over an action is around 1000 lk, usually having fun is around 100 lk.
+
+For reference for \[neg] lk: usually having to do chores is -10 lk, usually despising an action is -1000 lk, usually having to work in the heat is around -300 lk.
+
+\[Action restriction] = \[frequency (iv) + \[likeability (lk)].
+
+---
+
+If the kandra restriction turns running cost into a negative number: the the running cost will be 0 instead (C≠\[neg]).
+
+If the kandra restriction both reduces cost and amplifys the factor: then the number gotten from the restriction is divided by 2 and the solution is given to reduce the cost and amplify the factor.

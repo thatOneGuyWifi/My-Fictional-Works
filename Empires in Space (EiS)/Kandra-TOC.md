@@ -107,3 +107,5 @@
 ## [Resolving Conflicting Kandra Factors](Kandra.md#resolving-conflicting-kandra-factors)
 
 ## [Kandra Restrictions](Kandra.md#kandra-restrictions)
+
+### [How Much Each Kandra Restriction Gives](Kandra.md#how-much-each-kandra-restriction-gives)
