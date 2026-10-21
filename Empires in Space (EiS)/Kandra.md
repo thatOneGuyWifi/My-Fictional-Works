@@ -2770,7 +2770,7 @@ A kandra restriction can be embedded into the factor itself (with RESTRICT) or b
 There are 4 types of kandra restrictions:
 - *Bodily Restriction*: restricting a function of a body part(s) or anything bodily related. Bodily restriction also includes anything relating with mental/mind/brain aswell.
 - *Factor/Stability Restriction*: Restricting the use of a factor to use another one for an amount of time or restricting the use of stability with a kandra force for an amount of time.
-- *Effort Restriction*: Having to do an action or sequence of actions to run/amplify a factor.
+- *Conditional Restriction*: Having to meet a condition(s) to run/amplify a factor or a factor is ran/amplified until a condition(s) is met.
 - *Action Restriction*: Restricting an action that the user might do; for example: not eating ice-cream for 10 days. Action restriction are unique from the others, the effects of the other restrictions happen immediately after the kandra restriction is running but that's not the case with action restrictions as they can be broken. However breaking a kandra restriction can have consequences, those consequences being not being able to use the factor for an amount of time; depending on the factor.
 
 ### How Much Each Kandra Restriction Gives
