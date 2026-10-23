@@ -109,3 +109,7 @@
 ## [Kandra Restrictions](Kandra.md#kandra-restrictions)
 
 ### [How Much Each Kandra Restriction Gives](Kandra.md#how-much-each-kandra-restriction-gives)
+
+### [Birth Kandra Restriction](Kandra.md#birth-kandra-restriction)
+
+## [Making Objects Do Kandra Manipulation](Kandra.md#making-objects-do-kandra-manipulation)

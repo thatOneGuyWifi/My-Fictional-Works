@@ -2779,11 +2779,13 @@ There are 4 types of kandra restrictions:
 
 - **Factor/Stability Restriction**: Factor restriction gives you \[cost of running the factor being restricted] + \[time in hours]. A factor being restricted must first be run by the user. Also, when restricting a factor: there is already a set amount of hours the factor can't be ran for, calculated by: \[cost]÷50=\[time restricted in hours]; this is to prevent restricting a factor that costs a lot and the user usually doesn't use to reduce the stability of/amplify the factor they are using repeatedly. Only adding extra hours to the already restricted hours will be counted for \[time in hours]. Factors that are already restricted can't be restricted until they are out of restriction. Stability restriction gives you \[value of force]×100+\[time in hours] (the ×100 gives more so restricting a factor and stability can be similar). There is a set time you can't use stability with a force after restricting it—similar to factor restriction—calculated by: \[value]×100÷50=\[time in hours] and any extra time is counted in \[time in hours]
 
-- **Conditional Restriction**: A condition will have a value called the conditional value (measured in cv). Conditional value is decided by: time, difficulty, opportunity, paths and third-party reliance.
+- **Conditional Restriction**: A condition will have a value called the conditional value (measured in cv). Conditional value is decided by: time and difficulty
 
 *Time*: When a kandra factor is ran/amplified for an amount of time (like only in the day): the less time the factor can be ran/amplified: the more the run cost is reduced/the factor is amplified. The hours you cannot use the factor for will be what time gives. The scope (if days, months or years are counted.) is decided by the condition; so in the example of using the factor in the day: day happens every day so only day is counted.
 
 *Difficulty*: Difficulty is how hard it is to meet the condition; measured in df. The more df = the more difficult. For reference: clapping your hands is around 10 df, performing a precise throe is around 500 df. df cannot be negative as there is some difficultly with everything.
+
+\[Conditional Value] = \[Time] + \[Difficulty (df)]
 
 - **Action Restriction**: The action being restricted will have an action value assigned to it. And the action value (measured as av) + how long the action will be restricted (measured in hours) will reduce the required stability or amplify it. Importance value of an action is relative to the user. Two factors (not referring to kandra factors) decide the importance value, they are: frequency and likeability.
 
@@ -2812,3 +2814,21 @@ If the action restriction is broken: the user cannot use the factor for \[iv of 
 If the kandra restriction turns running cost into a negative number: the running cost will be 0 instead (C≠\[neg]).
 
 If the kandra restriction both reduces cost and amplifies the factor: then the number gotten from the restriction is divided by 2 and the solution is given to reduce the cost and amplify the factor.
+
+### Birth Kandra Restriction
+
+Birth kandra restriction are kandra restrictions that gets assigned to a person in birth. Having a birth kandra restriction is entirely random; some people have it, most don't.
+
+Birth kandra restrictions differ from regular kandra restrictions as birth kandra restriction restricts come with kandra factors made specifically for that restriction the user can use. Birth kandra restriction factors also do not require any stability to use; the restriction being the price.
+
+Birth kandra restrictions are usually bodily or conditional restrictions
+
+That said: what if a person bypasses their birth kandra restriction and uses the birth kandra restriction factor without seemingly no cost? Nothing happens; seriously, they aren't punished or anything.
+
+People with birth kandra restrictions don't realize they have one unless it's obvious or if they find it out.
+
+## Making Objects Do Kandra Manipulation
+
+Since anything that is made of kandra or relating to kandra can perform kandra manipulation: objects can technically do this aswell.
+
+This is done by making a kandra factor that lets the specified object trigger the designated kandra factor. So a person still has to make one. Making the trigger permanent requires the kandra factor which lets the object trigger the designated kandra factor be run permanently.
