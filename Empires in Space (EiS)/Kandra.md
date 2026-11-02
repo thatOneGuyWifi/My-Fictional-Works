@@ -5,25 +5,25 @@ See Tables Of Content in [Kandra-TOC.md](Kandra-TOC.md)
 
 # Introduction
 
-What is Kandra? To simply the answer: kandra is a substance or force of reality that made the **"Empires in Space" (EiS)** Universe.
+What is Kandra? To simply answer: kandra is a substance of reality that made the **"Empires in Space" (EiS)** Universe.
 
 What's Empires in Space? Empires in Space is a fictional universe I made. EiS is basically a collection of stories (and lore) which happens inside the EiS universe/multiverse; it's similar to something like the Marvel Cinematic Universe (MCU) but a better comparison would be history, Empires in Space is sci-fi alt history.
 
-In EiS: everything is made of kandra, everything is kandra; from objects to sentient life, from atoms to the stars, they are all kandra. Think of everything as different expressions of kandra; a human and ant are different expressions of kandra but is still kandra, like how water and ice are different expression/type of water but is still water.
+In EiS: *everything* is made of kandra; everything is kandra, from objects to sentient life, from atoms to the stars, they are all kandra. Think of everything as different expressions of kandra; a human and ant are different expressions of kandra but is still kandra; like how water and ice are different expressions of water but is still water.
 
 ## Kandra Forces
 
-Since everything is made out of kandra: kandra is divided into categories called **"Kandra Force(s)"**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality/a physical concept.
+Since everything is made out of kandra: kandra is divided into categories called **"Kandra Force(s)"**. A kandra force is a specialized form of kandra which controls/governs a specific aspect of reality/physical concept.
 
-Kandra forces can control something broad as gravity, atoms, velocity or something specific as smart phone; making the number of kandra forces vast. Think of kandra forces as fields of science: in science: different fields specialize in studying different aspects of science; like how chemistry studies how atoms interact with eachother or how biology studies how living beings work; just like that, kandra forces specialize in controlling different aspects of reality/physical concepts.
+Kandra forces can control something broad as gravity, atoms, velocity or something specific as smart phones; making the number of kandra forces vast. Think of kandra forces as fields of science, in science: different fields specialize in studying different aspects of science—like how chemistry studies how atoms interact with eachother or how biology studies how living beings work—just like that, kandra forces specialize in controlling different aspects of reality/physical concepts.
 
-However, there is a limit to what can be a kandra force, specifically: there are two specifications that can't be a kandra force:
+However, there is a limit to what can be a kandra force—specifically—there are two specifications that can't be a kandra force:
 - Abstract concepts (like love, justice, etc)
-- Concepts that control only one instance of something; a kandra force controls all instances of the thing it controls, but there is another thing: the force must have a significant function, if it doesn't then: it won't be a force; significance is decided by the force above it so significance is different for every force.
+- Concepts that control only one instance of something, a kandra force must control all instances of the concept it controls. The force also must have a significant function, if a force doesn't have one, then: it won't be a kandra force, significance is decided by the force above it so significance is different for every force.
 
-For a kandra force to exist in the present: the concept which it controls also must be in the present; so if all humans disappear: the kandra force which controls humans disappear.
+For a kandra force to exist in the present: the concept which it controls also must exist in the present; so if all humans disappears: the kandra force which controls humans disappear.
 
-There is a hierarchical system to kandra forces: enter in **"Sub Kandra Force(s)** or simply **"Sub Force(s)"**. Sub forces are kandra forces that lie under another kandra force; sub forces themselves can have sub forces; for example: the kandra-biology force is a sub force inside the kandra-chemistry force, the kandra-biology also has sub forces of its own like the kandra-mammal force, kandra-bird force and so on.
+There is a hierarchical system to kandra forces: enter in **"Sub Kandra Force(s)** or simply **"Sub Force(s)"**. Sub forces are kandra forces that lie under another kandra force, sub forces themselves can have sub forces; for example: the kandra-biology force is a sub force of the kandra-chemistry force, the kandra-biology force also has sub forces of its own like the kandra-mammal force, kandra-bird force and so on.
 
 Since every kandra force is from kandra itself: every kandra force is technically a sub kandra force, but the kandra forces that are only sub forces of kandra and not any other sub force are called the **"Fundamental Kandra Force(s)"** or simply **"Fundamental Force(s)"**. Every kandra force branches out from the fundamental forces.
 
@@ -34,45 +34,41 @@ The fundamental forces are:
 - Kandra-time force: the kandra force which controls all of time
 - Kandra-gravitational force: the kandra force which controls all of gravity.
 - Kandra-electromagnetic force: the kandra force which controls all of electromagnetism.
-- Kandra-information force: the kandra force which controls all of information. Now you might say: isn't information an abstract concept? How can it be a fundamental force? The answer to that question is: no, information is not fully abstract and is physical; this is not just a kandra thing but it also applies to our world. First of all: information is always stored in physical matter; you do not find information in the vacuum of space; second of all: heat (energy) is required to delete information; when you permanently delete a file in your computer: the computer uses heat to erase it; if information was abstract: it wouldn't have required energy.
+- Kandra-information force: the kandra force which controls all of information.
+
+Now you might say: isn't information an abstract concept? How can it be a fundamental force? The answer to that question is: no, information is not fully abstract and is physical; this is not just a kandra thing but it also applies to our world. First of all, information is always stored in physical matter; you do not find information in the vacuum of space; second of all, heat (energy) is required to delete information; when you permanently delete a file in your computer: the computer uses heat to erase it; if information was abstract: it wouldn't have required energy.
 
 That's it; every other sub force is derived from these 7 fundamental forces.
 
-Two or more kandra forces from different branches (under different sub/fundamental forces) can be connected to eachother by something called **"Kandra Force Linking"** or just force linking; for example: the kandra-human soul force lies under the kandra-human force but it is also connected to the kandra-soul force by force linking.
-
-Kandra force which has another kandra force under it by force linking is called **"Superior Kandra Force"** or simply superior force and the kandra force that is under another kandra force by linking is called **"Inferior Kandra Force"** or simply inferior force; note that superior and inferior labels here are relative as a superior force can an be inferior force and an inferior force can be a superior force. A superior force can have many inferior forces and an inferior force can have many superior forces.
-
-Kandra forces that are in the same level by linking (not below or above it) are called **"Parallel Kandra Forces"** or simply parallel forces, and unlike superior and inferior labels being relative: parallel is not.
-
 ## Kandra Factors
 
-Now, I've said that kandra forces control an aspect of reality, but they don't run it; for example: the kandra-gravitational force has the function of gravity under it but it doesn't make gravity work itself. So, what does run the aspects of reality? Something called **"Kandra Factor(s)"**.
+I've said that kandra forces control an aspect of reality/physical concept, but they don't run it; for example: the kandra-gravitational force has the function of gravity under it but it doesn't make gravity work itself. So, what does run the aspects of reality? **"Kandra Factor(s)"**.
 
-Kandra factors are factors (components) of a kandra force, they lie inside their kandra force and runs everything the kandra force controls. Think of kandra forces as runtime environments (an environment where programs can run) or IDE (Integrated Development Environment) and kandra factors as programs that run inside those runtime environments/IDE; or a more simpler way to put it: think of kandra forces as capability and kandra factors as use of said capability.
+Kandra factors are factors (components) of a kandra force, they lie inside their kandra force and runs everything the kandra force controls. Think of kandra forces as runtime environments (an environment where programs can run) and kandra factors as programs that run inside those runtime environments; or to put it more simply: think of kandra forces as capability and kandra factors as the use of said capability.
 
-**"Natural Kandra Factors"** are kandra factors made by kandra itself and runs specific to fundamental parts of reality. Natural kandra factors only do one function/job inside their kandra force; for example: mass has gravity and bigger mass = higher gravity lies in two different kandra factors under the kandra-gravitational force.
+**"Natural Kandra Factors"** are kandra factors made (and owned) by kandra itself and runs specific to fundamental parts of reality. Natural kandra factors only do one function/job inside their kandra force; for example: mass has gravity and bigger mass = higher gravity lies in two different kandra factors under the kandra-gravitational force.
 
-Natural kandra factors constantly run and never stop; if they did: it would cause a ton of complications like if the kandra factor that runs how electric currents make magnetic field stops: then a bunch of things will go wrong.
+Natural kandra factors constantly run and never stop; if they did: it would cause a ton of complications, like if the kandra factor that runs how electric currents make magnetic field stops: then a bunch of things will go wrong.
 
-If natural kandra factors do one function then: some functions need other functions to work, so how do they? The answer to that question is: natural kandra factors can call eachother, when they do: their kandra force takes in the call, sees what kandra factor is being called, retrieves all the data (code you can say) from the called kandra factor and gives it to the caller kandra factor; so kandra forces also work as an interface or API (Application Programming Interface).
+Natural kandra factors do one function but some functions need other functions to work, so how do they? The answer to that question is: natural kandra factors can call eachother, when they do: their kandra force takes in the call, sees what kandra factor is being called, retrieves all the data from the called kandra factor and gives it to the caller kandra factor; so kandra forces also work as an interface or API (Application Programming Interface).
 
-You might be asking: kandra factors needs to call other kandra factors to receive their function (sort of like a library in programming) but how can kandra factors call a kandra factor inside a different kandra force? The answer to that question is: forces can communicate with eachother. The kandra force takes the call function from a kandra factor, sees in what force the kandra factor is, calls that force to give the data of that factor, the force gives the calling kandra force the data from the factor and the force gives the data to the calling factor; so its like an interconnected tree of APIs (kandra forces) or the universe's internet.
+You might be asking: kandra factors needs to call other kandra factors to receive their function (sort of like a library in programming) but how can kandra factors call a kandra factor inside a different kandra force? The answer to that question is: forces can communicate with eachother. The kandra force takes the call function from a kandra factor, sees in what force the kandra factor is, calls that force to give the data of that factor, the force gives the calling force the data from the factor and the force gives the data to the calling factor; so its like an interconnected tree of APIs (kandra forces) or the universe's internet.
 
 # Naming A Kandra Force And Kandra Factor
 
-To name a kandra force: follow this format:
+To name a kandra force, follow the format:
 
-> (sub | fundamental) kandra-[name of the thing it controls] force
+> (sub/fundamental) kandra-\[name of the thing it controls] force
 
 (Note that anything in parenthesis () is optional and anything in square brackets [] is required).
 
-That's it; it's that simple. Let's take the kandra force that controls gravity: its name is the kandra-gravitational force, let's take another example: the kandra force which controls chemistry: its name is the kandra-chemical force. Note that sub and fundamental are not usually written.
+That's it; it's that simple. Let's take the kandra force that controls gravity: its name is the kandra-gravitational force. Let's take another example: the kandra force which controls chemistry: its name is the kandra-chemical force. Note that sub and fundamental are not usually written.
 
-Kandra force names are synonymous; meaning different words can have the same meaning;; For example: kandra-gravitational force can also be written as kandra-gravity force and the kandra-chemical force can also be written as kandra-chemistry force. The name however must be related with the aspect of reality it controls.
+Kandra force names are synonymous; meaning different words can have the same meaning; For example: kandra-gravitational force can also be written as kandra-gravity force and the kandra-chemical force can also be written as kandra-chemistry force. The name however must be related with the aspect of reality/physical concept it controls.
 
-To name a kandra factor: follow this format:
+To name a kandra factor, follow the format:
 
-> (natural | artificial) kandra factor: <natural: [brief description of what it does]> <artificial: [any name the creator gives]>
+> (natural/artificial) kandra factor: <natural: \[brief description of what it does]> <artificial: \[any name the creator gives]>
 
 (Note that the angled brackets <> are like if statements).
 
@@ -80,33 +76,48 @@ Naming a kandra factor is also relatively simple. Let's take the kandra factor w
 
 # Origins And Discovery
 
-Before EiS or any universe existed, there were multiple substance of reality floating around in space; including kandra, which is the strongest of all the realities. This period was called the **"Pre-universal Period"** due to it predating universes.
+Before EiS or any universe existed, there were multiple substance of reality floating around in space; including kandra. This period was called the **"Pre-universal Period"** due to it predating universes.
 
 Pre-universal kandra is called **"Kandra Ultimata"** due to it being "whole" at that time.
 
-What I mean by "whole" is kandra did not split. Now you might be asking: kandra split? Yes; when kandra made its multiverse: kandra split.
+What I mean by "whole" is kandra did not split. Kandra split? Yes; when kandra made its multiverse: kandra split.
 
-Kandra split itself into different universes; marking the end of the pre-universal period. Each split is a different "personality" of kandra, what that means is each kandra "personality" controls their universe in a different way (they don't actually have personalities) but the basic structure (kandra forces and kandra factors) is same across most the universes. Also each split can have same personalities; they don't have to be different.
+Kandra split itself into different universes; marking the end of the pre-universal period. Each split is a different "personality" of kandra, what that means is each kandra "personality" controls their universe in a different way but the basic structure (kandra forces and kandra factors) is same across most the universes. Also each split can have same the personalities; they don't have to be different.
 
 EiS is the first universe kandra created.
 
-EiS's kandra doesn't interact with the universe unless if a function requires it, kandra makes a major "glitch" or if it simply wants to (we will get to glitches later).
+EiS's kandra doesn't interact with the universe unless if a function requires it or when kandra makes a major "glitch" (see [Kandra Can Make Mistakes](#kandra-can-make-mistakes)).
 
 Other realities "took inspiration" from kandra and made their own multiverse/universe.
 
-Kandra has a rule for how it makes new universes; and a lot of other realities follow this rule aswell.
+Kandra has a rule for how it makes new universes; and a lot of other realities follow this rule aswell. That rule is called **"Enfe Gahivno" (/ɛn.ɸe ɣa.xiβ.nɔ/)**; which means "Forever (Enfe) Growing (Gahivno)". The pronunciation is intimidating but you can just simply call it the "Forever Growing" rule. The name was given by the Combine; the space nation that discovered kandra, the Combine used their language to name the rules; similar to how a lot of names in science comes from Greek or Latin
 
-That rule is called **"Enfe Gahivno" (/ɛn.ɸe ɣa.xiβ.nɔ/)**; which means "Forever (Enfe) Growing (Gahivno)". The pronunciation is intimidating but you can just simply call it the "Forever Growing" rule. The name was given by the Combine; the space nation that discovered kandra, the Combine used their language to name the rules;; similar to how a lot of names in science comes from Greek or Latin
-
-The rule states that the kandra multiverse is finite in volume but infinite in growth. What does that mean? It means that in any point: the number of universes made by kandra splitting is theoretically countable but this number grows infinitely; meaning universes will keep getting made forever;; so kandra will continue to split forever. Kandra makes 10 universes every second.
+The rule states that the kandra multiverse is finite in volume but infinite in growth. What does that mean? It means that in any point, the number of universes made by kandra splitting is theoretically countable but this number grows infinitely; meaning universes will keep getting made forever; so kandra will continue to split forever. Kandra makes 10 universes every second.
 
 You might be wondering: how the hell can kandra do this? Kandra is a substance of reality; it just can.
 
-The Combine is a space-nation in EiS that first discovered kandra. Due to being the first ever nation to discover kandra and use it (through kandra manipulation; we'll get to that later): it became the strongest space nation in EiS before its collapse.
+The Combine is a space-nation in EiS that first discovered kandra. Due to it being the first ever nation to discover kandra and use it (through kandra manipulation; see [Kandra Manipulation](#kandra-manipulation)): it became the strongest space nation in EiS before its collapse.
 
 Due to the discovery of kandra: The Combine made "Kandra Physics"; a branch of physics which studies kandra.
 
-*(Fun Fact: I named kandra after the word "chandra"; which means moon in hindi. I replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is The Combine just named kandra, kandra without it deriving it from chandra or any other word).*
+*(Fun Fact: I named kandra after the word "chandra"; which means moon in hindi. I just replaced the "ch" with k. This doesn't have any relevance in EiS. The in-universe lore is that: The Combine just named kandra, kandra; without it deriving it from chandra or any other word).*
+
+# Kandra Units
+
+Kandra units are units (like distance, time) made my kandra itself. Man-made units like meters, inches, seconds, celsius, fahrenheit, etc are arbitrary. Sure, they might be tied to real life phenomena but there really is no *real* reason for it to tied to *that* phenomenon and not another.
+
+It can be argued that kandra units are real units as they are made by kandra itself. And while that is true, in most situations: people still use meter, seconds and other man-made units as they have been widely used long before kandra's discovery and they work just fine. Kandra units are just mainly used in kandra physics.
+
+Now let's look at some kandra units:
+
+- **kud (Kandra Unit Distance)**: kud measures distance, 1 kud = 12 m.
+- **kut (Kandra Unit Time)**: kut measures time, 1 kut = 20 s.
+- **kup (Kandra Unit temPerature)**: kup measures temperature, 1 kup = 10°C.
+- **kum (Kandra Unit Mass)**: kum measures mass, 1 kum = 12 g.
+- **kue (Kandra Unit Energy)**: kue measures energy, 1 kue = $4.32\times 10^{−3}$ J or  0.00432 J.
+- **kuf (Kandra Unit Force)**: kuf measures force (in physics; not kandra force): kuf = $3.6\times 10^{-4}$ N or 0.00036 N.
+
+Kandra units also commonly use scientific notation instead of the metric prefix system (centi, mili, kilo); so something like the 1 km equivalent of kandra unit is written as $1.0\times 10^3$ kud.
 
 # The Afterlife
 

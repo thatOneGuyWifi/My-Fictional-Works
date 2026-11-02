@@ -8,6 +8,8 @@
 
 # [Origins And Discovery](Kandra.md#origins-and-discovery)
 
+[Kandra Units](Kandra.md#kandra-units)
+
 # [The Afterlife](Kandra.md#the-afterlife)
 
 ## [The Soul And Soulspace](Kandra.md#the-soul-and-soulspace)
