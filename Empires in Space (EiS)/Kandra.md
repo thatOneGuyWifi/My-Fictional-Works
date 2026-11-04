@@ -123,13 +123,13 @@ Kandra units also commonly use scientific notation instead of the metric prefix 
 
 In EiS, the afterlife exists; although it's much more different from something like heaven or hell.
 
-When kandra made EiS, it made two **semi-worlds**. Semi-worlds are different planes of reality in the same universe. These two semi-worlds are called the "inlife" and the "afterlife". Inlife is the semi-world where the living lives and afterlife is the semi-world where the "dead" lives. The two semi-worlds were created at the same time the EiS universe was created.
+When kandra made EiS, it made two **"semi-worlds**. Semi-worlds are different planes of existence inside a singular universe. The two semi-worlds of EiS are called the **"Inlife"**\—where the living live—and the **"Afterlife"**; where the "dead" live. Both semi-worlds were created at the same time, that being the instant EiS was made.
 
-The afterlife and inlife worlds are "replicas" of eachother, but to be accurate: they are replicas of themselves when the EiS universe just got created. That means when the EiS universe got created, kandra gave the two semi-worlds the same "starter pack", the same elements. This caused the two semi-worlds to appear very similar to eachother but not identical. The Afterlife or inlife doesn't "update" itself to match eachother.
+The afterlife and inlife share a lot of astronomy and geography of planets to a indistinguishable length; this however doesn't mean the inlife and afterlife are replicas of each-other. When EiS got created: the two semi-worlds started with the same materials with the same conditions; and as time passed: the astronomy of the two became indistinguishably similar, *but* not replicas of each-other.
 
-Before we continue, I want to note that all of the knowledge of the afterlife is not known by the people in the inlife (as they never died).
+Before I continue, note that all of the information—unless stated otherwise—are not known by the people living in the inlife semi-world as they are not dead.
 
-This section is only known by the people of the afterlife. This is the only section The Combine didn't find out. So most of the information is not known by the majority of people in the inlife (they don't even know there are semi-worlds and they are in the inlife semi-world, that is all discovered by the people in afterlife).
+This section is mostly known by the people of the afterlife. The ironic part is that the people of the inlife doesn't know they are in the inlife or that EiS has semi-worlds. This is the only section The Combine didn't find out about, and most of the information here has been found by the people of the afterlife.
 
 ## The Soul And Soulspace
 
