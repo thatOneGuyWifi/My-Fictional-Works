@@ -6,7 +6,7 @@ I'd decided I'll have my own rule on how to use punctuation mark. I made this do
 
 **Semicolon (;)**: Use it when adding supplementary/optional information that is related to the sub-topic at the end or in sub-lists (a list inside a list: A,B,C;D,E,F;G,H,I 3 sub-list inside one list separated by two semicolons).
 
-**Colon (:)**: Use it when two clauses follow "cause and effect", conditional statements (if/when/for/etc x:) or when listing characteristics/properties of a subject/object.
+**Colon (:)**: Use it when two clauses follow "cause and effect", conditional statements (if/when/for/etc x:), when listing characteristics/properties of a subject/object or when introducing something
 
 **Period (.)**: Use it when ending a sub-topic (but the main topic continues), main topic or for initials.
 
