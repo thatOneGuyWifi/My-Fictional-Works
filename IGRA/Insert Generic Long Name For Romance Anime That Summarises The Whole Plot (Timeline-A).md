@@ -1,7 +1,5 @@
 *(Note: This is my second time making a novel. And my first novel isn't even complete. I don't have much writing experience. I haven't even read a novel before. This novel is prone to changes. I am also not a Japanese, therefore, I don't know much about the culture there. I've also had this idea like April 23 2026 and making the novel tomorrow)*
 
-**WARNING: Although this might appear as a normal romance novel. This novel does have horror and disturbing elements. If you are not comfortable with those, I suggest you not proceed further. You have been warned.**
-
 *(Note: The Chapter numbering is a bit different from different novels. It is usually in "[chapter number].[volume number]". Each volume is a story arc, and each chapter is like a mini story arc, or how a normal chapter functions in a novel. Chapter number resets after each volume, so Chapter 2.1 is 2nd chapter of volume 1 but Chapter 2.9 is the 2nd chapter of volume 9. This is to clear confusion and for convenience)*
 
 # Chapter 1.1: A Typical Day For A Typical Harem Protagonist
