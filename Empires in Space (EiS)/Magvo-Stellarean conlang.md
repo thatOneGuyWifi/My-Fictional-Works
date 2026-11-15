@@ -6,7 +6,7 @@ Magvo-Stellarean is designed to be a logical language. Magvo-Stellarean uses it'
 
 Here is the Magvo-Stellarean Marked Alphabet:
 
-<img src="images/Magvo-Stellarean_Marked_Alphabet.png">
+<img src="images/Magvo-Stellarean/Magvo-Stellarean%20Marked%20Alphabet.png">
 
 However, the Magvo-Stellarean Marked Alphabet (as of yet) is not included in unicode so we cannot write it in plain text. Due to this: Magvo-Stellarean is written in it's own custom latin script, called the **"Romanized Magvo-Stellarean Script" (RMSS)**.
 
