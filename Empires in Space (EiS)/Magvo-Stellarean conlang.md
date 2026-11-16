@@ -220,7 +220,7 @@ Grammatical morphemes are words that convey a grammatical meaning (alongside a s
 
 Functional morphemes are grammatical morphemes that can stand on their own. Morphemes that can stand on their own are called **"Free Morphemes"**. Inflectional morphemes are grammatical morphemes that *cannot* stand on their own; they need a word. Morphemes that need a word are called **"Bound Morpheme"** (affixes).
 
-## Functional Morpheme
+## Functional Morphemes
 
 ### Complimentizers
 
@@ -315,7 +315,7 @@ All numbers can also be determiner; like in the example "three dogs": three is a
 13. ræf: assumptive evidentiality modal (the speaker assumes).
 14. hej: hypothetical modal ("would"/"would have" in english).
 
-### Degree
+### Degrees
 
 1. dukis: "dukis" is a degree that makes the adj/adv too little in intensity.
 2. ofsan: "ofsan" is a degree that makes the adj/adv barely enough in intensity.
@@ -338,7 +338,7 @@ Note that Magvo-Stellarean does not give nominative and accusative case unlike e
 2. dar: 2nd person singular pronoun ("you" in english).
 3. t̪ʰed̪a: 3rd person singular pronoun ("he"/"she"/"it", Magvo-Stellarean doesn't distinguish it by gender).
 
-### Focus Particle
+### Focus Particles
 
 Syntactically: focus particles are adverbs/adjectives but semantically have a different use than to regular adverbs/adjectives. Focus particles focuses on a constituent (a part of a sentence) of a sentence and tells something about the alternative to the focus relative to the background. It basically focuses on a part of a sentence and tells something about the other options of the focused part.
 
@@ -364,3 +364,15 @@ As stated previously, Magvo-Stellarean only has *one* negation particle which is
 10. vista: "vista" is a question particle that asks who/what owns the thing/entity stated ("whose" in english).
 12. vlos: "vlos" is a question particle that asks with who/what the action was done ("with who" in english).
 13. vkaf: "vkaf" is a question particle that asks with what (instrument) the action was done ("with what" in english).
+
+## Inflectional Morphemes
+
+### Tense
+
+All tenses are prefixes because I feel like that when something happens should come first.
+
+1. īr-: marks the future.
+2. īb-: marks the present.
+3. īd-: marks the past.
+
+
