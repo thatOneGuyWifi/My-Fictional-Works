@@ -104,12 +104,12 @@ Base Magvo-Stellarean also has 2 phonotactic constraint, they are:
 
 Along with word order, Magvo-Stellarean has a strict phrase structure rule. A phrase structure rule means how words inside phrases/sentences should be arranged to be grammatical. Magvo-Stellarean's phrase structure rule is:
 
-S →  (CP) NP (Mod) \[Conj Mod]* (Neg) VP \[Conj S]* (Q)  
+S →  (CP) NP (Mod) \[Conj Mod]* VP \[Conj S]* (Q)  
 NP →  N' \[Conj N']* PP* (CP)  
 N' →  (D) N (AdjP) \[Conj AdjP]* PP*  
 AdjP →  (Deg) Adj  
 VP →  V' \[Conj V']* PP* (CP)  
-V' →  V (AdvP) \[Conj AdvP]* (AdjP) \[Conj AdjP]* (NP) \[Conj NP]* PP*  
+V' →  (Neg) V (AdvP) \[Conj AdvP]* (AdjP) \[Conj AdjP]* (NP) \[Conj NP]* PP*  
 AdvP →  (Deg) Adv  
 PP →  P {VP, NP}  
 CP →  C S
@@ -122,11 +122,9 @@ Now N'. The (D) means there can optionally be a determiner before the noun (N me
 
 Going back to S, Mod. Mod means modal; a modal is a clause-level marker that expresses the speaker's attitude about the clause (necessity, possibility, obligation, permission, ability); you should know about them if you learned auxiliary verbs. \[Conj Mod]* means the same thing as \[Conj N']* but replace noun with modals. Note that \[Conj X]* means anything inside X can be zero or more combined with conjunctions.
 
-Now Neg. Neg just means a negation particle/word that negates the entire clause. Magvo-Stellarean only has *one* negation particle (nīr).
-
 Now VP. VP means "Verb Phrase"; it means a phrase headed by a verb but think of it as the verb with all of it's modifiers and the object. If you are wondering why the object is inside the VP and not in it's own NP outside the VP, it's because: the subject and object is called the **"Predicate"** and the verb effects the object. The optional CP here is for CP chosen by the verb (like: "I know *that* he left", "I wonder *whether* the show ended").
 
-Now V' (V-bar). V-bar points to verbs with it's closer modifiers. "AdvP" means "Adverb Phrase"; it means a phrase headed by an adverb but think of it as an adverb with it's degree. You might be wondering why an AdjP* is followed right after, don't adjectives modify nouns? The adjective here is a **"Predicate Adjective"**; an adjective inside the predicate/followed by a verb; for example: in the sentence "I feel happy": happy is the predicate adjective. The NP and \[Conj NP]\* is the object.
+Now V' (V-bar). V-bar points to verbs with it's closer modifiers. Neg just means a negation particle/word that negates the verb. Magvo-Stellarean only has *one* negation particle (nīr). "AdvP" means "Adverb Phrase"; it means a phrase headed by an adverb but think of it as an adverb with it's degree. You might be wondering why an AdjP* is followed right after, don't adjectives modify nouns? The adjective here is a **"Predicate Adjective"**; an adjective inside the predicate/followed by a verb; for example: in the sentence "I feel happy": happy is the predicate adjective. The NP and \[Conj NP]\* is the object.
 
 Now PP. PP means a phrase headed by a preposition but think of it as a preposition with it's NP or VP. {VP, NP} means there can either be an VP or NP; there can't be no VP/NP after a preposition (or both at the same time; if the NP is outside VP that is). You might be wondering why there is PP inside both NP, N', VP and V'. This is because prepositions closer to the noun/verb are put inside the PP inside N'/V' and looser prepositions are put inside the PP inside NP/VP.
 
@@ -253,6 +251,17 @@ Most question particle (excluding: vyīn and vanat̪. See [Question Particle](#q
 8. jat: "jat" is a determiner that selects many (but not most or all) instances inside a (noun) category; similar to "many" in english.
 9. taj: "taj" works similar to jat with the difference being it selects a few instances inside a (noun) category. Taj is different from mut̚ as mut̚ only selects a minority while taj selects a bigger minority; still being smaller than jat, and jat is smaller than t̚um.
 10. kit̪: "kit̪" is a determiner that selects any number of instances inside a (noun) category; that could be most, many or few. It's used to express that the speaker is uncertain about the volume. It is similar to "some" in english.
+11. esīsta (es + -īsta): 1st person singular possessor ("my"/"mine" in english. See [Case](#case) and [Pronouns](#pronouns) for 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21).
+12. darīsta (dar + -īsta): 2nd person singular possessor ("your"/"yours" in english).
+13. t̪ʰed̪aīsta (t̪ʰed̪a + -īsta): 3rd person singular possessor ("his"/hers" in english)
+14. esdarsaīsta (esdarsa + -īsta): inclusive 1st person dual plural possessor (inclusive "our both" in english).
+15. esdariymīsta (esdariym + -īsta): inclusive 1st person plural possessor (inclusive "our" in english).
+16. essaīsta (essa + -īsta): exclusive 1st person dual plural possessor (exclusive "our both" in english).
+17. esiymīsta (esiym + -īsta): exclusive 1st person plural possessor (exclusive "our" in english).
+18. darsaīsta (darsa + -īsta): 2nd person dual plural possessor ("your both" in english).
+19. dariymīsta (dariym + -īsta): 2nd person plural possessor ("your all" in english).
+20. t̪ʰed̪asaīsta (t̪ʰed̪asa + -īsta): 3rd person dual plural possessor ("their both" in english).
+21. t̪ʰed̪aiymīsta (t̪ʰed̪aiym + -īsta): 3rd person plural possessor ("their"/"theirs" in english).
 
 All numbers can also be determiner; like in the example "three dogs": three is a determiner.
 
@@ -337,6 +346,14 @@ Note that Magvo-Stellarean does not give nominative and accusative case unlike e
 1. es: 1st person singular pronoun ("I"/"me" in english).
 2. dar: 2nd person singular pronoun ("you" in english).
 3. t̪ʰed̪a: 3rd person singular pronoun ("he"/"she"/"it", Magvo-Stellarean doesn't distinguish it by gender).
+4. esdarsa (es + dar + -sa): inclusive 1st personal dual plural; it includes both the speaker and listen, *no one else* (inclusive "we" in english but it takes two people. See [Plurality Marking](#plurality-marking) for 4, 5, 6, 7, 8, 9, 10, 11).
+5. esdariym (es + dar + -iym): inclusive 1st person plural; it includes the speaker, the listener and other people (inclusive "we" in english).
+6. essa (es + -sa): exclusive 1st person dual plural; it includes the speaker and someone else *but* not the listener (exclusive "we" in english but it takes two people)
+7. esiym (es + -iym): exclusive 1st person plural; it includes the speaker, other people *but* not the listener (exclusive "we" in english).
+8. darsa (dar + -sa): 2nd personal dual plural; it includes the listener and another person that isn't the speaker ("you both" in english).
+9. dariym (dar + -iym): 2nd person plural; it includes the listener, other people *but* not the speaker ("you all" in english).
+10. t̪ʰed̪asa (t̪ʰed̪a + -sa): 3rd person dual plural; it includes two people not in the conversation ("they both" in english).
+11. t̪ʰed̪aiym (t̪ʰed̪a + -iym): 3rd person plural; it includes 3 or more people not in the conversation ("they" in english).
 
 ### Focus Particles
 
@@ -397,3 +414,23 @@ Aspect is always marked with tenses (and plurality with habitual).
 - Perfective & Perfect (Magvo-Stellarean doesn't separate them): īd-\[verb].
 - Imperfective Progressive: <īd/īr depending on past/future, nothing for present>-\[subject] īb-\[verb].
 - Imperfective Habitual: <īb/īd depending on if the habit still happens or used to happen>-\[verb]-iym
+
+# Numbers
+
+Magvo-Stellarean has it's own number writing system but we will use the arabic numbers (1, 2, 3...) we all know with using RMSS.
+
+<img src="images/Magvo-Stellarean/Magvo-Stellarean%20numbers.jpg">
+(Magvo-Stellarean numbers)
+
+The image shows the name of the said numbers but I'll still list them here:
+
+- dax: zero
+- un: one.
+- sa: two.
+- opes: three.
+- nac: four.
+- wifen: five.
+- ætqaz: six.
+- yejōs: seven.
+- fūhīr: eight.
+- mæval: nine
