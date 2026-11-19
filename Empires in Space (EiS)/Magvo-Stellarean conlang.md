@@ -434,3 +434,9 @@ The image shows the name of the said numbers but I'll still list them here:
 - yejōs: seven.
 - fūhīr: eight.
 - mæval: nine
+
+For numbers greater than nine, Magvo-Stellarean uses this system to count their numbers $n\times 10^m+x$. The suffix "-uzi" is used to indicate the number is being multiplied by ten; so to say 10 in Magvo-Stellarean, you say: "unuzi"; to say 12, you say: "unuzi sa"; to say 58, you say: "wifenuzi fūhīr".
+
+Now when m becomes more than 1: you just say the number it became; so if $10^1$ becomes $10^2$ (which is 100), you say: "-uzisa"; if it was $10^4$ (10,000), you say: "-uzinac". To say 100 in Magvo-Stellarean, you say: "unuzisa"; to say 2,011, you say: "sauziopes unuzi un".
+
+When m becomes greater than 9: then Magvo-Stellarean follows this formula (which is similar to the last one): $n\times 10^{m\times 10^{(y+z)}}+x$. To say $10^{10}$ (which is 10,000,000,000), you say: "unuziuzi" (we ignore the 1 in m because it's not necessary); to say 2 trillion and 7 million, you say: "sauziuzisa yejōsuziætqaz". The pattern follows for when m becomes 100+ and so on.
