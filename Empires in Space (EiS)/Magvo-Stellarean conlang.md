@@ -407,6 +407,13 @@ All case markings are suffixes as I feel like where a noun belongs should come a
 1. -īsta: genitive marking; makes the noun a possessor of another noun; similar to "'s" in english.
 2. -eo: dative marking; marks the indirect object/recipient.
 
+### Preposition Disambiguation
+
+Prepositional disambiguation inflections disambiguates adnominal preposition (the preposition belongs to the object) and adverbial preposition (the preposition belongs to the verb).
+
+1. -ce: adnominal preposition
+2. -aī: adverbial preposition
+
 # Aspect
 
 Aspect is always marked with tenses (and plurality with habitual).
@@ -440,3 +447,81 @@ For numbers greater than nine: Magvo-Stellarean uses scientific notation to coun
 When m>1 ($10^2$, $10^3$ etc), you use: ī- + m at the end of uzi; in other words: use ī- + \[number of m] at the end of uzi. "ī-" turns the number (m) into a suffix that attaches to the suffix uzi, "ī-" indicates that the number is raised to a power. To say 100 in Magvo-Stellarean, you say: "unuziīsa"; to say 2,011, you say: "sauziīopes unuzi un". Remember the format being: n + -uzi + ī- + m (+ x)
 
 A problem arrives when we wanna say something like $2\times 10^{12}$ (2 trillion), with our current understanding, we would write it as: "sauziīunuzisa". In text, there is no ambiguity since there is no space but in speech: it can either be 2 trillion or 20 billion and 2 (sauziīunuzi sa). So to disambiguate the 2 trillion from 20 billion and 2: we use "e-", which indicates it belongs to the powered number (and also turns it to a suffix). So to actually say 2 trillion in Magvo-Stellarean, you say: "sauziīunuziesa". To say $2\times 10^{22}$, you say: "sauziīsauziesa". The pattern follows for m=100+. Remember the format being: n + -uzi + ī- + y (y being the first number of m) + e- + z (z being the second number of m) (+ x)
+
+The prefix "s̪i-" makes the number an ordinal number (1st, 2nd, 3rd, 4th, 5th, etc). So, "s̪iun" means 1st, "s̪isa" means 2nd, "s̪iopes" means 3rd, "s̪inac" means 4th, "s̪iwifen" means 5th, "s̪iunuziīsa" means 100th and so on. You write ordinals in number (1st, 2nd, 3rd, not first, second, third) by: s̪i- + \[number]. So s̪i1 is 1st, s̪i2 is 2nd, s̪i3 is 3rd and so on.
+
+# Root Words
+
+Root words (root morpheme) is the core meaning of a word with affixes; in the word "unhappiness": "happy" is the core meaning while the affixes "un-" and "-ness" attach to the word to modify it.
+
+In Magvo-Stellarean root words are always free morphemes (other languages can have bound root morphemes; like "ceive" with "receive" and "perceive" in english).
+
+This section will show the root words of Magvo-Stellarean.
+
+## Verbs
+
+Before going into the list of verbs, each verb has a subcategory which tells if a verb is transitive, intransitive, ditransitive or takes other arguments. The notation for that is written as: V (__ XP) where V is the verb, __ is where the verb is placed and XP are any additional/required arguments. Also note that verbs with (__ NP) and (__ (NP) ) also means (__ AdvP)/(__ (AdvP) until stated otherwise and (__ NP) verbs can drop the NP if there is a modal before it or if it's habitual. 
+
+1. fæs: eat/drink/consume (__ NP)
+2. tʰapos: asleep (__ (PP) )
+3. θība: trying to sleep but not yet fallen asleep (__ (PP) )
+4. fimi: exist; sometimes used in the modal slot as the copula "to be" for emphasis (__)
+5. æko: act (__ NP)
+6. yahūl: live, as in to be alive (__)
+7. yamīr: die (__)
+8. leŋf: live, as in to live in a place (__ ŋōl NP)
+9. vīg: to feel something about someone, with the prefix "pye-": it turns to "pyevīg"—which means like—and with the prefix "ban-" it turns to "banvīg"; which means dislike. Vīg on it's own means having a neutral feeling for someone (__ NP)
+10. dujes: move with your legs; walk (__ (PP) )
+11. fake: speak (__ NP)
+12. ōnðov: write (__ NP)
+13. savart: teach (__ NP)
+14. kemat̪: learn/study (__ NP)
+15. vik: feel (in general) (__ NP/AdjP)
+16. hōt̚a: give (__ $\text{NP}_{\text{direct}}$ $\text{NP}_{\text{recipient}}$)
+17. xonon: get (__ $\text{NP}_{\text{direct}}$ $\text{NP}_{\text{recipient}}$)
+18. caz̚ul: put (__ NP PP)
+19. rūq: pull (__ NP)
+20. rūx: push (__ NP)
+21. fæfur: fight (__ NP)
+22. mirja: kill/murder (__ NP)
+23. wil: have/possess (__ NP)
+24. kuris: create/build (__ NP)
+25. θazæx: destroy/break (__ NP)
+26. mot: control/rule/govern (__ NP)
+27. nvalīpk: go/move (__ (PP) )
+28. zekʰyupl: know (__ NP/CP)
+29. gecbaqt: stay/remain (__ (PP) )
+30. pamef: follow (movement) (__ NP)
+31. vepn̚iw: lead (__ NP)
+32. ohiz: command/order (__ NP)
+33. jūhūs: swim (__ (PP) )
+34. ybles: fly (__ (PP) )
+35. waro: crawl (__ (PP) )
+36. fūvas: jump (__ (PP) )
+37. pīson: wander/roam (__ (PP) )
+38. goōni: sit (__ (PP) )
+39. elŋæzu: stand (__ (PP) )
+40. leyfa: lean (__ AdvP)
+41. piosc: hold/carry (__ NP)
+42. ðajama: drop (__ NP)
+43. qix: throw (__ NP)
+44. Dejʰō: change/turn (__ NP (PP) )
+45. seiba: open (__ NP)
+46. abies: close (__ NP)
+47. wumīlŋe: cover (__ NP)
+48. vikom: uncover (__ NP)
+49. æges: see/look/watch/ (__ NP)
+50. fsares: hear/listen (__ NP)
+51. nomeŋ: smell (__ NP)
+52. lūgæmi: taste (__ NP)
+53. kegat: touch (__ NP)
+54. kōgset: think (__ NP/CP)
+55. tlafos̚ec: believe (__ NP/CP)
+56. θyæxcu: understand (__ NP/CP)
+57. favæse: remember (__ NP/CP)
+58. savæfe: forget (__ NP/CP)
+59. hōjīs: doubt (__ NP/CP)
+60. gyavp: guess (__ NP/CP)
+61. fede: decide (__ NP/CP)
+62. laqŋog: choose/select (__ NP/CP)
+63. būsdec: dream (__ PP/CP)
