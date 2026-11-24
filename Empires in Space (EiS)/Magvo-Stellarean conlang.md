@@ -478,7 +478,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 14. kemat̪: learn/study (__ NP/CP)
 15. vik: feel (in general) (__ NP/AdjP/CP)
 16. hōt̚a: give/sell/lend (__ $\text{NP}_ {\text{direct}}$ $\text{NP}_ {\text{recipient}}$)
-17. xonon: have/possess/get/take/buy/receive (__ $\text{NP}_ {\text{direct}}$ $\left(\text{NP}_ {\text{recipient}}\right)$)
+17. xonon: have/possess/get/take/buy/receive (__ $\text{NP}_ {\text{direct}}$ ($\text{NP}_ {\text{recipient}}$) )
 18. caz̚ul: put (__ NP PP)
 19. rūq: pull (__ NP)
 20. rūx: push (__ NP)
