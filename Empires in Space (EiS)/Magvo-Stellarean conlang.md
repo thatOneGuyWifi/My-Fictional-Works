@@ -92,6 +92,8 @@ You might be asking, "wait... Consonants can be inside a nucleus?" And yes, a *s
 
 Usually, the first syllable in Magvo-Stellarean is stressed
 
+Magvo-Stellarean does not have long sonorants, all of their sonorants are short.
+
 Base Magvo-Stellarean also has 2 phonotactic constraint, they are:
 
 *Constraint #1*: an aspirated phoneme cannot be at the end of a syllable; for example: a word like /kīkʰ/ is not permitted. An aspirated phoneme can be at the start or in the middle of a syllable but not at the end.
@@ -109,7 +111,7 @@ NP →  N' \[Conj N']* PP* (CP)
 N' →  (D) N (AdjP) \[Conj AdjP]* PP*  
 AdjP →  (Deg) Adj  
 VP →  V' \[Conj V']* PP* (CP)  
-V' →  (Neg) V (AdvP) \[Conj AdvP]* (AdjP) \[Conj AdjP]* (NP) \[Conj NP]* PP*  
+V' →  (Neg) V (AdvP) \[Conj AdvP]* (AdjP) \[Conj AdjP]* (NP)² \[Conj NP]* PP*  
 AdvP →  (Deg) Adv  
 PP →  P {VP, NP}  
 CP →  C S
@@ -124,7 +126,7 @@ Going back to S, Mod. Mod means modal; a modal is a clause-level marker that exp
 
 Now VP. VP means "Verb Phrase"; it means a phrase headed by a verb but think of it as the verb with all of it's modifiers and the object. If you are wondering why the object is inside the VP and not in it's own NP outside the VP, it's because: the subject and object is called the **"Predicate"** and the verb effects the object. The optional CP here is for CP chosen by the verb (like: "I know *that* he left", "I wonder *whether* the show ended").
 
-Now V' (V-bar). V-bar points to verbs with it's closer modifiers. Neg just means a negation particle/word that negates the verb. Magvo-Stellarean only has *one* negation particle (nīr). "AdvP" means "Adverb Phrase"; it means a phrase headed by an adverb but think of it as an adverb with it's degree. You might be wondering why an AdjP* is followed right after, don't adjectives modify nouns? The adjective here is a **"Predicate Adjective"**; an adjective inside the predicate/followed by a verb; for example: in the sentence "I feel happy": happy is the predicate adjective. The NP and \[Conj NP]\* is the object.
+Now V' (V-bar). V-bar points to verbs with it's closer modifiers. Neg just means a negation particle/word that negates the verb. Magvo-Stellarean only has *one* negation particle (nīr). "AdvP" means "Adverb Phrase"; it means a phrase headed by an adverb but think of it as an adverb with it's degree. You might be wondering why an AdjP* is followed right after, don't adjectives modify nouns? The adjective here is a **"Predicate Adjective"**; an adjective inside the predicate/followed by a verb; for example: in the sentence "I feel happy": happy is the predicate adjective. The (NP)² and \[Conj NP]\* is the object; (NP)² accounts for both direct and indirect objects.
 
 Now PP. PP means a phrase headed by a preposition but think of it as a preposition with it's NP or VP. {VP, NP} means there can either be an VP or NP; there can't be no VP/NP after a preposition (or both at the same time; if the NP is outside VP that is). You might be wondering why there is PP inside both NP, N', VP and V'. This is because prepositions closer to the noun/verb are put inside the PP inside N'/V' and looser prepositions are put inside the PP inside NP/VP.
 
@@ -460,7 +462,7 @@ This section will show the root words of Magvo-Stellarean.
 
 ## Verbs
 
-Before going into the list of verbs, each verb has a subcategory which tells if a verb is transitive, intransitive, ditransitive or takes other arguments. The notation for that is written as: V (__ XP) where V is the verb, __ is where the verb is placed and XP are any additional/required arguments. Also note that verbs with (__ NP) also means (__ AdvP)/(__ PP) until stated otherwise and (__ NP) verbs can drop the NP if there is a modal before it or if it's habitual. 
+Before going into the list of verbs, each verb has a subcategory which tells if a verb is transitive, intransitive, ditransitive or takes other arguments. The notation for that is written as: V (__ XP) where V is the verb, __ is where the verb is placed and XP are any additional/required arguments. Also note that verbs with (__ NP) also means (__ AdvP)/(__ PP) until stated otherwise and (__ NP) verbs can drop the NP if there is a modal before it, if it's habitual or if it refers back to the subject. 
 
 1. fæs: eat/drink/consume (__ NP)
 2. tʰapos: asleep (__)
@@ -478,7 +480,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 14. kemat̪: learn/study (__ NP/CP)
 15. vik: feel (in general) (__ NP/AdjP/CP)
 16. hōt̚a: give/sell/lend (__ $\text{NP}_ {\text{direct}}$ $\text{NP}_ {\text{recipient}}$)
-17. xonon: have/possess/get/take/buy/receive (__ $\text{NP}_ {\text{direct}}$ ($\text{NP}_ {\text{recipient}}$) )
+17. xonon: have/possess/get/take/buy/receive/borrow (__ $\text{NP}_ {\text{direct}}$ ($\text{NP}_ {\text{recipient}}$) )
 18. caz̚ul: put (__ NP PP)
 19. rūq: pull (__ NP)
 20. rūx: push (__ NP)
@@ -546,3 +548,30 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 82. pīkīzī: wait; to stop temporally (__ PP)
 83. xewilo: help (__ NP)
 84. qivema: hinder (__ NP)
+85. gohus: share (__ NP/PP)
+86. yimad̪: meet (__ NP/PP)
+87. yuni: join/stick/connect (__ NP)
+88. yat̪a: separate/split/remove (__ NP)
+89. jirī: save (__ NP)
+90. bost̪ʰe: hurt/injure (__ NP)
+91. safit̪ʰe: protect (__ NP)
+92. klūsa: obey (__ NP)
+93. begʰa: wake/wake up (__)
+94. fofira: breathe (__ NP)
+95. hæopīc: grow/increase (__)
+96. zōrtl̚ej: hunger/thirst (__)
+97. pesca: use (__ NP)
+98. sŋujeva: spit (__ PP)
+99. gage: vomit (__ PP)
+100. gʰōsmū: heal (__ NP)
+101. koθetl: sicken (__ NP)
+102. vewīū: wash/bathe (__ NP)
+103. r̚ekos: cut (__ NP)
+104. leiŋx: prepare (__ NP)
+105. īloux: mix (__ NP (PP) )
+106. debour: fill/complete (__ NP)
+107. æt̚ole: empty (__ NP)
+108. meoilc: decrease (__ NP)
+109. vīepθo: cause/reason (__ NP)
+110. wiqe: allow/permit (__ NP)
+111. xiwe: refuse/prohibit/prevent (__ NP)
