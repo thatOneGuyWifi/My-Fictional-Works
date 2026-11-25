@@ -416,6 +416,10 @@ Prepositional disambiguation inflections disambiguates adnominal preposition (th
 1. -ce: adnominal preposition
 2. -aī: adverbial preposition
 
+### Reflexive Marker
+
+A reflexive marker marks a pronoun. The marker points back to the subject pronoun, referring back to itself; it's basically "-self" in english. Magvo-Stellarean has one reflexive marker (like english), which is: *"hof-"*.
+
 # Aspect
 
 Aspect is always marked with tenses (and plurality with habitual).
@@ -575,3 +579,26 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 109. vīepθo: cause/reason (__ NP)
 110. wiqe: allow/permit (__ NP)
 111. xiwe: refuse/prohibit/prevent (__ NP)
+
+## Nouns
+
+1. lnt: person
+2. lohōn: place
+3. inwats: dog
+4. miyas̪: cat
+5. alŋo: human
+6. gehifsk: animal
+7. rīncæ: noun
+8. pʰlūvi: verb
+9. wyaniq: adjective
+10. vinfne: adverb
+11. gōazī: food
+12. linet: language
+13. obaz̪pa: planet
+14. priōj: star
+15. degau: galaxy
+16. nocebla: tree
+17. zinpl̚ūv: water
+18. θhk: fire 
+19. ðot̪gbe: house/home
+20. iyocv: building
