@@ -425,7 +425,7 @@ A reflexive marker marks a pronoun. The marker points back to the subject pronou
 Aspect is always marked with tenses (and plurality with habitual).
 
 - Perfective & Perfect (Magvo-Stellarean doesn't separate them): īd-\[verb].
-- Imperfective Progressive: <īd/īr depending on past/future, nothing for present>-\[subject] īb-\[verb].
+- Imperfective Progressive: <īd/īr depending on past/future, nothing for present>-\[subject] \[verb].
 - Imperfective Habitual: <īb/īd depending on if the habit still happens or used to happen>-\[verb]-iym
 
 # Numbers
