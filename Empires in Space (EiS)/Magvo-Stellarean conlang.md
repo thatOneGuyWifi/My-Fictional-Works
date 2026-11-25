@@ -391,15 +391,14 @@ As stated previously, Magvo-Stellarean only has *one* negation particle which is
 All tenses are prefixes because I feel like that when something happens should come first.
 
 1. īr-: marks the future.
-2. īb-: marks the present.
-3. īd-: marks the past.
+2. īd-: marks the past.
 
 ### Plurality Marking
 
 All plural markings are suffixes because I feel like that the number of something should come after.
 
 1. -sa: marks that the noun is exactly two; not more or less. -sa can also be used with verbs to emphasize that the verb happened *twice* but is usually not added.
-2. -iym: marks that the noun is 3 or more. -iym can also be used in a verb to emphasize a verb has happened *many times* but is usually not added.
+2. -iym: marks that the noun is 3 or more. -iym is also used on verbs to mark imperfective habitual.
 3. -un: -un is used with verbs to emphasize that a verb happened *once* but is usually not added. -un is not used for nouns.
 
 ### Case
@@ -425,8 +424,8 @@ A reflexive marker marks a pronoun. The marker points back to the subject pronou
 Aspect is always marked with tenses (and plurality with habitual).
 
 - Perfective & Perfect (Magvo-Stellarean doesn't separate them): īd-\[verb].
-- Imperfective Progressive: <īd/īr depending on past/future, nothing for present>-\[subject] \[verb].
-- Imperfective Habitual: <īb/īd depending on if the habit still happens or used to happen>-\[verb]-iym
+- Imperfective Progressive: <īd if past, īr if future; nothing if present>-\[subject] \[verb].
+- Imperfective Habitual: <īd if past; nothing if present>-\[verb]-iym
 
 # Numbers
 
