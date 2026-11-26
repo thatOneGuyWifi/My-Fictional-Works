@@ -74,7 +74,7 @@ q: /gz/
 
 eʰ: aspirates a consonants.  
 e̪: makes the phoneme have a dental articulation.  
-e̚: makes the phoneme have a retroflex articulation.
+e̹: makes the phoneme have a retroflex articulation.
 
 *(The e is just an example sound, also you can only apply these diacritics to consonants.)*
 
@@ -88,7 +88,7 @@ The C here means consonants and the V here means vowel. The C's are also inside 
 
 The first 4 pairs of C's are called the onset, the V is called the nucleus and the second 4 pairs of C's are called the coda. In the onset and coda: all consonants (in Magvo-Stellarean) are accepted, in the nucleus: all sonorants are accepted; which includes vowels (monophthongs, diphthongs, triphthongs) and sonorant consonants.
 
-You might be asking, "wait... Consonants can be inside a nucleus?" And yes, a *sonorant* consonant can be the nucleus of a syllable; but only sonorant consonants (n, n̚, n̪, m, ŋ, w, r, r̚, r̪, y, l, l̚, l̪), not any other consonants.
+You might be asking, "wait... Consonants can be inside a nucleus?" And yes, a *sonorant* consonant can be the nucleus of a syllable; but only sonorant consonants (n, n̹, n̪, m, ŋ, w, r, r̹, y, l, l̹, l̪), not any other consonants.
 
 Usually, the first syllable in Magvo-Stellarean is stressed
 
@@ -248,10 +248,10 @@ Most question particle (excluding: vyīn and vanat̪. See [Question Particle](#q
 3. mīūn: "mīūn" is a determiner that expresses the noun is far from the speaker; similar to "that" in english (like: "that dog").
 4. ūn: "ūn" is a determiner that refers to a noun that has been previously mentioned (aforementioned); similar to "that" in english (like: "that (aforementioned) man". That does a lot of things in english).
 5. kom: "kom" is a determiner that selects all instances inside a (noun) category; similar to "all" in english.
-6. t̚um: "t̚um" is a determiner that selects most (not all) instances inside a (noun) category; similar to "most" in english.
-7. mut̚: "mut̚" works similar to t̚um with the difference being it selects a few instances inside a (noun) category; similar to "few" in english.
+6. t̹um: "t̹um" is a determiner that selects most (not all) instances inside a (noun) category; similar to "most" in english.
+7. mut̹: "mut̹" works similar to t̹um with the difference being it selects a few instances inside a (noun) category; similar to "few" in english.
 8. jat: "jat" is a determiner that selects many (but not most or all) instances inside a (noun) category; similar to "many" in english.
-9. taj: "taj" works similar to jat with the difference being it selects a few instances inside a (noun) category. Taj is different from mut̚ as mut̚ only selects a minority while taj selects a bigger minority; still being smaller than jat, and jat is smaller than t̚um.
+9. taj: "taj" works similar to jat with the difference being it selects a few instances inside a (noun) category. Taj is different from mut̹ as mut̹ only selects a minority while taj selects a bigger minority; still being smaller than jat, and jat is smaller than t̹um.
 10. kit̪: "kit̪" is a determiner that selects any number of instances inside a (noun) category; that could be most, many or few. It's used to express that the speaker is uncertain about the volume. It is similar to "some" in english.
 11. esīsta (es + -īsta): 1st person singular possessor ("my"/"mine" in english. See [Case](#case) and [Pronouns](#pronouns) for 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21).
 12. darīsta (dar + -īsta): 2nd person singular possessor ("your"/"yours" in english).
@@ -277,7 +277,7 @@ All numbers can also be determiner; like in the example "three dogs": three is a
 ### Preposition
 
 1. ðaf: agent preposition ("by" in english).
-2. vīs̚: means preposition ("by" in english, they are different).
+2. vīs̹: means preposition ("by" in english, they are different).
 3. stōn: manner preposition.
 4. wūz: instrument preposition ("with" in english).
 5. wenpʰri: reason preposition ("to"/"for" in english).
@@ -285,7 +285,7 @@ All numbers can also be determiner; like in the example "three dogs": three is a
 7. virto: difference comparative preposition ("than" in english).
 8. oθiv: same comparative preposition ("as" in english).
 9. yaæj: goal directional preposition ("to" in english).
-10. hīz̚: source directional preposition ("from" in english).
+10. hīz̹: source directional preposition ("from" in english).
 11. eqil: in-and-out directional preposition ("through" in english).
 12. nior: side-to-side directional preposition ("across" in english).
 13. bæken: parallel directional preposition ("along" in english).
@@ -311,7 +311,7 @@ All numbers can also be determiner; like in the example "three dogs": three is a
 
 ### Modal Verbs
 
-1. gōs̚p: obligatory/necessity modal ("must" in english).
+1. gōs̹p: obligatory/necessity modal ("must" in english).
 2. veb: weaker obligatory/necessity modal ("should" in english)
 3. kīūg: possibility modal ("may" in english).
 4. koag: possibility modal with lower confidence.
@@ -336,7 +336,7 @@ All numbers can also be determiner; like in the example "three dogs": three is a
 6. exaiv: "exaiv" is a degree that makes the adj/adv extremely high in intensity.
 7. hlas: "hlas" is a degree that makes the adj/adv full in intensity
 8. cʰisl: "cʰisl" is a degree that makes the adj/adv excessive in intensity.
-9. vaz̚: "vaz̚" is a degree that makes the adj/adv sufficient/enough intensity.
+9. vaz̹: "vaz̹" is a degree that makes the adj/adv sufficient/enough intensity.
 10. wel: "wel" is a comparative degree (commonly not used when there is virto).
 11. θīno: "θīno" is a equative degree (commonly not used when there is oθiv).
 12. wūsyil: "wūsyil" is a superlative degree.
@@ -363,7 +363,7 @@ Syntactically: focus particles are adverbs/adjectives but semantically have a di
 
 1. d̪i: "d̪i" is a focus particle that eliminates all the other alternatives ("only" in english).
 2. yio: "yio" is a focus particle that says the focused constituent is least likely to do the action stated in the background and the action is still done ("even" in english).
-3. n̚ō: "n̚ō" is a focus particle that says the focused constituent noticeably done/does the action stated in the background ("especially" in english).
+3. n̹ō: "n̹ō" is a focus particle that says the focused constituent noticeably done/does the action stated in the background ("especially" in english).
 
 ### Negation
 
@@ -470,7 +470,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 1. fæs: eat/drink/consume (__ NP)
 2. tʰapos: asleep (__)
 3. θība: trying to sleep but not yet fallen asleep (__)
-4. fimi: exist; sometimes used in the modal slot as the copula "to be" for emphasis (__)
+4. fimi: exist; sometimes used in the modal slot as the copula "to be" for emphasis. Also used as a copula verb in the V slot when there is no apparent verb; like "Charlie *is* red" (__)
 5. æko: act, as in committing an action (__ NP)
 6. yahūl: live, as in to be alive (__)
 7. yamīr: die (__)
@@ -482,9 +482,9 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 13. savart: teach/explain (__ NP/CP)
 14. kemat̪: learn/study (__ NP/CP)
 15. vik: feel (in general) (__ NP/AdjP/CP)
-16. hōt̚a: give/sell/lend (__ $\text{NP}_ {\text{direct}}$ $\text{NP}_ {\text{recipient}}$)
+16. hōt̹a: give/sell/lend (__ $\text{NP}_ {\text{direct}}$ $\text{NP}_ {\text{recipient}}$)
 17. xonon: have/possess/get/take/buy/receive/borrow (__ $\text{NP}_ {\text{direct}}$ ($\text{NP}_ {\text{recipient}}$) )
-18. caz̚ul: put (__ NP PP)
+18. caz̹ul: put (__ NP PP)
 19. rūq: pull (__ NP)
 20. rūx: push (__ NP)
 21. fæfur: fight (__ NP)
@@ -496,7 +496,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 27. zekʰyupl: know (__ NP/CP)
 28. gecbaqt: stay/remain (__)
 29. pamef: follow (movement) (__ NP)
-30. vepn̚iw: lead, as in to lead someone/a group (__ NP)
+30. vepn̹iw: lead, as in to lead someone/a group (__ NP)
 31. ohiz: command/order (__ NP)
 32. jūhūs: swim (__)
 33. ybles: fly (__)
@@ -520,7 +520,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 51. lūgæmi: taste (__ NP)
 52. kegat: touch (__ NP)
 53. kōgset: think (__ NP/CP)
-54. tlafos̚ec: believe (__ NP/CP)
+54. tlafos̹ec: believe (__ NP/CP)
 55. θyæxcu: understand (__ NP/CP)
 56. favæse: remember (__ NP/CP)
 57. savæfe: forget (__ NP/CP)
@@ -531,13 +531,13 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 62. būsdec: dream (__ PP/CP)
 63. reða: read (__ NP/CP)
 64. face: promise (__ NP/CP)
-65. l̚uæs: show (__ NP/CP)
+65. l̹uæs: show (__ NP/CP)
 66. puven: warn (__ NP/CP) 
 67. feðla: want/desire/hope/wish (__ NP/PP/CP)
 68. ecol: need (__ NP/PP/CP)
 69. ŋeya: enjoy (__ NP)
 70. ayeŋ: suffer (__ NP)
-71. imis̚: laugh (__)
+71. imis̹: laugh (__)
 72. d̪ijīcʰæ: cry/weep (__)
 73. zice: smile (__)
 74. cize: frown (__)
@@ -545,7 +545,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 76. yadi: play (__)
 77. væsklo: rest (__)
 78. hempīs: try/attempt (__)
-79. an̚θes: start/begin (__ NP)
+79. an̹θes: start/begin (__ NP)
 80. ōmðes: end/stop/finish (__ NP)
 81. bewūp: continue (__ NP)
 82. pīkīzī: wait; to stop temporally (__ PP)
@@ -562,18 +562,18 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 93. begʰa: wake/wake up (__)
 94. fofira: breathe (__ NP)
 95. hæopīc: grow/increase (__)
-96. zōrtl̚ej: hunger/thirst (__)
+96. zōrtl̹ej: hunger/thirst (__)
 97. pesca: use (__ NP)
 98. sŋujeva: spit (__ PP)
 99. gage: vomit (__ PP)
 100. gʰōsmū: heal (__ NP)
 101. koθetl: sicken (__ NP)
 102. vewīū: wash/bathe (__ NP)
-103. r̚ekos: cut (__ NP)
+103. r̹ekos: cut (__ NP)
 104. leiŋx: prepare (__ NP)
 105. īloux: mix (__ NP (PP) )
 106. debour: fill/complete (__ NP)
-107. æt̚ole: empty (__ NP)
+107. æt̹ole: empty (__ NP)
 108. meoilc: decrease (__ NP)
 109. vīepθo: cause/reason (__ NP)
 110. wiqe: allow/permit (__ NP)
@@ -597,7 +597,123 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 14. priōj: star
 15. degau: galaxy
 16. nocebla: tree
-17. zinpl̚ūv: water
+17. zinpl̹ūv: water
 18. θhk: fire 
 19. ðot̪gbe: house/home
 20. iyocv: building
+21. nipla: parent
+22. impel: sibling
+23. kyogūg: grandparent from father's side
+24. gūmet̪ʰi: grandparent from mother's side
+25. kæŋert: biological aunt/uncle from father's side (blood-related to your father—and by extension—you)
+26. n̹amīo: biological aunt/uncle from mother's side (blood-related to your mother—and by extension—you)
+27. kekufil: non-biological aunt/uncle from father's side (married to/in a relationship with your father's aunt/uncle)
+28. cōqaŋp: non-biological aunt/uncle from mother's side (married to/in a relationship with your mother's aunt/uncle)
+29. plsov: cousin from father's side
+30. ufiwn: cousin from mother's side
+31. yt̪ʰeg: sister's child
+32. jʰæmæpk: brother's child
+33. kus̹o: child/kid
+34. l̪oufag: teenager
+35. yapīlyo: family
+36. cecek: friend
+37. r̹ūkem: head
+38. æpc: neck
+39. dokhō: torso
+40. iyat: hand
+41. himla: arm
+42. cūlastθe: leg
+43. pʰata: foot
+44. jijʰr: hair
+45. sapfda: organ
+46. pybī: lip
+47. d̪īt̪f: teeth
+48. vladū: finger/toe
+49. l̹ūpa: penis
+50. syateb: testicles
+51. himov: vagina
+52. t̹ad̪ek: bone
+53. gwis: poop/feces 
+54. cībstu: pee/urine
+55. wndofi: name
+56. z̹adðo: color
+57. sepica: mass/matter
+58. bxūce: insect/bug
+59. fīæml: metal
+60. dapŋōt: land
+61. husfla: space; as in the area where things can exist and move.
+62. ibin: time
+63. kdo: day
+64. gesce: hour
+65. jytkil: minute
+66. vanta: second
+67. ŋiogpa: week
+68. mīroyi: month
+69. cʰæōvz: year
+70. kwer: bird
+71. d̪lof: fish
+72. xupek: muscle
+73. n̹ipola: chicken/hen/rooster
+74. muqiw: cow/bull
+75. sozoib: goat
+76. otoyi: pig
+77. hiadlæ: bread
+78. fīgan: rice
+79. wōlnze: salt
+80. hyame: flower
+81. z̪wiket: monkey
+82. tegec: gorilla
+83. psæld: chimpanzee
+84. ekdsa: blood
+85. jūla: tiger
+86. θobki: lion
+87. cʰumb: panther
+88. ŋībōs: cheetah
+89. l̹ojre: jaguar
+90. pricn: leopard
+91. ymawe: elephant
+92. sūzxe: snake
+93. wimlo: lizard
+94. tyeki: crocodile
+95. carg: alligator
+96. ninfe: frog
+97. ouqem: crab
+98. vult: hippopotamus
+99. cejis: rhinoceros
+100. līmpsta: rabbit/bunny
+101. huŋrpe: wolf
+102. kiyt̪: fox
+103. ez̪il: whale
+104. uace: shark
+105. plærf: dolphin
+106. īŋyōl: squid
+107. r̹ūmpe: octopus
+108. qwu: shrimp
+109. s̹ez̹n̹: lobster
+110. viven: white
+111. kicm: black
+112. pirvyo: red
+113. teja: blue
+114. huem: green
+115. wilo: yellow
+116. t̪ʰores: orange, as in the color
+117. dīkpe: purple
+118. īlyōnc: gray
+119. vapst: brown
+120. lit̪a: magenta
+121. erxe: dark green (seen as a different color than green \[huem] in Magvo-Stellarean)
+122. bīrdf: yellow-green (seen as a different color than green \[huem] and yellow \[wilo] in Magvo-Stellarean)
+123. kis̹pa: cyan
+124. flya: apple
+125. caher: banana
+126. θimat: orange, as in the fruit
+127. yūkej: watermelon
+128. targī: grape
+129. ŋefsæ: pear
+130. klpa: nut
+131. wōje: pumpkin
+132. luz̪: meat
+133. yuirl: music/song
+134. kurutsi: carrot
+135. simsa: onion
+136. von̹tlī: potato
