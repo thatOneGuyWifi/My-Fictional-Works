@@ -690,30 +690,34 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 107. r̹ūmpe: octopus
 108. qwu: shrimp
 109. s̹ez̹n̹: lobster
-110. viven: white
-111. kicm: black
-112. pirvyo: red
-113. teja: blue
-114. huem: green
-115. wilo: yellow
-116. t̪ʰores: orange, as in the color
-117. dīkpe: purple
-118. īlyōnc: gray
-119. vapst: brown
-120. lit̪a: magenta
-121. erxe: dark green (seen as a different color than green \[huem] in Magvo-Stellarean)
-122. bīrdf: yellow-green (seen as a different color than green \[huem] and yellow \[wilo] in Magvo-Stellarean)
-123. kis̹pa: cyan
-124. flya: apple
-125. caher: banana
-126. θimat: orange, as in the fruit
-127. yūkej: watermelon
-128. targī: grape
-129. ŋefsæ: pear
-130. klpa: nut
-131. wōje: pumpkin
-132. luz̪: meat
-133. yuirl: music/song
-134. kurutsi: carrot
-135. simsa: onion
-136. von̹tlī: potato
+110. kis̹pa: cyan
+111. flya: apple
+112. caher: banana
+113. θimat: orange, as in the fruit
+114. yūkej: watermelon
+115. targī: grape
+116. ŋefsæ: pear
+117. klpa: nut
+118. wōje: pumpkin
+119. luz̪: meat
+120. yuirl: music/song
+121. kurutsi: carrot
+122. simsa: onion
+123. von̹tlī: potato
+
+## Adjectives
+
+
+1. viven: white
+2. kicm: black
+3. pirvyo: red
+4. teja: blue
+5. huem: green
+6. wilo: yellow
+7. t̪ʰores: orange, as in the color
+8. dīkpe: purple
+9. īlyōnc: gray
+10. vapst: brown
+11. lit̪a: magenta
+12. erxe: dark green (seen as a different color than green \[huem] in Magvo-Stellarean)
+13. bīrdf: yellow-green (seen as a different color than green \[huem] and yellow \[wilo] in Magvo-Stellarean)
