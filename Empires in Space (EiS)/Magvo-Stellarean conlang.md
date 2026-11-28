@@ -459,7 +459,7 @@ The prefix "s̪i-" makes the number an ordinal number (1st, 2nd, 3rd, 4th, 5th, 
 
 Root words (root morpheme) is the core meaning of a word with affixes; in the word "unhappiness": "happy" is the core meaning while the affixes "un-" and "-ness" attach to the word to modify it.
 
-In Magvo-Stellarean root words are always free morphemes (other languages can have bound root morphemes; like "ceive" with "receive" and "perceive" in english).
+In Magvo-Stellarean root words are almost always free morphemes (other languages can have bound root morphemes; like "ceive" with "receive" and "perceive" in english) with the exception of place names.
 
 This section will show the root words of Magvo-Stellarean.
 
@@ -641,7 +641,7 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 58. bxūce: insect/bug
 59. fīæml: metal
 60. dapŋōt: land
-61. husfla: space; as in the area where things can exist and move.
+61. husfla: space/region; as in the area where things can exist and move.
 62. ibin: time
 63. kdo: day
 64. gesce: hour
@@ -690,23 +690,27 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 107. r̹ūmpe: octopus
 108. qwu: shrimp
 109. s̹ez̹n̹: lobster
-110. kis̹pa: cyan
-111. flya: apple
-112. caher: banana
-113. θimat: orange, as in the fruit
-114. yūkej: watermelon
-115. targī: grape
-116. ŋefsæ: pear
-117. klpa: nut
-118. wōje: pumpkin
-119. luz̪: meat
-120. yuirl: music/song
-121. kurutsi: carrot
-122. simsa: onion
-123. von̹tlī: potato
+110. flya: apple
+111. caher: banana
+112. θimat: orange, as in the fruit
+113. yūkej: watermelon
+114. targī: grape
+115. ŋefsæ: pear
+116. klpa: nut
+117. wōje: pumpkin
+118. luz̪: meat
+119. yuirl: music/song
+120. kurutsi: carrot
+121. simsa: onion
+122. von̹tlī: potato
+123. pʰim: fruit
+124. kulsk: vegetable
+125. yot̪ʰarpas: system
+126. entlodl: idea
+127. kemcʰjahyu: lie; the opposite of the truth
+128. ūnvyefz̪o: truth
 
 ## Adjectives
-
 
 1. viven: white
 2. kicm: black
@@ -721,3 +725,6 @@ Before going into the list of verbs, each verb has a subcategory which tells if 
 11. lit̪a: magenta
 12. erxe: dark green (seen as a different color than green \[huem] in Magvo-Stellarean)
 13. bīrdf: yellow-green (seen as a different color than green \[huem] and yellow \[wilo] in Magvo-Stellarean)
+14. kis̹pa: cyan
+15. delos: small/little/tiny/minuscule
+16. hilfo: big/gigantic/enormous/huge
